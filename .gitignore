@@ -1,2 +1,3 @@
 # Ignore environment files
 .env
+tmdb_auth.env
