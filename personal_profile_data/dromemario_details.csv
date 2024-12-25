@@ -12,22 +12,23 @@ film_id;film_title;key;value;link
 1243715;An Invisible Victim: The Eliza Samudio Case;studio;Boutique Filmes;letterboxd.com/studio/boutique-filmes/
 1243715;An Invisible Victim: The Eliza Samudio Case;country;Brazil;letterboxd.com/films/country/brazil/
 1243715;An Invisible Victim: The Eliza Samudio Case;language;Portuguese;letterboxd.com/films/language/portuguese/
-901671;I'm Still Here;studio;VideoFilmes;letterboxd.com/studio/videofilmes/
-901671;I'm Still Here;studio;MACT Productions;letterboxd.com/studio/mact-productions/
-901671;I'm Still Here;studio;RT Features;letterboxd.com/studio/rt-features/
-901671;I'm Still Here;studio;ARTE France Cinéma;letterboxd.com/studio/arte-france-cinema-5/
-901671;I'm Still Here;studio;Conspiração Filmes;letterboxd.com/studio/conspiracao-filmes/
-901671;I'm Still Here;studio;Globoplay;letterboxd.com/studio/globoplay-1/
-901671;I'm Still Here;country;Brazil;letterboxd.com/films/country/brazil/
-901671;I'm Still Here;country;France;letterboxd.com/films/country/france/
-901671;I'm Still Here;language;Portuguese;letterboxd.com/films/language/portuguese/
+901671;I’m Still Here;studio;VideoFilmes;letterboxd.com/studio/videofilmes/
+901671;I’m Still Here;studio;MACT Productions;letterboxd.com/studio/mact-productions/
+901671;I’m Still Here;studio;RT Features;letterboxd.com/studio/rt-features/
+901671;I’m Still Here;studio;ARTE France Cinéma;letterboxd.com/studio/arte-france-cinema-5/
+901671;I’m Still Here;studio;Conspiração Filmes;letterboxd.com/studio/conspiracao-filmes/
+901671;I’m Still Here;studio;Original Globoplay;letterboxd.com/studio/original-globoplay/
+901671;I’m Still Here;country;Brazil;letterboxd.com/films/country/brazil/
+901671;I’m Still Here;country;France;letterboxd.com/films/country/france/
+901671;I’m Still Here;language;Portuguese;letterboxd.com/films/language/portuguese/
 571791;Rebel Ridge;studio;filmscience;letterboxd.com/studio/filmscience/
 571791;Rebel Ridge;studio;Bonneville Pictures;letterboxd.com/studio/bonneville-pictures/
 571791;Rebel Ridge;country;USA;letterboxd.com/films/country/usa/
 571791;Rebel Ridge;language;English;letterboxd.com/films/language/english/
+972267;It Ends with Us;studio;Columbia Pictures;letterboxd.com/studio/columbia-pictures/
 972267;It Ends with Us;studio;Wayfarer Studios;letterboxd.com/studio/wayfarer-studios/
 972267;It Ends with Us;studio;Saks Picture Company;letterboxd.com/studio/saks-picture-company/
-972267;It Ends with Us;studio;Columbia Pictures;letterboxd.com/studio/columbia-pictures/
+972267;It Ends with Us;studio;TSG Entertainment;letterboxd.com/studio/tsg-entertainment/
 972267;It Ends with Us;country;USA;letterboxd.com/films/country/usa/
 972267;It Ends with Us;language;English;letterboxd.com/films/language/english/
 682535;A Quiet Place: Day One;studio;Paramount Pictures;letterboxd.com/studio/paramount-1/
@@ -43,6 +44,15 @@ film_id;film_title;key;value;link
 902058;Under Paris;studio;Let Me Be;letterboxd.com/studio/let-me-be/
 902058;Under Paris;country;France;letterboxd.com/films/country/france/
 902058;Under Paris;language;French;letterboxd.com/films/language/french/
+520328;Megalopolis;studio;American Zoetrope;letterboxd.com/studio/american-zoetrope/
+520328;Megalopolis;studio;Caesar Film;letterboxd.com/studio/caesar-film-1/
+520328;Megalopolis;country;USA;letterboxd.com/films/country/usa/
+520328;Megalopolis;language;English;letterboxd.com/films/language/english/
+520328;Megalopolis;language;English;letterboxd.com/films/language/english/
+520328;Megalopolis;language;French;letterboxd.com/films/language/french/
+520328;Megalopolis;language;Latin;letterboxd.com/films/language/latin/
+520328;Megalopolis;language;Russian;letterboxd.com/films/language/russian/
+520328;Megalopolis;language;Spanish;letterboxd.com/films/language/spanish/
 985667;Mother of the Bride;studio;Brad Krevoy Television;letterboxd.com/studio/brad-krevoy-television/
 985667;Mother of the Bride;studio;Motion Picture Corporation of America;letterboxd.com/studio/motion-picture-corporation-of-america/
 985667;Mother of the Bride;studio;Living Films;letterboxd.com/studio/living-films/
@@ -86,9 +96,8 @@ film_id;film_title;key;value;link
 872755;Land of Bad;studio;Gosdom Entertainment;letterboxd.com/studio/gosdom-entertainment/
 872755;Land of Bad;studio;Short Porch Pictures;letterboxd.com/studio/short-porch-pictures/
 872755;Land of Bad;studio;The Avenue Entertainment;letterboxd.com/studio/the-avenue-entertainment/
-872755;Land of Bad;country;Australia;letterboxd.com/films/country/australia/
-872755;Land of Bad;country;Czechia;letterboxd.com/films/country/czechia/
 872755;Land of Bad;country;USA;letterboxd.com/films/country/usa/
+872755;Land of Bad;country;Australia;letterboxd.com/films/country/australia/
 872755;Land of Bad;language;English;letterboxd.com/films/language/english/
 617443;Dune: Part Two;studio;Legendary Pictures;letterboxd.com/studio/legendary-pictures-1/
 617443;Dune: Part Two;country;USA;letterboxd.com/films/country/usa/
@@ -123,6 +132,14 @@ film_id;film_title;key;value;link
 648869;Leave the World Behind;language;English;letterboxd.com/films/language/english/
 648869;Leave the World Behind;language;English;letterboxd.com/films/language/english/
 648869;Leave the World Behind;language;Spanish;letterboxd.com/films/language/spanish/
+809731;Deep Fear;studio;Brilliant Pictures;letterboxd.com/studio/brilliant-pictures/
+809731;Deep Fear;studio;Lipsync Productions;letterboxd.com/studio/lipsync-productions/
+809731;Deep Fear;studio;Dark Shark Film;letterboxd.com/studio/dark-shark-film/
+809731;Deep Fear;studio;Richmond Pictures;letterboxd.com/studio/richmond-pictures/
+809731;Deep Fear;country;UK;letterboxd.com/films/country/uk/
+809731;Deep Fear;language;English;letterboxd.com/films/language/english/
+809731;Deep Fear;language;Spanish;letterboxd.com/films/language/spanish/
+809731;Deep Fear;language;English;letterboxd.com/films/language/english/
 813840;Society of the Snow;studio;El Arriero Films;letterboxd.com/studio/el-arriero-films/
 813840;Society of the Snow;studio;Misión de Audaces Films;letterboxd.com/studio/mision-de-audaces-films/
 813840;Society of the Snow;studio;Netflix;letterboxd.com/studio/netflix-22/
@@ -176,6 +193,15 @@ film_id;film_title;key;value;link
 1027828;Black Mirror: Beyond the Sea;language;English;letterboxd.com/films/language/english/
 1027819;Black Mirror: Loch Henry;language;English;letterboxd.com/films/language/english/
 1023411;Black Mirror: Joan Is Awful;language;English;letterboxd.com/films/language/english/
+795897;No Hard Feelings;studio;Excellent Cadaver;letterboxd.com/studio/excellent-cadaver/
+795897;No Hard Feelings;studio;Odenkirk Provissiero Entertainment;letterboxd.com/studio/odenkirk-provissiero-entertainment/
+795897;No Hard Feelings;studio;Columbia Pictures;letterboxd.com/studio/columbia-pictures/
+795897;No Hard Feelings;studio;Saks Picture Company;letterboxd.com/studio/saks-picture-company/
+795897;No Hard Feelings;country;USA;letterboxd.com/films/country/usa/
+795897;No Hard Feelings;language;English;letterboxd.com/films/language/english/
+795897;No Hard Feelings;language;Spanish;letterboxd.com/films/language/spanish/
+795897;No Hard Feelings;language;English;letterboxd.com/films/language/english/
+795897;No Hard Feelings;language;Portuguese;letterboxd.com/films/language/portuguese/
 1014180;Arnold;studio;Defiant Ones Media Group;letterboxd.com/studio/defiant-ones-media-group/
 1014180;Arnold;studio;Invented by Girls;letterboxd.com/studio/invented-by-girls/
 1014180;Arnold;country;USA;letterboxd.com/films/country/usa/
@@ -226,8 +252,8 @@ film_id;film_title;key;value;link
 320481;Fast X;studio;Perfect Storm Entertainment;letterboxd.com/studio/perfect-storm-entertainment/
 320481;Fast X;country;USA;letterboxd.com/films/country/usa/
 320481;Fast X;language;English;letterboxd.com/films/language/english/
-320481;Fast X;language;Spanish;letterboxd.com/films/language/spanish/
 320481;Fast X;language;English;letterboxd.com/films/language/english/
+320481;Fast X;language;Spanish;letterboxd.com/films/language/spanish/
 379711;Guardians of the Galaxy Vol. 3;studio;Marvel Studios;letterboxd.com/studio/marvel-studios/
 379711;Guardians of the Galaxy Vol. 3;studio;Kevin Feige Productions;letterboxd.com/studio/kevin-feige-productions/
 379711;Guardians of the Galaxy Vol. 3;country;USA;letterboxd.com/films/country/usa/
@@ -237,8 +263,8 @@ film_id;film_title;key;value;link
 793865;Guy Ritchie's The Covenant;country;UK;letterboxd.com/films/country/uk/
 793865;Guy Ritchie's The Covenant;country;USA;letterboxd.com/films/country/usa/
 793865;Guy Ritchie's The Covenant;language;English;letterboxd.com/films/language/english/
-793865;Guy Ritchie's The Covenant;language;Arabic;letterboxd.com/films/language/arabic/
 793865;Guy Ritchie's The Covenant;language;English;letterboxd.com/films/language/english/
+793865;Guy Ritchie's The Covenant;language;Persian (Farsi);letterboxd.com/films/language/persianfarsi/
 575258;Renfield;studio;Skybound Entertainment;letterboxd.com/studio/skybound-entertainment/
 575258;Renfield;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
 575258;Renfield;studio;Giant Wildcat;letterboxd.com/studio/giant-wildcat/
@@ -253,6 +279,10 @@ film_id;film_title;key;value;link
 995847;Waco: American Apocalypse;language;English;letterboxd.com/films/language/english/
 995847;Waco: American Apocalypse;language;French;letterboxd.com/films/language/french/
 995847;Waco: American Apocalypse;language;English;letterboxd.com/films/language/english/
+731222;Bottoms;studio;Brownstone Productions;letterboxd.com/studio/brownstone-productions/
+731222;Bottoms;studio;Orion Pictures;letterboxd.com/studio/orion-pictures/
+731222;Bottoms;country;USA;letterboxd.com/films/country/usa/
+731222;Bottoms;language;English;letterboxd.com/films/language/english/
 989043;MH370: The Plane That Disappeared;studio;RAW;letterboxd.com/studio/raw/
 989043;MH370: The Plane That Disappeared;country;UK;letterboxd.com/films/country/uk/
 989043;MH370: The Plane That Disappeared;language;English;letterboxd.com/films/language/english/
@@ -299,8 +329,8 @@ film_id;film_title;key;value;link
 809219;Passages;studio;KNM;letterboxd.com/studio/knm/
 809219;Passages;country;France;letterboxd.com/films/country/france/
 809219;Passages;language;French;letterboxd.com/films/language/french/
-809219;Passages;language;English;letterboxd.com/films/language/english/
 809219;Passages;language;French;letterboxd.com/films/language/french/
+809219;Passages;language;English;letterboxd.com/films/language/english/
 591053;Past Lives;studio;A24;letterboxd.com/studio/a24/
 591053;Past Lives;studio;Killer Films;letterboxd.com/studio/killer-films/
 591053;Past Lives;studio;2AM;letterboxd.com/studio/2am/
@@ -308,8 +338,8 @@ film_id;film_title;key;value;link
 591053;Past Lives;country;South Korea;letterboxd.com/films/country/south-korea/
 591053;Past Lives;country;USA;letterboxd.com/films/country/usa/
 591053;Past Lives;language;English;letterboxd.com/films/language/english/
-591053;Past Lives;language;Korean;letterboxd.com/films/language/korean/
 591053;Past Lives;language;English;letterboxd.com/films/language/english/
+591053;Past Lives;language;Korean;letterboxd.com/films/language/korean/
 954498;The Deepest Breath;studio;A24;letterboxd.com/studio/a24/
 954498;The Deepest Breath;studio;Motive Films;letterboxd.com/studio/motive-films/
 954498;The Deepest Breath;studio;Ventureland;letterboxd.com/studio/ventureland/
@@ -337,6 +367,11 @@ film_id;film_title;key;value;link
 951227;Ancient Apocalypse;studio;ITN Productions;letterboxd.com/studio/itn-productions-2/
 951227;Ancient Apocalypse;country;UK;letterboxd.com/films/country/uk/
 951227;Ancient Apocalypse;language;English;letterboxd.com/films/language/english/
+931603;Conversations with a Killer: The Jeffrey Dahmer Tapes;studio;Buffalo 8 Productions;letterboxd.com/studio/buffalo-8-productions/
+931603;Conversations with a Killer: The Jeffrey Dahmer Tapes;studio;RadicalMedia;letterboxd.com/studio/radicalmedia/
+931603;Conversations with a Killer: The Jeffrey Dahmer Tapes;studio;Third Eye Motion Picture Company;letterboxd.com/studio/third-eye-motion-picture-company/
+931603;Conversations with a Killer: The Jeffrey Dahmer Tapes;country;USA;letterboxd.com/films/country/usa/
+931603;Conversations with a Killer: The Jeffrey Dahmer Tapes;language;English;letterboxd.com/films/language/english/
 521323;The Menu;studio;Hyperobject Industries;letterboxd.com/studio/hyperobject-industries/
 521323;The Menu;studio;Searchlight Pictures;letterboxd.com/studio/searchlight-pictures/
 521323;The Menu;studio;Gary Sanchez Productions;letterboxd.com/studio/gary-sanchez-productions/
@@ -372,6 +407,9 @@ film_id;film_title;key;value;link
 853822;Pearl;language;English;letterboxd.com/films/language/english/
 853822;Pearl;language;English;letterboxd.com/films/language/english/
 853822;Pearl;language;German;letterboxd.com/films/language/german/
+911180;Shark Side of the Moon;studio;The Asylum;letterboxd.com/studio/the-asylum/
+911180;Shark Side of the Moon;country;USA;letterboxd.com/films/country/usa/
+911180;Shark Side of the Moon;language;English;letterboxd.com/films/language/english/
 682547;Nope;studio;Monkeypaw Productions;letterboxd.com/studio/monkeypaw-productions/
 682547;Nope;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
 682547;Nope;country;USA;letterboxd.com/films/country/usa/
@@ -404,8 +442,8 @@ film_id;film_title;key;value;link
 800848;Holy Spider;country;Sweden;letterboxd.com/films/country/sweden/
 800848;Holy Spider;language;Persian (Farsi);letterboxd.com/films/language/persianfarsi/
 800848;Holy Spider;language;English;letterboxd.com/films/language/english/
-800848;Holy Spider;language;Persian (Farsi);letterboxd.com/films/language/persianfarsi/
 800848;Holy Spider;language;Spanish;letterboxd.com/films/language/spanish/
+800848;Holy Spider;language;Persian (Farsi);letterboxd.com/films/language/persianfarsi/
 882450;Top Gunner: Danger Zone;studio;The Asylum;letterboxd.com/studio/the-asylum/
 882450;Top Gunner: Danger Zone;country;USA;letterboxd.com/films/country/usa/
 882450;Top Gunner: Danger Zone;language;English;letterboxd.com/films/language/english/
@@ -421,6 +459,11 @@ film_id;film_title;key;value;link
 385511;Doctor Strange in the Multiverse of Madness;language;Cantonese;letterboxd.com/films/language/cantonese/
 385511;Doctor Strange in the Multiverse of Madness;language;English;letterboxd.com/films/language/english/
 385511;Doctor Strange in the Multiverse of Madness;language;Spanish;letterboxd.com/films/language/spanish/
+870237;Conversations with a Killer: The John Wayne Gacy Tapes;studio;RadicalMedia;letterboxd.com/studio/radicalmedia/
+870237;Conversations with a Killer: The John Wayne Gacy Tapes;studio;Third Eye Motion Picture Company;letterboxd.com/studio/third-eye-motion-picture-company/
+870237;Conversations with a Killer: The John Wayne Gacy Tapes;studio;Mike Mathis Productions;letterboxd.com/studio/mike-mathis-productions/
+870237;Conversations with a Killer: The John Wayne Gacy Tapes;country;USA;letterboxd.com/films/country/usa/
+870237;Conversations with a Killer: The John Wayne Gacy Tapes;language;English;letterboxd.com/films/language/english/
 565852;The Northman;studio;New Regency Pictures;letterboxd.com/studio/new-regency-pictures/
 565852;The Northman;studio;Square Peg;letterboxd.com/studio/square-peg/
 565852;The Northman;studio;Regency Enterprises;letterboxd.com/studio/regency-enterprises/
@@ -618,12 +661,19 @@ film_id;film_title;key;value;link
 758796;Elize Matsunaga: Once Upon a Crime;studio;Boutique Filmes;letterboxd.com/studio/boutique-filmes/
 758796;Elize Matsunaga: Once Upon a Crime;country;Brazil;letterboxd.com/films/country/brazil/
 758796;Elize Matsunaga: Once Upon a Crime;language;Portuguese;letterboxd.com/films/language/portuguese/
+757108;Shark Gangs;country;USA;letterboxd.com/films/country/usa/
+757108;Shark Gangs;language;English;letterboxd.com/films/language/english/
 314883;Space Jam: A New Legacy;studio;Warner Bros. Pictures Animation;letterboxd.com/studio/warner-bros-pictures-animation/
 314883;Space Jam: A New Legacy;studio;Proximity Media;letterboxd.com/studio/proximity-media/
 314883;Space Jam: A New Legacy;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
 314883;Space Jam: A New Legacy;studio;The SpringHill Company;letterboxd.com/studio/the-springhill-company/
 314883;Space Jam: A New Legacy;country;USA;letterboxd.com/films/country/usa/
 314883;Space Jam: A New Legacy;language;English;letterboxd.com/films/language/english/
+752297;Shark Beach With Chris Hemsworth;studio;Nutopia;letterboxd.com/studio/nutopia/
+752297;Shark Beach With Chris Hemsworth;studio;National Geographic;letterboxd.com/studio/national-geographic/
+752297;Shark Beach With Chris Hemsworth;country;UK;letterboxd.com/films/country/uk/
+752297;Shark Beach With Chris Hemsworth;country;USA;letterboxd.com/films/country/usa/
+752297;Shark Beach With Chris Hemsworth;language;English;letterboxd.com/films/language/english/
 739775;Bo Burnham: Inside;country;USA;letterboxd.com/films/country/usa/
 739775;Bo Burnham: Inside;language;English;letterboxd.com/films/language/english/
 320000;F9;studio;Original Film;letterboxd.com/studio/original-film/
@@ -678,6 +728,11 @@ film_id;film_title;key;value;link
 580204;Billie Eilish: The World's a Little Blurry;studio;Darkroom;letterboxd.com/studio/darkroom/
 580204;Billie Eilish: The World's a Little Blurry;country;USA;letterboxd.com/films/country/usa/
 580204;Billie Eilish: The World's a Little Blurry;language;English;letterboxd.com/films/language/english/
+695506;Playing with Sharks;studio;National Geographic;letterboxd.com/studio/national-geographic/
+695506;Playing with Sharks;studio;WildBear Entertainment;letterboxd.com/studio/wildbear-entertainment/
+695506;Playing with Sharks;studio;National Geographic Documentary Films;letterboxd.com/studio/national-geographic-documentary-films/
+695506;Playing with Sharks;country;Australia;letterboxd.com/films/country/australia/
+695506;Playing with Sharks;language;English;letterboxd.com/films/language/english/
 696621;Night Stalker: The Hunt for a Serial Killer;studio;The Intellectual Property Corporation;letterboxd.com/studio/the-intellectual-property-corporation/
 696621;Night Stalker: The Hunt for a Serial Killer;country;USA;letterboxd.com/films/country/usa/
 696621;Night Stalker: The Hunt for a Serial Killer;language;English;letterboxd.com/films/language/english/
@@ -728,6 +783,16 @@ film_id;film_title;key;value;link
 589093;Shiva Baby;language;English;letterboxd.com/films/language/english/
 589093;Shiva Baby;language;English;letterboxd.com/films/language/english/
 589093;Shiva Baby;language;Hebrew (modern);letterboxd.com/films/language/hebrewmodern/
+444424;The Hunt;studio;Blumhouse Productions;letterboxd.com/studio/blumhouse-productions/
+444424;The Hunt;studio;dentsu;letterboxd.com/studio/dentsu-2/
+444424;The Hunt;studio;White Rabbit Productions;letterboxd.com/studio/white-rabbit-productions/
+444424;The Hunt;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
+444424;The Hunt;country;Japan;letterboxd.com/films/country/japan/
+444424;The Hunt;country;USA;letterboxd.com/films/country/usa/
+444424;The Hunt;language;English;letterboxd.com/films/language/english/
+444424;The Hunt;language;Croatian;letterboxd.com/films/language/croatian/
+444424;The Hunt;language;Arabic;letterboxd.com/films/language/arabic/
+444424;The Hunt;language;English;letterboxd.com/films/language/english/
 450337;A Quiet Place Part II;studio;Paramount Pictures;letterboxd.com/studio/paramount-1/
 450337;A Quiet Place Part II;studio;Platinum Dunes;letterboxd.com/studio/platinum-dunes/
 450337;A Quiet Place Part II;studio;Sunday Night Productions;letterboxd.com/studio/sunday-night/
@@ -756,8 +821,8 @@ film_id;film_title;key;value;link
 515467;Palm Springs;studio;Sun Entertainment Culture Los Angeles;letterboxd.com/studio/sun-entertainment-culture-los-angeles/
 515467;Palm Springs;country;USA;letterboxd.com/films/country/usa/
 515467;Palm Springs;language;English;letterboxd.com/films/language/english/
-515467;Palm Springs;language;Spanish;letterboxd.com/films/language/spanish/
 515467;Palm Springs;language;English;letterboxd.com/films/language/english/
+515467;Palm Springs;language;Spanish;letterboxd.com/films/language/spanish/
 581924;The Social Dilemma;studio;Exposure Labs;letterboxd.com/studio/exposure-labs/
 581924;The Social Dilemma;studio;Argent Pictures;letterboxd.com/studio/argent-pictures/
 581924;The Social Dilemma;studio;The Space Program;letterboxd.com/studio/the-space-program/
@@ -1001,9 +1066,9 @@ film_id;film_title;key;value;link
 435450;Booksmart;language;Spanish;letterboxd.com/films/language/spanish/
 390520;Us;studio;Monkeypaw Productions;letterboxd.com/studio/monkeypaw-productions/
 390520;Us;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
+390520;Us;studio;Perfect World Pictures;letterboxd.com/studio/perfect-world-pictures-1/
 390520;Us;studio;Blumhouse Productions;letterboxd.com/studio/blumhouse-productions/
 390520;Us;studio;QC Entertainment;letterboxd.com/studio/qc-entertainment/
-390520;Us;studio;Perfect World Pictures;letterboxd.com/studio/perfect-world-pictures-1/
 390520;Us;country;USA;letterboxd.com/films/country/usa/
 390520;Us;language;English;letterboxd.com/films/language/english/
 226750;Captain Marvel;studio;Marvel Studios;letterboxd.com/studio/marvel-studios/
@@ -1018,6 +1083,12 @@ film_id;film_title;key;value;link
 389637;Extremely Wicked, Shockingly Evil and Vile;studio;COTA Films;letterboxd.com/studio/cota-films/
 389637;Extremely Wicked, Shockingly Evil and Vile;country;USA;letterboxd.com/films/country/usa/
 389637;Extremely Wicked, Shockingly Evil and Vile;language;English;letterboxd.com/films/language/english/
+507089;Conversations with a Killer: The Ted Bundy Tapes;studio;RadicalMedia;letterboxd.com/studio/radicalmedia/
+507089;Conversations with a Killer: The Ted Bundy Tapes;studio;Elastic Productions;letterboxd.com/studio/elastic-productions/
+507089;Conversations with a Killer: The Ted Bundy Tapes;studio;Gigantic Studios;letterboxd.com/studio/gigantic-studios/
+507089;Conversations with a Killer: The Ted Bundy Tapes;studio;Outpost Digital;letterboxd.com/studio/outpost-digital/
+507089;Conversations with a Killer: The Ted Bundy Tapes;country;USA;letterboxd.com/films/country/usa/
+507089;Conversations with a Killer: The Ted Bundy Tapes;language;English;letterboxd.com/films/language/english/
 494838;The Edge of Democracy;studio;Busca Vida Filmes;letterboxd.com/studio/busca-vida-filmes/
 494838;The Edge of Democracy;country;Brazil;letterboxd.com/films/country/brazil/
 494838;The Edge of Democracy;language;Portuguese;letterboxd.com/films/language/portuguese/
@@ -1061,9 +1132,9 @@ film_id;film_title;key;value;link
 389620;The VelociPastor;country;USA;letterboxd.com/films/country/usa/
 389620;The VelociPastor;language;English;letterboxd.com/films/language/english/
 389620;The VelociPastor;language;Cantonese;letterboxd.com/films/language/cantonese/
+389620;The VelociPastor;language;English;letterboxd.com/films/language/english/
 389620;The VelociPastor;language;Chinese;letterboxd.com/films/language/chinese/
 389620;The VelociPastor;language;Korean;letterboxd.com/films/language/korean/
-389620;The VelociPastor;language;English;letterboxd.com/films/language/english/
 265438;Venom;studio;Matt Tolmach Productions;letterboxd.com/studio/matt-tolmach-productions/
 265438;Venom;studio;Pascal Pictures;letterboxd.com/studio/pascal-pictures/
 265438;Venom;studio;Marvel Entertainment;letterboxd.com/studio/marvel-entertainment/
@@ -1101,6 +1172,7 @@ film_id;film_title;key;value;link
 293066;Suspiria;studio;Mythology Entertainment;letterboxd.com/studio/mythology-entertainment/
 293066;Suspiria;studio;First Sun;letterboxd.com/studio/first-sun/
 293066;Suspiria;studio;MeMo Films;letterboxd.com/studio/memo-films/
+293066;Suspiria;studio;K Period Media;letterboxd.com/studio/k-period-media/
 293066;Suspiria;country;Italy;letterboxd.com/films/country/italy/
 293066;Suspiria;country;USA;letterboxd.com/films/country/usa/
 293066;Suspiria;language;English;letterboxd.com/films/language/english/
@@ -1133,8 +1205,6 @@ film_id;film_title;key;value;link
 305811;First Man;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
 305811;First Man;studio;DreamWorks Pictures;letterboxd.com/studio/dreamworks-pictures/
 305811;First Man;studio;Temple Hill Entertainment;letterboxd.com/studio/temple-hill-entertainment/
-305811;First Man;studio;dentsu;letterboxd.com/studio/dentsu-2/
-305811;First Man;studio;Fuji Television Network;letterboxd.com/studio/fuji-television-network/
 305811;First Man;studio;Perfect World Pictures;letterboxd.com/studio/perfect-world-pictures-1/
 305811;First Man;country;USA;letterboxd.com/films/country/usa/
 305811;First Man;language;English;letterboxd.com/films/language/english/
@@ -1142,10 +1212,13 @@ film_id;film_title;key;value;link
 397942;To All the Boys I've Loved Before;studio;Overbrook Entertainment;letterboxd.com/studio/overbrook-entertainment/
 397942;To All the Boys I've Loved Before;country;USA;letterboxd.com/films/country/usa/
 397942;To All the Boys I've Loved Before;language;English;letterboxd.com/films/language/english/
+387238;Crazy Rich Asians;studio;SK Global Entertainment;letterboxd.com/studio/sk-global-entertainment-1/
+387238;Crazy Rich Asians;studio;Starlight Culture Entertainment Group;letterboxd.com/studio/starlight-culture-entertainment-group/
 387238;Crazy Rich Asians;studio;Color Force;letterboxd.com/studio/color-force/
 387238;Crazy Rich Asians;studio;Ivanhoe Pictures;letterboxd.com/studio/ivanhoe-pictures/
-387238;Crazy Rich Asians;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
+387238;Crazy Rich Asians;studio;Electric Somewhere;letterboxd.com/studio/electric-somewhere/
 387238;Crazy Rich Asians;country;USA;letterboxd.com/films/country/usa/
+387238;Crazy Rich Asians;country;Hong Kong;letterboxd.com/films/country/hong-kong/
 387238;Crazy Rich Asians;language;English;letterboxd.com/films/language/english/
 387238;Crazy Rich Asians;language;Cantonese;letterboxd.com/films/language/cantonese/
 387238;Crazy Rich Asians;language;Chinese;letterboxd.com/films/language/chinese/
@@ -1189,6 +1262,22 @@ film_id;film_title;key;value;link
 418135;BlacKkKlansman;studio;Perfect World Pictures;letterboxd.com/studio/perfect-world-pictures-1/
 418135;BlacKkKlansman;country;USA;letterboxd.com/films/country/usa/
 418135;BlacKkKlansman;language;English;letterboxd.com/films/language/english/
+436873;Climax;studio;Rectangle Productions;letterboxd.com/studio/rectangle-productions/
+436873;Climax;studio;Wild Bunch;letterboxd.com/studio/wild-bunch/
+436873;Climax;studio;Les Cinémas de la Zone;letterboxd.com/studio/les-cinemas-de-la-zone/
+436873;Climax;studio;Eskwad;letterboxd.com/studio/eskwad/
+436873;Climax;studio;KNM;letterboxd.com/studio/knm/
+436873;Climax;studio;Vice Studios;letterboxd.com/studio/vice-studios-1/
+436873;Climax;studio;ARTE France Cinéma;letterboxd.com/studio/arte-france-cinema-5/
+436873;Climax;studio;Artémis Productions;letterboxd.com/studio/artemis-productions/
+436873;Climax;studio;VOO & Be tv;letterboxd.com/studio/voo-be-tv/
+436873;Climax;studio;Shelter Prod;letterboxd.com/studio/shelter-prod/
+436873;Climax;country;Belgium;letterboxd.com/films/country/belgium/
+436873;Climax;country;France;letterboxd.com/films/country/france/
+436873;Climax;country;USA;letterboxd.com/films/country/usa/
+436873;Climax;language;French;letterboxd.com/films/language/french/
+436873;Climax;language;English;letterboxd.com/films/language/english/
+436873;Climax;language;French;letterboxd.com/films/language/french/
 318195;Deadpool 2;studio;Maximum Effort;letterboxd.com/studio/maximum-effort/
 318195;Deadpool 2;studio;Genre Films;letterboxd.com/studio/genre-films/
 318195;Deadpool 2;studio;20th Century Fox;letterboxd.com/studio/20th-century-fox/
@@ -1672,7 +1761,6 @@ film_id;film_title;key;value;link
 201909;Moana;studio;Walt Disney Animation Studios;letterboxd.com/studio/walt-disney-animation-studios/
 201909;Moana;country;USA;letterboxd.com/films/country/usa/
 201909;Moana;language;English;letterboxd.com/films/language/english/
-316315;Split;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
 316315;Split;studio;Blinding Edge Pictures;letterboxd.com/studio/blinding-edge-pictures/
 316315;Split;studio;Blumhouse Productions;letterboxd.com/studio/blumhouse-productions/
 316315;Split;country;USA;letterboxd.com/films/country/usa/
@@ -1689,6 +1777,15 @@ film_id;film_title;key;value;link
 345116;Amanda Knox;language;English;letterboxd.com/films/language/english/
 345116;Amanda Knox;language;English;letterboxd.com/films/language/english/
 345116;Amanda Knox;language;Italian;letterboxd.com/films/language/italian/
+344825;Before the Flood;studio;RatPac Documentary Films;letterboxd.com/studio/ratpac-documentary-films/
+344825;Before the Flood;studio;Appian Way;letterboxd.com/studio/appian-way/
+344825;Before the Flood;studio;National Geographic;letterboxd.com/studio/national-geographic/
+344825;Before the Flood;studio;Diamond Docs;letterboxd.com/studio/diamond-docs/
+344825;Before the Flood;country;USA;letterboxd.com/films/country/usa/
+344825;Before the Flood;language;English;letterboxd.com/films/language/english/
+344825;Before the Flood;language;English;letterboxd.com/films/language/english/
+344825;Before the Flood;language;French;letterboxd.com/films/language/french/
+344825;Before the Flood;language;Turkish;letterboxd.com/films/language/turkish/
 251872;Hacksaw Ridge;studio;Summit Entertainment;letterboxd.com/studio/summit-entertainment/
 251872;Hacksaw Ridge;studio;Pandemonium;letterboxd.com/studio/pandemonium/
 251872;Hacksaw Ridge;studio;Cross Creek Pictures;letterboxd.com/studio/cross-creek-pictures/
@@ -1701,7 +1798,6 @@ film_id;film_title;key;value;link
 251872;Hacksaw Ridge;studio;Kylin Pictures;letterboxd.com/studio/kylin-pictures/
 251872;Hacksaw Ridge;studio;Cosmos Filmed Entertainment;letterboxd.com/studio/cosmos-filmed-entertainment/
 251872;Hacksaw Ridge;country;Australia;letterboxd.com/films/country/australia/
-251872;Hacksaw Ridge;country;China;letterboxd.com/films/country/china/
 251872;Hacksaw Ridge;country;UK;letterboxd.com/films/country/uk/
 251872;Hacksaw Ridge;country;USA;letterboxd.com/films/country/usa/
 251872;Hacksaw Ridge;language;English;letterboxd.com/films/language/english/
@@ -1720,7 +1816,7 @@ film_id;film_title;key;value;link
 312205;Moonlight;country;USA;letterboxd.com/films/country/usa/
 312205;Moonlight;language;English;letterboxd.com/films/language/english/
 257426;Arrival;studio;FilmNation Entertainment;letterboxd.com/studio/filmnation-entertainment/
-257426;Arrival;studio;Lava Bear;letterboxd.com/studio/lava-bear-films/
+257426;Arrival;studio;Lava Bear Films;letterboxd.com/studio/lava-bear-films/
 257426;Arrival;studio;21 Laps Entertainment;letterboxd.com/studio/21-laps-entertainment/
 257426;Arrival;country;USA;letterboxd.com/films/country/usa/
 257426;Arrival;language;English;letterboxd.com/films/language/english/
@@ -1734,8 +1830,8 @@ film_id;film_title;key;value;link
 240344;La La Land;studio;Marc Platt Productions;letterboxd.com/studio/marc-platt-productions/
 240344;La La Land;studio;TIK Films;letterboxd.com/studio/tik-films/
 240344;La La Land;studio;Lionsgate;letterboxd.com/studio/lionsgate-1/
-240344;La La Land;country;Hong Kong;letterboxd.com/films/country/hong-kong/
 240344;La La Land;country;USA;letterboxd.com/films/country/usa/
+240344;La La Land;country;Hong Kong;letterboxd.com/films/country/hong-kong/
 240344;La La Land;language;English;letterboxd.com/films/language/english/
 347258;Team Thor;studio;Marvel Studios;letterboxd.com/studio/marvel-studios/
 347258;Team Thor;country;USA;letterboxd.com/films/country/usa/
@@ -1758,6 +1854,10 @@ film_id;film_title;key;value;link
 225026;Suicide Squad;language;English;letterboxd.com/films/language/english/
 225026;Suicide Squad;language;Japanese;letterboxd.com/films/language/japanese/
 225026;Suicide Squad;language;Spanish;letterboxd.com/films/language/spanish/
+341962;Ozark Sharks;studio;Fable House Films;letterboxd.com/studio/fable-house-films/
+341962;Ozark Sharks;studio;Syfy;letterboxd.com/studio/syfy/
+341962;Ozark Sharks;country;USA;letterboxd.com/films/country/usa/
+341962;Ozark Sharks;language;English;letterboxd.com/films/language/english/
 241920;Shin Godzilla;studio;Toho Pictures;letterboxd.com/studio/toho-pictures/
 241920;Shin Godzilla;studio;Cine Bazar;letterboxd.com/studio/cine-bazar/
 241920;Shin Godzilla;studio;TOHO;letterboxd.com/studio/toho/
@@ -1880,6 +1980,15 @@ film_id;film_title;key;value;link
 261891;10 Cloverfield Lane;studio;Bad Robot;letterboxd.com/studio/bad-robot/
 261891;10 Cloverfield Lane;country;USA;letterboxd.com/films/country/usa/
 261891;10 Cloverfield Lane;language;English;letterboxd.com/films/language/english/
+190407;Grimsby;studio;Columbia Pictures;letterboxd.com/studio/columbia-pictures/
+190407;Grimsby;studio;LStar Capital;letterboxd.com/studio/lstar-capital/
+190407;Grimsby;studio;Village Roadshow Pictures;letterboxd.com/studio/village-roadshow-pictures/
+190407;Grimsby;studio;Working Title Films;letterboxd.com/studio/working-title-films/
+190407;Grimsby;studio;Big Talk Studios;letterboxd.com/studio/big-talk-productions/
+190407;Grimsby;studio;Four by Two Films;letterboxd.com/studio/four-by-two-films/
+190407;Grimsby;country;UK;letterboxd.com/films/country/uk/
+190407;Grimsby;country;USA;letterboxd.com/films/country/usa/
+190407;Grimsby;language;English;letterboxd.com/films/language/english/
 220575;Deadpool;studio;20th Century Fox;letterboxd.com/studio/20th-century-fox/
 220575;Deadpool;studio;The Donners' Company;letterboxd.com/studio/the-donners-company-1/
 220575;Deadpool;studio;Genre Films;letterboxd.com/studio/genre-films/
@@ -2008,6 +2117,9 @@ film_id;film_title;key;value;link
 241430;Spotlight;studio;Open Road Films;letterboxd.com/studio/open-road-films/
 241430;Spotlight;country;USA;letterboxd.com/films/country/usa/
 241430;Spotlight;language;English;letterboxd.com/films/language/english/
+322102;Shark Exorcist;studio;Stratosphere Entertainment;letterboxd.com/studio/stratosphere-entertainment/
+322102;Shark Exorcist;country;USA;letterboxd.com/films/country/usa/
+322102;Shark Exorcist;language;English;letterboxd.com/films/language/english/
 129816;Mission: Impossible – Rogue Nation;studio;Paramount Pictures;letterboxd.com/studio/paramount-1/
 129816;Mission: Impossible – Rogue Nation;studio;Bad Robot;letterboxd.com/studio/bad-robot/
 129816;Mission: Impossible – Rogue Nation;studio;Odin;letterboxd.com/studio/odin/
@@ -2067,6 +2179,14 @@ film_id;film_title;key;value;link
 104174;Jurassic World;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
 104174;Jurassic World;country;USA;letterboxd.com/films/country/usa/
 104174;Jurassic World;language;English;letterboxd.com/films/language/english/
+175626;Kung Fury;studio;Laser Unicorns;letterboxd.com/studio/laser-unicorns/
+175626;Kung Fury;studio;Lampray;letterboxd.com/studio/lampray/
+175626;Kung Fury;country;Sweden;letterboxd.com/films/country/sweden/
+175626;Kung Fury;country;USA;letterboxd.com/films/country/usa/
+175626;Kung Fury;language;English;letterboxd.com/films/language/english/
+175626;Kung Fury;language;English;letterboxd.com/films/language/english/
+175626;Kung Fury;language;German;letterboxd.com/films/language/german/
+175626;Kung Fury;language;Swedish;letterboxd.com/films/language/swedish/
 218895;Love;studio;Wild Bunch;letterboxd.com/studio/wild-bunch/
 218895;Love;studio;Les Cinémas de la Zone;letterboxd.com/studio/les-cinemas-de-la-zone/
 218895;Love;studio;RT Features;letterboxd.com/studio/rt-features/
@@ -2092,8 +2212,8 @@ film_id;film_title;key;value;link
 241052;Green Room;studio;Broad Green Pictures;letterboxd.com/studio/broad-green-pictures/
 241052;Green Room;country;USA;letterboxd.com/films/country/usa/
 241052;Green Room;language;English;letterboxd.com/films/language/english/
-241052;Green Room;language;German;letterboxd.com/films/language/german/
 241052;Green Room;language;English;letterboxd.com/films/language/english/
+241052;Green Room;language;German;letterboxd.com/films/language/german/
 182142;Carol;studio;Killer Films;letterboxd.com/studio/killer-films/
 182142;Carol;studio;Number 9 Films;letterboxd.com/studio/number-9-films/
 182142;Carol;studio;Film4 Productions;letterboxd.com/studio/film4-productions/
@@ -2110,6 +2230,9 @@ film_id;film_title;key;value;link
 81605;Avengers: Age of Ultron;studio;Marvel Studios;letterboxd.com/studio/marvel-studios/
 81605;Avengers: Age of Ultron;country;USA;letterboxd.com/films/country/usa/
 81605;Avengers: Age of Ultron;language;English;letterboxd.com/films/language/english/
+263288;Last Conversations;studio;VideoFilmes;letterboxd.com/studio/videofilmes/
+263288;Last Conversations;country;Brazil;letterboxd.com/films/country/brazil/
+263288;Last Conversations;language;Portuguese;letterboxd.com/films/language/portuguese/
 260208;Battle for Sevastopol;studio;Kinorob;letterboxd.com/studio/kinorob/
 260208;Battle for Sevastopol;studio;New People Film Company;letterboxd.com/studio/new-people-film-company/
 260208;Battle for Sevastopol;studio;Ukrainian State Film Agency;letterboxd.com/studio/ukrainian-state-film-agency/
@@ -2436,9 +2559,9 @@ film_id;film_title;key;value;link
 95113;The Grand Budapest Hotel;language;French;letterboxd.com/films/language/french/
 158942;Non-Stop;studio;StudioCanal;letterboxd.com/studio/studiocanal/
 158942;Non-Stop;studio;Silver Pictures;letterboxd.com/studio/silver-pictures/
-158942;Non-Stop;studio;LOVEFiLM International;letterboxd.com/studio/lovefilm-international/
 158942;Non-Stop;studio;Anton Capital Entertainment;letterboxd.com/studio/anton-capital-entertainment/
 158942;Non-Stop;studio;TF1 Films Production;letterboxd.com/studio/tf1-films-production-1/
+158942;Non-Stop;studio;LOVEFiLM International;letterboxd.com/studio/lovefilm-international/
 158942;Non-Stop;country;France;letterboxd.com/films/country/france/
 158942;Non-Stop;country;UK;letterboxd.com/films/country/uk/
 158942;Non-Stop;country;USA;letterboxd.com/films/country/usa/
@@ -2517,6 +2640,7 @@ film_id;film_title;key;value;link
 103255;Carrie;studio;Misher Films;letterboxd.com/studio/misher-films/
 103255;Carrie;studio;Screen Gems;letterboxd.com/studio/screen-gems/
 103255;Carrie;studio;Metro-Goldwyn-Mayer;letterboxd.com/studio/metro-goldwyn-mayer-1/
+103255;Carrie;studio;Sony Pictures Home Entertainment;letterboxd.com/studio/sony-pictures-home-entertainment/
 103255;Carrie;country;USA;letterboxd.com/films/country/usa/
 103255;Carrie;language;English;letterboxd.com/films/language/english/
 114564;Her;studio;Annapurna Pictures;letterboxd.com/studio/annapurna-pictures/
@@ -2556,6 +2680,14 @@ film_id;film_title;key;value;link
 114605;Dallas Buyers Club;language;English;letterboxd.com/films/language/english/
 114605;Dallas Buyers Club;language;English;letterboxd.com/films/language/english/
 114605;Dallas Buyers Club;language;Japanese;letterboxd.com/films/language/japanese/
+73702;Riddick;studio;One Race;letterboxd.com/studio/one-race/
+73702;Riddick;studio;Riddick Canada Productions;letterboxd.com/studio/riddick-canada-productions/
+73702;Riddick;studio;Radar Pictures;letterboxd.com/studio/radar-pictures/
+73702;Riddick;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
+73702;Riddick;studio;Mandate International;letterboxd.com/studio/mandate-international/
+73702;Riddick;country;Canada;letterboxd.com/films/country/canada/
+73702;Riddick;country;USA;letterboxd.com/films/country/usa/
+73702;Riddick;language;English;letterboxd.com/films/language/english/
 79787;Rush;studio;Revolution Films;letterboxd.com/studio/revolution-films/
 79787;Rush;studio;Working Title Films;letterboxd.com/studio/working-title-films/
 79787;Rush;studio;Imagine Entertainment;letterboxd.com/studio/imagine-entertainment/
@@ -2652,12 +2784,8 @@ film_id;film_title;key;value;link
 57292;World War Z;studio;Paramount Pictures;letterboxd.com/studio/paramount-1/
 57292;World War Z;studio;Hemisphere Media Capital;letterboxd.com/studio/hemisphere-media-capital/
 57292;World War Z;studio;2DUX²;letterboxd.com/studio/2dux/
-57292;World War Z;studio;Apparatus Productions;letterboxd.com/studio/apparatus-productions/
-57292;World War Z;studio;Latina Pictures;letterboxd.com/studio/latina-pictures/
 57292;World War Z;studio;Skydance Media;letterboxd.com/studio/skydance/
 57292;World War Z;studio;Plan B Entertainment;letterboxd.com/studio/plan-b-entertainment/
-57292;World War Z;studio;Mandate International;letterboxd.com/studio/mandate-international/
-57292;World War Z;country;Malta;letterboxd.com/films/country/malta/
 57292;World War Z;country;UK;letterboxd.com/films/country/uk/
 57292;World War Z;country;USA;letterboxd.com/films/country/usa/
 57292;World War Z;language;English;letterboxd.com/films/language/english/
@@ -2692,7 +2820,6 @@ film_id;film_title;key;value;link
 114563;Only Lovers Left Alive;language;French;letterboxd.com/films/language/french/
 118586;We Steal Secrets: The Story of WikiLeaks;studio;Global Produce;letterboxd.com/studio/global-produce/
 118586;We Steal Secrets: The Story of WikiLeaks;studio;Jigsaw Productions;letterboxd.com/studio/jigsaw-productions/
-118586;We Steal Secrets: The Story of WikiLeaks;studio;Focus World;letterboxd.com/studio/focus-world/
 118586;We Steal Secrets: The Story of WikiLeaks;country;USA;letterboxd.com/films/country/usa/
 118586;We Steal Secrets: The Story of WikiLeaks;language;English;letterboxd.com/films/language/english/
 114576;Blue Is the Warmest Color;studio;Wild Bunch;letterboxd.com/studio/wild-bunch/
@@ -2983,6 +3110,10 @@ film_id;film_title;key;value;link
 50677;The Amazing Spider-Man;studio;Arad Productions;letterboxd.com/studio/arad-productions/
 50677;The Amazing Spider-Man;country;USA;letterboxd.com/films/country/usa/
 50677;The Amazing Spider-Man;language;English;letterboxd.com/films/language/english/
+4586;Brave;studio;Walt Disney Pictures;letterboxd.com/studio/walt-disney-pictures/
+4586;Brave;studio;Pixar;letterboxd.com/studio/pixar/
+4586;Brave;country;USA;letterboxd.com/films/country/usa/
+4586;Brave;language;English;letterboxd.com/films/language/english/
 57152;Abraham Lincoln: Vampire Hunter;studio;Bazelevs Production;letterboxd.com/studio/bazelevs-production/
 57152;Abraham Lincoln: Vampire Hunter;studio;Tim Burton Productions;letterboxd.com/studio/tim-burton-productions/
 57152;Abraham Lincoln: Vampire Hunter;studio;Abraham Productions;letterboxd.com/studio/abraham-productions/
@@ -3165,6 +3296,7 @@ film_id;film_title;key;value;link
 50809;Captain America: The First Avenger;language;Norwegian;letterboxd.com/films/language/norwegian/
 50809;Captain America: The First Avenger;language;English;letterboxd.com/films/language/english/
 15145;Friends with Benefits;studio;Castle Rock Entertainment;letterboxd.com/studio/castle-rock-entertainment/
+15145;Friends with Benefits;studio;Olive Bridge Entertainment;letterboxd.com/studio/olive-bridge-entertainment/
 15145;Friends with Benefits;country;USA;letterboxd.com/films/country/usa/
 15145;Friends with Benefits;language;English;letterboxd.com/films/language/english/
 15051;Crazy, Stupid, Love.;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
@@ -3222,9 +3354,6 @@ film_id;film_title;key;value;link
 4549;Melancholia;country;Sweden;letterboxd.com/films/country/sweden/
 4549;Melancholia;language;English;letterboxd.com/films/language/english/
 47468;The Tree of Life;studio;River Road Entertainment;letterboxd.com/studio/river-road-entertainment/
-47468;The Tree of Life;studio;Plan B Entertainment;letterboxd.com/studio/plan-b-entertainment/
-47468;The Tree of Life;studio;Cottonwood Pictures;letterboxd.com/studio/cottonwood-pictures/
-47468;The Tree of Life;studio;Summit Entertainment;letterboxd.com/studio/summit-entertainment/
 47468;The Tree of Life;country;USA;letterboxd.com/films/country/usa/
 47468;The Tree of Life;language;English;letterboxd.com/films/language/english/
 6945;Midnight in Paris;studio;Pontchartrain Productions;letterboxd.com/studio/pontchartrain-productions/
@@ -3443,9 +3572,9 @@ film_id;film_title;key;value;link
 24308;Batman: Under the Red Hood;studio;Warner Premiere;letterboxd.com/studio/warner-premiere/
 24308;Batman: Under the Red Hood;country;USA;letterboxd.com/films/country/usa/
 24308;Batman: Under the Red Hood;language;English;letterboxd.com/films/language/english/
-24308;Batman: Under the Red Hood;language;English;letterboxd.com/films/language/english/
-24308;Batman: Under the Red Hood;language;Latin;letterboxd.com/films/language/latin/
 24308;Batman: Under the Red Hood;language;Spanish;letterboxd.com/films/language/spanish/
+24308;Batman: Under the Red Hood;language;Latin;letterboxd.com/films/language/latin/
+24308;Batman: Under the Red Hood;language;English;letterboxd.com/films/language/english/
 37833;Scott Pilgrim vs. the World;studio;Marc Platt Productions;letterboxd.com/studio/marc-platt-productions/
 37833;Scott Pilgrim vs. the World;studio;Big Talk Studios;letterboxd.com/studio/big-talk-productions/
 37833;Scott Pilgrim vs. the World;studio;Closed on Mondays Entertainment;letterboxd.com/studio/closed-on-mondays-entertainment/
@@ -3538,6 +3667,14 @@ film_id;film_title;key;value;link
 38999;3 Idiots;language;Hindi;letterboxd.com/films/language/hindi/
 38999;3 Idiots;language;English;letterboxd.com/films/language/english/
 38999;3 Idiots;language;Hindi;letterboxd.com/films/language/hindi/
+46144;Sherlock Holmes;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
+46144;Sherlock Holmes;studio;Village Roadshow Pictures;letterboxd.com/studio/village-roadshow-pictures/
+46144;Sherlock Holmes;studio;Silver Pictures;letterboxd.com/studio/silver-pictures/
+46144;Sherlock Holmes;studio;Wigram Productions;letterboxd.com/studio/wigram-productions/
+46144;Sherlock Holmes;country;USA;letterboxd.com/films/country/usa/
+46144;Sherlock Holmes;language;English;letterboxd.com/films/language/english/
+46144;Sherlock Holmes;language;English;letterboxd.com/films/language/english/
+46144;Sherlock Holmes;language;French;letterboxd.com/films/language/french/
 39304;Avatar;studio;Dune Entertainment;letterboxd.com/studio/dune-entertainment/
 39304;Avatar;studio;Lightstorm Entertainment;letterboxd.com/studio/lightstorm-entertainment/
 39304;Avatar;studio;20th Century Fox;letterboxd.com/studio/20th-century-fox/
@@ -3643,6 +3780,12 @@ film_id;film_title;key;value;link
 51385;Harry Potter and the Half-Blood Prince;country;UK;letterboxd.com/films/country/uk/
 51385;Harry Potter and the Half-Blood Prince;country;USA;letterboxd.com/films/country/usa/
 51385;Harry Potter and the Half-Blood Prince;language;English;letterboxd.com/films/language/english/
+39746;Whatever Works;studio;Wild Bunch;letterboxd.com/studio/wild-bunch/
+39746;Whatever Works;studio;Gravier Productions;letterboxd.com/studio/gravier-productions/
+39746;Whatever Works;studio;Perdido Productions;letterboxd.com/studio/perdido-productions/
+39746;Whatever Works;country;France;letterboxd.com/films/country/france/
+39746;Whatever Works;country;USA;letterboxd.com/films/country/usa/
+39746;Whatever Works;language;English;letterboxd.com/films/language/english/
 45411;Public Enemies;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
 45411;Public Enemies;studio;Relativity Media;letterboxd.com/studio/relativity-media-1/
 45411;Public Enemies;studio;Forward Pass;letterboxd.com/studio/forward-pass/
@@ -3743,6 +3886,13 @@ film_id;film_title;key;value;link
 37973;Polytechnique;studio;Remstar Productions;letterboxd.com/studio/remstar-productions/
 37973;Polytechnique;country;Canada;letterboxd.com/films/country/canada/
 37973;Polytechnique;language;French;letterboxd.com/films/language/french/
+42779;Coraline;studio;Laika;letterboxd.com/studio/laika-entertainment/
+42779;Coraline;studio;Pandemonium;letterboxd.com/studio/pandemonium/
+42779;Coraline;studio;Pandemonium;letterboxd.com/studio/pandemonium-1/
+42779;Coraline;country;USA;letterboxd.com/films/country/usa/
+42779;Coraline;language;English;letterboxd.com/films/language/english/
+42779;Coraline;language;English;letterboxd.com/films/language/english/
+42779;Coraline;language;Spanish;letterboxd.com/films/language/spanish/
 39350;(500) Days of Summer;studio;Fox Searchlight Pictures;letterboxd.com/studio/fox-searchlight-pictures/
 39350;(500) Days of Summer;studio;Watermark Pictures;letterboxd.com/studio/watermark-pictures/
 39350;(500) Days of Summer;studio;Dune Entertainment III;letterboxd.com/studio/dune-entertainment-iii/
@@ -3798,6 +3948,19 @@ film_id;film_title;key;value;link
 46450;Yes Man;language;Estonian;letterboxd.com/films/language/estonian/
 46450;Yes Man;language;English;letterboxd.com/films/language/english/
 46450;Yes Man;language;Korean;letterboxd.com/films/language/korean/
+44186;Punisher: War Zone;studio;Lionsgate;letterboxd.com/studio/lionsgate-1/
+44186;Punisher: War Zone;studio;MHF Zweite Academy Film;letterboxd.com/studio/mhf-zweite-academy-film/
+44186;Punisher: War Zone;studio;Marvel Knights;letterboxd.com/studio/marvel-knights/
+44186;Punisher: War Zone;studio;Valhalla Motion Pictures;letterboxd.com/studio/valhalla-motion-pictures/
+44186;Punisher: War Zone;studio;SGF Entertainment;letterboxd.com/studio/sgf-entertainment/
+44186;Punisher: War Zone;studio;Muse Entertainment;letterboxd.com/studio/muse-entertainment-1/
+44186;Punisher: War Zone;studio;Marvel Studios;letterboxd.com/studio/marvel-studios/
+44186;Punisher: War Zone;country;Canada;letterboxd.com/films/country/canada/
+44186;Punisher: War Zone;country;Germany;letterboxd.com/films/country/germany/
+44186;Punisher: War Zone;country;USA;letterboxd.com/films/country/usa/
+44186;Punisher: War Zone;language;English;letterboxd.com/films/language/english/
+44186;Punisher: War Zone;language;Russian;letterboxd.com/films/language/russian/
+44186;Punisher: War Zone;language;English;letterboxd.com/films/language/english/
 47469;Twilight;studio;Summit Entertainment;letterboxd.com/studio/summit-entertainment/
 47469;Twilight;studio;Temple Hill Entertainment;letterboxd.com/studio/temple-hill-entertainment/
 47469;Twilight;studio;Maverick Films;letterboxd.com/studio/maverick-films/
@@ -3998,6 +4161,10 @@ film_id;film_title;key;value;link
 42260;Dear Zachary: A Letter to a Son About His Father;studio;MSNBC Films;letterboxd.com/studio/msnbc-films/
 42260;Dear Zachary: A Letter to a Son About His Father;country;USA;letterboxd.com/films/country/usa/
 42260;Dear Zachary: A Letter to a Son About His Father;language;English;letterboxd.com/films/language/english/
+367810;Good Morning;studio;STUDIO4℃;letterboxd.com/studio/studio4/
+367810;Good Morning;studio;Madhouse;letterboxd.com/studio/madhouse-1/
+367810;Good Morning;country;Japan;letterboxd.com/films/country/japan/
+367810;Good Morning;language;Japanese;letterboxd.com/films/language/japanese/
 48296;I Am Legend;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
 48296;I Am Legend;studio;Village Roadshow Pictures;letterboxd.com/studio/village-roadshow-pictures/
 48296;I Am Legend;studio;Weed Road Pictures;letterboxd.com/studio/weed-road-pictures/
@@ -4054,8 +4221,8 @@ film_id;film_title;key;value;link
 48234;Lars and the Real Girl;studio;Lars Productions;letterboxd.com/studio/lars-productions/
 48234;Lars and the Real Girl;country;USA;letterboxd.com/films/country/usa/
 48234;Lars and the Real Girl;language;English;letterboxd.com/films/language/english/
-48234;Lars and the Real Girl;language;English;letterboxd.com/films/language/english/
 48234;Lars and the Real Girl;language;Spanish;letterboxd.com/films/language/spanish/
+48234;Lars and the Real Girl;language;English;letterboxd.com/films/language/english/
 49148;Gone Baby Gone;studio;Miramax;letterboxd.com/studio/miramax-1/
 49148;Gone Baby Gone;studio;The Ladd Company;letterboxd.com/studio/the-ladd-company/
 49148;Gone Baby Gone;country;USA;letterboxd.com/films/country/usa/
@@ -4085,12 +4252,11 @@ film_id;film_title;key;value;link
 48051;Juno;language;English;letterboxd.com/films/language/english/
 45150;Redacted;studio;HDNet Films;letterboxd.com/studio/hdnet-films/
 45150;Redacted;studio;The Film Farm;letterboxd.com/studio/the-film-farm/
-45150;Redacted;studio;Magnolia Pictures;letterboxd.com/studio/magnolia-pictures/
 45150;Redacted;country;Canada;letterboxd.com/films/country/canada/
 45150;Redacted;country;USA;letterboxd.com/films/country/usa/
 45150;Redacted;language;English;letterboxd.com/films/language/english/
-45150;Redacted;language;English;letterboxd.com/films/language/english/
 45150;Redacted;language;Arabic;letterboxd.com/films/language/arabic/
+45150;Redacted;language;English;letterboxd.com/films/language/english/
 45150;Redacted;language;French;letterboxd.com/films/language/french/
 45150;Redacted;language;German;letterboxd.com/films/language/german/
 43713;High School Musical 2;studio;First Street Films;letterboxd.com/studio/first-street-films/
@@ -4145,12 +4311,10 @@ film_id;film_title;key;value;link
 50558;Ratatouille;studio;Walt Disney Pictures;letterboxd.com/studio/walt-disney-pictures/
 50558;Ratatouille;country;USA;letterboxd.com/films/country/usa/
 50558;Ratatouille;language;English;letterboxd.com/films/language/english/
-50558;Ratatouille;language;English;letterboxd.com/films/language/english/
 50558;Ratatouille;language;French;letterboxd.com/films/language/french/
-50621;Death Proof;studio;Troublemaker Studios;letterboxd.com/studio/troublemaker-studios/
-50621;Death Proof;studio;The Weinstein Company;letterboxd.com/studio/the-weinstein-company/
+50558;Ratatouille;language;English;letterboxd.com/films/language/english/
 50621;Death Proof;studio;Dimension Films;letterboxd.com/studio/dimension-films/
-50621;Death Proof;studio;Rodriguez International Pictures;letterboxd.com/studio/rodriguez-international-pictures/
+50621;Death Proof;studio;Troublemaker Studios;letterboxd.com/studio/troublemaker-studios/
 50621;Death Proof;country;USA;letterboxd.com/films/country/usa/
 50621;Death Proof;language;English;letterboxd.com/films/language/english/
 51773;Pirates of the Caribbean: At World's End;studio;Jerry Bruckheimer Films;letterboxd.com/studio/jerry-bruckheimer-films/
@@ -4257,7 +4421,7 @@ film_id;film_title;key;value;link
 51042;The Departed;studio;Plan B Entertainment;letterboxd.com/studio/plan-b-entertainment/
 51042;The Departed;studio;Initial Entertainment Group;letterboxd.com/studio/initial-entertainment-group/
 51042;The Departed;studio;Vertigo Entertainment;letterboxd.com/studio/vertigo-entertainment/
-51042;The Departed;studio;Media Asia Films;letterboxd.com/studio/media-asia-films/
+51042;The Departed;studio;Media Asia;letterboxd.com/studio/media-asia-films/
 51042;The Departed;country;Hong Kong;letterboxd.com/films/country/hong-kong/
 51042;The Departed;country;USA;letterboxd.com/films/country/usa/
 51042;The Departed;language;English;letterboxd.com/films/language/english/
@@ -4269,6 +4433,12 @@ film_id;film_title;key;value;link
 46911;Children of Men;country;UK;letterboxd.com/films/country/uk/
 46911;Children of Men;country;USA;letterboxd.com/films/country/usa/
 46911;Children of Men;language;English;letterboxd.com/films/language/english/
+49023;Paprika;studio;Madhouse;letterboxd.com/studio/madhouse-1/
+49023;Paprika;studio;Sony Pictures;letterboxd.com/studio/sony-pictures-1/
+49023;Paprika;country;Japan;letterboxd.com/films/country/japan/
+49023;Paprika;language;Japanese;letterboxd.com/films/language/japanese/
+49023;Paprika;language;English;letterboxd.com/films/language/english/
+49023;Paprika;language;Japanese;letterboxd.com/films/language/japanese/
 50660;Crank;studio;Lakeshore Entertainment;letterboxd.com/studio/lakeshore-entertainment/
 50660;Crank;studio;RadicalMedia;letterboxd.com/studio/radicalmedia/
 50660;Crank;studio;GreeneStreet Films;letterboxd.com/studio/greenestreet-films/
@@ -4411,8 +4581,33 @@ film_id;film_title;key;value;link
 51450;Harry Potter and the Goblet of Fire;language;English;letterboxd.com/films/language/english/
 51450;Harry Potter and the Goblet of Fire;language;English;letterboxd.com/films/language/english/
 51450;Harry Potter and the Goblet of Fire;language;French;letterboxd.com/films/language/french/
+50769;Lord of War;studio;Endgame Entertainment;letterboxd.com/studio/endgame-entertainment/
+50769;Lord of War;studio;Entertainment Manufacturing Company;letterboxd.com/studio/entertainment-manufacturing-company/
+50769;Lord of War;studio;Ascendant Pictures;letterboxd.com/studio/ascendant-pictures/
+50769;Lord of War;studio;Saturn Films;letterboxd.com/studio/saturn-films/
+50769;Lord of War;studio;Rising Star Productions;letterboxd.com/studio/rising-star/
+50769;Lord of War;studio;Copag V;letterboxd.com/studio/copag-v/
+50769;Lord of War;studio;VIP Medienfonds 3;letterboxd.com/studio/vip-medienfonds-3/
+50769;Lord of War;studio;Majority Entertainment;letterboxd.com/studio/majority-entertainment/
+50769;Lord of War;country;France;letterboxd.com/films/country/france/
+50769;Lord of War;country;USA;letterboxd.com/films/country/usa/
+50769;Lord of War;country;Germany;letterboxd.com/films/country/germany/
+50769;Lord of War;language;English;letterboxd.com/films/language/english/
+50769;Lord of War;language;Arabic;letterboxd.com/films/language/arabic/
+50769;Lord of War;language;German;letterboxd.com/films/language/german/
+50769;Lord of War;language;English;letterboxd.com/films/language/english/
+50769;Lord of War;language;French;letterboxd.com/films/language/french/
+50769;Lord of War;language;Russian;letterboxd.com/films/language/russian/
+50769;Lord of War;language;Spanish;letterboxd.com/films/language/spanish/
+50769;Lord of War;language;Ukrainian;letterboxd.com/films/language/ukrainian/
+50769;Lord of War;language;Turkish;letterboxd.com/films/language/turkish/
+49390;Pride & Prejudice;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
+49390;Pride & Prejudice;studio;StudioCanal;letterboxd.com/studio/studiocanal/
 49390;Pride & Prejudice;studio;Working Title Films;letterboxd.com/studio/working-title-films/
+49390;Pride & Prejudice;studio;Scion Films;letterboxd.com/studio/scion-films/
 49390;Pride & Prejudice;country;UK;letterboxd.com/films/country/uk/
+49390;Pride & Prejudice;country;France;letterboxd.com/films/country/france/
+49390;Pride & Prejudice;country;USA;letterboxd.com/films/country/usa/
 49390;Pride & Prejudice;language;English;letterboxd.com/films/language/english/
 49568;Corpse Bride;studio;Tim Burton Productions;letterboxd.com/studio/tim-burton-productions/
 49568;Corpse Bride;studio;Laika;letterboxd.com/studio/laika-entertainment/
@@ -4473,9 +4668,14 @@ film_id;film_title;key;value;link
 50709;Star Wars: Episode III – Revenge of the Sith;studio;Lucasfilm Ltd.;letterboxd.com/studio/lucasfilm-ltd-1/
 50709;Star Wars: Episode III – Revenge of the Sith;country;USA;letterboxd.com/films/country/usa/
 50709;Star Wars: Episode III – Revenge of the Sith;language;English;letterboxd.com/films/language/english/
-45100;The Myth;studio;Emperor Movie Group;letterboxd.com/studio/emperor-movie-group/
+48894;Kiss Kiss Bang Bang;studio;Silver Pictures;letterboxd.com/studio/silver-pictures/
+48894;Kiss Kiss Bang Bang;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
+48894;Kiss Kiss Bang Bang;country;USA;letterboxd.com/films/country/usa/
+48894;Kiss Kiss Bang Bang;language;English;letterboxd.com/films/language/english/
 45100;The Myth;studio;JCE Movies;letterboxd.com/studio/jce-movies-1/
-45100;The Myth;studio;上影英皇;letterboxd.com/studio/contributor:3287037/
+45100;The Myth;studio;China Film Co-Production Corp.;letterboxd.com/studio/china-film-co-production-corporation/
+45100;The Myth;studio;Emperor Motion Pictures;letterboxd.com/studio/emperor-motion-pictures-1/
+45100;The Myth;studio;China Film Group Corporation;letterboxd.com/studio/china-film-group-corporation-1/
 45100;The Myth;country;China;letterboxd.com/films/country/china/
 45100;The Myth;country;Hong Kong;letterboxd.com/films/country/hong-kong/
 45100;The Myth;language;Chinese;letterboxd.com/films/language/chinese/
@@ -4509,7 +4709,7 @@ film_id;film_title;key;value;link
 50207;The Aviator;studio;Initial Entertainment Group;letterboxd.com/studio/initial-entertainment-group/
 50207;The Aviator;studio;Forward Pass;letterboxd.com/studio/forward-pass/
 50207;The Aviator;studio;Appian Way;letterboxd.com/studio/appian-way/
-50207;The Aviator;studio;IMF Internationale Medien und Film GmbH & Co. Produktions KG;letterboxd.com/studio/imf-internationale-medien-und-film-gmbh-co-produktions-kg/
+50207;The Aviator;studio;IMF;letterboxd.com/studio/imf-internationale-medien-und-film-gmbh-co-produktions-kg/
 50207;The Aviator;country;Germany;letterboxd.com/films/country/germany/
 50207;The Aviator;country;USA;letterboxd.com/films/country/usa/
 50207;The Aviator;language;English;letterboxd.com/films/language/english/
@@ -4596,12 +4796,20 @@ film_id;film_title;key;value;link
 51745;Catwoman;studio;Maple Shade Films;letterboxd.com/studio/maple-shade-films/
 51745;Catwoman;studio;Catwoman Films;letterboxd.com/studio/catwoman-films/
 51745;Catwoman;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
-51745;Catwoman;studio;DC;letterboxd.com/studio/dc-comics/
 51745;Catwoman;country;Canada;letterboxd.com/films/country/canada/
 51745;Catwoman;country;USA;letterboxd.com/films/country/usa/
 51745;Catwoman;language;English;letterboxd.com/films/language/english/
 51745;Catwoman;language;Spanish;letterboxd.com/films/language/spanish/
 51745;Catwoman;language;English;letterboxd.com/films/language/english/
+50568;I, Robot;studio;Davis Entertainment;letterboxd.com/studio/davis-entertainment/
+50568;I, Robot;studio;Laurence Mark Productions;letterboxd.com/studio/laurence-mark-productions/
+50568;I, Robot;studio;Canlaws Productions;letterboxd.com/studio/canlaws-productions/
+50568;I, Robot;studio;20th Century Fox;letterboxd.com/studio/20th-century-fox/
+50568;I, Robot;studio;Overbrook Entertainment;letterboxd.com/studio/overbrook-entertainment/
+50568;I, Robot;studio;Mediastream Vierte Film GmbH & Co. Vermarktungs KG;letterboxd.com/studio/mediastream-vierte-film-gmbh-co-vermarktungs-kg/
+50568;I, Robot;country;USA;letterboxd.com/films/country/usa/
+50568;I, Robot;country;Germany;letterboxd.com/films/country/germany/
+50568;I, Robot;language;English;letterboxd.com/films/language/english/
 50224;The Bourne Supremacy;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
 50224;The Bourne Supremacy;studio;The Kennedy/Marshall Company;letterboxd.com/studio/the-kennedy-marshall-company/
 50224;The Bourne Supremacy;studio;Hypnotic;letterboxd.com/studio/hypnotic/
@@ -4772,6 +4980,17 @@ film_id;film_title;key;value;link
 2682;Primer;language;English;letterboxd.com/films/language/english/
 2682;Primer;language;French;letterboxd.com/films/language/french/
 2682;Primer;language;English;letterboxd.com/films/language/english/
+50889;The Motorcycle Diaries;studio;Film4 Productions;letterboxd.com/studio/film4-productions/
+50889;The Motorcycle Diaries;studio;South Fork Pictures;letterboxd.com/studio/south-fork-pictures/
+50889;The Motorcycle Diaries;studio;Tu Vas Voir;letterboxd.com/studio/tu-vas-voir/
+50889;The Motorcycle Diaries;studio;BD Cine;letterboxd.com/studio/bd-cine/
+50889;The Motorcycle Diaries;country;Argentina;letterboxd.com/films/country/argentina/
+50889;The Motorcycle Diaries;country;France;letterboxd.com/films/country/france/
+50889;The Motorcycle Diaries;country;UK;letterboxd.com/films/country/uk/
+50889;The Motorcycle Diaries;country;USA;letterboxd.com/films/country/usa/
+50889;The Motorcycle Diaries;language;Spanish;letterboxd.com/films/language/spanish/
+50889;The Motorcycle Diaries;language;Quechua;letterboxd.com/films/language/quechua/
+50889;The Motorcycle Diaries;language;Spanish;letterboxd.com/films/language/spanish/
 51928;The Lord of the Rings: The Return of the King;studio;New Line Cinema;letterboxd.com/studio/new-line-cinema/
 51928;The Lord of the Rings: The Return of the King;studio;WingNut Films;letterboxd.com/studio/wingnut-films/
 51928;The Lord of the Rings: The Return of the King;studio;The Saul Zaentz Company;letterboxd.com/studio/the-saul-zaentz-company/
@@ -4825,6 +5044,15 @@ film_id;film_title;key;value;link
 51602;Love Actually;language;English;letterboxd.com/films/language/english/
 51602;Love Actually;language;French;letterboxd.com/films/language/french/
 51602;Love Actually;language;Portuguese;letterboxd.com/films/language/portuguese/
+43921;Tokyo Godfathers;studio;Madhouse;letterboxd.com/studio/madhouse-1/
+43921;Tokyo Godfathers;studio;Sony Pictures;letterboxd.com/studio/sony-pictures-1/
+43921;Tokyo Godfathers;studio;dentsu;letterboxd.com/studio/dentsu-2/
+43921;Tokyo Godfathers;studio;GENCO;letterboxd.com/studio/genco/
+43921;Tokyo Godfathers;country;Japan;letterboxd.com/films/country/japan/
+43921;Tokyo Godfathers;language;Japanese;letterboxd.com/films/language/japanese/
+43921;Tokyo Godfathers;language;English;letterboxd.com/films/language/english/
+43921;Tokyo Godfathers;language;Japanese;letterboxd.com/films/language/japanese/
+43921;Tokyo Godfathers;language;Spanish;letterboxd.com/films/language/spanish/
 51898;Lost in Translation;studio;American Zoetrope;letterboxd.com/studio/american-zoetrope/
 51898;Lost in Translation;studio;Elemental Films;letterboxd.com/studio/elemental-films-1/
 51898;Lost in Translation;country;UK;letterboxd.com/films/country/uk/
@@ -4933,13 +5161,16 @@ film_id;film_title;key;value;link
 27722;X2;language;English;letterboxd.com/films/language/english/
 27722;X2;language;German;letterboxd.com/films/language/german/
 27722;X2;language;Italian;letterboxd.com/films/language/italian/
-10261;The Animatrix;studio;Silver Pictures;letterboxd.com/studio/silver-pictures/
-10261;The Animatrix;studio;Madhouse;letterboxd.com/studio/madhouse-1/
 10261;The Animatrix;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
-10261;The Animatrix;studio;Digital Network Animation;letterboxd.com/studio/digital-network-animation/
+10261;The Animatrix;studio;Village Roadshow Pictures;letterboxd.com/studio/village-roadshow-pictures/
+10261;The Animatrix;studio;Silver Pictures;letterboxd.com/studio/silver-pictures/
+10261;The Animatrix;studio;Square USA;letterboxd.com/studio/square-usa/
 10261;The Animatrix;studio;STUDIO4℃;letterboxd.com/studio/studio4/
+10261;The Animatrix;studio;Madhouse;letterboxd.com/studio/madhouse-1/
+10261;The Animatrix;studio;D N A;letterboxd.com/studio/d-n-a/
 10261;The Animatrix;country;Japan;letterboxd.com/films/country/japan/
 10261;The Animatrix;country;USA;letterboxd.com/films/country/usa/
+10261;The Animatrix;country;South Korea;letterboxd.com/films/country/south-korea/
 10261;The Animatrix;language;English;letterboxd.com/films/language/english/
 10261;The Animatrix;language;English;letterboxd.com/films/language/english/
 10261;The Animatrix;language;Japanese;letterboxd.com/films/language/japanese/
@@ -5069,6 +5300,19 @@ film_id;film_title;key;value;link
 51984;8 Mile;country;Germany;letterboxd.com/films/country/germany/
 51984;8 Mile;country;USA;letterboxd.com/films/country/usa/
 51984;8 Mile;language;English;letterboxd.com/films/language/english/
+44807;Lilya 4-ever;studio;Memfis Film;letterboxd.com/studio/memfis-film/
+44807;Lilya 4-ever;studio;Det Danske Filminstitut;letterboxd.com/studio/det-danske-filminstitut/
+44807;Lilya 4-ever;studio;Film i Väst;letterboxd.com/studio/film-i-vast/
+44807;Lilya 4-ever;studio;Nordisk Film & TV Fond;letterboxd.com/studio/nordisk-film-tv-fond/
+44807;Lilya 4-ever;studio;Svenska Filminstitutet;letterboxd.com/studio/svenska-filminstitutet-1/
+44807;Lilya 4-ever;studio;SVT;letterboxd.com/studio/svt-2/
+44807;Lilya 4-ever;studio;Zentropa Entertainments;letterboxd.com/studio/zentropa-entertainments/
+44807;Lilya 4-ever;country;Denmark;letterboxd.com/films/country/denmark/
+44807;Lilya 4-ever;country;Sweden;letterboxd.com/films/country/sweden/
+44807;Lilya 4-ever;language;Swedish;letterboxd.com/films/language/swedish/
+44807;Lilya 4-ever;language;Russian;letterboxd.com/films/language/russian/
+44807;Lilya 4-ever;language;Swedish;letterboxd.com/films/language/swedish/
+44807;Lilya 4-ever;language;English;letterboxd.com/films/language/english/
 50152;Signs;studio;Touchstone Pictures;letterboxd.com/studio/touchstone-pictures/
 50152;Signs;studio;Blinding Edge Pictures;letterboxd.com/studio/blinding-edge-pictures/
 50152;Signs;studio;The Kennedy/Marshall Company;letterboxd.com/studio/the-kennedy-marshall-company/
@@ -5107,6 +5351,10 @@ film_id;film_title;key;value;link
 50225;The Bourne Identity;language;German;letterboxd.com/films/language/german/
 50225;The Bourne Identity;language;Dutch;letterboxd.com/films/language/dutch/
 50225;The Bourne Identity;language;Italian;letterboxd.com/films/language/italian/
+55370;An Erotic Vampire in Paris;studio;Video Vamp;letterboxd.com/studio/video-vamp/
+55370;An Erotic Vampire in Paris;studio;Artschiv Productions;letterboxd.com/studio/artschiv-productions/
+55370;An Erotic Vampire in Paris;country;USA;letterboxd.com/films/country/usa/
+55370;An Erotic Vampire in Paris;language;English;letterboxd.com/films/language/english/
 47420;Spirit: Stallion of the Cimarron;studio;DreamWorks Animation;letterboxd.com/studio/dreamworks-animation/
 47420;Spirit: Stallion of the Cimarron;studio;DreamWorks Pictures;letterboxd.com/studio/dreamworks-pictures/
 47420;Spirit: Stallion of the Cimarron;country;USA;letterboxd.com/films/country/usa/
@@ -5149,6 +5397,11 @@ film_id;film_title;key;value;link
 51561;Spider-Man;studio;Columbia Pictures;letterboxd.com/studio/columbia-pictures/
 51561;Spider-Man;country;USA;letterboxd.com/films/country/usa/
 51561;Spider-Man;language;English;letterboxd.com/films/language/english/
+49259;Panic Room;studio;Columbia Pictures;letterboxd.com/studio/columbia-pictures/
+49259;Panic Room;studio;Hofflund/Polone;letterboxd.com/studio/hofflund-polone/
+49259;Panic Room;studio;Indelible Pictures;letterboxd.com/studio/indelible-pictures/
+49259;Panic Room;country;USA;letterboxd.com/films/country/usa/
+49259;Panic Room;language;English;letterboxd.com/films/language/english/
 49184;Sympathy for Mr. Vengeance;studio;CJ Entertainment;letterboxd.com/studio/cj-entertainment/
 49184;Sympathy for Mr. Vengeance;studio;Studio Box;letterboxd.com/studio/studio-box/
 49184;Sympathy for Mr. Vengeance;country;South Korea;letterboxd.com/films/country/south-korea/
@@ -5175,8 +5428,8 @@ film_id;film_title;key;value;link
 45372;The Count of Monte Cristo;country;USA;letterboxd.com/films/country/usa/
 45372;The Count of Monte Cristo;language;English;letterboxd.com/films/language/english/
 45372;The Count of Monte Cristo;language;English;letterboxd.com/films/language/english/
-45372;The Count of Monte Cristo;language;Italian;letterboxd.com/films/language/italian/
 45372;The Count of Monte Cristo;language;Spanish;letterboxd.com/films/language/spanish/
+45372;The Count of Monte Cristo;language;Italian;letterboxd.com/films/language/italian/
 51297;Black Hawk Down;studio;Jerry Bruckheimer Films;letterboxd.com/studio/jerry-bruckheimer-films/
 51297;Black Hawk Down;studio;Revolution Studios;letterboxd.com/studio/revolution-studios/
 51297;Black Hawk Down;studio;Scott Free Productions;letterboxd.com/studio/scott-free-productions/
@@ -5199,8 +5452,11 @@ film_id;film_title;key;value;link
 50702;Vanilla Sky;studio;Paramount Pictures;letterboxd.com/studio/paramount-1/
 50702;Vanilla Sky;studio;Cruise/Wagner Productions;letterboxd.com/studio/cruise-wagner-productions-1/
 50702;Vanilla Sky;studio;Vinyl Films;letterboxd.com/studio/vinyl-films/
+50702;Vanilla Sky;studio;Sogecine;letterboxd.com/studio/sogecine/
 50702;Vanilla Sky;studio;Summit Entertainment;letterboxd.com/studio/summit-entertainment/
+50702;Vanilla Sky;studio;Artisan Entertainment;letterboxd.com/studio/artisan-entertainment/
 50702;Vanilla Sky;country;USA;letterboxd.com/films/country/usa/
+50702;Vanilla Sky;country;Spain;letterboxd.com/films/country/spain/
 50702;Vanilla Sky;language;English;letterboxd.com/films/language/english/
 50702;Vanilla Sky;language;English;letterboxd.com/films/language/english/
 50702;Vanilla Sky;language;Portuguese;letterboxd.com/films/language/portuguese/
@@ -5236,8 +5492,8 @@ film_id;film_title;key;value;link
 50580;Training Day;studio;WV Films II;letterboxd.com/studio/wv-films-ii/
 50580;Training Day;studio;Village Roadshow Pictures;letterboxd.com/studio/village-roadshow-pictures/
 50580;Training Day;studio;NPV Entertainment;letterboxd.com/studio/npv-entertainment/
-50580;Training Day;studio;Outlaw Productions;letterboxd.com/studio/outlaw-productions-1/
 50580;Training Day;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
+50580;Training Day;studio;Outlaw Productions;letterboxd.com/studio/outlaw-productions/
 50580;Training Day;country;USA;letterboxd.com/films/country/usa/
 50580;Training Day;language;English;letterboxd.com/films/language/english/
 50580;Training Day;language;English;letterboxd.com/films/language/english/
@@ -5269,7 +5525,7 @@ film_id;film_title;key;value;link
 51480;A.I. Artificial Intelligence;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
 51480;A.I. Artificial Intelligence;studio;DreamWorks Pictures;letterboxd.com/studio/dreamworks-pictures/
 51480;A.I. Artificial Intelligence;studio;Amblin Entertainment;letterboxd.com/studio/amblin-entertainment/
-51480;A.I. Artificial Intelligence;studio;Kubrick Productions;letterboxd.com/studio/stanley-kubrick-productions/
+51480;A.I. Artificial Intelligence;studio;Stanley Kubrick Productions;letterboxd.com/studio/stanley-kubrick-productions/
 51480;A.I. Artificial Intelligence;country;UK;letterboxd.com/films/country/uk/
 51480;A.I. Artificial Intelligence;country;USA;letterboxd.com/films/country/usa/
 51480;A.I. Artificial Intelligence;language;English;letterboxd.com/films/language/english/
@@ -5280,6 +5536,10 @@ film_id;film_title;key;value;link
 46813;The Fast and the Furious;country;Germany;letterboxd.com/films/country/germany/
 46813;The Fast and the Furious;country;USA;letterboxd.com/films/country/usa/
 46813;The Fast and the Furious;language;English;letterboxd.com/films/language/english/
+51068;Y Tu Mamá También;studio;Bésame Mucho Pictures;letterboxd.com/studio/besame-mucho-pictures/
+51068;Y Tu Mamá También;studio;Anhelo Productions;letterboxd.com/studio/anhelo-productions/
+51068;Y Tu Mamá También;country;Mexico;letterboxd.com/films/country/mexico/
+51068;Y Tu Mamá También;language;Spanish;letterboxd.com/films/language/spanish/
 51448;Pearl Harbor;studio;Touchstone Pictures;letterboxd.com/studio/touchstone-pictures/
 51448;Pearl Harbor;studio;Jerry Bruckheimer Films;letterboxd.com/studio/jerry-bruckheimer-films/
 51448;Pearl Harbor;country;USA;letterboxd.com/films/country/usa/
@@ -5304,12 +5564,9 @@ film_id;film_title;key;value;link
 50791;The Piano Teacher;language;French;letterboxd.com/films/language/french/
 50791;The Piano Teacher;language;French;letterboxd.com/films/language/french/
 50791;The Piano Teacher;language;German;letterboxd.com/films/language/german/
-51344;Shrek;studio;Pacific Data Images;letterboxd.com/studio/pacific-data-images/
-51344;Shrek;studio;DreamWorks Animation;letterboxd.com/studio/dreamworks-animation/
-51344;Shrek;country;USA;letterboxd.com/films/country/usa/
-51344;Shrek;language;English;letterboxd.com/films/language/english/
 51328;Moulin Rouge!;studio;20th Century Fox;letterboxd.com/studio/20th-century-fox/
 51328;Moulin Rouge!;studio;Bazmark;letterboxd.com/studio/bazmark-films/
+51328;Moulin Rouge!;studio;Fox;letterboxd.com/studio/fox/
 51328;Moulin Rouge!;country;Australia;letterboxd.com/films/country/australia/
 51328;Moulin Rouge!;country;USA;letterboxd.com/films/country/usa/
 51328;Moulin Rouge!;language;English;letterboxd.com/films/language/english/
@@ -5326,6 +5583,10 @@ film_id;film_title;key;value;link
 51858;Amélie;language;French;letterboxd.com/films/language/french/
 51858;Amélie;language;French;letterboxd.com/films/language/french/
 51858;Amélie;language;Russian;letterboxd.com/films/language/russian/
+51344;Shrek;studio;Pacific Data Images;letterboxd.com/studio/pacific-data-images/
+51344;Shrek;studio;DreamWorks Animation;letterboxd.com/studio/dreamworks-animation/
+51344;Shrek;country;USA;letterboxd.com/films/country/usa/
+51344;Shrek;language;English;letterboxd.com/films/language/english/
 51490;Bridget Jones's Diary;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
 51490;Bridget Jones's Diary;studio;StudioCanal;letterboxd.com/studio/studiocanal/
 51490;Bridget Jones's Diary;studio;Miramax;letterboxd.com/studio/miramax-1/
@@ -5350,6 +5611,24 @@ film_id;film_title;key;value;link
 51910;Donnie Darko;studio;Pandora Cinema;letterboxd.com/studio/pandora-cinema/
 51910;Donnie Darko;country;USA;letterboxd.com/films/country/usa/
 51910;Donnie Darko;language;English;letterboxd.com/films/language/english/
+51299;Enemy at the Gates;studio;Paramount Pictures;letterboxd.com/studio/paramount-1/
+51299;Enemy at the Gates;studio;Mandalay Pictures;letterboxd.com/studio/mandalay-pictures/
+51299;Enemy at the Gates;studio;KC Medien;letterboxd.com/studio/kc-medien/
+51299;Enemy at the Gates;studio;Reperage;letterboxd.com/studio/reperage/
+51299;Enemy at the Gates;studio;DOS;letterboxd.com/studio/dos/
+51299;Enemy at the Gates;studio;MP Film Management;letterboxd.com/studio/mp-film-management/
+51299;Enemy at the Gates;studio;Little Bird;letterboxd.com/studio/little-bird/
+51299;Enemy at the Gates;studio;Lions Gate Films;letterboxd.com/studio/lions-gate-films-1/
+51299;Enemy at the Gates;studio;Swanford Films;letterboxd.com/studio/swanford-films/
+51299;Enemy at the Gates;country;France;letterboxd.com/films/country/france/
+51299;Enemy at the Gates;country;Germany;letterboxd.com/films/country/germany/
+51299;Enemy at the Gates;country;Ireland;letterboxd.com/films/country/ireland/
+51299;Enemy at the Gates;country;UK;letterboxd.com/films/country/uk/
+51299;Enemy at the Gates;country;USA;letterboxd.com/films/country/usa/
+51299;Enemy at the Gates;language;English;letterboxd.com/films/language/english/
+51299;Enemy at the Gates;language;German;letterboxd.com/films/language/german/
+51299;Enemy at the Gates;language;English;letterboxd.com/films/language/english/
+51299;Enemy at the Gates;language;Russian;letterboxd.com/films/language/russian/
 49810;Battle Royale;studio;Toei Company;letterboxd.com/studio/toei-company-1/
 49810;Battle Royale;studio;WOWOW;letterboxd.com/studio/wowow/
 49810;Battle Royale;studio;AM Associates;letterboxd.com/studio/am-associates/
@@ -5386,6 +5665,8 @@ film_id;film_title;key;value;link
 24788;A Dog's Will;studio;Lereby Produções;letterboxd.com/studio/lereby-producoes-1/
 24788;A Dog's Will;studio;Globo Filmes;letterboxd.com/studio/globo-filmes/
 24788;A Dog's Will;country;Brazil;letterboxd.com/films/country/brazil/
+24788;A Dog's Will;language;Portuguese;letterboxd.com/films/language/portuguese/
+24788;A Dog's Will;language;Latin;letterboxd.com/films/language/latin/
 24788;A Dog's Will;language;Portuguese;letterboxd.com/films/language/portuguese/
 51973;Memento;studio;Newmarket Films;letterboxd.com/studio/newmarket-films/
 51973;Memento;studio;Summit Entertainment;letterboxd.com/studio/summit-entertainment/
@@ -5458,6 +5739,10 @@ film_id;film_title;key;value;link
 2701;Dancer in the Dark;country;Norway;letterboxd.com/films/country/norway/
 2701;Dancer in the Dark;country;Sweden;letterboxd.com/films/country/sweden/
 2701;Dancer in the Dark;language;English;letterboxd.com/films/language/english/
+51990;Amores Perros;studio;Altavista Films;letterboxd.com/studio/altavista-films/
+51990;Amores Perros;studio;Zeta Film;letterboxd.com/studio/zeta-film-mx/
+51990;Amores Perros;country;Mexico;letterboxd.com/films/country/mexico/
+51990;Amores Perros;language;Spanish;letterboxd.com/films/language/spanish/
 51483;Requiem for a Dream;studio;Artisan Entertainment;letterboxd.com/studio/artisan-entertainment/
 51483;Requiem for a Dream;studio;Thousand Words;letterboxd.com/studio/thousand-words/
 51483;Requiem for a Dream;studio;Protozoa Pictures;letterboxd.com/studio/protozoa-pictures/
@@ -5497,7 +5782,7 @@ film_id;film_title;key;value;link
 51097;American Psycho;studio;Lionsgate;letterboxd.com/studio/lionsgate-1/
 51097;American Psycho;studio;Pressman Film;letterboxd.com/studio/pressman-film/
 51097;American Psycho;studio;Muse Productions;letterboxd.com/studio/muse-productions/
-51097;American Psycho;studio;Am Psycho Productions;letterboxd.com/studio/am-psycho-productions/
+51097;American Psycho;studio;Christian Halsey Solomon Productions;letterboxd.com/studio/christian-halsey-solomon-productions/
 51097;American Psycho;country;Canada;letterboxd.com/films/country/canada/
 51097;American Psycho;country;USA;letterboxd.com/films/country/usa/
 51097;American Psycho;language;English;letterboxd.com/films/language/english/
@@ -5557,9 +5842,7 @@ film_id;film_title;key;value;link
 42942;Beau Travail;language;Russian;letterboxd.com/films/language/russian/
 42942;Beau Travail;language;Turkish;letterboxd.com/films/language/turkish/
 51717;Eyes Wide Shut;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
-51717;Eyes Wide Shut;studio;Pole Star;letterboxd.com/studio/pole-star/
-51717;Eyes Wide Shut;studio;Hobby Films;letterboxd.com/studio/hobby-films/
-51717;Eyes Wide Shut;studio;Kubrick Productions;letterboxd.com/studio/stanley-kubrick-productions/
+51717;Eyes Wide Shut;studio;Stanley Kubrick Productions;letterboxd.com/studio/stanley-kubrick-productions/
 51717;Eyes Wide Shut;country;UK;letterboxd.com/films/country/uk/
 51717;Eyes Wide Shut;country;USA;letterboxd.com/films/country/usa/
 51717;Eyes Wide Shut;language;English;letterboxd.com/films/language/english/
@@ -5581,6 +5864,11 @@ film_id;film_title;key;value;link
 50711;Star Wars: Episode I – The Phantom Menace;studio;Lucasfilm Ltd.;letterboxd.com/studio/lucasfilm-ltd-1/
 50711;Star Wars: Episode I – The Phantom Menace;country;USA;letterboxd.com/films/country/usa/
 50711;Star Wars: Episode I – The Phantom Menace;language;English;letterboxd.com/films/language/english/
+51156;The Thirteenth Floor;studio;Centropolis Film Productions;letterboxd.com/studio/centropolis-film-productions/
+51156;The Thirteenth Floor;studio;Columbia Pictures;letterboxd.com/studio/columbia-pictures/
+51156;The Thirteenth Floor;country;Germany;letterboxd.com/films/country/germany/
+51156;The Thirteenth Floor;country;USA;letterboxd.com/films/country/usa/
+51156;The Thirteenth Floor;language;English;letterboxd.com/films/language/english/
 51554;The Mummy;studio;Alphaville Films;letterboxd.com/studio/alphaville-films/
 51554;The Mummy;country;USA;letterboxd.com/films/country/usa/
 51554;The Mummy;language;English;letterboxd.com/films/language/english/
@@ -5667,6 +5955,11 @@ film_id;film_title;key;value;link
 51295;Saving Private Ryan;language;German;letterboxd.com/films/language/german/
 51295;Saving Private Ryan;language;English;letterboxd.com/films/language/english/
 51295;Saving Private Ryan;language;French;letterboxd.com/films/language/french/
+45197;Small Soldiers;studio;DreamWorks Pictures;letterboxd.com/studio/dreamworks-pictures/
+45197;Small Soldiers;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
+45197;Small Soldiers;studio;Amblin Entertainment;letterboxd.com/studio/amblin-entertainment/
+45197;Small Soldiers;country;USA;letterboxd.com/films/country/usa/
+45197;Small Soldiers;language;English;letterboxd.com/films/language/english/
 51977;American History X;studio;New Line Cinema;letterboxd.com/studio/new-line-cinema/
 51977;American History X;studio;Savoy Pictures;letterboxd.com/studio/savoy-pictures/
 51977;American History X;studio;The Turman-Morrissey Company;letterboxd.com/studio/the-turman-morrissey-company/
@@ -5691,6 +5984,10 @@ film_id;film_title;key;value;link
 50725;Fear and Loathing in Las Vegas;studio;Shark Productions;letterboxd.com/studio/shark-productions/
 50725;Fear and Loathing in Las Vegas;country;USA;letterboxd.com/films/country/usa/
 50725;Fear and Loathing in Las Vegas;language;English;letterboxd.com/films/language/english/
+51506;Wild Things;studio;Mandalay Entertainment;letterboxd.com/studio/mandalay-entertainment/
+51506;Wild Things;studio;Columbia Pictures;letterboxd.com/studio/columbia-pictures/
+51506;Wild Things;country;USA;letterboxd.com/films/country/usa/
+51506;Wild Things;language;English;letterboxd.com/films/language/english/
 47280;The Man in the Iron Mask;studio;United Artists;letterboxd.com/studio/united-artists/
 47280;The Man in the Iron Mask;studio;Metro-Goldwyn-Mayer;letterboxd.com/studio/metro-goldwyn-mayer-1/
 47280;The Man in the Iron Mask;country;USA;letterboxd.com/films/country/usa/
@@ -5712,7 +6009,6 @@ film_id;film_title;key;value;link
 51458;Central Station;language;Portuguese;letterboxd.com/films/language/portuguese/
 51935;The Big Lebowski;studio;PolyGram Filmed Entertainment;letterboxd.com/studio/polygram-filmed-entertainment/
 51935;The Big Lebowski;studio;Working Title Films;letterboxd.com/studio/working-title-films/
-51935;The Big Lebowski;studio;Gramercy Pictures;letterboxd.com/studio/gramercy-pictures/
 51935;The Big Lebowski;country;UK;letterboxd.com/films/country/uk/
 51935;The Big Lebowski;country;USA;letterboxd.com/films/country/usa/
 51935;The Big Lebowski;language;English;letterboxd.com/films/language/english/
@@ -5733,6 +6029,12 @@ film_id;film_title;key;value;link
 47153;Anastasia;language;English;letterboxd.com/films/language/english/
 47153;Anastasia;language;Russian;letterboxd.com/films/language/russian/
 47153;Anastasia;language;French;letterboxd.com/films/language/french/
+51555;Starship Troopers;studio;TriStar Pictures;letterboxd.com/studio/tristar-pictures-1/
+51555;Starship Troopers;studio;Touchstone Pictures;letterboxd.com/studio/touchstone-pictures/
+51555;Starship Troopers;studio;Jon Davison Productions;letterboxd.com/studio/jon-davison-productions/
+51555;Starship Troopers;studio;Big Bug Pictures;letterboxd.com/studio/big-bug-pictures/
+51555;Starship Troopers;country;USA;letterboxd.com/films/country/usa/
+51555;Starship Troopers;language;English;letterboxd.com/films/language/english/
 51524;Titanic;studio;Paramount Pictures;letterboxd.com/studio/paramount-1/
 51524;Titanic;studio;20th Century Fox;letterboxd.com/studio/20th-century-fox/
 51524;Titanic;studio;Lightstorm Entertainment;letterboxd.com/studio/lightstorm-entertainment/
@@ -5744,6 +6046,26 @@ film_id;film_title;key;value;link
 51524;Titanic;language;Swedish;letterboxd.com/films/language/swedish/
 51524;Titanic;language;Italian;letterboxd.com/films/language/italian/
 51524;Titanic;language;Russian;letterboxd.com/films/language/russian/
+51191;Seven Years in Tibet;studio;TriStar Pictures;letterboxd.com/studio/tristar-pictures-1/
+51191;Seven Years in Tibet;studio;Mandalay Entertainment;letterboxd.com/studio/mandalay-entertainment/
+51191;Seven Years in Tibet;studio;Applecross;letterboxd.com/studio/applecross/
+51191;Seven Years in Tibet;studio;Reperage & Vanguard Films;letterboxd.com/studio/reperage-vanguard-films/
+51191;Seven Years in Tibet;studio;Sony Pictures;letterboxd.com/studio/sony-pictures/
+51191;Seven Years in Tibet;country;UK;letterboxd.com/films/country/uk/
+51191;Seven Years in Tibet;country;USA;letterboxd.com/films/country/usa/
+51191;Seven Years in Tibet;language;English;letterboxd.com/films/language/english/
+51191;Seven Years in Tibet;language;Chinese;letterboxd.com/films/language/chinese/
+51191;Seven Years in Tibet;language;English;letterboxd.com/films/language/english/
+51191;Seven Years in Tibet;language;Hindi;letterboxd.com/films/language/hindi/
+51191;Seven Years in Tibet;language;Portuguese;letterboxd.com/films/language/portuguese/
+51191;Seven Years in Tibet;language;German;letterboxd.com/films/language/german/
+51191;Seven Years in Tibet;language;Tibetan;letterboxd.com/films/language/tibetan/
+51370;Gattaca;studio;Jersey Films;letterboxd.com/studio/jersey-films/
+51370;Gattaca;studio;Columbia Pictures;letterboxd.com/studio/columbia-pictures/
+51370;Gattaca;country;USA;letterboxd.com/films/country/usa/
+51370;Gattaca;language;English;letterboxd.com/films/language/english/
+51370;Gattaca;language;English;letterboxd.com/films/language/english/
+51370;Gattaca;language;Esperanto;letterboxd.com/films/language/esperanto/
 49343;G.I. Jane;studio;Caravan Pictures;letterboxd.com/studio/caravan-pictures/
 49343;G.I. Jane;studio;Largo Entertainment;letterboxd.com/studio/largo-entertainment/
 49343;G.I. Jane;studio;Trap-Two-Zero Productions;letterboxd.com/studio/trap-two-zero-productions/
@@ -5834,6 +6156,10 @@ film_id;film_title;key;value;link
 46585;Escape from L.A.;studio;Rysher Entertainment;letterboxd.com/studio/rysher-entertainment/
 46585;Escape from L.A.;country;USA;letterboxd.com/films/country/usa/
 46585;Escape from L.A.;language;English;letterboxd.com/films/language/english/
+51519;Independence Day;studio;20th Century Fox;letterboxd.com/studio/20th-century-fox/
+51519;Independence Day;studio;Centropolis Entertainment;letterboxd.com/studio/centropolis-entertainment/
+51519;Independence Day;country;USA;letterboxd.com/films/country/usa/
+51519;Independence Day;language;English;letterboxd.com/films/language/english/
 46127;The Hunchback of Notre Dame;studio;Walt Disney Pictures;letterboxd.com/studio/walt-disney-pictures/
 46127;The Hunchback of Notre Dame;studio;Walt Disney Feature Animation;letterboxd.com/studio/walt-disney-feature-animation/
 46127;The Hunchback of Notre Dame;country;USA;letterboxd.com/films/country/usa/
@@ -5991,6 +6317,8 @@ film_id;film_title;key;value;link
 50904;Speed;studio;The Mark Gordon Company;letterboxd.com/studio/the-mark-gordon-company/
 50904;Speed;country;USA;letterboxd.com/films/country/usa/
 50904;Speed;language;English;letterboxd.com/films/language/english/
+50904;Speed;language;English;letterboxd.com/films/language/english/
+50904;Speed;language;Georgian;letterboxd.com/films/language/georgian/
 51444;Pulp Fiction;studio;Miramax;letterboxd.com/studio/miramax-1/
 51444;Pulp Fiction;studio;A Band Apart;letterboxd.com/studio/a-band-apart/
 51444;Pulp Fiction;studio;Jersey Films;letterboxd.com/studio/jersey-films/
@@ -6018,6 +6346,11 @@ film_id;film_title;key;value;link
 43017;Rudy;language;English;letterboxd.com/films/language/english/
 43017;Rudy;language;English;letterboxd.com/films/language/english/
 43017;Rudy;language;Spanish;letterboxd.com/films/language/spanish/
+29698;Totally F***ed Up;studio;Blurco;letterboxd.com/studio/blurco/
+29698;Totally F***ed Up;studio;Desperate Pictures;letterboxd.com/studio/desperate-pictures/
+29698;Totally F***ed Up;studio;Muscle + Hate Studios;letterboxd.com/studio/muscle-hate-studios/
+29698;Totally F***ed Up;country;USA;letterboxd.com/films/country/usa/
+29698;Totally F***ed Up;language;English;letterboxd.com/films/language/english/
 51942;Three Colours: Blue;studio;France 3 Cinéma;letterboxd.com/studio/france-3-cinema-1/
 51942;Three Colours: Blue;studio;CED Productions;letterboxd.com/studio/ced-productions/
 51942;Three Colours: Blue;studio;MK2 Films;letterboxd.com/studio/mk2-films-1/
@@ -6038,6 +6371,11 @@ film_id;film_title;key;value;link
 51733;Jurassic Park;language;English;letterboxd.com/films/language/english/
 51733;Jurassic Park;language;English;letterboxd.com/films/language/english/
 51733;Jurassic Park;language;Spanish;letterboxd.com/films/language/spanish/
+50594;Hard Target;studio;Alphaville Films;letterboxd.com/studio/alphaville-films/
+50594;Hard Target;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
+50594;Hard Target;studio;Renaissance Pictures;letterboxd.com/studio/renaissance-pictures/
+50594;Hard Target;country;USA;letterboxd.com/films/country/usa/
+50594;Hard Target;language;English;letterboxd.com/films/language/english/
 51914;Groundhog Day;studio;Columbia Pictures;letterboxd.com/studio/columbia-pictures/
 51914;Groundhog Day;country;USA;letterboxd.com/films/country/usa/
 51914;Groundhog Day;language;English;letterboxd.com/films/language/english/
@@ -6136,9 +6474,16 @@ film_id;film_title;key;value;link
 51782;The Silence of the Lambs;studio;Strong Heart;letterboxd.com/studio/strong-heart-demme-production/
 51782;The Silence of the Lambs;country;USA;letterboxd.com/films/country/usa/
 51782;The Silence of the Lambs;language;English;letterboxd.com/films/language/english/
+51889;Edward Scissorhands;studio;20th Century Fox;letterboxd.com/studio/20th-century-fox/
+51889;Edward Scissorhands;country;USA;letterboxd.com/films/country/usa/
+51889;Edward Scissorhands;language;English;letterboxd.com/films/language/english/
 50358;Jacob's Ladder;studio;Carolco Pictures;letterboxd.com/studio/carolco-pictures-1/
 50358;Jacob's Ladder;country;USA;letterboxd.com/films/country/usa/
 50358;Jacob's Ladder;language;English;letterboxd.com/films/language/english/
+97190;The Company of Strangers;studio;First Run Features;letterboxd.com/studio/first-run-features/
+97190;The Company of Strangers;studio;ONF | NFB;letterboxd.com/studio/onf-nfb/
+97190;The Company of Strangers;country;Canada;letterboxd.com/films/country/canada/
+97190;The Company of Strangers;language;English;letterboxd.com/films/language/english/
 51383;GoodFellas;studio;Winkler Films;letterboxd.com/studio/winkler-films/
 51383;GoodFellas;country;USA;letterboxd.com/films/country/usa/
 51383;GoodFellas;language;English;letterboxd.com/films/language/english/
@@ -6154,9 +6499,8 @@ film_id;film_title;key;value;link
 51291;Total Recall;country;Mexico;letterboxd.com/films/country/mexico/
 51291;Total Recall;country;USA;letterboxd.com/films/country/usa/
 51291;Total Recall;language;English;letterboxd.com/films/language/english/
-51623;Wild at Heart;studio;Samuel Goldwyn Company;letterboxd.com/studio/samuel-goldwyn-company/
-51623;Wild at Heart;studio;Propaganda Films;letterboxd.com/studio/propaganda-films/
 51623;Wild at Heart;studio;PolyGram Filmed Entertainment;letterboxd.com/studio/polygram-filmed-entertainment/
+51623;Wild at Heart;studio;Propaganda Films;letterboxd.com/studio/propaganda-films/
 51623;Wild at Heart;country;USA;letterboxd.com/films/country/usa/
 51623;Wild at Heart;language;English;letterboxd.com/films/language/english/
 47233;Tremors;studio;Wilson-Maddock Production;letterboxd.com/studio/wilson-maddock-production/
@@ -6235,6 +6579,14 @@ film_id;film_title;key;value;link
 48730;Elvira: Mistress of the Dark;studio;NBC Productions;letterboxd.com/studio/nbc-productions/
 48730;Elvira: Mistress of the Dark;country;USA;letterboxd.com/films/country/usa/
 48730;Elvira: Mistress of the Dark;language;English;letterboxd.com/films/language/english/
+47628;The Vanishing;studio;MGS Film;letterboxd.com/studio/mgs-film/
+47628;The Vanishing;country;France;letterboxd.com/films/country/france/
+47628;The Vanishing;country;Germany;letterboxd.com/films/country/germany/
+47628;The Vanishing;country;Netherlands;letterboxd.com/films/country/netherlands/
+47628;The Vanishing;language;Dutch;letterboxd.com/films/language/dutch/
+47628;The Vanishing;language;English;letterboxd.com/films/language/english/
+47628;The Vanishing;language;Dutch;letterboxd.com/films/language/dutch/
+47628;The Vanishing;language;French;letterboxd.com/films/language/french/
 51556;Die Hard;studio;Gordon Company;letterboxd.com/studio/gordon-company/
 51556;Die Hard;studio;Silver Pictures;letterboxd.com/studio/silver-pictures/
 51556;Die Hard;studio;20th Century Fox;letterboxd.com/studio/20th-century-fox/
@@ -6279,7 +6631,7 @@ film_id;film_title;key;value;link
 48797;RoboCop;country;USA;letterboxd.com/films/country/usa/
 48797;RoboCop;language;English;letterboxd.com/films/language/english/
 51521;Full Metal Jacket;studio;Natant;letterboxd.com/studio/natant/
-51521;Full Metal Jacket;studio;Kubrick Productions;letterboxd.com/studio/stanley-kubrick-productions/
+51521;Full Metal Jacket;studio;Stanley Kubrick Productions;letterboxd.com/studio/stanley-kubrick-productions/
 51521;Full Metal Jacket;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
 51521;Full Metal Jacket;country;UK;letterboxd.com/films/country/uk/
 51521;Full Metal Jacket;country;USA;letterboxd.com/films/country/usa/
@@ -6296,6 +6648,9 @@ film_id;film_title;key;value;link
 51944;Predator;language;English;letterboxd.com/films/language/english/
 51944;Predator;language;English;letterboxd.com/films/language/english/
 51944;Predator;language;Spanish;letterboxd.com/films/language/spanish/
+48677;Killer Workout;studio;Shapiro Entertainment;letterboxd.com/studio/shapiro-entertainment/
+48677;Killer Workout;country;USA;letterboxd.com/films/country/usa/
+48677;Killer Workout;language;English;letterboxd.com/films/language/english/
 51387;Evil Dead II;studio;Rosebud Releasing Corporation;letterboxd.com/studio/rosebud-releasing-corporation/
 51387;Evil Dead II;studio;Renaissance Pictures;letterboxd.com/studio/renaissance-pictures/
 51387;Evil Dead II;studio;The De Laurentiis Company;letterboxd.com/studio/dino-de-laurentiis-company/
@@ -6394,8 +6749,12 @@ film_id;film_title;key;value;link
 51469;Paris, Texas;studio;Road Movies;letterboxd.com/studio/road-movies-1/
 51469;Paris, Texas;studio;Argos Films;letterboxd.com/studio/argos-films/
 51469;Paris, Texas;studio;Wim Wenders Stiftung;letterboxd.com/studio/wim-wenders-stiftung/
+51469;Paris, Texas;studio;WDR;letterboxd.com/studio/wdr/
+51469;Paris, Texas;studio;Channel Four Films;letterboxd.com/studio/channel-four-films/
+51469;Paris, Texas;studio;Pro-ject Filmproduktion;letterboxd.com/studio/pro-ject-filmproduktion/
 51469;Paris, Texas;country;France;letterboxd.com/films/country/france/
 51469;Paris, Texas;country;Germany;letterboxd.com/films/country/germany/
+51469;Paris, Texas;country;UK;letterboxd.com/films/country/uk/
 51469;Paris, Texas;language;English;letterboxd.com/films/language/english/
 51469;Paris, Texas;language;English;letterboxd.com/films/language/english/
 51469;Paris, Texas;language;Spanish;letterboxd.com/films/language/spanish/
@@ -6508,6 +6867,9 @@ film_id;film_title;key;value;link
 49632;Flash Gordon;country;UK;letterboxd.com/films/country/uk/
 49632;Flash Gordon;country;USA;letterboxd.com/films/country/usa/
 49632;Flash Gordon;language;English;letterboxd.com/films/language/english/
+42200;Xanadu;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
+42200;Xanadu;country;USA;letterboxd.com/films/country/usa/
+42200;Xanadu;language;English;letterboxd.com/films/language/english/
 51432;The Shining;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
 51432;The Shining;studio;Peregrine;letterboxd.com/studio/peregrine/
 51432;The Shining;studio;Hawk Films;letterboxd.com/studio/hawk-films/
@@ -6573,6 +6935,16 @@ film_id;film_title;key;value;link
 60298;Halloween;studio;Falcon International Productions;letterboxd.com/studio/falcon-international-productions/
 60298;Halloween;country;USA;letterboxd.com/films/country/usa/
 60298;Halloween;language;English;letterboxd.com/films/language/english/
+41461;Days of Heaven;studio;Paramount Pictures;letterboxd.com/studio/paramount-1/
+41461;Days of Heaven;country;USA;letterboxd.com/films/country/usa/
+41461;Days of Heaven;language;English;letterboxd.com/films/language/english/
+41461;Days of Heaven;language;Italian;letterboxd.com/films/language/italian/
+41461;Days of Heaven;language;English;letterboxd.com/films/language/english/
+51230;Dawn of the Dead;studio;Dawn Associates;letterboxd.com/studio/dawn-associates/
+51230;Dawn of the Dead;studio;Laurel Entertainment;letterboxd.com/studio/laurel-entertainment/
+51230;Dawn of the Dead;country;Italy;letterboxd.com/films/country/italy/
+51230;Dawn of the Dead;country;USA;letterboxd.com/films/country/usa/
+51230;Dawn of the Dead;language;English;letterboxd.com/films/language/english/
 40726;Laserblast;studio;Selected Pictures;letterboxd.com/studio/selected-pictures/
 40726;Laserblast;studio;Charles Band Productions;letterboxd.com/studio/charles-band-productions/
 40726;Laserblast;studio;The Irwin Yablans Company;letterboxd.com/studio/the-irwin-yablans-company/
@@ -6637,7 +7009,7 @@ film_id;film_title;key;value;link
 45260;Rollerball;studio;Algonquin;letterboxd.com/studio/algonquin/
 45260;Rollerball;country;USA;letterboxd.com/films/country/usa/
 45260;Rollerball;language;English;letterboxd.com/films/language/english/
-51542;Jaws;studio;Zanuck/Brown Productions;letterboxd.com/studio/zanuck-brown-productions/
+51542;Jaws;studio;The Zanuck/Brown Company;letterboxd.com/studio/zanuck-brown-productions/
 51542;Jaws;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
 51542;Jaws;country;USA;letterboxd.com/films/country/usa/
 51542;Jaws;language;English;letterboxd.com/films/language/english/
@@ -6650,6 +7022,13 @@ film_id;film_title;key;value;link
 51816;The Godfather Part II;language;Italian;letterboxd.com/films/language/italian/
 51816;The Godfather Part II;language;Latin;letterboxd.com/films/language/latin/
 51816;The Godfather Part II;language;Spanish;letterboxd.com/films/language/spanish/
+41305;Black Christmas;studio;August Films;letterboxd.com/studio/august-films/
+41305;Black Christmas;studio;Film Funding Ltd. of Canada;letterboxd.com/studio/film-funding-ltd-of-canada/
+41305;Black Christmas;studio;Vision IV;letterboxd.com/studio/vision-iv/
+41305;Black Christmas;studio;Canadian Film Development Corporation;letterboxd.com/studio/canadian-film-development-corporation/
+41305;Black Christmas;studio;Famous Players;letterboxd.com/studio/famous-players/
+41305;Black Christmas;country;Canada;letterboxd.com/films/country/canada/
+41305;Black Christmas;language;English;letterboxd.com/films/language/english/
 31985;The Texas Chain Saw Massacre;studio;Vortex;letterboxd.com/studio/vortex/
 31985;The Texas Chain Saw Massacre;studio;Henkel Productions;letterboxd.com/studio/henkel-productions/
 31985;The Texas Chain Saw Massacre;studio;Hooper Productions;letterboxd.com/studio/hooper-productions/
@@ -6668,9 +7047,9 @@ film_id;film_title;key;value;link
 45631;Blazing Saddles;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
 45631;Blazing Saddles;country;USA;letterboxd.com/films/country/usa/
 45631;Blazing Saddles;language;English;letterboxd.com/films/language/english/
-45631;Blazing Saddles;language;Yiddish;letterboxd.com/films/language/yiddish/
 45631;Blazing Saddles;language;German;letterboxd.com/films/language/german/
 45631;Blazing Saddles;language;English;letterboxd.com/films/language/english/
+45631;Blazing Saddles;language;Yiddish;letterboxd.com/films/language/yiddish/
 41662;The Wicker Man;studio;British Lion Films;letterboxd.com/studio/british-lion-films/
 41662;The Wicker Man;country;UK;letterboxd.com/films/country/uk/
 41662;The Wicker Man;language;English;letterboxd.com/films/language/english/
@@ -6687,16 +7066,29 @@ film_id;film_title;key;value;link
 44492;Jesus Christ Superstar;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
 44492;Jesus Christ Superstar;country;USA;letterboxd.com/films/country/usa/
 44492;Jesus Christ Superstar;language;English;letterboxd.com/films/language/english/
+15;Belladonna of Sadness;studio;Nippon Herald Films;letterboxd.com/studio/nippon-herald-films-1/
+15;Belladonna of Sadness;studio;Mushi Production;letterboxd.com/studio/mushi-production/
+15;Belladonna of Sadness;country;Japan;letterboxd.com/films/country/japan/
+15;Belladonna of Sadness;language;Japanese;letterboxd.com/films/language/japanese/
+44799;Soylent Green;studio;Metro-Goldwyn-Mayer;letterboxd.com/studio/metro-goldwyn-mayer-1/
+44799;Soylent Green;country;USA;letterboxd.com/films/country/usa/
+44799;Soylent Green;language;English;letterboxd.com/films/language/english/
+44799;Soylent Green;language;English;letterboxd.com/films/language/english/
+44799;Soylent Green;language;Spanish;letterboxd.com/films/language/spanish/
 50612;Aguirre, the Wrath of God;studio;Werner Herzog Filmproduktion;letterboxd.com/studio/werner-herzog-filmproduktion/
 50612;Aguirre, the Wrath of God;studio;HR;letterboxd.com/studio/hr-2/
 50612;Aguirre, the Wrath of God;country;Germany;letterboxd.com/films/country/germany/
 50612;Aguirre, the Wrath of God;language;German;letterboxd.com/films/language/german/
+50612;Aguirre, the Wrath of God;language;Quechua;letterboxd.com/films/language/quechua/
 50612;Aguirre, the Wrath of God;language;German;letterboxd.com/films/language/german/
 50612;Aguirre, the Wrath of God;language;Spanish;letterboxd.com/films/language/spanish/
-50612;Aguirre, the Wrath of God;language;Quechua;letterboxd.com/films/language/quechua/
 18412;Intimate Confessions of a Chinese Courtesan;studio;Shaw Brothers;letterboxd.com/studio/shaw-brothers/
 18412;Intimate Confessions of a Chinese Courtesan;country;Hong Kong;letterboxd.com/films/country/hong-kong/
 18412;Intimate Confessions of a Chinese Courtesan;language;Chinese;letterboxd.com/films/language/chinese/
+51434;Pink Flamingos;studio;Dreamland Productions;letterboxd.com/studio/dreamland-productions/
+51434;Pink Flamingos;studio;New Line Cinema;letterboxd.com/studio/new-line-cinema/
+51434;Pink Flamingos;country;USA;letterboxd.com/films/country/usa/
+51434;Pink Flamingos;language;English;letterboxd.com/films/language/english/
 51818;The Godfather;studio;Paramount Pictures;letterboxd.com/studio/paramount-1/
 51818;The Godfather;studio;Alfran Productions;letterboxd.com/studio/alfran-productions/
 51818;The Godfather;country;USA;letterboxd.com/films/country/usa/
@@ -6706,7 +7098,7 @@ film_id;film_title;key;value;link
 51818;The Godfather;language;Italian;letterboxd.com/films/language/italian/
 51867;A Clockwork Orange;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
 51867;A Clockwork Orange;studio;Hawk Films;letterboxd.com/studio/hawk-films/
-51867;A Clockwork Orange;studio;Kubrick Productions;letterboxd.com/studio/stanley-kubrick-productions/
+51867;A Clockwork Orange;studio;Stanley Kubrick Productions;letterboxd.com/studio/stanley-kubrick-productions/
 51867;A Clockwork Orange;studio;Polaris Productions Limited;letterboxd.com/studio/polaris-productions-limited/
 51867;A Clockwork Orange;country;UK;letterboxd.com/films/country/uk/
 51867;A Clockwork Orange;language;English;letterboxd.com/films/language/english/
@@ -6714,6 +7106,9 @@ film_id;film_title;key;value;link
 48788;Donkey Skin;studio;Parc Film;letterboxd.com/studio/parc-film/
 48788;Donkey Skin;country;France;letterboxd.com/films/country/france/
 48788;Donkey Skin;language;French;letterboxd.com/films/language/french/
+19013;Valerie and Her Week of Wonders;studio;Filmové studio Barrandov;letterboxd.com/studio/filmove-studio-barrandov/
+19013;Valerie and Her Week of Wonders;country;Czechoslovakia;letterboxd.com/films/country/czechoslovakia/
+19013;Valerie and Her Week of Wonders;language;Czech;letterboxd.com/films/language/czech/
 61965;Antonio das Mortes;studio;Mapa Filmes;letterboxd.com/studio/mapa-filmes-1/
 61965;Antonio das Mortes;studio;Claude Antoine Films;letterboxd.com/studio/claude-antoine-films/
 61965;Antonio das Mortes;studio;Munich Tele-Pool;letterboxd.com/studio/munich-tele-pool/
@@ -6756,6 +7151,14 @@ film_id;film_title;key;value;link
 45263;Repulsion;studio;Tekli British Productions;letterboxd.com/studio/tekli-british-productions/
 45263;Repulsion;country;UK;letterboxd.com/films/country/uk/
 45263;Repulsion;language;English;letterboxd.com/films/language/english/
+33965;Blood and Black Lace;studio;Emmepi Cinematografica;letterboxd.com/studio/emmepi-cinematografica/
+33965;Blood and Black Lace;studio;Monachia Film;letterboxd.com/studio/monachia-film/
+33965;Blood and Black Lace;studio;Les Productions Georges de Beauregard;letterboxd.com/studio/les-productions-georges-de-beauregard/
+33965;Blood and Black Lace;studio;Top-Film;letterboxd.com/studio/top-film/
+33965;Blood and Black Lace;country;Germany;letterboxd.com/films/country/germany/
+33965;Blood and Black Lace;country;France;letterboxd.com/films/country/france/
+33965;Blood and Black Lace;country;Italy;letterboxd.com/films/country/italy/
+33965;Blood and Black Lace;language;Italian;letterboxd.com/films/language/italian/
 48532;The Umbrellas of Cherbourg;studio;Parc Film;letterboxd.com/studio/parc-film/
 48532;The Umbrellas of Cherbourg;studio;Madeleine Films;letterboxd.com/studio/madeleine-films/
 48532;The Umbrellas of Cherbourg;studio;Beta Film;letterboxd.com/studio/beta-film/
@@ -6763,7 +7166,7 @@ film_id;film_title;key;value;link
 48532;The Umbrellas of Cherbourg;country;Germany;letterboxd.com/films/country/germany/
 48532;The Umbrellas of Cherbourg;language;French;letterboxd.com/films/language/french/
 51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;studio;Columbia Pictures;letterboxd.com/studio/columbia-pictures/
-51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;studio;Kubrick Productions;letterboxd.com/studio/stanley-kubrick-productions/
+51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;studio;Stanley Kubrick Productions;letterboxd.com/studio/stanley-kubrick-productions/
 51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;studio;Hawk Films;letterboxd.com/studio/hawk-films/
 51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;country;UK;letterboxd.com/films/country/uk/
 51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;country;USA;letterboxd.com/films/country/usa/
@@ -6839,7 +7242,6 @@ film_id;film_title;key;value;link
 51669;Vertigo;country;USA;letterboxd.com/films/country/usa/
 51669;Vertigo;language;English;letterboxd.com/films/language/english/
 27175;Witness for the Prosecution;studio;Edward Small Productions;letterboxd.com/studio/edward-small-productions/
-27175;Witness for the Prosecution;studio;United Artists;letterboxd.com/studio/united-artists/
 27175;Witness for the Prosecution;country;USA;letterboxd.com/films/country/usa/
 27175;Witness for the Prosecution;language;English;letterboxd.com/films/language/english/
 27175;Witness for the Prosecution;language;German;letterboxd.com/films/language/german/
@@ -6896,13 +7298,13 @@ film_id;film_title;key;value;link
 51396;Fantasia;studio;Walt Disney Productions;letterboxd.com/studio/walt-disney-productions/
 51396;Fantasia;country;USA;letterboxd.com/films/country/usa/
 51396;Fantasia;language;English;letterboxd.com/films/language/english/
-51494;The Wizard of Oz;studio;Metro-Goldwyn-Mayer;letterboxd.com/studio/metro-goldwyn-mayer-1/
-51494;The Wizard of Oz;country;USA;letterboxd.com/films/country/usa/
-51494;The Wizard of Oz;language;English;letterboxd.com/films/language/english/
 51382;Gone with the Wind;studio;Selznick International Pictures;letterboxd.com/studio/selznick-international-pictures/
 51382;Gone with the Wind;studio;Metro-Goldwyn-Mayer;letterboxd.com/studio/metro-goldwyn-mayer-1/
 51382;Gone with the Wind;country;USA;letterboxd.com/films/country/usa/
 51382;Gone with the Wind;language;English;letterboxd.com/films/language/english/
+51494;The Wizard of Oz;studio;Metro-Goldwyn-Mayer;letterboxd.com/studio/metro-goldwyn-mayer-1/
+51494;The Wizard of Oz;country;USA;letterboxd.com/films/country/usa/
+51494;The Wizard of Oz;language;English;letterboxd.com/films/language/english/
 49889;Modern Times;studio;Charles Chaplin Productions;letterboxd.com/studio/charles-chaplin-productions/
 49889;Modern Times;country;USA;letterboxd.com/films/country/usa/
 49889;Modern Times;language;English;letterboxd.com/films/language/english/

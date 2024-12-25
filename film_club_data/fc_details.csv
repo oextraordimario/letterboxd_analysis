@@ -43,8 +43,8 @@ film_id;film_title;key;value;link
 47798;They Live;studio;Larry Franco Productions;letterboxd.com/studio/larry-franco-productions/
 47798;They Live;country;USA;letterboxd.com/films/country/usa/
 47798;They Live;language;English;letterboxd.com/films/language/english/
-47798;They Live;language;English;letterboxd.com/films/language/english/
 47798;They Live;language;German;letterboxd.com/films/language/german/
+47798;They Live;language;English;letterboxd.com/films/language/english/
 46759;Cobra;studio;The Cannon Group;letterboxd.com/studio/cannon-group/
 46759;Cobra;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
 46759;Cobra;studio;Golan-Globus Productions;letterboxd.com/studio/golan-globus-productions/
@@ -190,6 +190,11 @@ film_id;film_title;key;value;link
 51386;Army of Darkness;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
 51386;Army of Darkness;country;USA;letterboxd.com/films/country/usa/
 51386;Army of Darkness;language;English;letterboxd.com/films/language/english/
+51483;Requiem for a Dream;studio;Artisan Entertainment;letterboxd.com/studio/artisan-entertainment/
+51483;Requiem for a Dream;studio;Thousand Words;letterboxd.com/studio/thousand-words/
+51483;Requiem for a Dream;studio;Protozoa Pictures;letterboxd.com/studio/protozoa-pictures/
+51483;Requiem for a Dream;country;USA;letterboxd.com/films/country/usa/
+51483;Requiem for a Dream;language;English;letterboxd.com/films/language/english/
 276291;The Meg;studio;Apelles Entertainment;letterboxd.com/studio/apelles-entertainment/
 276291;The Meg;studio;Gravity Pictures;letterboxd.com/studio/gravity-pictures/
 276291;The Meg;studio;di Bonaventura Pictures;letterboxd.com/studio/di-bonaventura-pictures/
@@ -303,8 +308,8 @@ film_id;film_title;key;value;link
 591053;Past Lives;country;South Korea;letterboxd.com/films/country/south-korea/
 591053;Past Lives;country;USA;letterboxd.com/films/country/usa/
 591053;Past Lives;language;English;letterboxd.com/films/language/english/
-591053;Past Lives;language;Korean;letterboxd.com/films/language/korean/
 591053;Past Lives;language;English;letterboxd.com/films/language/english/
+591053;Past Lives;language;Korean;letterboxd.com/films/language/korean/
 47867;Napoleon Dynamite;studio;Access Films;letterboxd.com/studio/access-films/
 47867;Napoleon Dynamite;studio;Napoleon Pictures Limited;letterboxd.com/studio/napoleon-pictures-limited/
 47867;Napoleon Dynamite;studio;Cinetic Media;letterboxd.com/studio/cinetic-media/
@@ -445,10 +450,35 @@ film_id;film_title;key;value;link
 45489;Fallen Angels;language;Japanese;letterboxd.com/films/language/japanese/
 45489;Fallen Angels;language;Chinese;letterboxd.com/films/language/chinese/
 51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;studio;Columbia Pictures;letterboxd.com/studio/columbia-pictures/
-51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;studio;Kubrick Productions;letterboxd.com/studio/stanley-kubrick-productions/
+51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;studio;Stanley Kubrick Productions;letterboxd.com/studio/stanley-kubrick-productions/
 51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;studio;Hawk Films;letterboxd.com/studio/hawk-films/
 51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;country;UK;letterboxd.com/films/country/uk/
 51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;country;USA;letterboxd.com/films/country/usa/
 51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;language;English;letterboxd.com/films/language/english/
 34848;Meshes of the Afternoon;country;USA;letterboxd.com/films/country/usa/
 34848;Meshes of the Afternoon;language;No spoken language;letterboxd.com/films/language/no-spoken-language/
+51494;The Wizard of Oz;studio;Metro-Goldwyn-Mayer;letterboxd.com/studio/metro-goldwyn-mayer-1/
+51494;The Wizard of Oz;country;USA;letterboxd.com/films/country/usa/
+51494;The Wizard of Oz;language;English;letterboxd.com/films/language/english/
+51230;Dawn of the Dead;studio;Dawn Associates;letterboxd.com/studio/dawn-associates/
+51230;Dawn of the Dead;studio;Laurel Entertainment;letterboxd.com/studio/laurel-entertainment/
+51230;Dawn of the Dead;country;Italy;letterboxd.com/films/country/italy/
+51230;Dawn of the Dead;country;USA;letterboxd.com/films/country/usa/
+51230;Dawn of the Dead;language;English;letterboxd.com/films/language/english/
+97190;The Company of Strangers;studio;First Run Features;letterboxd.com/studio/first-run-features/
+97190;The Company of Strangers;studio;ONF | NFB;letterboxd.com/studio/onf-nfb/
+97190;The Company of Strangers;country;Canada;letterboxd.com/films/country/canada/
+97190;The Company of Strangers;language;English;letterboxd.com/films/language/english/
+43921;Tokyo Godfathers;studio;Madhouse;letterboxd.com/studio/madhouse-1/
+43921;Tokyo Godfathers;studio;Sony Pictures;letterboxd.com/studio/sony-pictures-1/
+43921;Tokyo Godfathers;studio;dentsu;letterboxd.com/studio/dentsu-2/
+43921;Tokyo Godfathers;studio;GENCO;letterboxd.com/studio/genco/
+43921;Tokyo Godfathers;country;Japan;letterboxd.com/films/country/japan/
+43921;Tokyo Godfathers;language;Japanese;letterboxd.com/films/language/japanese/
+43921;Tokyo Godfathers;language;English;letterboxd.com/films/language/english/
+43921;Tokyo Godfathers;language;Japanese;letterboxd.com/films/language/japanese/
+43921;Tokyo Godfathers;language;Spanish;letterboxd.com/films/language/spanish/
+48894;Kiss Kiss Bang Bang;studio;Silver Pictures;letterboxd.com/studio/silver-pictures/
+48894;Kiss Kiss Bang Bang;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
+48894;Kiss Kiss Bang Bang;country;USA;letterboxd.com/films/country/usa/
+48894;Kiss Kiss Bang Bang;language;English;letterboxd.com/films/language/english/

@@ -1,6 +1,13 @@
 film_id;film_title;value
 1261720;This Is the Zodiac Speaking;Crime
+1261720;This Is the Zodiac Speaking;Documentary
+1261720;This Is the Zodiac Speaking;Thrillers and murder mysteries
+1261720;This Is the Zodiac Speaking;Suspenseful crime thrillers
+1261720;This Is the Zodiac Speaking;Intriguing and suspenseful murder mysteries
+1261720;This Is the Zodiac Speaking;Fascinating, emotional stories and documentaries
+1261720;This Is the Zodiac Speaking;Gripping, intense violent crime
 1243715;An Invisible Victim: The Eliza Samudio Case;Crime
+901671;I’m Still Here;Drama
 571791;Rebel Ridge;Thriller
 571791;Rebel Ridge;Action
 571791;Rebel Ridge;Drama
@@ -51,6 +58,13 @@ film_id;film_title;value
 902058;Under Paris;Twisted dark psychological thriller
 902058;Under Paris;Dangerous technology and the apocalypse
 902058;Under Paris;Humanity's odyssey: earth and beyond
+520328;Megalopolis;Drama
+520328;Megalopolis;Science Fiction
+520328;Megalopolis;Humanity and the world around us
+520328;Megalopolis;Surreal and thought-provoking visions of life and death
+520328;Megalopolis;Dreamlike, quirky, and surreal storytelling
+520328;Megalopolis;Powerful poetic and passionate drama
+520328;Megalopolis;Thought-provoking sci-fi action and future technology
 985667;Mother of the Bride;Comedy
 985667;Mother of the Bride;Romance
 985667;Mother of the Bride;Relationship comedy
@@ -82,6 +96,7 @@ film_id;film_title;value
 488751;Monkey Man;Thriller
 488751;Monkey Man;Action
 488751;Monkey Man;Epic heroes
+488751;Monkey Man;High speed and special ops
 488751;Monkey Man;Intense combat and martial arts
 488751;Monkey Man;Violent action, guns, and crime
 488751;Monkey Man;Explosive and action-packed heroes vs. villains
@@ -95,8 +110,8 @@ film_id;film_title;value
 911187;Kung Fu Panda 4;Kids' animated fun and adventure
 911187;Kung Fu Panda 4;Emotional and captivating fantasy storytelling
 911187;Kung Fu Panda 4;Superheroes in action-packed battles with villains
-911187;Kung Fu Panda 4;Action comedy and silly heroics
 911187;Kung Fu Panda 4;Holiday joy and heartwarming Christmas
+911187;Kung Fu Panda 4;Action comedy and silly heroics
 872755;Land of Bad;War
 872755;Land of Bad;Action
 872755;Land of Bad;Thriller
@@ -114,13 +129,13 @@ film_id;film_title;value
 617443;Dune: Part Two;Humanity and the world around us
 617443;Dune: Part Two;Action-packed space and alien sagas
 617443;Dune: Part Two;Superheroes in action-packed battles with villains
-617443;Dune: Part Two;Historical battles and epic heroism
 617443;Dune: Part Two;Fantasy adventure, heroism, and swordplay
+617443;Dune: Part Two;Historical battles and epic heroism
 617443;Dune: Part Two;Emotional and captivating fantasy storytelling
-988316;No Way Up;Thriller
 988316;No Way Up;Action
+988316;No Way Up;Thriller
 988316;No Way Up;Horror
-988316;No Way Up;Moving relationship stories
+988316;No Way Up;Epic heroes
 988316;No Way Up;Air pilot heroism and survival
 988316;No Way Up;Disastrous voyages and heroic survival
 1079571;All the Light We Cannot See;Drama
@@ -147,6 +162,12 @@ film_id;film_title;value
 648869;Leave the World Behind;Thought-provoking sci-fi action and future technology
 648869;Leave the World Behind;Terrifying, haunted, and supernatural horror
 648869;Leave the World Behind;Sci-fi horror, creatures, and aliens
+809731;Deep Fear;Mystery
+809731;Deep Fear;Thriller
+809731;Deep Fear;Horror
+809731;Deep Fear;Action
+809731;Deep Fear;High speed and special ops
+809731;Deep Fear;Twisted dark psychological thriller
 813840;Society of the Snow;History
 813840;Society of the Snow;Drama
 813840;Society of the Snow;Moving relationship stories
@@ -177,10 +198,10 @@ film_id;film_title;value
 784328;Oppenheimer;Politics and human rights
 784328;Oppenheimer;Epic history and literature
 784328;Oppenheimer;Dangerous technology and the apocalypse
+784328;Oppenheimer;Intense political and terrorist thrillers
 784328;Oppenheimer;Riveting political and presidential drama
 784328;Oppenheimer;Surreal and thought-provoking visions of life and death
-784328;Oppenheimer;Intense political and terrorist thrillers
-784328;Oppenheimer;Political drama, patriotism, and war
+784328;Oppenheimer;Powerful poetic and passionate drama
 277064;Barbie;Comedy
 277064;Barbie;Adventure
 277064;Barbie;Humanity and the world around us
@@ -206,6 +227,15 @@ film_id;film_title;value
 1023411;Black Mirror: Joan Is Awful;TV Movie
 1023411;Black Mirror: Joan Is Awful;Drama
 1023411;Black Mirror: Joan Is Awful;Thriller
+795897;No Hard Feelings;Comedy
+795897;No Hard Feelings;Romance
+795897;No Hard Feelings;Crude humor and satire
+795897;No Hard Feelings;Relationship comedy
+795897;No Hard Feelings;Laugh-out-loud relationship entanglements
+795897;No Hard Feelings;Funny jokes and crude humor
+795897;No Hard Feelings;Gags, jokes, and slapstick humor
+795897;No Hard Feelings;Quirky and endearing relationships
+795897;No Hard Feelings;Teen school antics and laughter
 1014180;Arnold;Documentary
 1014180;Arnold;Politics and human rights
 1014180;Arnold;Emotional and touching family dramas
@@ -247,13 +277,15 @@ film_id;film_title;value
 379711;Guardians of the Galaxy Vol. 3;Adventure
 379711;Guardians of the Galaxy Vol. 3;Science Fiction
 379711;Guardians of the Galaxy Vol. 3;Epic heroes
-379711;Guardians of the Galaxy Vol. 3;Moving relationship stories
 379711;Guardians of the Galaxy Vol. 3;Crude humor and satire
+379711;Guardians of the Galaxy Vol. 3;Moving relationship stories
+379711;Guardians of the Galaxy Vol. 3;Monsters, aliens, sci-fi and the apocalypse
+379711;Guardians of the Galaxy Vol. 3;Humanity and the world around us
 379711;Guardians of the Galaxy Vol. 3;Superheroes in action-packed battles with villains
 379711;Guardians of the Galaxy Vol. 3;Emotional and captivating fantasy storytelling
+379711;Guardians of the Galaxy Vol. 3;Kids' animated fun and adventure
 379711;Guardians of the Galaxy Vol. 3;Action comedy and silly heroics
 379711;Guardians of the Galaxy Vol. 3;Powerful stories of heartbreak and suffering
-379711;Guardians of the Galaxy Vol. 3;Kids' animated fun and adventure
 793865;Guy Ritchie's The Covenant;Thriller
 793865;Guy Ritchie's The Covenant;War
 793865;Guy Ritchie's The Covenant;Action
@@ -271,6 +303,7 @@ film_id;film_title;value
 575258;Renfield;Crime, drugs and gangsters
 575258;Renfield;Relationship comedy
 575258;Renfield;Horror, the undead and monster classics
+575258;Renfield;Epic heroes
 575258;Renfield;Bloody vampire horror
 575258;Renfield;Gags, jokes, and slapstick humor
 575258;Renfield;Action comedy and silly heroics
@@ -280,6 +313,14 @@ film_id;film_title;value
 995847;Waco: American Apocalypse;Crime
 995847;Waco: American Apocalypse;Faith and religion
 995847;Waco: American Apocalypse;Politics, propaganda, and political documentaries
+731222;Bottoms;Comedy
+731222;Bottoms;Crude humor and satire
+731222;Bottoms;Underdogs and coming of age
+731222;Bottoms;Funny jokes and crude humor
+731222;Bottoms;Teen school antics and laughter
+731222;Bottoms;Gags, jokes, and slapstick humor
+731222;Bottoms;Amusing jokes and witty satire
+731222;Bottoms;Laugh-out-loud relationship entanglements
 989043;MH370: The Plane That Disappeared;Documentary
 989043;MH370: The Plane That Disappeared;Politics and human rights
 989043;MH370: The Plane That Disappeared;Air pilot heroism and survival
@@ -288,6 +329,7 @@ film_id;film_title;value
 530882;John Wick: Chapter 4;Thriller
 530882;John Wick: Chapter 4;Crime
 530882;John Wick: Chapter 4;Epic heroes
+530882;John Wick: Chapter 4;High speed and special ops
 530882;John Wick: Chapter 4;Intense combat and martial arts
 530882;John Wick: Chapter 4;Explosive and action-packed heroes vs. villains
 530882;John Wick: Chapter 4;Adrenaline-fueled action and fast cars
@@ -298,9 +340,9 @@ film_id;film_title;value
 982767;Murdaugh Murders: A Southern Scandal;Thrillers and murder mysteries
 982767;Murdaugh Murders: A Southern Scandal;Gripping, intense violent crime
 982767;Murdaugh Murders: A Southern Scandal;Suspenseful crime thrillers
-982767;Murdaugh Murders: A Southern Scandal;Fascinating, emotional stories and documentaries
 982767;Murdaugh Murders: A Southern Scandal;Enduring stories of family and marital drama
 982767;Murdaugh Murders: A Southern Scandal;Challenging or sexual themes & twists
+982767;Murdaugh Murders: A Southern Scandal;Emotional and touching family dramas
 721333;Cocaine Bear;Crime
 721333;Cocaine Bear;Comedy
 721333;Cocaine Bear;Thriller
@@ -338,10 +380,11 @@ film_id;film_title;value
 946722;Pepsi, Where's My Jet?;Humanity and the world around us
 946722;Pepsi, Where's My Jet?;Teen school antics and laughter
 717038;Stutz;Documentary
-717038;Stutz;Humanity and the world around us
+717038;Stutz;Moving relationship stories
 717038;Stutz;Powerful stories of heartbreak and suffering
 717038;Stutz;Emotional and touching family dramas
 717038;Stutz;Touching and sentimental family stories
+931603;Conversations with a Killer: The Jeffrey Dahmer Tapes;Documentary
 521323;The Menu;Comedy
 521323;The Menu;Thriller
 521323;The Menu;Horror
@@ -365,7 +408,6 @@ film_id;film_title;value
 546347;Don't Worry Darling;Intense violence and sexual transgression
 546347;Don't Worry Darling;Twisted dark psychological thriller
 546347;Don't Worry Darling;Suspenseful crime thrillers
-546347;Don't Worry Darling;Intense political and terrorist thrillers
 598882;The Banshees of Inisherin;Comedy
 598882;The Banshees of Inisherin;Drama
 598882;The Banshees of Inisherin;Moving relationship stories
@@ -385,6 +427,9 @@ film_id;film_title;value
 853822;Pearl;Terrifying, haunted, and supernatural horror
 853822;Pearl;Gothic and eerie haunting horror
 853822;Pearl;Creepy, chilling, and terrifying horror
+911180;Shark Side of the Moon;Science Fiction
+911180;Shark Side of the Moon;Action
+911180;Shark Side of the Moon;Horror
 682547;Nope;Mystery
 682547;Nope;Science Fiction
 682547;Nope;Horror
@@ -421,6 +466,13 @@ film_id;film_title;value
 385511;Doctor Strange in the Multiverse of Madness;Superheroes in action-packed battles with villains
 385511;Doctor Strange in the Multiverse of Madness;Fantasy adventure, heroism, and swordplay
 385511;Doctor Strange in the Multiverse of Madness;Explosive and action-packed heroes vs. villains
+870237;Conversations with a Killer: The John Wayne Gacy Tapes;Documentary
+870237;Conversations with a Killer: The John Wayne Gacy Tapes;Intense violence and sexual transgression
+870237;Conversations with a Killer: The John Wayne Gacy Tapes;Challenging or sexual themes & twists
+870237;Conversations with a Killer: The John Wayne Gacy Tapes;Suspenseful crime thrillers
+870237;Conversations with a Killer: The John Wayne Gacy Tapes;Graphic violence and brutal revenge
+870237;Conversations with a Killer: The John Wayne Gacy Tapes;Gripping, intense violent crime
+870237;Conversations with a Killer: The John Wayne Gacy Tapes;Fascinating, emotional stories and documentaries
 565852;The Northman;Fantasy
 565852;The Northman;Adventure
 565852;The Northman;Action
@@ -438,8 +490,8 @@ film_id;film_title;value
 508037;RRR;Bollywood emotional dramas
 508037;RRR;Historical battles and epic heroism
 508037;RRR;Superheroes in action-packed battles with villains
-508037;RRR;Emotional and captivating fantasy storytelling
 508037;RRR;Epic adventure and breathtaking battles
+508037;RRR;Emotional and captivating fantasy storytelling
 449442;Bodies Bodies Bodies;Mystery
 449442;Bodies Bodies Bodies;Horror
 449442;Bodies Bodies Bodies;Comedy
@@ -463,8 +515,8 @@ film_id;film_title;value
 574385;The Unbearable Weight of Massive Talent;Crime
 574385;The Unbearable Weight of Massive Talent;Comedy
 574385;The Unbearable Weight of Massive Talent;Crude humor and satire
-574385;The Unbearable Weight of Massive Talent;Relationship comedy
 574385;The Unbearable Weight of Massive Talent;High speed and special ops
+574385;The Unbearable Weight of Massive Talent;Relationship comedy
 574385;The Unbearable Weight of Massive Talent;Gags, jokes, and slapstick humor
 574385;The Unbearable Weight of Massive Talent;Action comedy and silly heroics
 574385;The Unbearable Weight of Massive Talent;Laugh-out-loud relationship entanglements
@@ -477,6 +529,7 @@ film_id;film_title;value
 474474;Everything Everywhere All at Once;Humanity and the world around us
 474474;Everything Everywhere All at Once;Moving relationship stories
 474474;Everything Everywhere All at Once;Crude humor and satire
+474474;Everything Everywhere All at Once;Epic heroes
 474474;Everything Everywhere All at Once;Surreal and thought-provoking visions of life and death
 474474;Everything Everywhere All at Once;Touching and sentimental family stories
 474474;Everything Everywhere All at Once;Powerful stories of heartbreak and suffering
@@ -485,22 +538,23 @@ film_id;film_title;value
 620665;The Adam Project;Science Fiction
 620665;The Adam Project;Adventure
 620665;The Adam Project;Relationship comedy
-620665;The Adam Project;Moving relationship stories
 620665;The Adam Project;Epic heroes
+620665;The Adam Project;Moving relationship stories
 620665;The Adam Project;Crude humor and satire
+620665;The Adam Project;High speed and special ops
 620665;The Adam Project;Superheroes in action-packed battles with villains
 620665;The Adam Project;Emotional and touching family dramas
 620665;The Adam Project;Touching and sentimental family stories
 620665;The Adam Project;Laugh-out-loud relationship entanglements
 620665;The Adam Project;Action-packed space and alien sagas
-833919;Restless;Crime
 833919;Restless;Action
+833919;Restless;Thriller
 348914;The Batman;Crime
 348914;The Batman;Mystery
 348914;The Batman;Thriller
 348914;The Batman;Crime, drugs and gangsters
-348914;The Batman;Epic heroes
 348914;The Batman;High speed and special ops
+348914;The Batman;Epic heroes
 348914;The Batman;Thrillers and murder mysteries
 348914;The Batman;Superheroes in action-packed battles with villains
 348914;The Batman;Explosive and action-packed heroes vs. villains
@@ -553,8 +607,8 @@ film_id;film_title;value
 774923;Midnight Mass;Horror
 774923;Midnight Mass;Faith and religion
 774923;Midnight Mass;Horror, the undead and monster classics
-774923;Midnight Mass;Terrifying, haunted, and supernatural horror
 774923;Midnight Mass;Religious faith, sin, and forgiveness
+774923;Midnight Mass;Terrifying, haunted, and supernatural horror
 774923;Midnight Mass;Faith and spiritual journeys
 774923;Midnight Mass;Creepy, chilling, and terrifying horror
 774923;Midnight Mass;Gothic and eerie haunting horror
@@ -606,7 +660,7 @@ film_id;film_title;value
 544757;The Electrical Life of Louis Wain;Touching and sentimental family stories
 544757;The Electrical Life of Louis Wain;Passion and romance
 544757;The Electrical Life of Louis Wain;Captivating relationships and charming romance
-544757;The Electrical Life of Louis Wain;Fascinating, emotional stories and documentaries
+544757;The Electrical Life of Louis Wain;Adorable animals and heartwarming families
 479814;Free Guy;Adventure
 479814;Free Guy;Science Fiction
 479814;Free Guy;Comedy
@@ -616,7 +670,7 @@ film_id;film_title;value
 479814;Free Guy;Gags, jokes, and slapstick humor
 479814;Free Guy;Action comedy and silly heroics
 479814;Free Guy;Teen school antics and laughter
-479814;Free Guy;Catchy songs and hilarious musical comedy
+479814;Free Guy;Amusing jokes and witty satire
 764954;Shiny_Flakes: The Teenage Drug Lord;Documentary
 488399;The Green Knight;Adventure
 488399;The Green Knight;Fantasy
@@ -645,7 +699,7 @@ film_id;film_title;value
 561763;Pig;Surreal and thought-provoking visions of life and death
 561763;Pig;Touching and sentimental family stories
 561763;Pig;Heartbreaking and moving family drama
-561763;Pig;Emotional and touching family dramas
+561763;Pig;Emotional teen coming-of-age stories
 758796;Elize Matsunaga: Once Upon a Crime;Crime
 758796;Elize Matsunaga: Once Upon a Crime;Documentary
 758796;Elize Matsunaga: Once Upon a Crime;Thrillers and murder mysteries
@@ -657,6 +711,7 @@ film_id;film_title;value
 314883;Space Jam: A New Legacy;Family
 314883;Space Jam: A New Legacy;Science Fiction
 314883;Space Jam: A New Legacy;Kids' animated fun and adventure
+752297;Shark Beach With Chris Hemsworth;Documentary
 739775;Bo Burnham: Inside;Comedy
 320000;F9;Crime
 320000;F9;Adventure
@@ -724,8 +779,8 @@ film_id;film_title;value
 580204;Billie Eilish: The World's a Little Blurry;Touching and sentimental family stories
 580204;Billie Eilish: The World's a Little Blurry;Fascinating, emotional stories and documentaries
 696621;Night Stalker: The Hunt for a Serial Killer;Documentary
-696621;Night Stalker: The Hunt for a Serial Killer;Crime
 696621;Night Stalker: The Hunt for a Serial Killer;Mystery
+696621;Night Stalker: The Hunt for a Serial Killer;Crime
 696621;Night Stalker: The Hunt for a Serial Killer;Thrillers and murder mysteries
 696621;Night Stalker: The Hunt for a Serial Killer;Suspenseful crime thrillers
 696621;Night Stalker: The Hunt for a Serial Killer;Intriguing and suspenseful murder mysteries
@@ -741,14 +796,14 @@ film_id;film_title;value
 542464;Holidate;Laugh-out-loud relationship entanglements
 542464;Holidate;Funny jokes and crude humor
 542464;Holidate;Quirky and endearing relationships
-542464;Holidate;Catchy songs and hilarious musical comedy
 542464;Holidate;Teen school antics and laughter
+542464;Holidate;Catchy songs and hilarious musical comedy
 668077;The Queen's Gambit;Drama
 668077;The Queen's Gambit;Moving relationship stories
+668077;The Queen's Gambit;Fascinating, emotional stories and documentaries
 668077;The Queen's Gambit;Inspiring sports underdog stories
 668077;The Queen's Gambit;Emotional and captivating fantasy storytelling
 668077;The Queen's Gambit;Powerful stories of heartbreak and suffering
-668077;The Queen's Gambit;Fascinating, emotional stories and documentaries
 668077;The Queen's Gambit;Emotional and touching family dramas
 673877;The Three Deaths of Marisela Escobedo;Documentary
 475032;Run;Thriller
@@ -779,7 +834,19 @@ film_id;film_title;value
 589093;Shiva Baby;Crude humor and satire
 589093;Shiva Baby;Quirky and endearing relationships
 589093;Shiva Baby;Funny jokes and crude humor
+589093;Shiva Baby;Emotional teen coming-of-age stories
 589093;Shiva Baby;Teen school antics and laughter
+444424;The Hunt;Thriller
+444424;The Hunt;Action
+444424;The Hunt;Horror
+444424;The Hunt;Crude humor and satire
+444424;The Hunt;Epic heroes
+444424;The Hunt;High speed and special ops
+444424;The Hunt;Action comedy and silly heroics
+444424;The Hunt;Funny jokes and crude humor
+444424;The Hunt;Gory, gruesome, and slasher horror
+444424;The Hunt;Amusing jokes and witty satire
+444424;The Hunt;Twisted dark psychological thriller
 450337;A Quiet Place Part II;Horror
 450337;A Quiet Place Part II;Science Fiction
 450337;A Quiet Place Part II;Thriller
@@ -811,8 +878,8 @@ film_id;film_title;value
 581924;The Social Dilemma;Documentary
 581924;The Social Dilemma;Drama
 581924;The Social Dilemma;Intense violence and sexual transgression
-581924;The Social Dilemma;Politics, propaganda, and political documentaries
 581924;The Social Dilemma;Humanity's odyssey: earth and beyond
+581924;The Social Dilemma;Politics, propaganda, and political documentaries
 579224;Coded Bias;Documentary
 579224;Coded Bias;Intense violence and sexual transgression
 579224;Coded Bias;Politics, propaganda, and political documentaries
@@ -826,9 +893,9 @@ film_id;film_title;value
 582102;Don't F**k with Cats: Hunting an Internet Killer;Thrillers and murder mysteries
 582102;Don't F**k with Cats: Hunting an Internet Killer;Intense violence and sexual transgression
 582102;Don't F**k with Cats: Hunting an Internet Killer;Suspenseful crime thrillers
+582102;Don't F**k with Cats: Hunting an Internet Killer;Fascinating, emotional stories and documentaries
 582102;Don't F**k with Cats: Hunting an Internet Killer;Intriguing and suspenseful murder mysteries
 582102;Don't F**k with Cats: Hunting an Internet Killer;Challenging or sexual themes & twists
-582102;Don't F**k with Cats: Hunting an Internet Killer;Fascinating, emotional stories and documentaries
 582102;Don't F**k with Cats: Hunting an Internet Killer;Graphic violence and brutal revenge
 465978;Cats;Comedy
 465978;Cats;Drama
@@ -937,14 +1004,15 @@ film_id;film_title;value
 318913;Fast & Furious Presents: Hobbs & Shaw;Superheroes in action-packed battles with villains
 318913;Fast & Furious Presents: Hobbs & Shaw;Gags, jokes, and slapstick humor
 354539;The Lion King;Drama
+354539;The Lion King;Animation
 354539;The Lion King;Family
 354539;The Lion King;Adventure
 354539;The Lion King;Song and dance
 354539;The Lion King;Dazzling vocal performances and musicals
 354539;The Lion King;Fairy-tale fantasy and enchanted magic
 354539;The Lion King;Emotional and captivating fantasy storytelling
-354539;The Lion King;Holiday joy and heartwarming Christmas
 354539;The Lion King;Kids' animated fun and adventure
+354539;The Lion King;Emotional life of renowned artists
 362977;Spider-Man: Far From Home;Adventure
 362977;Spider-Man: Far From Home;Science Fiction
 362977;Spider-Man: Far From Home;Action
@@ -992,7 +1060,7 @@ film_id;film_title;value
 397859;Once Upon a Time... in Hollywood;Thriller
 397859;Once Upon a Time... in Hollywood;Comedy
 397859;Once Upon a Time... in Hollywood;Humanity and the world around us
-397859;Once Upon a Time... in Hollywood;Fascinating, emotional stories and documentaries
+397859;Once Upon a Time... in Hollywood;Dreamlike, quirky, and surreal storytelling
 503659;An Easy Girl;Drama
 460830;Portrait of a Lady on Fire;History
 460830;Portrait of a Lady on Fire;Drama
@@ -1011,6 +1079,7 @@ film_id;film_title;value
 378601;Bacurau;Racism and the powerful fight for justice
 378601;Bacurau;Surreal and thought-provoking visions of life and death
 378601;Bacurau;Gothic and eerie haunting horror
+378601;Bacurau;Intense political and terrorist thrillers
 390039;John Wick: Chapter 3 – Parabellum;Crime
 390039;John Wick: Chapter 3 – Parabellum;Thriller
 390039;John Wick: Chapter 3 – Parabellum;Action
@@ -1035,15 +1104,16 @@ film_id;film_title;value
 226660;Avengers: Endgame;Moving relationship stories
 226660;Avengers: Endgame;Superheroes in action-packed battles with villains
 226660;Avengers: Endgame;Fantasy adventure, heroism, and swordplay
+226660;Avengers: Endgame;Epic adventure and breathtaking battles
 226660;Avengers: Endgame;Historical battles and epic heroism
 254777;The Dirt;History
 254777;The Dirt;Music
 254777;The Dirt;Drama
 254777;The Dirt;Comedy
 254777;The Dirt;Moving relationship stories
-254777;The Dirt;Emotional life of renowned artists
 254777;The Dirt;Emotional teen coming-of-age stories
 254777;The Dirt;Legendary musicians and stardom
+254777;The Dirt;Emotional life of renowned artists
 516946;The Disappearance of Madeleine McCann;Crime
 516946;The Disappearance of Madeleine McCann;Documentary
 516946;The Disappearance of Madeleine McCann;Thrillers and murder mysteries
@@ -1092,6 +1162,14 @@ film_id;film_title;value
 389637;Extremely Wicked, Shockingly Evil and Vile;Graphic violence and brutal revenge
 389637;Extremely Wicked, Shockingly Evil and Vile;Twisted dark psychological thriller
 389637;Extremely Wicked, Shockingly Evil and Vile;Gory, gruesome, and slasher horror
+507089;Conversations with a Killer: The Ted Bundy Tapes;Documentary
+507089;Conversations with a Killer: The Ted Bundy Tapes;Crime
+507089;Conversations with a Killer: The Ted Bundy Tapes;Intense violence and sexual transgression
+507089;Conversations with a Killer: The Ted Bundy Tapes;Challenging or sexual themes & twists
+507089;Conversations with a Killer: The Ted Bundy Tapes;Graphic violence and brutal revenge
+507089;Conversations with a Killer: The Ted Bundy Tapes;Gory, gruesome, and slasher horror
+507089;Conversations with a Killer: The Ted Bundy Tapes;Fascinating, emotional stories and documentaries
+507089;Conversations with a Killer: The Ted Bundy Tapes;Suspenseful crime thrillers
 494838;The Edge of Democracy;Documentary
 494838;The Edge of Democracy;Politics and human rights
 494838;The Edge of Democracy;Politics, propaganda, and political documentaries
@@ -1126,20 +1204,20 @@ film_id;film_title;value
 251943;Spider-Man: Into the Spider-Verse;Superheroes in action-packed battles with villains
 251943;Spider-Man: Into the Spider-Verse;Action comedy and silly heroics
 251943;Spider-Man: Into the Spider-Verse;Teen school antics and laughter
+498584;The Blessed;Drama
 498584;The Blessed;Animation
-498584;The Blessed;Horror
 358222;Bohemian Rhapsody;Drama
 358222;Bohemian Rhapsody;Music
 358222;Bohemian Rhapsody;Moving relationship stories
 358222;Bohemian Rhapsody;Song and dance
 358222;Bohemian Rhapsody;Humanity and the world around us
-358222;Bohemian Rhapsody;Emotional life of renowned artists
 358222;Bohemian Rhapsody;Legendary musicians and stardom
+358222;Bohemian Rhapsody;Emotional life of renowned artists
 358222;Bohemian Rhapsody;Emotional LGBTQ relationships
 358222;Bohemian Rhapsody;Dazzling vocal performances and musicals
 358222;Bohemian Rhapsody;Powerful stories of heartbreak and suffering
-389620;The VelociPastor;Action
 389620;The VelociPastor;Comedy
+389620;The VelociPastor;Action
 389620;The VelociPastor;Horror
 389620;The VelociPastor;Crude humor and satire
 389620;The VelociPastor;Faith and religion
@@ -1220,6 +1298,7 @@ film_id;film_title;value
 305811;First Man;History
 305811;First Man;Drama
 305811;First Man;Politics and human rights
+305811;First Man;Moving relationship stories
 305811;First Man;Imaginative space odysseys and alien encounters
 305811;First Man;Powerful stories of heartbreak and suffering
 305811;First Man;Heartbreaking and moving family drama
@@ -1232,13 +1311,13 @@ film_id;film_title;value
 397942;To All the Boys I've Loved Before;Laugh-out-loud relationship entanglements
 397942;To All the Boys I've Loved Before;Teen school antics and laughter
 397942;To All the Boys I've Loved Before;Charming romances and delightful chemistry
+397942;To All the Boys I've Loved Before;Emotional teen coming-of-age stories
 397942;To All the Boys I've Loved Before;Touching and sentimental family stories
-397942;To All the Boys I've Loved Before;Quirky and endearing relationships
 387238;Crazy Rich Asians;Comedy
 387238;Crazy Rich Asians;Romance
 387238;Crazy Rich Asians;Relationship comedy
-387238;Crazy Rich Asians;Moving relationship stories
 387238;Crazy Rich Asians;Crude humor and satire
+387238;Crazy Rich Asians;Moving relationship stories
 387238;Crazy Rich Asians;Laugh-out-loud relationship entanglements
 387238;Crazy Rich Asians;Quirky and endearing relationships
 387238;Crazy Rich Asians;Touching and sentimental family stories
@@ -1281,8 +1360,16 @@ film_id;film_title;value
 418135;BlacKkKlansman;Racism and the powerful fight for justice
 418135;BlacKkKlansman;Riveting political and presidential drama
 418135;BlacKkKlansman;Amusing jokes and witty satire
+418135;BlacKkKlansman;Intense political and terrorist thrillers
 418135;BlacKkKlansman;Funny jokes and crude humor
-418135;BlacKkKlansman;Politics, propaganda, and political documentaries
+436873;Climax;Horror
+436873;Climax;Drama
+436873;Climax;Intense violence and sexual transgression
+436873;Climax;Horror, the undead and monster classics
+436873;Climax;Challenging or sexual themes & twists
+436873;Climax;Graphic violence and brutal revenge
+436873;Climax;Twisted dark psychological thriller
+436873;Climax;Dreamlike, quirky, and surreal storytelling
 318195;Deadpool 2;Action
 318195;Deadpool 2;Comedy
 318195;Deadpool 2;Adventure
@@ -1328,8 +1415,8 @@ film_id;film_title;value
 381340;Love, Simon;Romance
 381340;Love, Simon;Comedy
 381340;Love, Simon;Drama
-381340;Love, Simon;Underdogs and coming of age
 381340;Love, Simon;Moving relationship stories
+381340;Love, Simon;Underdogs and coming of age
 381340;Love, Simon;Relationship comedy
 381340;Love, Simon;Emotional LGBTQ relationships
 381340;Love, Simon;Student coming-of-age challenges
@@ -1351,8 +1438,8 @@ film_id;film_title;value
 209383;Black Panther;High speed and special ops
 209383;Black Panther;Superheroes in action-packed battles with villains
 209383;Black Panther;Racism and the powerful fight for justice
-209383;Black Panther;Fantasy adventure, heroism, and swordplay
 209383;Black Panther;Epic adventure and breathtaking battles
+209383;Black Panther;Fantasy adventure, heroism, and swordplay
 209383;Black Panther;Explosive and action-packed heroes vs. villains
 335322;Tully;Comedy
 335322;Tully;Drama
@@ -1386,6 +1473,7 @@ film_id;film_title;value
 420458;Three Identical Strangers;Emotional and touching family dramas
 420458;Three Identical Strangers;Powerful stories of heartbreak and suffering
 420458;Three Identical Strangers;Heartbreaking and moving family drama
+420458;Three Identical Strangers;Humanity's odyssey: earth and beyond
 394895;The Game Changers;Documentary
 394895;The Game Changers;Monsters, aliens, sci-fi and the apocalypse
 394895;The Game Changers;Humanity's odyssey: earth and beyond
@@ -1439,14 +1527,13 @@ film_id;film_title;value
 425518;Black Mirror: Arkangel;Thriller
 425518;Black Mirror: Arkangel;TV Movie
 425514;Black Mirror: USS Callister;TV Movie
-425514;Black Mirror: USS Callister;Science Fiction
-425514;Black Mirror: USS Callister;Drama
 425514;Black Mirror: USS Callister;Mystery
+425514;Black Mirror: USS Callister;Science Fiction
+425514;Black Mirror: USS Callister;Thriller
 131987;Star Wars: The Last Jedi;Adventure
 131987;Star Wars: The Last Jedi;Action
 131987;Star Wars: The Last Jedi;Science Fiction
 131987;Star Wars: The Last Jedi;Monsters, aliens, sci-fi and the apocalypse
-131987;Star Wars: The Last Jedi;Epic heroes
 131987;Star Wars: The Last Jedi;Superheroes in action-packed battles with villains
 131987;Star Wars: The Last Jedi;Fantasy adventure, heroism, and swordplay
 131987;Star Wars: The Last Jedi;Action-packed space and alien sagas
@@ -1522,8 +1609,8 @@ film_id;film_title;value
 403823;Gaga: Five Foot Two;Emotional life of renowned artists
 403823;Gaga: Five Foot Two;Powerful stories of heartbreak and suffering
 403823;Gaga: Five Foot Two;Legendary musicians and stardom
-273974;Kingsman: The Golden Circle;Action
 273974;Kingsman: The Golden Circle;Adventure
+273974;Kingsman: The Golden Circle;Action
 273974;Kingsman: The Golden Circle;Comedy
 273974;Kingsman: The Golden Circle;High speed and special ops
 273974;Kingsman: The Golden Circle;Crude humor and satire
@@ -1571,15 +1658,14 @@ film_id;film_title;value
 326279;Lady Bird;Underdogs and coming of age
 326279;Lady Bird;Humanity and the world around us
 326279;Lady Bird;Touching and sentimental family stories
-326279;Lady Bird;Emotional and touching family dramas
 326279;Lady Bird;Emotional teen coming-of-age stories
+326279;Lady Bird;Emotional and touching family dramas
 326279;Lady Bird;Quirky and endearing relationships
 326279;Lady Bird;Powerful stories of heartbreak and suffering
 390610;First Reformed;Drama
 390610;First Reformed;Faith and religion
 390610;First Reformed;Humanity and the world around us
 390610;First Reformed;Intense violence and sexual transgression
-390610;First Reformed;Moving relationship stories
 390610;First Reformed;Religious faith, sin, and forgiveness
 390610;First Reformed;Faith and spiritual journeys
 390610;First Reformed;Surreal and thought-provoking visions of life and death
@@ -1612,7 +1698,7 @@ film_id;film_title;value
 269358;Loving Vincent;Captivating relationships and charming romance
 269358;Loving Vincent;Passion and romance
 269358;Loving Vincent;Emotional and captivating fantasy storytelling
-269358;Loving Vincent;Emotional life of renowned artists
+269358;Loving Vincent;Powerful poetic and passionate drama
 333310;The Killing of a Sacred Deer;Thriller
 333310;The Killing of a Sacred Deer;Mystery
 333310;The Killing of a Sacred Deer;Drama
@@ -1708,8 +1794,8 @@ film_id;film_title;value
 268950;Baby Driver;Crime
 268950;Baby Driver;Action
 268950;Baby Driver;Crime, drugs and gangsters
-268950;Baby Driver;Song and dance
 268950;Baby Driver;High speed and special ops
+268950;Baby Driver;Song and dance
 268950;Baby Driver;Relationship comedy
 268950;Baby Driver;Heists and thrilling action
 268950;Baby Driver;Adrenaline-fueled action and fast cars
@@ -1730,8 +1816,8 @@ film_id;film_title;value
 251661;John Wick: Chapter 2;Action
 251661;John Wick: Chapter 2;Thriller
 251661;John Wick: Chapter 2;Crime, drugs and gangsters
-251661;John Wick: Chapter 2;Epic heroes
 251661;John Wick: Chapter 2;High speed and special ops
+251661;John Wick: Chapter 2;Epic heroes
 251661;John Wick: Chapter 2;Violent action, guns, and crime
 251661;John Wick: Chapter 2;Explosive and action-packed heroes vs. villains
 251661;John Wick: Chapter 2;Gritty crime and ruthless gangsters
@@ -1774,11 +1860,12 @@ film_id;film_title;value
 330220;Wind River;Gripping, intense violent crime
 330220;Wind River;Intriguing and suspenseful murder mysteries
 330220;Wind River;Violent crime and drugs
-330220;Wind River;Noir and dark crime dramas
+330220;Wind River;Intense political and terrorist thrillers
 366068;Icarus;Documentary
 366068;Icarus;Politics and human rights
 366068;Icarus;Politics, propaganda, and political documentaries
 366068;Icarus;Exciting spy thrillers with tense intrigue
+366068;Icarus;Intense political and terrorist thrillers
 366068;Icarus;Riveting political and presidential drama
 198992;Passengers;Romance
 198992;Passengers;Drama
@@ -1788,8 +1875,8 @@ film_id;film_title;value
 198992;Passengers;Thought-provoking sci-fi action and future technology
 198992;Passengers;Action-packed space and alien sagas
 198992;Passengers;Imaginative space odysseys and alien encounters
-198992;Passengers;Emotional and captivating fantasy storytelling
 198992;Passengers;Humanity's odyssey: earth and beyond
+198992;Passengers;Emotional and captivating fantasy storytelling
 276275;Collateral Beauty;Drama
 276275;Collateral Beauty;Romance
 276275;Collateral Beauty;Moving relationship stories
@@ -1797,7 +1884,7 @@ film_id;film_title;value
 276275;Collateral Beauty;Powerful stories of heartbreak and suffering
 276275;Collateral Beauty;Emotional and touching family dramas
 276275;Collateral Beauty;Heartbreaking and moving family drama
-276275;Collateral Beauty;Enduring stories of family and marital drama
+276275;Collateral Beauty;Emotional teen coming-of-age stories
 258128;Rogue One: A Star Wars Story;Adventure
 258128;Rogue One: A Star Wars Story;Science Fiction
 258128;Rogue One: A Star Wars Story;Action
@@ -1869,15 +1956,20 @@ film_id;film_title;value
 311894;The Edge of Seventeen;Relationship comedy
 311894;The Edge of Seventeen;Crude humor and satire
 311894;The Edge of Seventeen;Teen school antics and laughter
+311894;The Edge of Seventeen;Emotional teen coming-of-age stories
 311894;The Edge of Seventeen;Quirky and endearing relationships
 311894;The Edge of Seventeen;Student coming-of-age challenges
-311894;The Edge of Seventeen;Emotional teen coming-of-age stories
 311894;The Edge of Seventeen;Touching and sentimental family stories
 345116;Amanda Knox;Crime
 345116;Amanda Knox;Documentary
 345116;Amanda Knox;Thrillers and murder mysteries
 345116;Amanda Knox;Suspenseful crime thrillers
 345116;Amanda Knox;Intriguing and suspenseful murder mysteries
+344825;Before the Flood;Documentary
+344825;Before the Flood;Politics and human rights
+344825;Before the Flood;Humanity's odyssey: earth and beyond
+344825;Before the Flood;Imaginative space odysseys and alien encounters
+344825;Before the Flood;Politics, propaganda, and political documentaries
 251872;Hacksaw Ridge;War
 251872;Hacksaw Ridge;Drama
 251872;Hacksaw Ridge;History
@@ -1926,12 +2018,12 @@ film_id;film_title;value
 240344;La La Land;Music
 240344;La La Land;Romance
 240344;La La Land;Song and dance
-240344;La La Land;Humanity and the world around us
 240344;La La Land;Moving relationship stories
+240344;La La Land;Humanity and the world around us
 240344;La La Land;Dazzling vocal performances and musicals
 240344;La La Land;Captivating relationships and charming romance
-240344;La La Land;Dance rhythms and catchy tunes
 240344;La La Land;Emotional life of renowned artists
+240344;La La Land;Dance rhythms and catchy tunes
 240344;La La Land;Charming romances and delightful chemistry
 347258;Team Thor;Science Fiction
 235388;War Dogs;Comedy
@@ -1942,8 +2034,8 @@ film_id;film_title;value
 235388;War Dogs;Funny jokes and crude humor
 235388;War Dogs;Gags, jokes, and slapstick humor
 235388;War Dogs;Amusing jokes and witty satire
-235388;War Dogs;Gritty crime and ruthless gangsters
 235388;War Dogs;Intense political and terrorist thrillers
+235388;War Dogs;Gritty crime and ruthless gangsters
 225026;Suicide Squad;Adventure
 225026;Suicide Squad;Action
 225026;Suicide Squad;Fantasy
@@ -1952,10 +2044,13 @@ film_id;film_title;value
 225026;Suicide Squad;Action comedy and silly heroics
 225026;Suicide Squad;Explosive and action-packed heroes vs. villains
 225026;Suicide Squad;Intense combat and martial arts
+341962;Ozark Sharks;Horror
+341962;Ozark Sharks;TV Movie
+341962;Ozark Sharks;Action
 241920;Shin Godzilla;Action
 241920;Shin Godzilla;Horror
 241920;Shin Godzilla;Science Fiction
-241920;Shin Godzilla;Epic heroes
+241920;Shin Godzilla;Politics and human rights
 241920;Shin Godzilla;Sci-fi monster and dinosaur adventures
 241920;Shin Godzilla;Dangerous technology and the apocalypse
 241920;Shin Godzilla;Sci-fi horror, creatures, and aliens
@@ -2031,11 +2126,11 @@ film_id;film_title;value
 269896;American Honey;Drama
 269896;American Honey;Moving relationship stories
 269896;American Honey;Violent crime and drugs
+269896;American Honey;Emotional teen coming-of-age stories
 216086;The Handmaiden;Thriller
 216086;The Handmaiden;Romance
 216086;The Handmaiden;Drama
 216086;The Handmaiden;Intense violence and sexual transgression
-216086;The Handmaiden;Humanity and the world around us
 216086;The Handmaiden;Erotic relationships and desire
 216086;The Handmaiden;Challenging or sexual themes & twists
 216086;The Handmaiden;Twisted dark psychological thriller
@@ -2057,8 +2152,8 @@ film_id;film_title;value
 216301;The Nice Guys;Gags, jokes, and slapstick humor
 216301;The Nice Guys;Funny jokes and crude humor
 216301;The Nice Guys;Amusing jokes and witty satire
+216301;The Nice Guys;Catchy songs and hilarious musical comedy
 216301;The Nice Guys;Adrenaline-fueled action and fast cars
-216301;The Nice Guys;Spooky, scary comedy
 172492;X-Men: Apocalypse;Science Fiction
 172492;X-Men: Apocalypse;Adventure
 172492;X-Men: Apocalypse;Action
@@ -2095,7 +2190,15 @@ film_id;film_title;value
 261891;10 Cloverfield Lane;Sci-fi horror, creatures, and aliens
 261891;10 Cloverfield Lane;Terrifying, haunted, and supernatural horror
 261891;10 Cloverfield Lane;Creepy, chilling, and terrifying horror
-261891;10 Cloverfield Lane;Gory, gruesome, and slasher horror
+261891;10 Cloverfield Lane;Intense political and terrorist thrillers
+190407;Grimsby;Comedy
+190407;Grimsby;Action
+190407;Grimsby;Crude humor and satire
+190407;Grimsby;Funny jokes and crude humor
+190407;Grimsby;Gags, jokes, and slapstick humor
+190407;Grimsby;Amusing jokes and witty satire
+190407;Grimsby;Action comedy and silly heroics
+190407;Grimsby;Catchy songs and hilarious musical comedy
 220575;Deadpool;Action
 220575;Deadpool;Comedy
 220575;Deadpool;Adventure
@@ -2130,8 +2233,8 @@ film_id;film_title;value
 227787;13 Hours: The Secret Soldiers of Benghazi;Politics, propaganda, and political documentaries
 227787;13 Hours: The Secret Soldiers of Benghazi;Military combat and heroic soldiers
 227787;13 Hours: The Secret Soldiers of Benghazi;Riveting political and presidential drama
+227787;13 Hours: The Secret Soldiers of Benghazi;Intense political and terrorist thrillers
 227787;13 Hours: The Secret Soldiers of Benghazi;Bravery in War
-227787;13 Hours: The Secret Soldiers of Benghazi;Political drama, patriotism, and war
 312520;Derren Brown: Pushed to the Edge;TV Movie
 207224;The Revenant;Western
 207224;The Revenant;Adventure
@@ -2152,7 +2255,7 @@ film_id;film_title;value
 107418;Star Wars: The Force Awakens;Action-packed space and alien sagas
 107418;Star Wars: The Force Awakens;Fantasy adventure, heroism, and swordplay
 107418;Star Wars: The Force Awakens;Thought-provoking sci-fi action and future technology
-107418;Star Wars: The Force Awakens;Explosive and action-packed heroes vs. villains
+107418;Star Wars: The Force Awakens;Epic adventure and breathtaking battles
 239260;Creed;Action
 239260;Creed;Drama
 239260;Creed;Moving relationship stories
@@ -2162,7 +2265,7 @@ film_id;film_title;value
 246013;The Big Short;Drama
 246013;The Big Short;Comedy
 246013;The Big Short;Humanity and the world around us
-246013;The Big Short;Riveting political and presidential drama
+246013;The Big Short;Intense political and terrorist thrillers
 147597;Spectre;Adventure
 147597;Spectre;Action
 147597;Spectre;Thriller
@@ -2180,13 +2283,12 @@ film_id;film_title;value
 223396;Bridge of Spies;High speed and special ops
 223396;Bridge of Spies;Exciting spy thrillers with tense intrigue
 223396;Bridge of Spies;Political drama, patriotism, and war
+223396;Bridge of Spies;Intense political and terrorist thrillers
 223396;Bridge of Spies;Riveting political and presidential drama
 223396;Bridge of Spies;Politics, propaganda, and political documentaries
-223396;Bridge of Spies;Intense political and terrorist thrillers
 180982;The Intern;Comedy
 180982;The Intern;Relationship comedy
 180982;The Intern;Crude humor and satire
-180982;The Intern;Moving relationship stories
 180982;The Intern;Quirky and endearing relationships
 180982;The Intern;Laugh-out-loud relationship entanglements
 180982;The Intern;Touching and sentimental family stories
@@ -2228,13 +2330,17 @@ film_id;film_title;value
 187975;Room;Emotional and touching family dramas
 187975;Room;Touching and sentimental family stories
 187975;Room;Heartbreaking and moving family drama
-187975;Room;Gripping, intense violent crime
+187975;Room;Emotional teen coming-of-age stories
 241430;Spotlight;History
 241430;Spotlight;Drama
 241430;Spotlight;Faith and religion
 241430;Spotlight;Religious faith, sin, and forgiveness
 241430;Spotlight;Gripping, intense violent crime
 241430;Spotlight;Violent crime and drugs
+241430;Spotlight;Intense political and terrorist thrillers
+322102;Shark Exorcist;Horror
+322102;Shark Exorcist;Crude humor and satire
+322102;Shark Exorcist;Sci-fi horror, creatures, and aliens
 129816;Mission: Impossible – Rogue Nation;Action
 129816;Mission: Impossible – Rogue Nation;Adventure
 129816;Mission: Impossible – Rogue Nation;High speed and special ops
@@ -2243,7 +2349,7 @@ film_id;film_title;value
 129816;Mission: Impossible – Rogue Nation;Adrenaline-fueled action and fast cars
 129816;Mission: Impossible – Rogue Nation;Exciting spy thrillers with tense intrigue
 129816;Mission: Impossible – Rogue Nation;Superheroes in action-packed battles with villains
-129816;Mission: Impossible – Rogue Nation;Action comedy and silly heroics
+129816;Mission: Impossible – Rogue Nation;Intense political and terrorist thrillers
 259078;Sharknado 3: Oh Hell No!;TV Movie
 259078;Sharknado 3: Oh Hell No!;Comedy
 259078;Sharknado 3: Oh Hell No!;Horror
@@ -2312,7 +2418,18 @@ film_id;film_title;value
 104174;Jurassic World;Sci-fi horror, creatures, and aliens
 104174;Jurassic World;Superheroes in action-packed battles with villains
 104174;Jurassic World;Thought-provoking sci-fi action and future technology
-104174;Jurassic World;Chilling experiments and classic monster horror
+104174;Jurassic World;Epic adventure and breathtaking battles
+175626;Kung Fury;Science Fiction
+175626;Kung Fury;Comedy
+175626;Kung Fury;Fantasy
+175626;Kung Fury;Action
+175626;Kung Fury;Crude humor and satire
+175626;Kung Fury;Epic heroes
+175626;Kung Fury;Action comedy and silly heroics
+175626;Kung Fury;Intense combat and martial arts
+175626;Kung Fury;Superheroes in action-packed battles with villains
+175626;Kung Fury;Gags, jokes, and slapstick humor
+175626;Kung Fury;Funny jokes and crude humor
 218895;Love;Romance
 218895;Love;Drama
 218895;Love;Moving relationship stories
@@ -2321,7 +2438,7 @@ film_id;film_title;value
 218895;Love;Challenging or sexual themes & twists
 218895;Love;Emotional LGBTQ relationships
 218895;Love;Captivating relationships and charming romance
-218895;Love;Powerful poetic and passionate drama
+218895;Love;Emotional teen coming-of-age stories
 197628;Sicario;Action
 197628;Sicario;Thriller
 197628;Sicario;Crime
@@ -2329,8 +2446,8 @@ film_id;film_title;value
 197628;Sicario;Crime, drugs and gangsters
 197628;Sicario;Intense violence and sexual transgression
 197628;Sicario;Violent crime and drugs
-197628;Sicario;Gritty crime and ruthless gangsters
 197628;Sicario;Intense political and terrorist thrillers
+197628;Sicario;Gritty crime and ruthless gangsters
 197628;Sicario;Violent action, guns, and crime
 197628;Sicario;Exciting spy thrillers with tense intrigue
 113284;Inside Out;Comedy
@@ -2447,8 +2564,8 @@ film_id;film_title;value
 187986;Ex Machina;Humanity and the world around us
 187986;Ex Machina;Thought-provoking sci-fi action and future technology
 187986;Ex Machina;Twisted dark psychological thriller
-187986;Ex Machina;Surreal and thought-provoking visions of life and death
 187986;Ex Machina;Humanity's odyssey: earth and beyond
+187986;Ex Machina;Surreal and thought-provoking visions of life and death
 187986;Ex Machina;Imaginative space odysseys and alien encounters
 883131;Black Mirror: White Christmas;Thriller
 883131;Black Mirror: White Christmas;Drama
@@ -2458,8 +2575,8 @@ film_id;film_title;value
 148200;Kingsman: The Secret Service;Adventure
 148200;Kingsman: The Secret Service;Action
 148200;Kingsman: The Secret Service;High speed and special ops
-148200;Kingsman: The Secret Service;Crude humor and satire
 148200;Kingsman: The Secret Service;Epic heroes
+148200;Kingsman: The Secret Service;Crude humor and satire
 148200;Kingsman: The Secret Service;Action comedy and silly heroics
 148200;Kingsman: The Secret Service;Superheroes in action-packed battles with villains
 148200;Kingsman: The Secret Service;Explosive and action-packed heroes vs. villains
@@ -2564,9 +2681,9 @@ film_id;film_title;value
 190077;The Theory of Everything;Humanity and the world around us
 190077;The Theory of Everything;Powerful stories of heartbreak and suffering
 190077;The Theory of Everything;Passion and romance
-190077;The Theory of Everything;Touching and sentimental family stories
 190077;The Theory of Everything;Heartbreaking and moving family drama
-190077;The Theory of Everything;Captivating relationships and charming romance
+190077;The Theory of Everything;Touching and sentimental family stories
+190077;The Theory of Everything;Enduring stories of family and marital drama
 174719;The Duke of Burgundy;Romance
 174719;The Duke of Burgundy;Drama
 174719;The Duke of Burgundy;Mystery
@@ -2591,15 +2708,15 @@ film_id;film_title;value
 161004;Wild;Moving relationship stories
 161004;Wild;Powerful stories of heartbreak and suffering
 161004;Wild;Heartbreaking and moving family drama
+161004;Wild;Emotional teen coming-of-age stories
 161004;Wild;Erotic relationships and desire
 161004;Wild;Passion and romance
-161004;Wild;Enduring stories of family and marital drama
 146954;The Imitation Game;Drama
 146954;The Imitation Game;Thriller
 146954;The Imitation Game;War
 146954;The Imitation Game;History
-146954;The Imitation Game;Humanity and the world around us
 146954;The Imitation Game;Moving relationship stories
+146954;The Imitation Game;Humanity and the world around us
 146954;The Imitation Game;War and historical adventure
 146954;The Imitation Game;Epic history and literature
 146954;The Imitation Game;Nazis and World War II
@@ -2748,8 +2865,8 @@ film_id;film_title;value
 151309;Chef;Charming romances and delightful chemistry
 151309;Chef;Quirky and endearing relationships
 151309;Chef;Touching and sentimental family stories
-151309;Chef;Laugh-out-loud relationship entanglements
 151309;Chef;Emotional and touching family dramas
+151309;Chef;Laugh-out-loud relationship entanglements
 95113;The Grand Budapest Hotel;Drama
 95113;The Grand Budapest Hotel;Comedy
 95113;The Grand Budapest Hotel;Crude humor and satire
@@ -2797,8 +2914,8 @@ film_id;film_title;value
 171384;Whiplash;Drama
 171384;Whiplash;Music
 171384;Whiplash;Moving relationship stories
-171384;Whiplash;Student coming-of-age challenges
 171384;Whiplash;Emotional life of renowned artists
+171384;Whiplash;Student coming-of-age challenges
 171384;Whiplash;Powerful stories of heartbreak and suffering
 86114;The Wolf of Wall Street;Comedy
 86114;The Wolf of Wall Street;Drama
@@ -2814,6 +2931,7 @@ film_id;film_title;value
 124379;American Hustle;Drama
 124379;American Hustle;Crime, drugs and gangsters
 124379;American Hustle;Intense political and terrorist thrillers
+124379;American Hustle;Gags, jokes, and slapstick humor
 8983;The Hobbit: The Desolation of Smaug;Fantasy
 8983;The Hobbit: The Desolation of Smaug;Action
 8983;The Hobbit: The Desolation of Smaug;Adventure
@@ -2834,7 +2952,7 @@ film_id;film_title;value
 92619;The Secret Life of Walter Mitty;Emotional and captivating fantasy storytelling
 92619;The Secret Life of Walter Mitty;Laugh-out-loud relationship entanglements
 92619;The Secret Life of Walter Mitty;Charming romances and delightful chemistry
-92619;The Secret Life of Walter Mitty;Captivating relationships and charming romance
+92619;The Secret Life of Walter Mitty;Superheroes in action-packed battles with villains
 87948;Frozen;Fantasy
 87948;Frozen;Animation
 87948;Frozen;Adventure
@@ -2854,8 +2972,8 @@ film_id;film_title;value
 62822;Thor: The Dark World;Superheroes in action-packed battles with villains
 62822;Thor: The Dark World;Fantasy adventure, heroism, and swordplay
 62822;Thor: The Dark World;Action-packed space and alien sagas
-62822;Thor: The Dark World;Action comedy and silly heroics
 62822;Thor: The Dark World;Epic adventure and breathtaking battles
+62822;Thor: The Dark World;Action comedy and silly heroics
 103255;Carrie;Drama
 103255;Carrie;Horror
 103255;Carrie;Horror, the undead and monster classics
@@ -2880,6 +2998,7 @@ film_id;film_title;value
 87964;Captain Phillips;Thriller
 87964;Captain Phillips;High speed and special ops
 87964;Captain Phillips;Disastrous voyages and heroic survival
+87964;Captain Phillips;Intense political and terrorist thrillers
 87964;Captain Phillips;Explosive and action-packed heroes vs. villains
 155900;Coherence;Science Fiction
 155900;Coherence;Thriller
@@ -2902,6 +3021,16 @@ film_id;film_title;value
 114605;Dallas Buyers Club;Emotional LGBTQ relationships
 114605;Dallas Buyers Club;Violent crime and drugs
 114605;Dallas Buyers Club;Powerful stories of heartbreak and suffering
+114605;Dallas Buyers Club;Emotional teen coming-of-age stories
+73702;Riddick;Thriller
+73702;Riddick;Action
+73702;Riddick;Science Fiction
+73702;Riddick;Monsters, aliens, sci-fi and the apocalypse
+73702;Riddick;Epic heroes
+73702;Riddick;Action-packed space and alien sagas
+73702;Riddick;Superheroes in action-packed battles with villains
+73702;Riddick;Sci-fi horror, creatures, and aliens
+73702;Riddick;Sci-fi monster and dinosaur adventures
 79787;Rush;Drama
 79787;Rush;Action
 79787;Rush;Epic history and literature
@@ -2946,8 +3075,8 @@ film_id;film_title;value
 16529;Gravity;Imaginative space odysseys and alien encounters
 16529;Gravity;Humanity's odyssey: earth and beyond
 16529;Gravity;Dangerous technology and the apocalypse
+16529;Gravity;Surreal and thought-provoking visions of life and death
 16529;Gravity;Action-packed space and alien sagas
-16529;Gravity;Thought-provoking sci-fi action and future technology
 97062;The Mortal Instruments: City of Bones;Mystery
 97062;The Mortal Instruments: City of Bones;Action
 97062;The Mortal Instruments: City of Bones;Fantasy
@@ -3045,8 +3174,8 @@ film_id;film_title;value
 114563;Only Lovers Left Alive;Bloody vampire horror
 114563;Only Lovers Left Alive;Captivating relationships and charming romance
 114563;Only Lovers Left Alive;Passion and romance
+114563;Only Lovers Left Alive;Humanity's odyssey: earth and beyond
 114563;Only Lovers Left Alive;Surreal and thought-provoking visions of life and death
-114563;Only Lovers Left Alive;Thought-provoking sci-fi action and future technology
 118586;We Steal Secrets: The Story of WikiLeaks;Documentary
 118586;We Steal Secrets: The Story of WikiLeaks;Politics and human rights
 118586;We Steal Secrets: The Story of WikiLeaks;Politics, propaganda, and political documentaries
@@ -3055,8 +3184,8 @@ film_id;film_title;value
 114576;Blue Is the Warmest Color;Drama
 114576;Blue Is the Warmest Color;Romance
 114576;Blue Is the Warmest Color;Moving relationship stories
-114576;Blue Is the Warmest Color;Humanity and the world around us
 114576;Blue Is the Warmest Color;Underdogs and coming of age
+114576;Blue Is the Warmest Color;Humanity and the world around us
 114576;Blue Is the Warmest Color;Emotional teen coming-of-age stories
 114576;Blue Is the Warmest Color;Emotional LGBTQ relationships
 114576;Blue Is the Warmest Color;Erotic relationships and desire
@@ -3138,10 +3267,10 @@ film_id;film_title;value
 117581;The Spectacular Now;Drama
 117581;The Spectacular Now;Romance
 117581;The Spectacular Now;Comedy
-117581;The Spectacular Now;Underdogs and coming of age
 117581;The Spectacular Now;Moving relationship stories
-117581;The Spectacular Now;Touching and sentimental family stories
+117581;The Spectacular Now;Underdogs and coming of age
 117581;The Spectacular Now;Emotional teen coming-of-age stories
+117581;The Spectacular Now;Touching and sentimental family stories
 117581;The Spectacular Now;Student coming-of-age challenges
 117581;The Spectacular Now;Teen school antics and laughter
 117581;The Spectacular Now;Emotional and touching family dramas
@@ -3158,8 +3287,8 @@ film_id;film_title;value
 80349;Zero Dark Thirty;Politics and human rights
 80349;Zero Dark Thirty;War and historical adventure
 80349;Zero Dark Thirty;Politics, propaganda, and political documentaries
-80349;Zero Dark Thirty;Exciting spy thrillers with tense intrigue
 80349;Zero Dark Thirty;Intense political and terrorist thrillers
+80349;Zero Dark Thirty;Exciting spy thrillers with tense intrigue
 80349;Zero Dark Thirty;Riveting political and presidential drama
 80349;Zero Dark Thirty;Explosive and action-packed heroes vs. villains
 52516;Django Unchained;Drama
@@ -3177,8 +3306,8 @@ film_id;film_title;value
 62238;Jack Reacher;Thriller
 62238;Jack Reacher;Action
 62238;Jack Reacher;Thrillers and murder mysteries
-62238;Jack Reacher;Crime, drugs and gangsters
 62238;Jack Reacher;High speed and special ops
+62238;Jack Reacher;Crime, drugs and gangsters
 62238;Jack Reacher;Epic heroes
 62238;Jack Reacher;Explosive and action-packed heroes vs. villains
 62238;Jack Reacher;Suspenseful crime thrillers
@@ -3199,8 +3328,8 @@ film_id;film_title;value
 59353;Bullet to the Head;Thriller
 59353;Bullet to the Head;Crime, drugs and gangsters
 59353;Bullet to the Head;High speed and special ops
-59353;Bullet to the Head;Thrillers and murder mysteries
 59353;Bullet to the Head;Epic heroes
+59353;Bullet to the Head;Thrillers and murder mysteries
 59353;Bullet to the Head;Violent action, guns, and crime
 59353;Bullet to the Head;Gritty crime and ruthless gangsters
 59353;Bullet to the Head;Explosive and action-packed heroes vs. villains
@@ -3234,8 +3363,8 @@ film_id;film_title;value
 74348;Life of Pi;Drama
 74348;Life of Pi;Adventure
 74348;Life of Pi;Humanity and the world around us
-74348;Life of Pi;Faith and religion
 74348;Life of Pi;Moving relationship stories
+74348;Life of Pi;Faith and religion
 74348;Life of Pi;Surreal and thought-provoking visions of life and death
 74348;Life of Pi;Humanity's odyssey: earth and beyond
 74348;Life of Pi;Emotional and captivating fantasy storytelling
@@ -3245,8 +3374,8 @@ film_id;film_title;value
 6599;Looper;Thriller
 6599;Looper;Action
 6599;Looper;Crime, drugs and gangsters
-6599;Looper;Humanity and the world around us
 6599;Looper;High speed and special ops
+6599;Looper;Humanity and the world around us
 6599;Looper;Gritty crime and ruthless gangsters
 6599;Looper;Violent action, guns, and crime
 6599;Looper;Thought-provoking sci-fi action and future technology
@@ -3299,21 +3428,21 @@ film_id;film_title;value
 96109;Spring Breakers;Dreamlike, quirky, and surreal storytelling
 96109;Spring Breakers;Violent action, guns, and crime
 96109;Spring Breakers;Gritty crime and ruthless gangsters
-96109;Spring Breakers;Violent crime and drugs
+96109;Spring Breakers;Emotional teen coming-of-age stories
 96083;Frances Ha;Drama
 96083;Frances Ha;Comedy
 96083;Frances Ha;Moving relationship stories
 96083;Frances Ha;Humanity and the world around us
 96083;Frances Ha;Charming romances and delightful chemistry
 96083;Frances Ha;Quirky and endearing relationships
+96083;Frances Ha;Emotional teen coming-of-age stories
 96083;Frances Ha;Laugh-out-loud relationship entanglements
 96083;Frances Ha;Touching and sentimental family stories
-96083;Frances Ha;Captivating relationships and charming romance
 52501;Argo;Thriller
 52501;Argo;Drama
 52501;Argo;Politics and human rights
-52501;Argo;Exciting spy thrillers with tense intrigue
 52501;Argo;Intense political and terrorist thrillers
+52501;Argo;Exciting spy thrillers with tense intrigue
 52501;Argo;Explosive and action-packed heroes vs. villains
 52501;Argo;Politics, propaganda, and political documentaries
 52501;Argo;Riveting political and presidential drama
@@ -3367,8 +3496,8 @@ film_id;film_title;value
 70792;The Imposter;Intense violence and sexual transgression
 70792;The Imposter;Moving relationship stories
 70792;The Imposter;Suspenseful crime thrillers
-70792;The Imposter;Twisted dark psychological thriller
 70792;The Imposter;Fascinating, emotional stories and documentaries
+70792;The Imposter;Twisted dark psychological thriller
 70792;The Imposter;Gripping, intense violent crime
 70792;The Imposter;Intriguing and suspenseful murder mysteries
 64393;Magic Mike;Comedy
@@ -3386,6 +3515,17 @@ film_id;film_title;value
 50677;The Amazing Spider-Man;Superheroes in action-packed battles with villains
 50677;The Amazing Spider-Man;Explosive and action-packed heroes vs. villains
 50677;The Amazing Spider-Man;Action comedy and silly heroics
+4586;Brave;Comedy
+4586;Brave;Animation
+4586;Brave;Family
+4586;Brave;Fantasy
+4586;Brave;Adventure
+4586;Brave;Action
+4586;Brave;Fairy-tale fantasy and enchanted magic
+4586;Brave;Kids' animated fun and adventure
+4586;Brave;Holiday joy and heartwarming Christmas
+4586;Brave;Adorable animals and heartwarming families
+4586;Brave;Emotional and captivating fantasy storytelling
 57152;Abraham Lincoln: Vampire Hunter;Horror
 57152;Abraham Lincoln: Vampire Hunter;Action
 57152;Abraham Lincoln: Vampire Hunter;Fantasy
@@ -3416,20 +3556,20 @@ film_id;film_title;value
 84051;The Hunt;Intense violence and sexual transgression
 84051;The Hunt;Moving relationship stories
 84051;The Hunt;Underdogs and coming of age
+84051;The Hunt;Emotional teen coming-of-age stories
 84051;The Hunt;Emotional and touching family dramas
 84051;The Hunt;Gripping, intense violent crime
 84051;The Hunt;Heartbreaking and moving family drama
-84051;The Hunt;Emotional teen coming-of-age stories
 84051;The Hunt;Powerful stories of heartbreak and suffering
 88353;Laurence Anyways;Romance
 88353;Laurence Anyways;Drama
 88353;Laurence Anyways;Humanity and the world around us
 88353;Laurence Anyways;Moving relationship stories
 88353;Laurence Anyways;Captivating relationships and charming romance
+88353;Laurence Anyways;Powerful poetic and passionate drama
 88353;Laurence Anyways;Passion and romance
 88353;Laurence Anyways;Powerful stories of heartbreak and suffering
 88353;Laurence Anyways;Surreal and thought-provoking visions of life and death
-88353;Laurence Anyways;Powerful poetic and passionate drama
 70105;Moonrise Kingdom;Romance
 70105;Moonrise Kingdom;Drama
 70105;Moonrise Kingdom;Comedy
@@ -3487,8 +3627,8 @@ film_id;film_title;value
 8933;Project X;Teen school antics and laughter
 8933;Project X;Funny jokes and crude humor
 8933;Project X;Student coming-of-age challenges
-8933;Project X;Gags, jokes, and slapstick humor
 8933;Project X;Teen friendship and coming-of-age
+8933;Project X;Gags, jokes, and slapstick humor
 62229;John Dies at the End;Comedy
 62229;John Dies at the End;Horror
 62229;John Dies at the End;Crude humor and satire
@@ -3498,9 +3638,9 @@ film_id;film_title;value
 62229;John Dies at the End;Gags, jokes, and slapstick humor
 62229;John Dies at the End;Spooky, scary comedy
 62229;John Dies at the End;Bloody vampire horror
+70778;Liberal Arts;Comedy
 70778;Liberal Arts;Romance
 70778;Liberal Arts;Drama
-70778;Liberal Arts;Comedy
 70778;Liberal Arts;Moving relationship stories
 70778;Liberal Arts;Captivating relationships and charming romance
 70778;Liberal Arts;Charming romances and delightful chemistry
@@ -3577,16 +3717,16 @@ film_id;film_title;value
 62483;Shame;Challenging or sexual themes & twists
 62483;Shame;Powerful stories of heartbreak and suffering
 62483;Shame;Emotional teen coming-of-age stories
-62483;Shame;Emotional LGBTQ relationships
+62483;Shame;Fascinating, emotional stories and documentaries
 25156;Contagion;Drama
 25156;Contagion;Science Fiction
 25156;Contagion;Thriller
 25156;Contagion;Horror, the undead and monster classics
+25156;Contagion;Humanity's odyssey: earth and beyond
 25156;Contagion;Dangerous technology and the apocalypse
 25156;Contagion;Terrifying, haunted, and supernatural horror
-25156;Contagion;Humanity's odyssey: earth and beyond
 25156;Contagion;Chilling experiments and classic monster horror
-25156;Contagion;Thought-provoking sci-fi action and future technology
+25156;Contagion;Intense political and terrorist thrillers
 1768;The Descendants;Comedy
 1768;The Descendants;Drama
 1768;The Descendants;Moving relationship stories
@@ -3606,8 +3746,8 @@ film_id;film_title;value
 50809;Captain America: The First Avenger;Science Fiction
 50809;Captain America: The First Avenger;Action
 50809;Captain America: The First Avenger;Adventure
-50809;Captain America: The First Avenger;Epic heroes
 50809;Captain America: The First Avenger;High speed and special ops
+50809;Captain America: The First Avenger;Epic heroes
 50809;Captain America: The First Avenger;War and historical adventure
 50809;Captain America: The First Avenger;Superheroes in action-packed battles with villains
 50809;Captain America: The First Avenger;Explosive and action-packed heroes vs. villains
@@ -3673,7 +3813,7 @@ film_id;film_title;value
 19987;The Hangover Part II;Gags, jokes, and slapstick humor
 19987;The Hangover Part II;Amusing jokes and witty satire
 19987;The Hangover Part II;Laugh-out-loud relationship entanglements
-19987;The Hangover Part II;Spooky, scary comedy
+19987;The Hangover Part II;Catchy songs and hilarious musical comedy
 4549;Melancholia;Drama
 4549;Melancholia;Science Fiction
 4549;Melancholia;Humanity and the world around us
@@ -3721,8 +3861,8 @@ film_id;film_title;value
 46456;Thor;Superheroes in action-packed battles with villains
 46456;Thor;Fantasy adventure, heroism, and swordplay
 46456;Thor;Epic adventure and breathtaking battles
-46456;Thor;Captivating vision and Shakespearean drama
 46456;Thor;Action-packed space and alien sagas
+46456;Thor;Captivating vision and Shakespearean drama
 14327;Fast Five;Crime
 14327;Fast Five;Action
 14327;Fast Five;Thriller
@@ -3755,8 +3895,8 @@ film_id;film_title;value
 13972;Limitless;Science Fiction
 13972;Limitless;Mystery
 13972;Limitless;High speed and special ops
-13972;Limitless;Thought-provoking sci-fi action and future technology
 13972;Limitless;Intense political and terrorist thrillers
+13972;Limitless;Thought-provoking sci-fi action and future technology
 13972;Limitless;Violent crime and drugs
 13972;Limitless;Gritty crime and ruthless gangsters
 696;Life in a Day;Drama
@@ -3843,9 +3983,9 @@ film_id;film_title;value
 7785;Senna;Underdog fighting and boxing stories
 26711;The Social Network;Drama
 26711;The Social Network;Humanity and the world around us
+26711;The Social Network;Fascinating, emotional stories and documentaries
 26711;The Social Network;Teen school antics and laughter
 26711;The Social Network;Student coming-of-age challenges
-26711;The Social Network;Fascinating, emotional stories and documentaries
 21236;It's Kind of a Funny Story;Comedy
 21236;It's Kind of a Funny Story;Drama
 21236;It's Kind of a Funny Story;Underdogs and coming of age
@@ -3886,8 +4026,9 @@ film_id;film_title;value
 21050;127 Hours;Adventure
 21050;127 Hours;Thriller
 21050;127 Hours;Drama
-21050;127 Hours;Humanity and the world around us
+21050;127 Hours;Moving relationship stories
 21050;127 Hours;Powerful stories of heartbreak and suffering
+21050;127 Hours;Emotional teen coming-of-age stories
 18627;Incendies;Mystery
 18627;Incendies;War
 18627;Incendies;Drama
@@ -3993,8 +4134,8 @@ film_id;film_title;value
 37354;Kick-Ass;Action
 37354;Kick-Ass;Crude humor and satire
 37354;Kick-Ass;Crime, drugs and gangsters
-37354;Kick-Ass;Epic heroes
 37354;Kick-Ass;Intense violence and sexual transgression
+37354;Kick-Ass;Epic heroes
 37354;Kick-Ass;Underdogs and coming of age
 37354;Kick-Ass;Violent action, guns, and crime
 37354;Kick-Ass;Action comedy and silly heroics
@@ -4006,8 +4147,8 @@ film_id;film_title;value
 37596;Green Zone;Adventure
 37596;Green Zone;Action
 37596;Green Zone;Drama
-37596;Green Zone;Politics and human rights
 37596;Green Zone;High speed and special ops
+37596;Green Zone;Politics and human rights
 37596;Green Zone;War and historical adventure
 37596;Green Zone;Politics, propaganda, and political documentaries
 37596;Green Zone;Military combat and heroic soldiers
@@ -4060,6 +4201,17 @@ film_id;film_title;value
 38999;3 Idiots;Quirky and endearing relationships
 38999;3 Idiots;Teen school antics and laughter
 38999;3 Idiots;Touching and sentimental family stories
+46144;Sherlock Holmes;Action
+46144;Sherlock Holmes;Mystery
+46144;Sherlock Holmes;Adventure
+46144;Sherlock Holmes;Crime
+46144;Sherlock Holmes;Epic heroes
+46144;Sherlock Holmes;High speed and special ops
+46144;Sherlock Holmes;Superheroes in action-packed battles with villains
+46144;Sherlock Holmes;Intriguing and suspenseful murder mysteries
+46144;Sherlock Holmes;Fantasy adventure, heroism, and swordplay
+46144;Sherlock Holmes;Explosive and action-packed heroes vs. villains
+46144;Sherlock Holmes;Intense combat and martial arts
 39304;Avatar;Fantasy
 39304;Avatar;Science Fiction
 39304;Avatar;Adventure
@@ -4070,8 +4222,8 @@ film_id;film_title;value
 39304;Avatar;Action-packed space and alien sagas
 39304;Avatar;Imaginative space odysseys and alien encounters
 39304;Avatar;Thought-provoking sci-fi action and future technology
+39304;Avatar;Epic adventure and breathtaking battles
 39304;Avatar;Dangerous technology and the apocalypse
-39304;Avatar;Superheroes in action-packed battles with villains
 37605;Invictus;Drama
 37605;Invictus;History
 37605;Invictus;Politics and human rights
@@ -4094,7 +4246,6 @@ film_id;film_title;value
 46346;The Men Who Stare at Goats;War
 46346;The Men Who Stare at Goats;Crude humor and satire
 46346;The Men Who Stare at Goats;Politics and human rights
-46346;The Men Who Stare at Goats;War and historical adventure
 46346;The Men Who Stare at Goats;Amusing jokes and witty satire
 46346;The Men Who Stare at Goats;Gags, jokes, and slapstick humor
 46346;The Men Who Stare at Goats;Funny jokes and crude humor
@@ -4176,6 +4327,15 @@ film_id;film_title;value
 51385;Harry Potter and the Half-Blood Prince;Emotional and captivating fantasy storytelling
 51385;Harry Potter and the Half-Blood Prince;Emotional teen coming-of-age stories
 51385;Harry Potter and the Half-Blood Prince;Student coming-of-age challenges
+39746;Whatever Works;Comedy
+39746;Whatever Works;Romance
+39746;Whatever Works;Relationship comedy
+39746;Whatever Works;Crude humor and satire
+39746;Whatever Works;Laugh-out-loud relationship entanglements
+39746;Whatever Works;Charming romances and delightful chemistry
+39746;Whatever Works;Quirky and endearing relationships
+39746;Whatever Works;Gags, jokes, and slapstick humor
+39746;Whatever Works;Amusing jokes and witty satire
 45411;Public Enemies;History
 45411;Public Enemies;Crime
 45411;Public Enemies;Drama
@@ -4218,8 +4378,8 @@ film_id;film_title;value
 29041;Enter the Void;Surreal and thought-provoking visions of life and death
 29041;Enter the Void;Dreamlike, quirky, and surreal storytelling
 29041;Enter the Void;Challenging or sexual themes & twists
-29041;Enter the Void;Erotic relationships and desire
 29041;Enter the Void;Fascinating, emotional stories and documentaries
+29041;Enter the Void;Erotic relationships and desire
 41352;Inglourious Basterds;Drama
 41352;Inglourious Basterds;Thriller
 41352;Inglourious Basterds;War
@@ -4292,6 +4452,16 @@ film_id;film_title;value
 37973;Polytechnique;Graphic violence and brutal revenge
 37973;Polytechnique;Challenging or sexual themes & twists
 37973;Polytechnique;Gory, gruesome, and slasher horror
+42779;Coraline;Animation
+42779;Coraline;Horror
+42779;Coraline;Fantasy
+42779;Coraline;Family
+42779;Coraline;Horror, the undead and monster classics
+42779;Coraline;Fairy-tale fantasy and enchanted magic
+42779;Coraline;Kids' animated fun and adventure
+42779;Coraline;Terrifying, haunted, and supernatural horror
+42779;Coraline;Creepy, chilling, and terrifying horror
+42779;Coraline;Gothic and eerie haunting horror
 39350;(500) Days of Summer;Romance
 39350;(500) Days of Summer;Comedy
 39350;(500) Days of Summer;Drama
@@ -4341,8 +4511,8 @@ film_id;film_title;value
 44042;Gran Torino;Emotional and touching family dramas
 44042;Gran Torino;Racism and the powerful fight for justice
 44042;Gran Torino;Touching and sentimental family stories
+44042;Gran Torino;Emotional teen coming-of-age stories
 44042;Gran Torino;Heartbreaking and moving family drama
-44042;Gran Torino;Quirky and endearing relationships
 46450;Yes Man;Comedy
 46450;Yes Man;Romance
 46450;Yes Man;Crude humor and satire
@@ -4352,6 +4522,16 @@ film_id;film_title;value
 46450;Yes Man;Funny jokes and crude humor
 46450;Yes Man;Catchy songs and hilarious musical comedy
 46450;Yes Man;Amusing jokes and witty satire
+44186;Punisher: War Zone;Action
+44186;Punisher: War Zone;Crime
+44186;Punisher: War Zone;Crime, drugs and gangsters
+44186;Punisher: War Zone;High speed and special ops
+44186;Punisher: War Zone;Epic heroes
+44186;Punisher: War Zone;Violent action, guns, and crime
+44186;Punisher: War Zone;Gritty crime and ruthless gangsters
+44186;Punisher: War Zone;Explosive and action-packed heroes vs. villains
+44186;Punisher: War Zone;Action comedy and silly heroics
+44186;Punisher: War Zone;Brutal, violent prison drama
 47469;Twilight;Romance
 47469;Twilight;Drama
 47469;Twilight;Fantasy
@@ -4388,17 +4568,16 @@ film_id;film_title;value
 44919;High School Musical 3: Senior Year;Dance rhythms and catchy tunes
 44919;High School Musical 3: Senior Year;Bollywood emotional dramas
 44919;High School Musical 3: Senior Year;Catchy songs and hilarious musical comedy
-44919;High School Musical 3: Senior Year;Emotional teen coming-of-age stories
+44919;High School Musical 3: Senior Year;Touching and sentimental family stories
 44741;The Hurt Locker;Drama
 44741;The Hurt Locker;War
 44741;The Hurt Locker;Thriller
 44741;The Hurt Locker;War and historical adventure
-44741;The Hurt Locker;High speed and special ops
 44741;The Hurt Locker;Military combat and heroic soldiers
+44741;The Hurt Locker;Intense political and terrorist thrillers
 44741;The Hurt Locker;Political drama, patriotism, and war
 44741;The Hurt Locker;Bravery in War
 44741;The Hurt Locker;Explosive and action-packed heroes vs. villains
-44741;The Hurt Locker;Intense political and terrorist thrillers
 44613;Slumdog Millionaire;Drama
 44613;Slumdog Millionaire;Romance
 44613;Slumdog Millionaire;Moving relationship stories
@@ -4417,7 +4596,7 @@ film_id;film_title;value
 49054;Burn After Reading;Funny jokes and crude humor
 49054;Burn After Reading;Action comedy and silly heroics
 49054;Burn After Reading;Amusing jokes and witty satire
-49054;Burn After Reading;Spooky, scary comedy
+49054;Burn After Reading;Catchy songs and hilarious musical comedy
 43441;Wild Child;Romance
 43441;Wild Child;Drama
 43441;Wild Child;Comedy
@@ -4430,8 +4609,8 @@ film_id;film_title;value
 43441;Wild Child;Emotional and touching family dramas
 48992;Vicky Cristina Barcelona;Romance
 48992;Vicky Cristina Barcelona;Drama
-48992;Vicky Cristina Barcelona;Moving relationship stories
 48992;Vicky Cristina Barcelona;Relationship comedy
+48992;Vicky Cristina Barcelona;Moving relationship stories
 48992;Vicky Cristina Barcelona;Passion and romance
 48992;Vicky Cristina Barcelona;Erotic relationships and desire
 48992;Vicky Cristina Barcelona;Charming romances and delightful chemistry
@@ -4451,7 +4630,6 @@ film_id;film_title;value
 45120;Mamma Mia!;Comedy
 45120;Mamma Mia!;Romance
 45120;Mamma Mia!;Song and dance
-45120;Mamma Mia!;Moving relationship stories
 45120;Mamma Mia!;Dazzling vocal performances and musicals
 45120;Mamma Mia!;Charming romances and delightful chemistry
 45120;Mamma Mia!;Catchy songs and hilarious musical comedy
@@ -4489,8 +4667,8 @@ film_id;film_title;value
 47516;Wanted;Crime
 47516;Wanted;Action
 47516;Wanted;Thriller
-47516;Wanted;Epic heroes
 47516;Wanted;High speed and special ops
+47516;Wanted;Epic heroes
 47516;Wanted;Explosive and action-packed heroes vs. villains
 47516;Wanted;Adrenaline-fueled action and fast cars
 47516;Wanted;Violent action, guns, and crime
@@ -4583,10 +4761,11 @@ film_id;film_title;value
 42260;Dear Zachary: A Letter to a Son About His Father;Intense violence and sexual transgression
 42260;Dear Zachary: A Letter to a Son About His Father;Humanity and the world around us
 42260;Dear Zachary: A Letter to a Son About His Father;Powerful stories of heartbreak and suffering
-42260;Dear Zachary: A Letter to a Son About His Father;Gripping, intense violent crime
 42260;Dear Zachary: A Letter to a Son About His Father;Emotional and touching family dramas
+42260;Dear Zachary: A Letter to a Son About His Father;Gripping, intense violent crime
 42260;Dear Zachary: A Letter to a Son About His Father;Fascinating, emotional stories and documentaries
 42260;Dear Zachary: A Letter to a Son About His Father;Touching and sentimental family stories
+367810;Good Morning;Animation
 48296;I Am Legend;Thriller
 48296;I Am Legend;Drama
 48296;I Am Legend;Science Fiction
@@ -4634,8 +4813,10 @@ film_id;film_title;value
 48044;There Will Be Blood;Moving relationship stories
 48044;There Will Be Blood;Religious faith, sin, and forgiveness
 48044;There Will Be Blood;Intense political and terrorist thrillers
-43318;Timecrimes;Science Fiction
+48044;There Will Be Blood;Powerful poetic and passionate drama
+48044;There Will Be Blood;Fascinating, emotional stories and documentaries
 43318;Timecrimes;Thriller
+43318;Timecrimes;Science Fiction
 43318;Timecrimes;Thrillers and murder mysteries
 43318;Timecrimes;Twisted dark psychological thriller
 43318;Timecrimes;Suspenseful crime thrillers
@@ -4708,8 +4889,8 @@ film_id;film_title;value
 45150;Redacted;Drama
 45150;Redacted;War
 45150;Redacted;Politics and human rights
-45150;Redacted;War and historical adventure
 45150;Redacted;Intense violence and sexual transgression
+45150;Redacted;War and historical adventure
 45150;Redacted;Military combat and heroic soldiers
 45150;Redacted;Politics, propaganda, and political documentaries
 45150;Redacted;Political drama, patriotism, and war
@@ -4773,8 +4954,8 @@ film_id;film_title;value
 50558;Ratatouille;Family
 50558;Ratatouille;Comedy
 50558;Ratatouille;Fantasy
-50558;Ratatouille;Crude humor and satire
 50558;Ratatouille;Humanity and the world around us
+50558;Ratatouille;Crude humor and satire
 50558;Ratatouille;Kids' animated fun and adventure
 50558;Ratatouille;Holiday joy and heartwarming Christmas
 50558;Ratatouille;Charming romances and delightful chemistry
@@ -4881,17 +5062,18 @@ film_id;film_title;value
 51111;300;Fantasy adventure, heroism, and swordplay
 51111;300;Political drama, patriotism, and war
 51111;300;Military combat and heroic soldiers
-51111;300;Superheroes in action-packed battles with villains
+51111;300;Epic adventure and breathtaking battles
 51084;Blood Diamond;Action
 51084;Blood Diamond;Thriller
 51084;Blood Diamond;Drama
 51084;Blood Diamond;Politics and human rights
 51084;Blood Diamond;High speed and special ops
 51084;Blood Diamond;War and historical adventure
+51084;Blood Diamond;Moving relationship stories
 51084;Blood Diamond;Intense violence and sexual transgression
 51084;Blood Diamond;Racism and the powerful fight for justice
-51084;Blood Diamond;Powerful stories of heartbreak and suffering
 51084;Blood Diamond;Intense political and terrorist thrillers
+51084;Blood Diamond;Powerful stories of heartbreak and suffering
 51084;Blood Diamond;Gripping, intense violent crime
 51084;Blood Diamond;Heartbreaking and moving family drama
 50953;The Holiday;Comedy
@@ -4942,7 +5124,14 @@ film_id;film_title;value
 46911;Children of Men;Dangerous technology and the apocalypse
 46911;Children of Men;Humanity's odyssey: earth and beyond
 46911;Children of Men;Imaginative space odysseys and alien encounters
-46911;Children of Men;Surreal and thought-provoking visions of life and death
+46911;Children of Men;Action-packed space and alien sagas
+49023;Paprika;Animation
+49023;Paprika;Thriller
+49023;Paprika;Science Fiction
+49023;Paprika;Intense violence and sexual transgression
+49023;Paprika;Dreamlike, quirky, and surreal storytelling
+49023;Paprika;Surreal and thought-provoking visions of life and death
+49023;Paprika;Emotional and captivating fantasy storytelling
 50660;Crank;Thriller
 50660;Crank;Action
 50660;Crank;Crime
@@ -5009,7 +5198,6 @@ film_id;film_title;value
 50717;Marie Antoinette;Passion and romance
 50717;Marie Antoinette;Captivating vision and Shakespearean drama
 50717;Marie Antoinette;Captivating relationships and charming romance
-50717;Marie Antoinette;Powerful poetic and passionate drama
 27713;X-Men: The Last Stand;Thriller
 27713;X-Men: The Last Stand;Science Fiction
 27713;X-Men: The Last Stand;Action
@@ -5034,7 +5222,6 @@ film_id;film_title;value
 27706;Jonestown: The Life and Death of Peoples Temple;Fascinating, emotional stories and documentaries
 27706;Jonestown: The Life and Death of Peoples Temple;Politics, propaganda, and political documentaries
 27706;Jonestown: The Life and Death of Peoples Temple;Riveting political and presidential drama
-27706;Jonestown: The Life and Death of Peoples Temple;Powerful poetic and passionate drama
 46946;She's the Man;Comedy
 46946;She's the Man;Romance
 46946;She's the Man;Underdogs and coming of age
@@ -5052,9 +5239,9 @@ film_id;film_title;value
 51233;Cars;Crude humor and satire
 51233;Cars;Kids' animated fun and adventure
 51233;Cars;Adorable animals and heartwarming families
+51233;Cars;Holiday joy and heartwarming Christmas
 51233;Cars;Adrenaline-fueled action and fast cars
 51233;Cars;Laugh-out-loud relationship entanglements
-51233;Cars;Holiday joy and heartwarming Christmas
 46714;Ultraviolet;Science Fiction
 46714;Ultraviolet;Action
 46714;Ultraviolet;Thriller
@@ -5077,7 +5264,7 @@ film_id;film_title;value
 45747;High School Musical;Dance rhythms and catchy tunes
 45747;High School Musical;Dazzling vocal performances and musicals
 45747;High School Musical;Student coming-of-age challenges
-45747;High School Musical;Catchy songs and hilarious musical comedy
+45747;High School Musical;Inspiring sports underdog stories
 51379;Little Miss Sunshine;Drama
 51379;Little Miss Sunshine;Comedy
 51379;Little Miss Sunshine;Crude humor and satire
@@ -5108,8 +5295,8 @@ film_id;film_title;value
 51679;The Chronicles of Narnia: The Lion, the Witch and the Wardrobe;Fantasy adventure, heroism, and swordplay
 51679;The Chronicles of Narnia: The Lion, the Witch and the Wardrobe;Fairy-tale fantasy and enchanted magic
 51679;The Chronicles of Narnia: The Lion, the Witch and the Wardrobe;Epic adventure and breathtaking battles
-51679;The Chronicles of Narnia: The Lion, the Witch and the Wardrobe;Captivating vision and Shakespearean drama
 51679;The Chronicles of Narnia: The Lion, the Witch and the Wardrobe;Faith and spiritual journeys
+51679;The Chronicles of Narnia: The Lion, the Witch and the Wardrobe;Captivating vision and Shakespearean drama
 50766;Rent;Romance
 50766;Rent;Drama
 50766;Rent;Song and dance
@@ -5126,6 +5313,17 @@ film_id;film_title;value
 51450;Harry Potter and the Goblet of Fire;Student coming-of-age challenges
 51450;Harry Potter and the Goblet of Fire;Emotional and captivating fantasy storytelling
 51450;Harry Potter and the Goblet of Fire;Emotional teen coming-of-age stories
+50769;Lord of War;Drama
+50769;Lord of War;Thriller
+50769;Lord of War;Crime
+50769;Lord of War;Politics and human rights
+50769;Lord of War;Crime, drugs and gangsters
+50769;Lord of War;Intense violence and sexual transgression
+50769;Lord of War;Intense political and terrorist thrillers
+50769;Lord of War;Gritty crime and ruthless gangsters
+50769;Lord of War;Riveting political and presidential drama
+50769;Lord of War;Violent crime and drugs
+50769;Lord of War;Racism and the powerful fight for justice
 49390;Pride & Prejudice;Drama
 49390;Pride & Prejudice;Romance
 49390;Pride & Prejudice;Moving relationship stories
@@ -5167,8 +5365,8 @@ film_id;film_title;value
 50906;The Island;Thriller
 50906;The Island;Adventure
 50906;The Island;Action
-50906;The Island;Monsters, aliens, sci-fi and the apocalypse
 50906;The Island;High speed and special ops
+50906;The Island;Monsters, aliens, sci-fi and the apocalypse
 50906;The Island;Thought-provoking sci-fi action and future technology
 50906;The Island;Adrenaline-fueled action and fast cars
 50906;The Island;Explosive and action-packed heroes vs. villains
@@ -5220,7 +5418,17 @@ film_id;film_title;value
 50709;Star Wars: Episode III – Revenge of the Sith;Action-packed space and alien sagas
 50709;Star Wars: Episode III – Revenge of the Sith;Fantasy adventure, heroism, and swordplay
 50709;Star Wars: Episode III – Revenge of the Sith;Thought-provoking sci-fi action and future technology
-50709;Star Wars: Episode III – Revenge of the Sith;Captivating vision and Shakespearean drama
+50709;Star Wars: Episode III – Revenge of the Sith;Epic adventure and breathtaking battles
+48894;Kiss Kiss Bang Bang;Crime
+48894;Kiss Kiss Bang Bang;Mystery
+48894;Kiss Kiss Bang Bang;Comedy
+48894;Kiss Kiss Bang Bang;Crude humor and satire
+48894;Kiss Kiss Bang Bang;Thrillers and murder mysteries
+48894;Kiss Kiss Bang Bang;Gags, jokes, and slapstick humor
+48894;Kiss Kiss Bang Bang;Amusing jokes and witty satire
+48894;Kiss Kiss Bang Bang;Action comedy and silly heroics
+48894;Kiss Kiss Bang Bang;Noir and dark crime dramas
+48894;Kiss Kiss Bang Bang;Spooky, scary comedy
 45100;The Myth;Comedy
 45100;The Myth;Adventure
 45100;The Myth;Action
@@ -5304,12 +5512,13 @@ film_id;film_title;value
 46806;The Incredibles;Superheroes in action-packed battles with villains
 46806;The Incredibles;Action comedy and silly heroics
 46806;The Incredibles;Explosive and action-packed heroes vs. villains
-46806;The Incredibles;Adorable animals and heartwarming families
+46806;The Incredibles;Holiday joy and heartwarming Christmas
 51848;Hotel Rwanda;Drama
 51848;Hotel Rwanda;History
 51848;Hotel Rwanda;War
 51848;Hotel Rwanda;Politics and human rights
 51848;Hotel Rwanda;War and historical adventure
+51848;Hotel Rwanda;Moving relationship stories
 51848;Hotel Rwanda;Racism and the powerful fight for justice
 51848;Hotel Rwanda;Powerful stories of heartbreak and suffering
 51848;Hotel Rwanda;Gripping, intense violent crime
@@ -5333,9 +5542,9 @@ film_id;film_title;value
 49062;Howl's Moving Castle;Humanity and the world around us
 49062;Howl's Moving Castle;Emotional and captivating fantasy storytelling
 49062;Howl's Moving Castle;Fairy-tale fantasy and enchanted magic
+49062;Howl's Moving Castle;Holiday joy and heartwarming Christmas
 49062;Howl's Moving Castle;Surreal and thought-provoking visions of life and death
 49062;Howl's Moving Castle;Dreamlike, quirky, and surreal storytelling
-49062;Howl's Moving Castle;Captivating relationships and charming romance
 50995;Collateral;Crime
 50995;Collateral;Drama
 50995;Collateral;Thriller
@@ -5354,6 +5563,16 @@ film_id;film_title;value
 51745;Catwoman;Action comedy and silly heroics
 51745;Catwoman;Superheroes in action-packed battles with villains
 51745;Catwoman;Explosive and action-packed heroes vs. villains
+50568;I, Robot;Action
+50568;I, Robot;Science Fiction
+50568;I, Robot;Monsters, aliens, sci-fi and the apocalypse
+50568;I, Robot;Thrillers and murder mysteries
+50568;I, Robot;High speed and special ops
+50568;I, Robot;Thought-provoking sci-fi action and future technology
+50568;I, Robot;Superheroes in action-packed battles with villains
+50568;I, Robot;Intriguing and suspenseful murder mysteries
+50568;I, Robot;Adrenaline-fueled action and fast cars
+50568;I, Robot;Dangerous technology and the apocalypse
 50224;The Bourne Supremacy;Drama
 50224;The Bourne Supremacy;Action
 50224;The Bourne Supremacy;Thriller
@@ -5371,6 +5590,7 @@ film_id;film_title;value
 51560;Spider-Man 2;Moving relationship stories
 51560;Spider-Man 2;Superheroes in action-packed battles with villains
 51560;Spider-Man 2;Explosive and action-packed heroes vs. villains
+51560;Spider-Man 2;Epic adventure and breathtaking battles
 51560;Spider-Man 2;Action comedy and silly heroics
 51560;Spider-Man 2;Fantasy adventure, heroism, and swordplay
 44750;White Chicks;Comedy
@@ -5379,8 +5599,8 @@ film_id;film_title;value
 44750;White Chicks;Funny jokes and crude humor
 44750;White Chicks;Gags, jokes, and slapstick humor
 44750;White Chicks;Amusing jokes and witty satire
-44750;White Chicks;Catchy songs and hilarious musical comedy
 44750;White Chicks;Spooky, scary comedy
+44750;White Chicks;Catchy songs and hilarious musical comedy
 50087;The Chronicles of Riddick;Action
 50087;The Chronicles of Riddick;Science Fiction
 50087;The Chronicles of Riddick;Epic heroes
@@ -5425,7 +5645,6 @@ film_id;film_title;value
 51343;Shrek 2;Family
 51343;Shrek 2;Adventure
 51343;Shrek 2;Comedy
-51343;Shrek 2;Romance
 51343;Shrek 2;Animation
 51343;Shrek 2;Fantasy
 51343;Shrek 2;Crude humor and satire
@@ -5572,6 +5791,15 @@ film_id;film_title;value
 2682;Primer;Humanity and the world around us
 2682;Primer;Dreamlike, quirky, and surreal storytelling
 2682;Primer;Thought-provoking sci-fi action and future technology
+50889;The Motorcycle Diaries;Drama
+50889;The Motorcycle Diaries;Politics and human rights
+50889;The Motorcycle Diaries;Moving relationship stories
+50889;The Motorcycle Diaries;Humanity and the world around us
+50889;The Motorcycle Diaries;Powerful poetic and passionate drama
+50889;The Motorcycle Diaries;Riveting political and presidential drama
+50889;The Motorcycle Diaries;Political drama, patriotism, and war
+50889;The Motorcycle Diaries;Racism and the powerful fight for justice
+50889;The Motorcycle Diaries;Humanity's odyssey: earth and beyond
 51928;The Lord of the Rings: The Return of the King;Fantasy
 51928;The Lord of the Rings: The Return of the King;Adventure
 51928;The Lord of the Rings: The Return of the King;Action
@@ -5580,8 +5808,8 @@ film_id;film_title;value
 51928;The Lord of the Rings: The Return of the King;Fantasy adventure, heroism, and swordplay
 51928;The Lord of the Rings: The Return of the King;Epic adventure and breathtaking battles
 51928;The Lord of the Rings: The Return of the King;Superheroes in action-packed battles with villains
-51928;The Lord of the Rings: The Return of the King;Captivating vision and Shakespearean drama
 51928;The Lord of the Rings: The Return of the King;Emotional and captivating fantasy storytelling
+51928;The Lord of the Rings: The Return of the King;Captivating vision and Shakespearean drama
 51454;Oldboy;Thriller
 51454;Oldboy;Mystery
 51454;Oldboy;Drama
@@ -5619,10 +5847,10 @@ film_id;film_title;value
 50950;School of Rock;Comedy
 50950;School of Rock;Crude humor and satire
 50950;School of Rock;Song and dance
+50950;School of Rock;Catchy songs and hilarious musical comedy
 50950;School of Rock;Funny jokes and crude humor
 50950;School of Rock;Teen school antics and laughter
 50950;School of Rock;Gags, jokes, and slapstick humor
-50950;School of Rock;Catchy songs and hilarious musical comedy
 50950;School of Rock;Legendary musicians and stardom
 2694;Kill Bill: Vol. 1;Crime
 2694;Kill Bill: Vol. 1;Action
@@ -5652,6 +5880,15 @@ film_id;film_title;value
 51602;Love Actually;Quirky and endearing relationships
 51602;Love Actually;Touching and sentimental family stories
 51602;Love Actually;Passion and romance
+43921;Tokyo Godfathers;Drama
+43921;Tokyo Godfathers;Comedy
+43921;Tokyo Godfathers;Animation
+43921;Tokyo Godfathers;Moving relationship stories
+43921;Tokyo Godfathers;Emotional and captivating fantasy storytelling
+43921;Tokyo Godfathers;Holiday joy and heartwarming Christmas
+43921;Tokyo Godfathers;Touching and sentimental family stories
+43921;Tokyo Godfathers;Powerful stories of heartbreak and suffering
+43921;Tokyo Godfathers;Heartbreaking and moving family drama
 51898;Lost in Translation;Drama
 51898;Lost in Translation;Romance
 51898;Lost in Translation;Relationship comedy
@@ -5693,7 +5930,7 @@ film_id;film_title;value
 47638;The League of Extraordinary Gentlemen;Explosive and action-packed heroes vs. villains
 47638;The League of Extraordinary Gentlemen;Adrenaline-fueled action and fast cars
 47638;The League of Extraordinary Gentlemen;Action comedy and silly heroics
-47638;The League of Extraordinary Gentlemen;Fantasy adventure, heroism, and swordplay
+47638;The League of Extraordinary Gentlemen;Epic adventure and breathtaking battles
 2695;Pirates of the Caribbean: The Curse of the Black Pearl;Fantasy
 2695;Pirates of the Caribbean: The Curse of the Black Pearl;Adventure
 2695;Pirates of the Caribbean: The Curse of the Black Pearl;Action
@@ -5703,8 +5940,8 @@ film_id;film_title;value
 2695;Pirates of the Caribbean: The Curse of the Black Pearl;Superheroes in action-packed battles with villains
 2695;Pirates of the Caribbean: The Curse of the Black Pearl;Fantasy adventure, heroism, and swordplay
 2695;Pirates of the Caribbean: The Curse of the Black Pearl;Action comedy and silly heroics
-2695;Pirates of the Caribbean: The Curse of the Black Pearl;Epic adventure and breathtaking battles
 2695;Pirates of the Caribbean: The Curse of the Black Pearl;Disastrous voyages and heroic survival
+2695;Pirates of the Caribbean: The Curse of the Black Pearl;Epic adventure and breathtaking battles
 40988;The Room;Romance
 40988;The Room;Drama
 40988;The Room;Crude humor and satire
@@ -5723,11 +5960,12 @@ film_id;film_title;value
 2705;Finding Nemo;Animation
 2705;Finding Nemo;Family
 2705;Finding Nemo;Crude humor and satire
+2705;Finding Nemo;Moving relationship stories
 2705;Finding Nemo;Kids' animated fun and adventure
 2705;Finding Nemo;Adorable animals and heartwarming families
 2705;Finding Nemo;Fairy-tale fantasy and enchanted magic
+2705;Finding Nemo;Holiday joy and heartwarming Christmas
 2705;Finding Nemo;Emotional and touching family dramas
-2705;Finding Nemo;Quirky and endearing relationships
 51737;Mystic River;Thriller
 51737;Mystic River;Mystery
 51737;Mystic River;Crime
@@ -5757,9 +5995,9 @@ film_id;film_title;value
 51565;Dogville;Politics and human rights
 51565;Dogville;Intense violence and sexual transgression
 51565;Dogville;Surreal and thought-provoking visions of life and death
+51565;Dogville;Powerful poetic and passionate drama
 51565;Dogville;Racism and the powerful fight for justice
 51565;Dogville;Challenging or sexual themes & twists
-51565;Dogville;Powerful poetic and passionate drama
 51565;Dogville;Graphic violence and brutal revenge
 51517;The Matrix Reloaded;Thriller
 51517;The Matrix Reloaded;Action
@@ -5855,8 +6093,8 @@ film_id;film_title;value
 48059;Equilibrium;Action
 48059;Equilibrium;Thriller
 48059;Equilibrium;Science Fiction
-48059;Equilibrium;High speed and special ops
 48059;Equilibrium;Epic heroes
+48059;Equilibrium;High speed and special ops
 48059;Equilibrium;Thought-provoking sci-fi action and future technology
 48059;Equilibrium;Intense combat and martial arts
 48059;Equilibrium;Action-packed space and alien sagas
@@ -5881,9 +6119,9 @@ film_id;film_title;value
 47724;Bus 174;Politics and human rights
 47724;Bus 174;Violent crime and drugs
 47724;Bus 174;Gripping, intense violent crime
-47724;Bus 174;Fascinating, emotional stories and documentaries
 47724;Bus 174;Brutal, violent prison drama
 47724;Bus 174;Powerful stories of heartbreak and suffering
+47724;Bus 174;Fascinating, emotional stories and documentaries
 51881;28 Days Later;Horror
 51881;28 Days Later;Science Fiction
 51881;28 Days Later;Thriller
@@ -5907,8 +6145,8 @@ film_id;film_title;value
 45912;The Tuxedo;Intense combat and martial arts
 45912;The Tuxedo;Explosive and action-packed heroes vs. villains
 45912;The Tuxedo;Kids' animated fun and adventure
-50776;Phone Booth;Thriller
 50776;Phone Booth;Crime
+50776;Phone Booth;Thriller
 50776;Phone Booth;High speed and special ops
 50776;Phone Booth;Twisted dark psychological thriller
 50776;Phone Booth;Suspenseful crime thrillers
@@ -5920,6 +6158,15 @@ film_id;film_title;value
 51984;8 Mile;Dance rhythms and catchy tunes
 51984;8 Mile;Violent crime and drugs
 51984;8 Mile;Underdog fighting and boxing stories
+44807;Lilya 4-ever;Drama
+44807;Lilya 4-ever;Crime
+44807;Lilya 4-ever;Moving relationship stories
+44807;Lilya 4-ever;Intense violence and sexual transgression
+44807;Lilya 4-ever;Emotional teen coming-of-age stories
+44807;Lilya 4-ever;Powerful stories of heartbreak and suffering
+44807;Lilya 4-ever;Challenging or sexual themes & twists
+44807;Lilya 4-ever;Touching and sentimental family stories
+44807;Lilya 4-ever;Heartbreaking and moving family drama
 50152;Signs;Drama
 50152;Signs;Thriller
 50152;Signs;Horror
@@ -5967,6 +6214,7 @@ film_id;film_title;value
 50225;The Bourne Identity;Adrenaline-fueled action and fast cars
 50225;The Bourne Identity;Heists and thrilling action
 50225;The Bourne Identity;Superheroes in action-packed battles with villains
+55370;An Erotic Vampire in Paris;Horror
 47420;Spirit: Stallion of the Cimarron;Comedy
 47420;Spirit: Stallion of the Cimarron;Adventure
 47420;Spirit: Stallion of the Cimarron;Animation
@@ -5984,8 +6232,8 @@ film_id;film_title;value
 51523;City of God;Drama
 51523;City of God;Crime
 51523;City of God;Crime, drugs and gangsters
-51523;City of God;Intense violence and sexual transgression
 51523;City of God;Humanity and the world around us
+51523;City of God;Intense violence and sexual transgression
 51523;City of God;Violent crime and drugs
 51523;City of God;Violent action, guns, and crime
 51523;City of God;Gritty crime and ruthless gangsters
@@ -5996,6 +6244,7 @@ film_id;film_title;value
 50710;Star Wars: Episode II – Attack of the Clones;Adventure
 50710;Star Wars: Episode II – Attack of the Clones;Epic heroes
 50710;Star Wars: Episode II – Attack of the Clones;Monsters, aliens, sci-fi and the apocalypse
+50710;Star Wars: Episode II – Attack of the Clones;High speed and special ops
 50710;Star Wars: Episode II – Attack of the Clones;Superheroes in action-packed battles with villains
 50710;Star Wars: Episode II – Attack of the Clones;Fantasy adventure, heroism, and swordplay
 50710;Star Wars: Episode II – Attack of the Clones;Action-packed space and alien sagas
@@ -6016,6 +6265,14 @@ film_id;film_title;value
 51561;Spider-Man;Fantasy adventure, heroism, and swordplay
 51561;Spider-Man;Action comedy and silly heroics
 51561;Spider-Man;Explosive and action-packed heroes vs. villains
+49259;Panic Room;Thriller
+49259;Panic Room;Crime
+49259;Panic Room;Drama
+49259;Panic Room;High speed and special ops
+49259;Panic Room;Twisted dark psychological thriller
+49259;Panic Room;Heists and thrilling action
+49259;Panic Room;Terrifying, haunted, and supernatural horror
+49259;Panic Room;Noir and dark crime dramas
 49184;Sympathy for Mr. Vengeance;Drama
 49184;Sympathy for Mr. Vengeance;Thriller
 49184;Sympathy for Mr. Vengeance;Action
@@ -6074,14 +6331,15 @@ film_id;film_title;value
 51648;A Beautiful Mind;Humanity and the world around us
 51648;A Beautiful Mind;Moving relationship stories
 51648;A Beautiful Mind;Powerful stories of heartbreak and suffering
-51648;A Beautiful Mind;Intense political and terrorist thrillers
 51648;A Beautiful Mind;Dreamlike, quirky, and surreal storytelling
 51648;A Beautiful Mind;Surreal and thought-provoking visions of life and death
+51648;A Beautiful Mind;Intense political and terrorist thrillers
 51648;A Beautiful Mind;Emotional and touching family dramas
 51930;The Lord of the Rings: The Fellowship of the Ring;Fantasy
 51930;The Lord of the Rings: The Fellowship of the Ring;Adventure
 51930;The Lord of the Rings: The Fellowship of the Ring;Action
 51930;The Lord of the Rings: The Fellowship of the Ring;Epic heroes
+51930;The Lord of the Rings: The Fellowship of the Ring;Humanity and the world around us
 51930;The Lord of the Rings: The Fellowship of the Ring;Fantasy adventure, heroism, and swordplay
 51930;The Lord of the Rings: The Fellowship of the Ring;Epic adventure and breathtaking battles
 51930;The Lord of the Rings: The Fellowship of the Ring;Superheroes in action-packed battles with villains
@@ -6180,8 +6438,8 @@ film_id;film_title;value
 47586;Legally Blonde;Teen school antics and laughter
 47586;Legally Blonde;Laugh-out-loud relationship entanglements
 47586;Legally Blonde;Funny jokes and crude humor
-47586;Legally Blonde;Catchy songs and hilarious musical comedy
 47586;Legally Blonde;Charming romances and delightful chemistry
+47586;Legally Blonde;Amusing jokes and witty satire
 51480;A.I. Artificial Intelligence;Drama
 51480;A.I. Artificial Intelligence;Science Fiction
 51480;A.I. Artificial Intelligence;Adventure
@@ -6200,6 +6458,15 @@ film_id;film_title;value
 46813;The Fast and the Furious;Adrenaline-fueled action and fast cars
 46813;The Fast and the Furious;Heists and thrilling action
 46813;The Fast and the Furious;Explosive and action-packed heroes vs. villains
+51068;Y Tu Mamá También;Romance
+51068;Y Tu Mamá También;Drama
+51068;Y Tu Mamá También;Moving relationship stories
+51068;Y Tu Mamá También;Humanity and the world around us
+51068;Y Tu Mamá También;Erotic relationships and desire
+51068;Y Tu Mamá También;Emotional teen coming-of-age stories
+51068;Y Tu Mamá También;Powerful poetic and passionate drama
+51068;Y Tu Mamá También;Emotional LGBTQ relationships
+51068;Y Tu Mamá También;Challenging or sexual themes & twists
 51448;Pearl Harbor;Romance
 51448;Pearl Harbor;War
 51448;Pearl Harbor;History
@@ -6233,24 +6500,12 @@ film_id;film_title;value
 50791;The Piano Teacher;Graphic violence and brutal revenge
 50791;The Piano Teacher;Powerful poetic and passionate drama
 50791;The Piano Teacher;Captivating relationships and charming romance
-51344;Shrek;Adventure
-51344;Shrek;Fantasy
-51344;Shrek;Family
-51344;Shrek;Animation
-51344;Shrek;Comedy
-51344;Shrek;Crude humor and satire
-51344;Shrek;Relationship comedy
-51344;Shrek;Kids' animated fun and adventure
-51344;Shrek;Fairy-tale fantasy and enchanted magic
-51344;Shrek;Funny jokes and crude humor
-51344;Shrek;Holiday joy and heartwarming Christmas
-51344;Shrek;Laugh-out-loud relationship entanglements
 51328;Moulin Rouge!;Romance
 51328;Moulin Rouge!;Music
 51328;Moulin Rouge!;Drama
 51328;Moulin Rouge!;Song and dance
-51328;Moulin Rouge!;Humanity and the world around us
 51328;Moulin Rouge!;Moving relationship stories
+51328;Moulin Rouge!;Humanity and the world around us
 51328;Moulin Rouge!;Dazzling vocal performances and musicals
 51328;Moulin Rouge!;Captivating relationships and charming romance
 51328;Moulin Rouge!;Passion and romance
@@ -6263,10 +6518,22 @@ film_id;film_title;value
 51858;Amélie;Moving relationship stories
 51858;Amélie;Crude humor and satire
 51858;Amélie;Captivating relationships and charming romance
-51858;Amélie;Surreal and thought-provoking visions of life and death
 51858;Amélie;Charming romances and delightful chemistry
+51858;Amélie;Surreal and thought-provoking visions of life and death
 51858;Amélie;Emotional and captivating fantasy storytelling
 51858;Amélie;Touching and sentimental family stories
+51344;Shrek;Adventure
+51344;Shrek;Fantasy
+51344;Shrek;Family
+51344;Shrek;Animation
+51344;Shrek;Comedy
+51344;Shrek;Crude humor and satire
+51344;Shrek;Relationship comedy
+51344;Shrek;Kids' animated fun and adventure
+51344;Shrek;Fairy-tale fantasy and enchanted magic
+51344;Shrek;Holiday joy and heartwarming Christmas
+51344;Shrek;Funny jokes and crude humor
+51344;Shrek;Laugh-out-loud relationship entanglements
 51490;Bridget Jones's Diary;Comedy
 51490;Bridget Jones's Diary;Romance
 51490;Bridget Jones's Diary;Drama
@@ -6288,7 +6555,7 @@ film_id;film_title;value
 48475;The Mexican;Laugh-out-loud relationship entanglements
 48475;The Mexican;Gritty crime and ruthless gangsters
 48475;The Mexican;Violent action, guns, and crime
-48475;The Mexican;Catchy songs and hilarious musical comedy
+48475;The Mexican;Funny jokes and crude humor
 51910;Donnie Darko;Fantasy
 51910;Donnie Darko;Mystery
 51910;Donnie Darko;Drama
@@ -6300,6 +6567,18 @@ film_id;film_title;value
 51910;Donnie Darko;Terrifying, haunted, and supernatural horror
 51910;Donnie Darko;Twisted dark psychological thriller
 51910;Donnie Darko;Gothic and eerie haunting horror
+51299;Enemy at the Gates;Romance
+51299;Enemy at the Gates;War
+51299;Enemy at the Gates;Drama
+51299;Enemy at the Gates;History
+51299;Enemy at the Gates;War and historical adventure
+51299;Enemy at the Gates;Epic history and literature
+51299;Enemy at the Gates;Politics and human rights
+51299;Enemy at the Gates;Military combat and heroic soldiers
+51299;Enemy at the Gates;Nazis and World War II
+51299;Enemy at the Gates;Political drama, patriotism, and war
+51299;Enemy at the Gates;Historical battles and epic heroism
+51299;Enemy at the Gates;Bravery in War
 49810;Battle Royale;Action
 49810;Battle Royale;Thriller
 49810;Battle Royale;Drama
@@ -6324,8 +6603,8 @@ film_id;film_title;value
 49396;Charlie's Angels;Adventure
 49396;Charlie's Angels;Comedy
 49396;Charlie's Angels;Action
-49396;Charlie's Angels;Crude humor and satire
 49396;Charlie's Angels;High speed and special ops
+49396;Charlie's Angels;Crude humor and satire
 49396;Charlie's Angels;Epic heroes
 49396;Charlie's Angels;Action comedy and silly heroics
 49396;Charlie's Angels;Explosive and action-packed heroes vs. villains
@@ -6346,9 +6625,9 @@ film_id;film_title;value
 24788;A Dog's Will;Faith and religion
 24788;A Dog's Will;Gags, jokes, and slapstick humor
 24788;A Dog's Will;Funny jokes and crude humor
-24788;A Dog's Will;Religious faith, sin, and forgiveness
 24788;A Dog's Will;Amusing jokes and witty satire
 24788;A Dog's Will;Faith and spiritual journeys
+24788;A Dog's Will;Religious faith, sin, and forgiveness
 51973;Memento;Mystery
 51973;Memento;Thriller
 51973;Memento;Thrillers and murder mysteries
@@ -6374,10 +6653,10 @@ film_id;film_title;value
 27723;X-Men;Thought-provoking sci-fi action and future technology
 27723;X-Men;Action comedy and silly heroics
 27723;X-Men;Explosive and action-packed heroes vs. villains
+50589;The Patriot;Action
 50589;The Patriot;Drama
 50589;The Patriot;War
 50589;The Patriot;History
-50589;The Patriot;Action
 50589;The Patriot;War and historical adventure
 50589;The Patriot;Epic history and literature
 50589;The Patriot;Epic heroes
@@ -6424,6 +6703,16 @@ film_id;film_title;value
 2701;Dancer in the Dark;Dazzling vocal performances and musicals
 2701;Dancer in the Dark;Emotional life of renowned artists
 2701;Dancer in the Dark;Surreal and thought-provoking visions of life and death
+51990;Amores Perros;Thriller
+51990;Amores Perros;Drama
+51990;Amores Perros;Humanity and the world around us
+51990;Amores Perros;Intense violence and sexual transgression
+51990;Amores Perros;Moving relationship stories
+51990;Amores Perros;Gripping, intense violent crime
+51990;Amores Perros;Tragic sadness and captivating beauty
+51990;Amores Perros;Passion and romance
+51990;Amores Perros;Violent crime and drugs
+51990;Amores Perros;Powerful stories of heartbreak and suffering
 51483;Requiem for a Dream;Drama
 51483;Requiem for a Dream;Crime
 51483;Requiem for a Dream;Humanity and the world around us
@@ -6432,8 +6721,8 @@ film_id;film_title;value
 51483;Requiem for a Dream;Powerful stories of heartbreak and suffering
 51483;Requiem for a Dream;Challenging or sexual themes & twists
 51483;Requiem for a Dream;Touching and sentimental family stories
+51483;Requiem for a Dream;Emotional teen coming-of-age stories
 51483;Requiem for a Dream;Violent crime and drugs
-51483;Requiem for a Dream;Fascinating, emotional stories and documentaries
 48830;Battlefield Earth;Action
 48830;Battlefield Earth;Science Fiction
 51952;Gladiator;Action
@@ -6499,12 +6788,11 @@ film_id;film_title;value
 51728;Magnolia;Dreamlike, quirky, and surreal storytelling
 51728;Magnolia;Powerful stories of heartbreak and suffering
 51728;Magnolia;Emotional and touching family dramas
-51728;Magnolia;Heartbreaking and moving family drama
+51728;Magnolia;Fascinating, emotional stories and documentaries
 51613;The Green Mile;Drama
 51613;The Green Mile;Crime
 51613;The Green Mile;Fantasy
 51613;The Green Mile;Moving relationship stories
-51613;The Green Mile;Humanity and the world around us
 51613;The Green Mile;Brutal, violent prison drama
 51613;The Green Mile;Powerful stories of heartbreak and suffering
 51613;The Green Mile;Surreal and thought-provoking visions of life and death
@@ -6526,7 +6814,7 @@ film_id;film_title;value
 51568;Fight Club;Dreamlike, quirky, and surreal storytelling
 51568;Fight Club;Twisted dark psychological thriller
 51568;Fight Club;Surreal and thought-provoking visions of life and death
-51568;Fight Club;Graphic violence and brutal revenge
+51568;Fight Club;Powerful poetic and passionate drama
 2703;American Beauty;Drama
 2703;American Beauty;Moving relationship stories
 2703;American Beauty;Humanity and the world around us
@@ -6581,7 +6869,7 @@ film_id;film_title;value
 51024;The Virgin Suicides;Heartbreaking and moving family drama
 51024;The Virgin Suicides;Student coming-of-age challenges
 51024;The Virgin Suicides;Surreal and thought-provoking visions of life and death
-51024;The Virgin Suicides;Powerful stories of heartbreak and suffering
+51024;The Virgin Suicides;Fascinating, emotional stories and documentaries
 50711;Star Wars: Episode I – The Phantom Menace;Action
 50711;Star Wars: Episode I – The Phantom Menace;Science Fiction
 50711;Star Wars: Episode I – The Phantom Menace;Adventure
@@ -6592,6 +6880,15 @@ film_id;film_title;value
 50711;Star Wars: Episode I – The Phantom Menace;Fantasy adventure, heroism, and swordplay
 50711;Star Wars: Episode I – The Phantom Menace;Thought-provoking sci-fi action and future technology
 50711;Star Wars: Episode I – The Phantom Menace;Imaginative space odysseys and alien encounters
+51156;The Thirteenth Floor;Science Fiction
+51156;The Thirteenth Floor;Thriller
+51156;The Thirteenth Floor;Mystery
+51156;The Thirteenth Floor;Thrillers and murder mysteries
+51156;The Thirteenth Floor;Thought-provoking sci-fi action and future technology
+51156;The Thirteenth Floor;Intriguing and suspenseful murder mysteries
+51156;The Thirteenth Floor;Dreamlike, quirky, and surreal storytelling
+51156;The Thirteenth Floor;Humanity's odyssey: earth and beyond
+51156;The Thirteenth Floor;Action-packed space and alien sagas
 51554;The Mummy;Fantasy
 51554;The Mummy;Action
 51554;The Mummy;Adventure
@@ -6623,8 +6920,8 @@ film_id;film_title;value
 49047;10 Things I Hate About You;Teen school antics and laughter
 49047;10 Things I Hate About You;Laugh-out-loud relationship entanglements
 49047;10 Things I Hate About You;Funny jokes and crude humor
-49047;10 Things I Hate About You;Catchy songs and hilarious musical comedy
 49047;10 Things I Hate About You;Charming romances and delightful chemistry
+49047;10 Things I Hate About You;Quirky and endearing relationships
 51518;The Matrix;Science Fiction
 51518;The Matrix;Action
 51518;The Matrix;Monsters, aliens, sci-fi and the apocalypse
@@ -6639,7 +6936,6 @@ film_id;film_title;value
 51356;Cruel Intentions;Drama
 51356;Cruel Intentions;Romance
 51356;Cruel Intentions;Underdogs and coming of age
-51356;Cruel Intentions;Moving relationship stories
 51356;Cruel Intentions;Emotional teen coming-of-age stories
 51356;Cruel Intentions;Erotic relationships and desire
 51356;Cruel Intentions;Laugh-out-loud relationship entanglements
@@ -6675,8 +6971,8 @@ film_id;film_title;value
 50674;Shakespeare in Love;Charming romances and delightful chemistry
 50674;Shakespeare in Love;Passion and romance
 50674;Shakespeare in Love;Laugh-out-loud relationship entanglements
-50674;Shakespeare in Love;Captivating vision and Shakespearean drama
 50674;Shakespeare in Love;Captivating relationships and charming romance
+50674;Shakespeare in Love;Captivating vision and Shakespearean drama
 47111;A Bug's Life;Comedy
 47111;A Bug's Life;Animation
 47111;A Bug's Life;Adventure
@@ -6721,17 +7017,29 @@ film_id;film_title;value
 51295;Saving Private Ryan;War
 51295;Saving Private Ryan;War and historical adventure
 51295;Saving Private Ryan;Epic history and literature
+51295;Saving Private Ryan;Moving relationship stories
 51295;Saving Private Ryan;Humanity and the world around us
 51295;Saving Private Ryan;Military combat and heroic soldiers
 51295;Saving Private Ryan;Historical battles and epic heroism
 51295;Saving Private Ryan;Nazis and World War II
 51295;Saving Private Ryan;Bravery in War
 51295;Saving Private Ryan;Political drama, patriotism, and war
+45197;Small Soldiers;Fantasy
+45197;Small Soldiers;Science Fiction
+45197;Small Soldiers;Comedy
+45197;Small Soldiers;Adventure
+45197;Small Soldiers;Action
+45197;Small Soldiers;Epic heroes
+45197;Small Soldiers;Action-packed space and alien sagas
+45197;Small Soldiers;Kids' animated fun and adventure
+45197;Small Soldiers;Superheroes in action-packed battles with villains
+45197;Small Soldiers;Action comedy and silly heroics
+45197;Small Soldiers;Military combat and heroic soldiers
 51977;American History X;Drama
 51977;American History X;Intense violence and sexual transgression
+51977;American History X;Moving relationship stories
 51977;American History X;Underdogs and coming of age
 51977;American History X;Humanity and the world around us
-51977;American History X;Moving relationship stories
 51977;American History X;Gripping, intense violent crime
 51977;American History X;Violent crime and drugs
 51977;American History X;Powerful stories of heartbreak and suffering
@@ -6768,6 +7076,15 @@ film_id;film_title;value
 50725;Fear and Loathing in Las Vegas;Funny jokes and crude humor
 50725;Fear and Loathing in Las Vegas;Gags, jokes, and slapstick humor
 50725;Fear and Loathing in Las Vegas;Challenging or sexual themes & twists
+51506;Wild Things;Thriller
+51506;Wild Things;Drama
+51506;Wild Things;Mystery
+51506;Wild Things;Thrillers and murder mysteries
+51506;Wild Things;Intriguing and suspenseful murder mysteries
+51506;Wild Things;Suspenseful crime thrillers
+51506;Wild Things;Erotic relationships and desire
+51506;Wild Things;Noir and dark crime dramas
+51506;Wild Things;Twisted dark psychological thriller
 47280;The Man in the Iron Mask;Drama
 47280;The Man in the Iron Mask;Action
 47280;The Man in the Iron Mask;Adventure
@@ -6796,7 +7113,7 @@ film_id;film_title;value
 51458;Central Station;Powerful stories of heartbreak and suffering
 51458;Central Station;Heartbreaking and moving family drama
 51458;Central Station;Emotional and touching family dramas
-51458;Central Station;Religious faith, sin, and forgiveness
+51458;Central Station;Captivating relationships and charming romance
 51935;The Big Lebowski;Crime
 51935;The Big Lebowski;Comedy
 51935;The Big Lebowski;Crude humor and satire
@@ -6809,9 +7126,9 @@ film_id;film_title;value
 51621;Good Will Hunting;Moving relationship stories
 51621;Good Will Hunting;Humanity and the world around us
 51621;Good Will Hunting;Powerful stories of heartbreak and suffering
-51621;Good Will Hunting;Student coming-of-age challenges
 51621;Good Will Hunting;Touching and sentimental family stories
 51621;Good Will Hunting;Emotional teen coming-of-age stories
+51621;Good Will Hunting;Student coming-of-age challenges
 51621;Good Will Hunting;Emotional and touching family dramas
 47153;Anastasia;Animation
 47153;Anastasia;Fantasy
@@ -6823,6 +7140,19 @@ film_id;film_title;value
 47153;Anastasia;Emotional and captivating fantasy storytelling
 47153;Anastasia;Dazzling vocal performances and musicals
 47153;Anastasia;Adorable animals and heartwarming families
+51555;Starship Troopers;Adventure
+51555;Starship Troopers;Thriller
+51555;Starship Troopers;Action
+51555;Starship Troopers;Science Fiction
+51555;Starship Troopers;Monsters, aliens, sci-fi and the apocalypse
+51555;Starship Troopers;War and historical adventure
+51555;Starship Troopers;Epic heroes
+51555;Starship Troopers;High speed and special ops
+51555;Starship Troopers;Action-packed space and alien sagas
+51555;Starship Troopers;Military combat and heroic soldiers
+51555;Starship Troopers;Imaginative space odysseys and alien encounters
+51555;Starship Troopers;Dangerous technology and the apocalypse
+51555;Starship Troopers;Thought-provoking sci-fi action and future technology
 51524;Titanic;Drama
 51524;Titanic;Romance
 51524;Titanic;Moving relationship stories
@@ -6833,6 +7163,27 @@ film_id;film_title;value
 51524;Titanic;Touching and sentimental family stories
 51524;Titanic;Powerful stories of heartbreak and suffering
 51524;Titanic;Emotional teen coming-of-age stories
+51191;Seven Years in Tibet;History
+51191;Seven Years in Tibet;Adventure
+51191;Seven Years in Tibet;Drama
+51191;Seven Years in Tibet;War and historical adventure
+51191;Seven Years in Tibet;Epic history and literature
+51191;Seven Years in Tibet;Nazis and World War II
+51191;Seven Years in Tibet;Political drama, patriotism, and war
+51191;Seven Years in Tibet;Military combat and heroic soldiers
+51191;Seven Years in Tibet;Historical battles and epic heroism
+51191;Seven Years in Tibet;Riveting political and presidential drama
+51370;Gattaca;Thriller
+51370;Gattaca;Romance
+51370;Gattaca;Mystery
+51370;Gattaca;Science Fiction
+51370;Gattaca;Monsters, aliens, sci-fi and the apocalypse
+51370;Gattaca;Moving relationship stories
+51370;Gattaca;Thought-provoking sci-fi action and future technology
+51370;Gattaca;Imaginative space odysseys and alien encounters
+51370;Gattaca;Humanity's odyssey: earth and beyond
+51370;Gattaca;Surreal and thought-provoking visions of life and death
+51370;Gattaca;Intriguing and suspenseful murder mysteries
 49343;G.I. Jane;Action
 49343;G.I. Jane;Drama
 49343;G.I. Jane;War and historical adventure
@@ -6883,8 +7234,8 @@ film_id;film_title;value
 44838;Hercules;Kids' animated fun and adventure
 44838;Hercules;Fairy-tale fantasy and enchanted magic
 44838;Hercules;Fantasy adventure, heroism, and swordplay
-44838;Hercules;Superheroes in action-packed battles with villains
 44838;Hercules;Catchy songs and hilarious musical comedy
+44838;Hercules;Superheroes in action-packed battles with villains
 51677;Batman & Robin;Adventure
 51677;Batman & Robin;Science Fiction
 51677;Batman & Robin;Action
@@ -6945,6 +7296,7 @@ film_id;film_title;value
 50349;Space Jam;Inspiring sports underdog stories
 50349;Space Jam;Gags, jokes, and slapstick humor
 50349;Space Jam;Funny jokes and crude humor
+50349;Space Jam;Catchy songs and hilarious musical comedy
 51333;Sleepers;Crime
 51333;Sleepers;Thriller
 51333;Sleepers;Drama
@@ -6955,7 +7307,7 @@ film_id;film_title;value
 51333;Sleepers;Violent crime and drugs
 51333;Sleepers;Graphic violence and brutal revenge
 51333;Sleepers;Brutal, violent prison drama
-51333;Sleepers;Emotional teen coming-of-age stories
+51333;Sleepers;Gritty crime and ruthless gangsters
 46585;Escape from L.A.;Adventure
 46585;Escape from L.A.;Thriller
 46585;Escape from L.A.;Action
@@ -6966,6 +7318,17 @@ film_id;film_title;value
 46585;Escape from L.A.;Superheroes in action-packed battles with villains
 46585;Escape from L.A.;Action-packed space and alien sagas
 46585;Escape from L.A.;Action comedy and silly heroics
+51519;Independence Day;Adventure
+51519;Independence Day;Action
+51519;Independence Day;Science Fiction
+51519;Independence Day;Monsters, aliens, sci-fi and the apocalypse
+51519;Independence Day;Epic heroes
+51519;Independence Day;High speed and special ops
+51519;Independence Day;Dangerous technology and the apocalypse
+51519;Independence Day;Imaginative space odysseys and alien encounters
+51519;Independence Day;Action-packed space and alien sagas
+51519;Independence Day;Superheroes in action-packed battles with villains
+51519;Independence Day;Bravery in War
 46127;The Hunchback of Notre Dame;Family
 46127;The Hunchback of Notre Dame;Drama
 46127;The Hunchback of Notre Dame;Animation
@@ -6995,7 +7358,6 @@ film_id;film_title;value
 47345;The Craft;Terrifying, haunted, and supernatural horror
 47345;The Craft;Twisted dark psychological thriller
 47345;The Craft;Creepy, chilling, and terrifying horror
-47345;The Craft;Gothic and eerie haunting horror
 51781;Fargo;Crime
 51781;Fargo;Drama
 51781;Fargo;Thriller
@@ -7034,8 +7396,8 @@ film_id;film_title;value
 51994;Heat;Action
 51994;Heat;Drama
 51994;Heat;Crime, drugs and gangsters
-51994;Heat;Humanity and the world around us
 51994;Heat;High speed and special ops
+51994;Heat;Humanity and the world around us
 51994;Heat;Heists and thrilling action
 51994;Heat;Violent action, guns, and crime
 51994;Heat;Violent crime and drugs
@@ -7068,6 +7430,7 @@ film_id;film_title;value
 47270;Ghost in the Shell;Emotional and captivating fantasy storytelling
 47270;Ghost in the Shell;Surreal and thought-provoking visions of life and death
 47270;Ghost in the Shell;Action-packed space and alien sagas
+47270;Ghost in the Shell;Humanity's odyssey: earth and beyond
 51345;Se7en;Crime
 51345;Se7en;Mystery
 51345;Se7en;Thriller
@@ -7141,8 +7504,8 @@ film_id;film_title;value
 46870;Bad Boys;Thriller
 46870;Bad Boys;Crime
 46870;Bad Boys;Crude humor and satire
-46870;Bad Boys;Epic heroes
 46870;Bad Boys;High speed and special ops
+46870;Bad Boys;Epic heroes
 46870;Bad Boys;Crime, drugs and gangsters
 46870;Bad Boys;Adrenaline-fueled action and fast cars
 46870;Bad Boys;Violent action, guns, and crime
@@ -7167,7 +7530,7 @@ film_id;film_title;value
 51974;Before Sunrise;Charming romances and delightful chemistry
 51974;Before Sunrise;Touching and sentimental family stories
 51974;Before Sunrise;Passion and romance
-51974;Before Sunrise;Laugh-out-loud relationship entanglements
+51974;Before Sunrise;Emotional teen coming-of-age stories
 51949;Léon: The Professional;Crime
 51949;Léon: The Professional;Action
 51949;Léon: The Professional;Drama
@@ -7183,8 +7546,8 @@ film_id;film_title;value
 51949;Léon: The Professional;Powerful stories of heartbreak and suffering
 51778;The Shawshank Redemption;Crime
 51778;The Shawshank Redemption;Drama
-51778;The Shawshank Redemption;Humanity and the world around us
 51778;The Shawshank Redemption;Moving relationship stories
+51778;The Shawshank Redemption;Humanity and the world around us
 51778;The Shawshank Redemption;Brutal, violent prison drama
 51778;The Shawshank Redemption;Powerful stories of heartbreak and suffering
 51778;The Shawshank Redemption;Touching and sentimental family stories
@@ -7205,8 +7568,8 @@ film_id;film_title;value
 2704;Forrest Gump;Drama
 2704;Forrest Gump;Comedy
 2704;Forrest Gump;Romance
-2704;Forrest Gump;Humanity and the world around us
 2704;Forrest Gump;Moving relationship stories
+2704;Forrest Gump;Humanity and the world around us
 2704;Forrest Gump;Touching and sentimental family stories
 2704;Forrest Gump;Emotional and touching family dramas
 2704;Forrest Gump;Powerful stories of heartbreak and suffering
@@ -7216,8 +7579,8 @@ film_id;film_title;value
 47677;The Lion King;Family
 47677;The Lion King;Drama
 47677;The Lion King;Song and dance
-47677;The Lion King;Humanity and the world around us
 47677;The Lion King;Moving relationship stories
+47677;The Lion King;Humanity and the world around us
 47677;The Lion King;Fairy-tale fantasy and enchanted magic
 47677;The Lion King;Adorable animals and heartwarming families
 47677;The Lion King;Kids' animated fun and adventure
@@ -7265,7 +7628,7 @@ film_id;film_title;value
 51671;Schindler's List;Powerful stories of heartbreak and suffering
 51671;Schindler's List;Graphic violence and brutal revenge
 51671;Schindler's List;Creepy, chilling, and terrifying horror
-51671;Schindler's List;Terrifying, haunted, and supernatural horror
+51671;Schindler's List;Emotional teen coming-of-age stories
 47119;The Nightmare Before Christmas;Family
 47119;The Nightmare Before Christmas;Animation
 47119;The Nightmare Before Christmas;Fantasy
@@ -7283,11 +7646,20 @@ film_id;film_title;value
 43017;Rudy;Underdog fighting and boxing stories
 43017;Rudy;Student coming-of-age challenges
 43017;Rudy;Touching and sentimental family stories
+29698;Totally F***ed Up;Romance
+29698;Totally F***ed Up;Comedy
+29698;Totally F***ed Up;Drama
+29698;Totally F***ed Up;Moving relationship stories
+29698;Totally F***ed Up;Emotional LGBTQ relationships
+29698;Totally F***ed Up;Emotional teen coming-of-age stories
+29698;Totally F***ed Up;Erotic relationships and desire
+29698;Totally F***ed Up;Challenging or sexual themes & twists
+29698;Totally F***ed Up;Student coming-of-age challenges
 51942;Three Colours: Blue;Drama
 51942;Three Colours: Blue;Moving relationship stories
 51942;Three Colours: Blue;Humanity and the world around us
-51942;Three Colours: Blue;Powerful poetic and passionate drama
 51942;Three Colours: Blue;Heartbreaking and moving family drama
+51942;Three Colours: Blue;Powerful poetic and passionate drama
 51942;Three Colours: Blue;Powerful stories of heartbreak and suffering
 51942;Three Colours: Blue;Surreal and thought-provoking visions of life and death
 51942;Three Colours: Blue;Tragic sadness and captivating beauty
@@ -7308,6 +7680,17 @@ film_id;film_title;value
 51733;Jurassic Park;Sci-fi monster and dinosaur adventures
 51733;Jurassic Park;Sci-fi horror, creatures, and aliens
 51733;Jurassic Park;Thought-provoking sci-fi action and future technology
+50594;Hard Target;Crime
+50594;Hard Target;Thriller
+50594;Hard Target;Action
+50594;Hard Target;Adventure
+50594;Hard Target;High speed and special ops
+50594;Hard Target;Epic heroes
+50594;Hard Target;Explosive and action-packed heroes vs. villains
+50594;Hard Target;Violent action, guns, and crime
+50594;Hard Target;Intense combat and martial arts
+50594;Hard Target;Adrenaline-fueled action and fast cars
+50594;Hard Target;Superheroes in action-packed battles with villains
 51914;Groundhog Day;Comedy
 51914;Groundhog Day;Drama
 51914;Groundhog Day;Fantasy
@@ -7329,7 +7712,7 @@ film_id;film_title;value
 45511;City Hunter;Intense combat and martial arts
 45511;City Hunter;Gags, jokes, and slapstick humor
 45511;City Hunter;Funny jokes and crude humor
-45511;City Hunter;Explosive and action-packed heroes vs. villains
+45511;City Hunter;Catchy songs and hilarious musical comedy
 51340;Aladdin;Adventure
 51340;Aladdin;Romance
 51340;Aladdin;Family
@@ -7339,8 +7722,8 @@ film_id;film_title;value
 51340;Aladdin;Kids' animated fun and adventure
 51340;Aladdin;Fairy-tale fantasy and enchanted magic
 51340;Aladdin;Holiday joy and heartwarming Christmas
-51340;Aladdin;Dazzling vocal performances and musicals
 51340;Aladdin;Catchy songs and hilarious musical comedy
+51340;Aladdin;Dazzling vocal performances and musicals
 51386;Army of Darkness;Comedy
 51386;Army of Darkness;Horror
 51386;Army of Darkness;Fantasy
@@ -7355,7 +7738,7 @@ film_id;film_title;value
 47096;Glengarry Glen Ross;Mystery
 47096;Glengarry Glen Ross;Drama
 47096;Glengarry Glen Ross;Crime
-47096;Glengarry Glen Ross;Humanity and the world around us
+47096;Glengarry Glen Ross;High speed and special ops
 47096;Glengarry Glen Ross;Intense political and terrorist thrillers
 2685;Unforgiven;Western
 2685;Unforgiven;Westerns
@@ -7407,6 +7790,7 @@ film_id;film_title;value
 51157;Point Break;Crime
 51157;Point Break;Action
 51157;Point Break;High speed and special ops
+51157;Point Break;Epic heroes
 51157;Point Break;Heists and thrilling action
 51157;Point Break;Adrenaline-fueled action and fast cars
 51157;Point Break;Explosive and action-packed heroes vs. villains
@@ -7433,7 +7817,7 @@ film_id;film_title;value
 50934;The Double Life of Véronique;Dreamlike, quirky, and surreal storytelling
 71208;Inspector Faustão and the Vagabond;Crime
 71208;Inspector Faustão and the Vagabond;Family
-71208;Inspector Faustão and the Vagabond;Thriller
+71208;Inspector Faustão and the Vagabond;Comedy
 51273;Hook;Family
 51273;Hook;Comedy
 51273;Hook;Adventure
@@ -7456,6 +7840,16 @@ film_id;film_title;value
 51782;The Silence of the Lambs;Twisted dark psychological thriller
 51782;The Silence of the Lambs;Suspenseful crime thrillers
 51782;The Silence of the Lambs;Creepy, chilling, and terrifying horror
+51889;Edward Scissorhands;Drama
+51889;Edward Scissorhands;Romance
+51889;Edward Scissorhands;Fantasy
+51889;Edward Scissorhands;Moving relationship stories
+51889;Edward Scissorhands;Humanity and the world around us
+51889;Edward Scissorhands;Touching and sentimental family stories
+51889;Edward Scissorhands;Captivating relationships and charming romance
+51889;Edward Scissorhands;Surreal and thought-provoking visions of life and death
+51889;Edward Scissorhands;Powerful stories of heartbreak and suffering
+51889;Edward Scissorhands;Emotional and captivating fantasy storytelling
 50358;Jacob's Ladder;Horror
 50358;Jacob's Ladder;Mystery
 50358;Jacob's Ladder;Drama
@@ -7467,6 +7861,7 @@ film_id;film_title;value
 50358;Jacob's Ladder;Twisted dark psychological thriller
 50358;Jacob's Ladder;Dreamlike, quirky, and surreal storytelling
 50358;Jacob's Ladder;Creepy, chilling, and terrifying horror
+97190;The Company of Strangers;Drama
 51383;GoodFellas;Drama
 51383;GoodFellas;Crime
 51383;GoodFellas;Crime, drugs and gangsters
@@ -7489,8 +7884,8 @@ film_id;film_title;value
 51291;Total Recall;Action
 51291;Total Recall;Science Fiction
 51291;Total Recall;Adventure
-51291;Total Recall;Monsters, aliens, sci-fi and the apocalypse
 51291;Total Recall;High speed and special ops
+51291;Total Recall;Monsters, aliens, sci-fi and the apocalypse
 51291;Total Recall;Epic heroes
 51291;Total Recall;Superheroes in action-packed battles with villains
 51291;Total Recall;Thought-provoking sci-fi action and future technology
@@ -7553,7 +7948,7 @@ film_id;film_title;value
 41360;Kiki's Delivery Service;Fairy-tale fantasy and enchanted magic
 41360;Kiki's Delivery Service;Adorable animals and heartwarming families
 41360;Kiki's Delivery Service;Kids' animated fun and adventure
-41360;Kiki's Delivery Service;Captivating relationships and charming romance
+41360;Kiki's Delivery Service;Holiday joy and heartwarming Christmas
 51485;When Harry Met Sally...;Drama
 51485;When Harry Met Sally...;Romance
 51485;When Harry Met Sally...;Comedy
@@ -7569,28 +7964,25 @@ film_id;film_title;value
 51788;Batman;Action
 51788;Batman;Crime
 51788;Batman;Epic heroes
-51788;Batman;Superheroes in action-packed battles with villains
 51788;Batman;Action comedy and silly heroics
+51788;Batman;Superheroes in action-packed battles with villains
 51788;Batman;Violent action, guns, and crime
 51788;Batman;Gritty crime and ruthless gangsters
-51788;Batman;Fantasy adventure, heroism, and swordplay
 51846;Dead Poets Society;Drama
 51846;Dead Poets Society;Underdogs and coming of age
 51846;Dead Poets Society;Moving relationship stories
 51846;Dead Poets Society;Student coming-of-age challenges
 51846;Dead Poets Society;Emotional and touching family dramas
-51846;Dead Poets Society;Emotional teen coming-of-age stories
 51846;Dead Poets Society;Touching and sentimental family stories
 51846;Dead Poets Society;Powerful stories of heartbreak and suffering
+51846;Dead Poets Society;Emotional teen coming-of-age stories
 51961;Indiana Jones and the Last Crusade;Adventure
 51961;Indiana Jones and the Last Crusade;Action
 51961;Indiana Jones and the Last Crusade;Epic heroes
-51961;Indiana Jones and the Last Crusade;Crude humor and satire
-51961;Indiana Jones and the Last Crusade;Faith and religion
-51961;Indiana Jones and the Last Crusade;Superheroes in action-packed battles with villains
 51961;Indiana Jones and the Last Crusade;Fantasy adventure, heroism, and swordplay
-51961;Indiana Jones and the Last Crusade;Epic adventure and breathtaking battles
+51961;Indiana Jones and the Last Crusade;Superheroes in action-packed battles with villains
 51961;Indiana Jones and the Last Crusade;Adrenaline-fueled action and fast cars
+51961;Indiana Jones and the Last Crusade;Emotional and captivating fantasy storytelling
 51961;Indiana Jones and the Last Crusade;Explosive and action-packed heroes vs. villains
 50177;Heathers;Crime
 50177;Heathers;Comedy
@@ -7628,6 +8020,17 @@ film_id;film_title;value
 48730;Elvira: Mistress of the Dark;Funny jokes and crude humor
 48730;Elvira: Mistress of the Dark;Action comedy and silly heroics
 48730;Elvira: Mistress of the Dark;Amusing jokes and witty satire
+47628;The Vanishing;Mystery
+47628;The Vanishing;Thriller
+47628;The Vanishing;Horror, the undead and monster classics
+47628;The Vanishing;Intense violence and sexual transgression
+47628;The Vanishing;Thrillers and murder mysteries
+47628;The Vanishing;Humanity and the world around us
+47628;The Vanishing;Twisted dark psychological thriller
+47628;The Vanishing;Terrifying, haunted, and supernatural horror
+47628;The Vanishing;Gory, gruesome, and slasher horror
+47628;The Vanishing;Suspenseful crime thrillers
+47628;The Vanishing;Creepy, chilling, and terrifying horror
 51556;Die Hard;Thriller
 51556;Die Hard;Action
 51556;Die Hard;High speed and special ops
@@ -7670,7 +8073,7 @@ film_id;film_title;value
 45063;Bloodsport;Underdog fighting and boxing stories
 45063;Bloodsport;Explosive and action-packed heroes vs. villains
 45063;Bloodsport;Historical battles and epic heroism
-45063;Bloodsport;Adrenaline-fueled action and fast cars
+45063;Bloodsport;Inspiring sports underdog stories
 45649;Hairspray;Comedy
 45649;Hairspray;Crude humor and satire
 45649;Hairspray;Song and dance
@@ -7686,8 +8089,8 @@ film_id;film_title;value
 6838;Miami Connection;Song and dance
 6838;Miami Connection;Epic heroes
 6838;Miami Connection;Intense combat and martial arts
-6838;Miami Connection;Legendary musicians and stardom
 6838;Miami Connection;Dance rhythms and catchy tunes
+6838;Miami Connection;Legendary musicians and stardom
 45104;Masters of the Universe;Thriller
 45104;Masters of the Universe;Adventure
 45104;Masters of the Universe;Fantasy
@@ -7734,6 +8137,13 @@ film_id;film_title;value
 51944;Predator;Superheroes in action-packed battles with villains
 51944;Predator;Explosive and action-packed heroes vs. villains
 51944;Predator;Thought-provoking sci-fi action and future technology
+48677;Killer Workout;Horror
+48677;Killer Workout;Thriller
+48677;Killer Workout;Thrillers and murder mysteries
+48677;Killer Workout;Gory, gruesome, and slasher horror
+48677;Killer Workout;Suspenseful crime thrillers
+48677;Killer Workout;Intriguing and suspenseful murder mysteries
+48677;Killer Workout;Twisted dark psychological thriller
 51387;Evil Dead II;Horror
 51387;Evil Dead II;Comedy
 51387;Evil Dead II;Fantasy
@@ -7800,8 +8210,8 @@ film_id;film_title;value
 46759;Cobra;Thriller
 46759;Cobra;Crime
 46759;Cobra;Crime, drugs and gangsters
-46759;Cobra;Thrillers and murder mysteries
 46759;Cobra;High speed and special ops
+46759;Cobra;Thrillers and murder mysteries
 46759;Cobra;Epic heroes
 46759;Cobra;Violent action, guns, and crime
 46759;Cobra;Adrenaline-fueled action and fast cars
@@ -7897,12 +8307,12 @@ film_id;film_title;value
 51777;Amadeus;Drama
 51777;Amadeus;Music
 51777;Amadeus;Humanity and the world around us
-51777;Amadeus;Epic history and literature
 51777;Amadeus;Moving relationship stories
+51777;Amadeus;Epic history and literature
 51777;Amadeus;Emotional life of renowned artists
 51777;Amadeus;Lavish dramas and sumptuous royalty
-51777;Amadeus;Powerful poetic and passionate drama
 51777;Amadeus;Captivating relationships and charming romance
+51777;Amadeus;Powerful poetic and passionate drama
 51777;Amadeus;Captivating vision and Shakespearean drama
 51469;Paris, Texas;Drama
 51469;Paris, Texas;Moving relationship stories
@@ -7939,7 +8349,7 @@ film_id;film_title;value
 43569;Repo Man;Teen school antics and laughter
 43569;Repo Man;Funny jokes and crude humor
 43569;Repo Man;Action comedy and silly heroics
-43569;Repo Man;Laugh-out-loud relationship entanglements
+43569;Repo Man;Catchy songs and hilarious musical comedy
 50794;Footloose;Drama
 50794;Footloose;Romance
 50794;Footloose;Song and dance
@@ -7968,7 +8378,7 @@ film_id;film_title;value
 50712;Return of the Jedi;Action-packed space and alien sagas
 50712;Return of the Jedi;Fantasy adventure, heroism, and swordplay
 50712;Return of the Jedi;Epic adventure and breathtaking battles
-50712;Return of the Jedi;Imaginative space odysseys and alien encounters
+50712;Return of the Jedi;Emotional and captivating fantasy storytelling
 51088;First Blood;War
 51088;First Blood;Action
 51088;First Blood;Adventure
@@ -8029,22 +8439,22 @@ film_id;film_title;value
 45746;The Fox and the Hound;Fairy-tale fantasy and enchanted magic
 45746;The Fox and the Hound;Emotional and touching family dramas
 45746;The Fox and the Hound;Touching and sentimental family stories
-45746;The Fox and the Hound;Powerful stories of heartbreak and suffering
+45746;The Fox and the Hound;Holiday joy and heartwarming Christmas
 51965;Raiders of the Lost Ark;Adventure
 51965;Raiders of the Lost Ark;Action
 51965;Raiders of the Lost Ark;Epic heroes
+51965;Raiders of the Lost Ark;War and historical adventure
 51965;Raiders of the Lost Ark;High speed and special ops
-51965;Raiders of the Lost Ark;Epic history and literature
-51965;Raiders of the Lost Ark;Fantasy adventure, heroism, and swordplay
 51965;Raiders of the Lost Ark;Superheroes in action-packed battles with villains
+51965;Raiders of the Lost Ark;Fantasy adventure, heroism, and swordplay
 51965;Raiders of the Lost Ark;Epic adventure and breathtaking battles
 51965;Raiders of the Lost Ark;Explosive and action-packed heroes vs. villains
 51965;Raiders of the Lost Ark;Historical battles and epic heroism
 38374;Possession;Horror
 38374;Possession;Horror, the undead and monster classics
 38374;Possession;Intense violence and sexual transgression
-38374;Possession;Moving relationship stories
 38374;Possession;Humanity and the world around us
+38374;Possession;Moving relationship stories
 38374;Possession;Dreamlike, quirky, and surreal storytelling
 38374;Possession;Challenging or sexual themes & twists
 38374;Possession;Terrifying, haunted, and supernatural horror
@@ -8052,8 +8462,8 @@ film_id;film_title;value
 38374;Possession;Creepy, chilling, and terrifying horror
 51152;Escape from New York;Action
 51152;Escape from New York;Science Fiction
-51152;Escape from New York;High speed and special ops
 51152;Escape from New York;Epic heroes
+51152;Escape from New York;High speed and special ops
 51152;Escape from New York;Superheroes in action-packed battles with villains
 51152;Escape from New York;Explosive and action-packed heroes vs. villains
 51152;Escape from New York;Thought-provoking sci-fi action and future technology
@@ -8069,7 +8479,16 @@ film_id;film_title;value
 49632;Flash Gordon;Action-packed space and alien sagas
 49632;Flash Gordon;Fantasy adventure, heroism, and swordplay
 49632;Flash Gordon;Imaginative space odysseys and alien encounters
-49632;Flash Gordon;Action comedy and silly heroics
+49632;Flash Gordon;Epic adventure and breathtaking battles
+42200;Xanadu;Romance
+42200;Xanadu;Fantasy
+42200;Xanadu;Science Fiction
+42200;Xanadu;Song and dance
+42200;Xanadu;Dazzling vocal performances and musicals
+42200;Xanadu;Dance rhythms and catchy tunes
+42200;Xanadu;Catchy songs and hilarious musical comedy
+42200;Xanadu;Legendary musicians and stardom
+42200;Xanadu;Charming romances and delightful chemistry
 51432;The Shining;Horror
 51432;The Shining;Thriller
 51432;The Shining;Horror, the undead and monster classics
@@ -8084,10 +8503,11 @@ film_id;film_title;value
 50713;The Empire Strikes Back;Adventure
 50713;The Empire Strikes Back;Epic heroes
 50713;The Empire Strikes Back;Monsters, aliens, sci-fi and the apocalypse
+50713;The Empire Strikes Back;Humanity and the world around us
 50713;The Empire Strikes Back;Superheroes in action-packed battles with villains
 50713;The Empire Strikes Back;Fantasy adventure, heroism, and swordplay
-50713;The Empire Strikes Back;Action-packed space and alien sagas
 50713;The Empire Strikes Back;Emotional and captivating fantasy storytelling
+50713;The Empire Strikes Back;Action-packed space and alien sagas
 50713;The Empire Strikes Back;Epic adventure and breathtaking battles
 49299;Friday the 13th;Horror
 49299;Friday the 13th;Horror, the undead and monster classics
@@ -8100,8 +8520,8 @@ film_id;film_title;value
 41361;All That Jazz;Drama
 41361;All That Jazz;Song and dance
 41361;All That Jazz;Humanity and the world around us
-41361;All That Jazz;Dance rhythms and catchy tunes
 41361;All That Jazz;Emotional life of renowned artists
+41361;All That Jazz;Dance rhythms and catchy tunes
 41361;All That Jazz;Dazzling vocal performances and musicals
 41361;All That Jazz;Dreamlike, quirky, and surreal storytelling
 41361;All That Jazz;Surreal and thought-provoking visions of life and death
@@ -8111,8 +8531,8 @@ film_id;film_title;value
 51714;Alien;Horror, the undead and monster classics
 51714;Alien;Sci-fi horror, creatures, and aliens
 51714;Alien;Terrifying, haunted, and supernatural horror
-51714;Alien;Imaginative space odysseys and alien encounters
 51714;Alien;Creepy, chilling, and terrifying horror
+51714;Alien;Imaginative space odysseys and alien encounters
 51714;Alien;Action-packed space and alien sagas
 51062;Stalker;Drama
 51062;Stalker;Science Fiction
@@ -8173,6 +8593,23 @@ film_id;film_title;value
 60298;Halloween;Creepy, chilling, and terrifying horror
 60298;Halloween;Gothic and eerie haunting horror
 60298;Halloween;Chilling experiments and classic monster horror
+41461;Days of Heaven;Romance
+41461;Days of Heaven;Drama
+41461;Days of Heaven;Humanity and the world around us
+41461;Days of Heaven;Moving relationship stories
+41461;Days of Heaven;Passion and romance
+41461;Days of Heaven;Captivating relationships and charming romance
+41461;Days of Heaven;Surreal and thought-provoking visions of life and death
+41461;Days of Heaven;Heartbreaking and moving family drama
+41461;Days of Heaven;Powerful stories of heartbreak and suffering
+51230;Dawn of the Dead;Horror
+51230;Dawn of the Dead;Horror, the undead and monster classics
+51230;Dawn of the Dead;Intense violence and sexual transgression
+51230;Dawn of the Dead;Survival horror and zombie carnage
+51230;Dawn of the Dead;Gory, gruesome, and slasher horror
+51230;Dawn of the Dead;Sci-fi horror, creatures, and aliens
+51230;Dawn of the Dead;Terrifying, haunted, and supernatural horror
+51230;Dawn of the Dead;Extreme gory horror and cannibalism
 40726;Laserblast;Science Fiction
 40726;Laserblast;Horror
 40726;Laserblast;Monsters, aliens, sci-fi and the apocalypse
@@ -8224,8 +8661,8 @@ film_id;film_title;value
 44900;Suspiria;Twisted dark psychological thriller
 48903;Pumping Iron;Documentary
 48903;Pumping Iron;Underdogs and coming of age
-48903;Pumping Iron;Underdog fighting and boxing stories
 48903;Pumping Iron;Fascinating, emotional stories and documentaries
+48903;Pumping Iron;Underdog fighting and boxing stories
 51090;Rocky;Drama
 51090;Rocky;Moving relationship stories
 51090;Rocky;Underdog fighting and boxing stories
@@ -8265,6 +8702,7 @@ film_id;film_title;value
 51195;Dog Day Afternoon;Drama
 51195;Dog Day Afternoon;Thriller
 51195;Dog Day Afternoon;Crime, drugs and gangsters
+51195;Dog Day Afternoon;Moving relationship stories
 51195;Dog Day Afternoon;Heists and thrilling action
 51195;Dog Day Afternoon;Violent crime and drugs
 51195;Dog Day Afternoon;Suspenseful crime thrillers
@@ -8293,7 +8731,17 @@ film_id;film_title;value
 51816;The Godfather Part II;Gripping, intense violent crime
 51816;The Godfather Part II;Violent crime and drugs
 51816;The Godfather Part II;Enduring stories of family and marital drama
-51816;The Godfather Part II;Intense political and terrorist thrillers
+41305;Black Christmas;Thriller
+41305;Black Christmas;Horror
+41305;Black Christmas;Mystery
+41305;Black Christmas;Horror, the undead and monster classics
+41305;Black Christmas;Intense violence and sexual transgression
+41305;Black Christmas;Thrillers and murder mysteries
+41305;Black Christmas;Gory, gruesome, and slasher horror
+41305;Black Christmas;Twisted dark psychological thriller
+41305;Black Christmas;Terrifying, haunted, and supernatural horror
+41305;Black Christmas;Gothic and eerie haunting horror
+41305;Black Christmas;Creepy, chilling, and terrifying horror
 31985;The Texas Chain Saw Massacre;Horror
 31985;The Texas Chain Saw Massacre;Horror, the undead and monster classics
 31985;The Texas Chain Saw Massacre;Intense violence and sexual transgression
@@ -8336,16 +8784,35 @@ film_id;film_title;value
 41662;The Wicker Man;Creepy, chilling, and terrifying horror
 22119;F for Fake;Documentary
 22119;F for Fake;Humanity and the world around us
-22119;F for Fake;Captivating relationships and charming romance
+22119;F for Fake;Emotional life of renowned artists
 44492;Jesus Christ Superstar;Drama
 44492;Jesus Christ Superstar;Music
 44492;Jesus Christ Superstar;Song and dance
 44492;Jesus Christ Superstar;Faith and religion
 44492;Jesus Christ Superstar;Dazzling vocal performances and musicals
-44492;Jesus Christ Superstar;Religious faith, sin, and forgiveness
 44492;Jesus Christ Superstar;Faith and spiritual journeys
-44492;Jesus Christ Superstar;Emotional life of renowned artists
+44492;Jesus Christ Superstar;Religious faith, sin, and forgiveness
 44492;Jesus Christ Superstar;Legendary musicians and stardom
+44492;Jesus Christ Superstar;Emotional life of renowned artists
+15;Belladonna of Sadness;Drama
+15;Belladonna of Sadness;Fantasy
+15;Belladonna of Sadness;Animation
+15;Belladonna of Sadness;Intense violence and sexual transgression
+15;Belladonna of Sadness;Challenging or sexual themes & twists
+15;Belladonna of Sadness;Graphic violence and brutal revenge
+15;Belladonna of Sadness;Erotic relationships and desire
+15;Belladonna of Sadness;Dreamlike, quirky, and surreal storytelling
+15;Belladonna of Sadness;Surreal and thought-provoking visions of life and death
+44799;Soylent Green;Science Fiction
+44799;Soylent Green;Crime
+44799;Soylent Green;Thriller
+44799;Soylent Green;Monsters, aliens, sci-fi and the apocalypse
+44799;Soylent Green;Thrillers and murder mysteries
+44799;Soylent Green;Thought-provoking sci-fi action and future technology
+44799;Soylent Green;Intriguing and suspenseful murder mysteries
+44799;Soylent Green;Humanity's odyssey: earth and beyond
+44799;Soylent Green;Suspenseful crime thrillers
+44799;Soylent Green;Imaginative space odysseys and alien encounters
 50612;Aguirre, the Wrath of God;History
 50612;Aguirre, the Wrath of God;Drama
 50612;Aguirre, the Wrath of God;Adventure
@@ -8356,6 +8823,7 @@ film_id;film_title;value
 50612;Aguirre, the Wrath of God;Captivating vision and Shakespearean drama
 50612;Aguirre, the Wrath of God;Disastrous voyages and heroic survival
 18412;Intimate Confessions of a Chinese Courtesan;Drama
+51434;Pink Flamingos;Comedy
 51818;The Godfather;Crime
 51818;The Godfather;Drama
 51818;The Godfather;Crime, drugs and gangsters
@@ -8376,14 +8844,24 @@ film_id;film_title;value
 51867;A Clockwork Orange;Dreamlike, quirky, and surreal storytelling
 48788;Donkey Skin;Fantasy
 48788;Donkey Skin;Romance
-48788;Donkey Skin;Music
 48788;Donkey Skin;Comedy
+48788;Donkey Skin;Music
 48788;Donkey Skin;Song and dance
 48788;Donkey Skin;Fairy-tale fantasy and enchanted magic
 48788;Donkey Skin;Dazzling vocal performances and musicals
 48788;Donkey Skin;Charming romances and delightful chemistry
 48788;Donkey Skin;Captivating relationships and charming romance
 48788;Donkey Skin;Lavish dramas and sumptuous royalty
+19013;Valerie and Her Week of Wonders;Drama
+19013;Valerie and Her Week of Wonders;Horror
+19013;Valerie and Her Week of Wonders;Fantasy
+19013;Valerie and Her Week of Wonders;Adventure
+19013;Valerie and Her Week of Wonders;Horror, the undead and monster classics
+19013;Valerie and Her Week of Wonders;Gothic and eerie haunting horror
+19013;Valerie and Her Week of Wonders;Dreamlike, quirky, and surreal storytelling
+19013;Valerie and Her Week of Wonders;Surreal and thought-provoking visions of life and death
+19013;Valerie and Her Week of Wonders;Captivating relationships and charming romance
+19013;Valerie and Her Week of Wonders;Creepy, chilling, and terrifying horror
 61965;Antonio das Mortes;Drama
 61965;Antonio das Mortes;Action
 61965;Antonio das Mortes;Western
@@ -8400,7 +8878,7 @@ film_id;film_title;value
 51727;Once Upon a Time in the West;Violent action, guns, and crime
 51727;Once Upon a Time in the West;Gritty crime and ruthless gangsters
 51727;Once Upon a Time in the West;Powerful poetic and passionate drama
-134880;The Red Light Bandit;Crime
+134880;The Red Light Bandit;Thriller
 27183;The Graduate;Comedy
 27183;The Graduate;Drama
 27183;The Graduate;Romance
@@ -8419,12 +8897,13 @@ film_id;film_title;value
 18447;Daisies;Dreamlike, quirky, and surreal storytelling
 51666;The Good, the Bad and the Ugly;Western
 51666;The Good, the Bad and the Ugly;Westerns
+51666;The Good, the Bad and the Ugly;Humanity and the world around us
 51666;The Good, the Bad and the Ugly;Epic heroes
 51666;The Good, the Bad and the Ugly;Wild west outlaws and gunfights
 51666;The Good, the Bad and the Ugly;Western frontier dramas with a touch of humor
+51666;The Good, the Bad and the Ugly;Historical battles and epic heroism
 51666;The Good, the Bad and the Ugly;Superheroes in action-packed battles with villains
-51666;The Good, the Bad and the Ugly;Violent action, guns, and crime
-51666;The Good, the Bad and the Ugly;Epic adventure and breathtaking battles
+51666;The Good, the Bad and the Ugly;Military combat and heroic soldiers
 45263;Repulsion;Horror
 45263;Repulsion;Drama
 45263;Repulsion;Thriller
@@ -8435,6 +8914,17 @@ film_id;film_title;value
 45263;Repulsion;Challenging or sexual themes & twists
 45263;Repulsion;Gory, gruesome, and slasher horror
 45263;Repulsion;Gothic and eerie haunting horror
+33965;Blood and Black Lace;Horror
+33965;Blood and Black Lace;Thriller
+33965;Blood and Black Lace;Mystery
+33965;Blood and Black Lace;Thrillers and murder mysteries
+33965;Blood and Black Lace;Intense violence and sexual transgression
+33965;Blood and Black Lace;Horror, the undead and monster classics
+33965;Blood and Black Lace;Intriguing and suspenseful murder mysteries
+33965;Blood and Black Lace;Gory, gruesome, and slasher horror
+33965;Blood and Black Lace;Suspenseful crime thrillers
+33965;Blood and Black Lace;Twisted dark psychological thriller
+33965;Blood and Black Lace;Graphic violence and brutal revenge
 48532;The Umbrellas of Cherbourg;Drama
 48532;The Umbrellas of Cherbourg;Romance
 48532;The Umbrellas of Cherbourg;Moving relationship stories
@@ -8483,9 +8973,9 @@ film_id;film_title;value
 51800;Antoine and Colette;Romance
 51800;Antoine and Colette;Moving relationship stories
 51800;Antoine and Colette;Captivating relationships and charming romance
+51800;Antoine and Colette;Emotional teen coming-of-age stories
 51800;Antoine and Colette;Touching and sentimental family stories
 51800;Antoine and Colette;Charming romances and delightful chemistry
-51800;Antoine and Colette;Emotional teen coming-of-age stories
 51800;Antoine and Colette;Laugh-out-loud relationship entanglements
 51611;Cléo from 5 to 7;Drama
 51611;Cléo from 5 to 7;Moving relationship stories
@@ -8494,11 +8984,12 @@ film_id;film_title;value
 51462;La Jetée;Science Fiction
 51462;La Jetée;Humanity and the world around us
 51462;La Jetée;Monsters, aliens, sci-fi and the apocalypse
+51462;La Jetée;Moving relationship stories
 51462;La Jetée;Surreal and thought-provoking visions of life and death
 51462;La Jetée;Thought-provoking sci-fi action and future technology
-51462;La Jetée;Imaginative space odysseys and alien encounters
 51462;La Jetée;Powerful poetic and passionate drama
-51462;La Jetée;Dangerous technology and the apocalypse
+51462;La Jetée;Imaginative space odysseys and alien encounters
+51462;La Jetée;Humanity's odyssey: earth and beyond
 45148;Through a Glass Darkly;Drama
 45148;Through a Glass Darkly;Humanity and the world around us
 45148;Through a Glass Darkly;Moving relationship stories
@@ -8506,7 +8997,7 @@ film_id;film_title;value
 45148;Through a Glass Darkly;Heartbreaking and moving family drama
 45148;Through a Glass Darkly;Enduring stories of family and marital drama
 45148;Through a Glass Darkly;Touching and sentimental family stories
-45148;Through a Glass Darkly;Surreal and thought-provoking visions of life and death
+45148;Through a Glass Darkly;Passion and romance
 51578;Psycho;Mystery
 51578;Psycho;Thriller
 51578;Psycho;Horror
@@ -8524,6 +9015,7 @@ film_id;film_title;value
 51436;Pickpocket;Powerful poetic and passionate drama
 51436;Pickpocket;Surreal and thought-provoking visions of life and death
 51436;Pickpocket;Captivating relationships and charming romance
+51436;Pickpocket;Emotional teen coming-of-age stories
 48800;Hiroshima Mon Amour;Drama
 48800;Hiroshima Mon Amour;Romance
 48800;Hiroshima Mon Amour;History
@@ -8566,6 +9058,7 @@ film_id;film_title;value
 51700;12 Angry Men;Humanity and the world around us
 51700;12 Angry Men;Gripping, intense violent crime
 51700;12 Angry Men;Suspenseful crime thrillers
+51700;12 Angry Men;Intense political and terrorist thrillers
 51620;The Seventh Seal;Fantasy
 51620;The Seventh Seal;Drama
 51620;The Seventh Seal;Faith and religion
@@ -8574,6 +9067,7 @@ film_id;film_title;value
 51620;The Seventh Seal;Surreal and thought-provoking visions of life and death
 51620;The Seventh Seal;Faith and spiritual journeys
 51620;The Seventh Seal;Terrifying, haunted, and supernatural horror
+51620;The Seventh Seal;Powerful poetic and passionate drama
 51322;Forbidden Planet;Adventure
 51322;Forbidden Planet;Science Fiction
 51322;Forbidden Planet;Monsters, aliens, sci-fi and the apocalypse
@@ -8594,11 +9088,12 @@ film_id;film_title;value
 51552;Rear Window;Mystery
 51552;Rear Window;Thriller
 51552;Rear Window;Thrillers and murder mysteries
+51552;Rear Window;Humanity and the world around us
 51552;Rear Window;Intriguing and suspenseful murder mysteries
 51552;Rear Window;Suspenseful crime thrillers
 51552;Rear Window;Noir and dark crime dramas
 51552;Rear Window;Twisted dark psychological thriller
-51552;Rear Window;Charming romances and delightful chemistry
+51552;Rear Window;Intense political and terrorist thrillers
 51596;Dial M for Murder;Crime
 51596;Dial M for Murder;Thriller
 51596;Dial M for Murder;Thrillers and murder mysteries
@@ -8622,8 +9117,8 @@ film_id;film_title;value
 44808;Alice in Wonderland;Fairy-tale fantasy and enchanted magic
 44808;Alice in Wonderland;Kids' animated fun and adventure
 44808;Alice in Wonderland;Dreamlike, quirky, and surreal storytelling
-44808;Alice in Wonderland;Adorable animals and heartwarming families
 44808;Alice in Wonderland;Holiday joy and heartwarming Christmas
+44808;Alice in Wonderland;Adorable animals and heartwarming families
 51570;Rashomon;Crime
 51570;Rashomon;Drama
 51570;Rashomon;Mystery
@@ -8656,7 +9151,6 @@ film_id;film_title;value
 2702;Citizen Kane;Drama
 2702;Citizen Kane;Mystery
 2702;Citizen Kane;Humanity and the world around us
-2702;Citizen Kane;Moving relationship stories
 2702;Citizen Kane;Politics and human rights
 2702;Citizen Kane;Surreal and thought-provoking visions of life and death
 51396;Fantasia;Family
@@ -8665,15 +9159,6 @@ film_id;film_title;value
 51396;Fantasia;Fairy-tale fantasy and enchanted magic
 51396;Fantasia;Kids' animated fun and adventure
 51396;Fantasia;Emotional and captivating fantasy storytelling
-51494;The Wizard of Oz;Adventure
-51494;The Wizard of Oz;Family
-51494;The Wizard of Oz;Fantasy
-51494;The Wizard of Oz;Song and dance
-51494;The Wizard of Oz;Fairy-tale fantasy and enchanted magic
-51494;The Wizard of Oz;Dazzling vocal performances and musicals
-51494;The Wizard of Oz;Emotional and captivating fantasy storytelling
-51494;The Wizard of Oz;Holiday joy and heartwarming Christmas
-51494;The Wizard of Oz;Adorable animals and heartwarming families
 51382;Gone with the Wind;Romance
 51382;Gone with the Wind;Drama
 51382;Gone with the Wind;War
@@ -8682,14 +9167,23 @@ film_id;film_title;value
 51382;Gone with the Wind;Captivating relationships and charming romance
 51382;Gone with the Wind;Racism and the powerful fight for justice
 51382;Gone with the Wind;Passion and romance
-51382;Gone with the Wind;Powerful poetic and passionate drama
 51382;Gone with the Wind;Captivating vision and Shakespearean drama
+51382;Gone with the Wind;Powerful poetic and passionate drama
+51494;The Wizard of Oz;Adventure
+51494;The Wizard of Oz;Family
+51494;The Wizard of Oz;Fantasy
+51494;The Wizard of Oz;Song and dance
+51494;The Wizard of Oz;Fairy-tale fantasy and enchanted magic
+51494;The Wizard of Oz;Dazzling vocal performances and musicals
+51494;The Wizard of Oz;Emotional and captivating fantasy storytelling
+51494;The Wizard of Oz;Adorable animals and heartwarming families
+51494;The Wizard of Oz;Holiday joy and heartwarming Christmas
 49889;Modern Times;Comedy
 49889;Modern Times;Drama
 49889;Modern Times;Romance
 49889;Modern Times;Crude humor and satire
-49889;Modern Times;Song and dance
 49889;Modern Times;Humanity and the world around us
+49889;Modern Times;Song and dance
 49889;Modern Times;Amusing jokes and witty satire
 49889;Modern Times;Catchy songs and hilarious musical comedy
 49889;Modern Times;Gags, jokes, and slapstick humor
@@ -8703,15 +9197,17 @@ film_id;film_title;value
 48693;L'Âge d'or;Faith and religion
 48693;L'Âge d'or;Powerful poetic and passionate drama
 48693;L'Âge d'or;Challenging or sexual themes & twists
-48693;L'Âge d'or;Surreal and thought-provoking visions of life and death
 48693;L'Âge d'or;Religious faith, sin, and forgiveness
+48693;L'Âge d'or;Surreal and thought-provoking visions of life and death
 48693;L'Âge d'or;Erotic relationships and desire
 2698;Metropolis;Drama
 2698;Metropolis;Science Fiction
 2698;Metropolis;Epic history and literature
 2698;Metropolis;Faith and religion
 2698;Metropolis;Thought-provoking sci-fi action and future technology
+2698;Metropolis;Powerful poetic and passionate drama
 2698;Metropolis;Political drama, patriotism, and war
+2698;Metropolis;Religious faith, sin, and forgiveness
 51471;Nosferatu;Horror
 51471;Nosferatu;Horror, the undead and monster classics
 51471;Nosferatu;Creepy, chilling, and terrifying horror

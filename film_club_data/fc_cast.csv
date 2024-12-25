@@ -1021,7 +1021,7 @@ film_id;film_title;name;link;character_name
 41672;Killer Klowns from Outer Space;Jimmy Locust;letterboxd.com/actor/jimmy-locust/;Klown Performer
 41672;Killer Klowns from Outer Space;Mitch Bryan;letterboxd.com/actor/mitch-bryan/;Klown Performer
 41672;Killer Klowns from Outer Space;Greg Sykes;letterboxd.com/actor/greg-sykes/;Klown Performer
-44960;The 36th Chamber of Shaolin;Gordon Liu Chia-hui;letterboxd.com/actor/gordon-liu-chia-hui-1/;Liu Yu-de / Monk San Ta
+44960;The 36th Chamber of Shaolin;Gordon Liu Chia-Hui;letterboxd.com/actor/gordon-liu-chia-hui-1/;Liu Yu-de / Monk San Ta
 44960;The 36th Chamber of Shaolin;Lo Lieh;letterboxd.com/actor/lo-lieh/;General Tien Ta
 44960;The 36th Chamber of Shaolin;John Cheung Ng-Long;letterboxd.com/actor/john-cheung-ng-long/;Lord Cheng
 44960;The 36th Chamber of Shaolin;Wilson Tong;letterboxd.com/actor/wilson-tong/;Lord Tang San-yao
@@ -1122,7 +1122,7 @@ film_id;film_title;name;link;character_name
 45270;The Warriors;Jery Hewitt;letterboxd.com/actor/jery-hewitt/;Baseball Fury Leader/ Punk (Beanie)
 45270;The Warriors;Leon Delaney;letterboxd.com/actor/leon-delaney/;Baseball Fury (Orange and Black)/ Punk (Plain Green)
 45270;The Warriors;Rob Ryder;letterboxd.com/actor/rob-ryder/;Baseball Fury (Purple)/ Punk (Plain Red)
-45270;The Warriors;Steven Chambers;letterboxd.com/actor/steven-chambers/;Baseball Fury (Purple)
+45270;The Warriors;Steve Chambers;letterboxd.com/actor/steve-chambers-3/;Baseball Fury (Purple)
 45270;The Warriors;Bill Anagnos;letterboxd.com/actor/bill-anagnos/;Baseball Fury (Blue and Orange)
 45270;The Warriors;Harry Madsen;letterboxd.com/actor/harry-madsen/;Baseball Fury (Green and White)
 45270;The Warriors;Victoria Vanderkloot;letterboxd.com/actor/victoria-vanderkloot/;Lizzie
@@ -1136,17 +1136,17 @@ film_id;film_title;name;link;character_name
 598882;The Banshees of Inisherin;Barry Keoghan;letterboxd.com/actor/barry-keoghan/;Dominic Kearney
 598882;The Banshees of Inisherin;Gary Lydon;letterboxd.com/actor/gary-lydon/;Peadar Kearney
 598882;The Banshees of Inisherin;Pat Shortt;letterboxd.com/actor/pat-shortt/;Jonjo Devine
-598882;The Banshees of Inisherin;Jon Kenny;letterboxd.com/actor/jon-kenny/;Gerry
 598882;The Banshees of Inisherin;Sheila Flitton;letterboxd.com/actor/sheila-flitton/;Mrs. McCormick
-598882;The Banshees of Inisherin;David Pearse;letterboxd.com/actor/david-pearse/;Priest
 598882;The Banshees of Inisherin;Bríd Ní Neachtain;letterboxd.com/actor/brid-ni-neachtain/;Mrs. O'Riordan
+598882;The Banshees of Inisherin;Jon Kenny;letterboxd.com/actor/jon-kenny/;Gerry
 598882;The Banshees of Inisherin;Aaron Monaghan;letterboxd.com/actor/aaron-monaghan/;Declan
+598882;The Banshees of Inisherin;David Pearse;letterboxd.com/actor/david-pearse/;Priest
+598882;The Banshees of Inisherin;John Carty;letterboxd.com/actor/john-carty/;Older Musician 1
+598882;The Banshees of Inisherin;Oliver Farrelly;letterboxd.com/actor/oliver-farrelly/;Older Musician 2
 598882;The Banshees of Inisherin;Lasairfhíona Ní Chonaola;letterboxd.com/actor/lasairfhiona-ni-chonaola/;Female Singer
-598882;The Banshees of Inisherin;James Carty;letterboxd.com/actor/james-carty/;Student Musician #1
-598882;The Banshees of Inisherin;Conor Connolly;letterboxd.com/actor/conor-connolly-1/;Student Musician #2
-598882;The Banshees of Inisherin;Ryan Owens;letterboxd.com/actor/ryan-owens/;Student Musician #3
-598882;The Banshees of Inisherin;John Carty;letterboxd.com/actor/john-carty/;Older Musician #1
-598882;The Banshees of Inisherin;Oliver Farrelly;letterboxd.com/actor/oliver-farrelly/;Older Musician #2
+598882;The Banshees of Inisherin;James Carty;letterboxd.com/actor/james-carty/;Student Musician 1
+598882;The Banshees of Inisherin;Conor Connolly;letterboxd.com/actor/conor-connolly-1/;Student Musician 2
+598882;The Banshees of Inisherin;Ryan Owens;letterboxd.com/actor/ryan-owens/;Student Musician 3
 45104;Masters of the Universe;Dolph Lundgren;letterboxd.com/actor/dolph-lundgren/;He-Man
 45104;Masters of the Universe;Frank Langella;letterboxd.com/actor/frank-langella/;Skeletor
 45104;Masters of the Universe;Meg Foster;letterboxd.com/actor/meg-foster/;Evil-Lyn
@@ -1288,6 +1288,80 @@ film_id;film_title;name;link;character_name
 51386;Army of Darkness;Sam Raimi;letterboxd.com/actor/sam-raimi/;Knight in Sweatshirt and Sneakers (uncredited)
 51386;Army of Darkness;Jerry Rector;letterboxd.com/actor/jerry-rector/;Tiny Ash #3 (uncredited)
 51386;Army of Darkness;Monique Yates Jr.;letterboxd.com/actor/monique-yates-jr/;Graveyard Wench (uncredited)
+51483;Requiem for a Dream;Ellen Burstyn;letterboxd.com/actor/ellen-burstyn/;Sara Goldfarb
+51483;Requiem for a Dream;Jared Leto;letterboxd.com/actor/jared-leto/;Harry Goldfarb
+51483;Requiem for a Dream;Jennifer Connelly;letterboxd.com/actor/jennifer-connelly/;Marion Silver
+51483;Requiem for a Dream;Marlon Wayans;letterboxd.com/actor/marlon-wayans/;Tyrone C. Love
+51483;Requiem for a Dream;Christopher McDonald;letterboxd.com/actor/christopher-mcdonald/;Tappy Tibbons
+51483;Requiem for a Dream;Louise Lasser;letterboxd.com/actor/louise-lasser/;Ada
+51483;Requiem for a Dream;Marcia Jean Kurtz;letterboxd.com/actor/marcia-jean-kurtz/;Rae
+51483;Requiem for a Dream;Janet Sarno;letterboxd.com/actor/janet-sarno/;Mrs. Pearlman
+51483;Requiem for a Dream;Suzanne Shepherd;letterboxd.com/actor/suzanne-shepherd/;Mrs. Scarlini
+51483;Requiem for a Dream;Joanne Gordon;letterboxd.com/actor/joanne-gordon/;Mrs. Ovadia
+51483;Requiem for a Dream;Charlotte Aronofsky;letterboxd.com/actor/charlotte-aronofsky/;Mrs. Miles
+51483;Requiem for a Dream;Mark Margolis;letterboxd.com/actor/mark-margolis/;Mr. Rabinowitz
+51483;Requiem for a Dream;Michael Kaycheck;letterboxd.com/actor/michael-kaycheck/;Donut Cop
+51483;Requiem for a Dream;Jack O'Connell;letterboxd.com/actor/jack-oconnell-2/;Corn Dog Stand Boss
+51483;Requiem for a Dream;Chas Mastin;letterboxd.com/actor/chas-mastin/;Lyle Russel
+51483;Requiem for a Dream;Ajay Naidu;letterboxd.com/actor/ajay-naidu/;Mailman
+51483;Requiem for a Dream;Sean Gullette;letterboxd.com/actor/sean-gullette/;Arnold the Shrink
+51483;Requiem for a Dream;Samia Shoaib;letterboxd.com/actor/samia-shoaib/;Nurse Mall
+51483;Requiem for a Dream;Peter Maloney;letterboxd.com/actor/peter-maloney/;Dr. Pill
+51483;Requiem for a Dream;Abraham Abraham;letterboxd.com/actor/abraham-abraham/;King Neptune
+51483;Requiem for a Dream;Aliya Campbell;letterboxd.com/actor/aliya-campbell/;Alice
+51483;Requiem for a Dream;Te'ron A. O'Neal;letterboxd.com/actor/teron-a-oneal/;Young Tyrone
+51483;Requiem for a Dream;Denise Dowse;letterboxd.com/actor/denise-dowse/;Tyrone's Mother
+51483;Requiem for a Dream;Bryan Chattoo;letterboxd.com/actor/bryan-chattoo/;Brody
+51483;Requiem for a Dream;Eddie De Harp;letterboxd.com/actor/eddie-de-harp/;Brody's Henchman Victor
+51483;Requiem for a Dream;Scott Franklin;letterboxd.com/actor/scott-franklin/;Jailer (voice)
+51483;Requiem for a Dream;Peter Cheyenne;letterboxd.com/actor/peter-cheyenne/;Sal the Geep
+51483;Requiem for a Dream;Brian Costello;letterboxd.com/actor/brian-costello/;First AD
+51483;Requiem for a Dream;Abraham Aronofsky;letterboxd.com/actor/abraham-aronofsky/;Newspaper Man on Train
+51483;Requiem for a Dream;James Chinlund;letterboxd.com/actor/james-chinlund/;Space Oddity
+51483;Requiem for a Dream;Olga Merediz;letterboxd.com/actor/olga-merediz/;Malin & Block Secretary
+51483;Requiem for a Dream;Allison Furman;letterboxd.com/actor/allison-furman/;Malin & Block Office Woman
+51483;Requiem for a Dream;Robert Dylan Cohen;letterboxd.com/actor/robert-dylan-cohen/;Paramedic Greenhill
+51483;Requiem for a Dream;Ben Shenkman;letterboxd.com/actor/ben-shenkman/;Dr. Spencer
+51483;Requiem for a Dream;Keith David;letterboxd.com/actor/keith-david/;Big Tim
+51483;Requiem for a Dream;Dylan Baker;letterboxd.com/actor/dylan-baker/;Southern Doctor
+51483;Requiem for a Dream;Shaun O'Hagan;letterboxd.com/actor/shaun-ohagan/;Ward Attendant Seto
+51483;Requiem for a Dream;Leland Gantt;letterboxd.com/actor/leland-gantt/;Ward Attendant Penn
+51483;Requiem for a Dream;Bill Buell;letterboxd.com/actor/bill-buell/;Court Doctor
+51483;Requiem for a Dream;Jimmie Ray Weeks;letterboxd.com/actor/jimmie-ray-weeks/;Prison Guard
+51483;Requiem for a Dream;Gregg Bello;letterboxd.com/actor/gregg-bello/;E.R. Doctor
+51483;Requiem for a Dream;Henry Stram;letterboxd.com/actor/henry-stram/;ECT Technician
+51483;Requiem for a Dream;Heather Litteer;letterboxd.com/actor/heather-litteer/;Big Tim Party Girl
+51483;Requiem for a Dream;Jenny Decker;letterboxd.com/actor/jenny-decker/;Big Tim Party Girl
+51483;Requiem for a Dream;Ami Goodheart;letterboxd.com/actor/ami-goodheart/;Big Tim Party Girl
+51483;Requiem for a Dream;Nina Zavarin;letterboxd.com/actor/nina-zavarin/;Big Tim Party Girl
+51483;Requiem for a Dream;Stanley B. Herman;letterboxd.com/actor/stanley-b-herman/;Uncle Hank
+51483;Requiem for a Dream;Scott Bader;letterboxd.com/actor/scott-bader/;Party Animal
+51483;Requiem for a Dream;Jim Centofanti;letterboxd.com/actor/jim-centofanti/;Party Animal
+51483;Requiem for a Dream;Scott Chait;letterboxd.com/actor/scott-chait/;Party Animal
+51483;Requiem for a Dream;Daniel Clarin;letterboxd.com/actor/daniel-clarin/;Party Animal
+51483;Requiem for a Dream;Ben Cohen;letterboxd.com/actor/ben-cohen-2/;Party Animal
+51483;Requiem for a Dream;Eric Cohen;letterboxd.com/actor/eric-cohen-1/;Party Animal
+51483;Requiem for a Dream;Brett Feinstein;letterboxd.com/actor/brett-feinstein/;Party Animal
+51483;Requiem for a Dream;Ricky Fier;letterboxd.com/actor/ricky-fier/;Party Animal
+51483;Requiem for a Dream;John Getz;letterboxd.com/actor/john-getz-1/;Party Animal
+51483;Requiem for a Dream;Andrew Kessler;letterboxd.com/actor/andrew-kessler/;Party Animal
+51483;Requiem for a Dream;Ross Lombardo;letterboxd.com/actor/ross-lombardo/;Party Animal
+51483;Requiem for a Dream;Carter Mansbach;letterboxd.com/actor/carter-mansbach/;Party Animal
+51483;Requiem for a Dream;Scott Miller;letterboxd.com/actor/scott-miller-3/;Party Animal
+51483;Requiem for a Dream;Todd Miller;letterboxd.com/actor/todd-miller-2/;Party Animal
+51483;Requiem for a Dream;Joshua Pollack;letterboxd.com/actor/joshua-pollack/;Party Animal
+51483;Requiem for a Dream;Craig Rallo;letterboxd.com/actor/craig-rallo/;Party Animal
+51483;Requiem for a Dream;Geordan Reisner;letterboxd.com/actor/geordan-reisner/;Party Animal
+51483;Requiem for a Dream;Keith Scandore;letterboxd.com/actor/keith-scandore/;Party Animal
+51483;Requiem for a Dream;David Seltzer;letterboxd.com/actor/david-seltzer-1/;Party Animal
+51483;Requiem for a Dream;Chris Varvaro;letterboxd.com/actor/chris-varvaro/;Party Animal
+51483;Requiem for a Dream;Ricardo Viñas;letterboxd.com/actor/ricardo-vinas-1/;Party Animal
+51483;Requiem for a Dream;Chad Weiner;letterboxd.com/actor/chad-weiner/;Party Animal
+51483;Requiem for a Dream;Jesse Weissberger;letterboxd.com/actor/jesse-weissberger/;Party Animal
+51483;Requiem for a Dream;Greg Weissman;letterboxd.com/actor/greg-weissman/;Party Animal
+51483;Requiem for a Dream;Hubert Selby Jr.;letterboxd.com/actor/hubert-selby-jr/;Laughing Guard
+51483;Requiem for a Dream;Lianna Pai;letterboxd.com/actor/lianna-pai/;Angelic Nurse
+51483;Requiem for a Dream;Darren Aronofsky;letterboxd.com/actor/darren-aronofsky/;Visitor (uncredited)
 276291;The Meg;Jason Statham;letterboxd.com/actor/jason-statham/;Jonas Taylor
 276291;The Meg;Li Bingbing;letterboxd.com/actor/li-bingbing/;Suyin
 276291;The Meg;Rainn Wilson;letterboxd.com/actor/rainn-wilson/;Morris
@@ -1573,13 +1647,13 @@ film_id;film_title;name;link;character_name
 43812;Gaslight;Elsie Prescott;letterboxd.com/actor/elsie-prescott/;Bit Part (uncredited)
 42841;Ip Man;Donnie Yen;letterboxd.com/actor/donnie-yen/;Yip Man
 42841;Ip Man;Simon Yam;letterboxd.com/actor/simon-yam/;Zhou Qing Quan
-42841;Ip Man;Lynn Hung;letterboxd.com/actor/lynn-hung/;Zhang Yong Cheng
+42841;Ip Man;Lynn Hung Doi-Lam;letterboxd.com/actor/lynn-hung-doi-lam/;Zhang Yong Cheng
 42841;Ip Man;Hiroyuki Ikeuchi;letterboxd.com/actor/hiroyuki-ikeuchi/;General Miura
-42841;Ip Man;Lam Ka-Tung;letterboxd.com/actor/lam-ka-tung-1/;Captain Li Zhao
+42841;Ip Man;Gordon Lam Ka-Tung;letterboxd.com/actor/gordon-lam-ka-tung/;Captain Li Zhao
 42841;Ip Man;Louis Fan Siu-Wong;letterboxd.com/actor/fan-siu-wong/;Jin Shan Zhao
 42841;Ip Man;Xing Yu;letterboxd.com/actor/xing-yu/;Master Zealot Lin / Crazy Lin
-42841;Ip Man;You-Nam Wong;letterboxd.com/actor/wong-yau-nam/;Shao Dan Yuan
-42841;Ip Man;Yu-Hang To;letterboxd.com/actor/dennis-to-yue-hong/;Hu Wei
+42841;Ip Man;Wong Yau-Nam;letterboxd.com/actor/wong-yau-nam/;Shao Dan Yuan
+42841;Ip Man;Dennis To Yu-Hang;letterboxd.com/actor/dennis-to-yu-hang/;Hu Wei
 42841;Ip Man;Calvin Ka-Sing Cheng;letterboxd.com/actor/calvin-cheng-ka-sing/;Zhou Guang Yao
 42841;Ip Man;Chen Zhihui;letterboxd.com/actor/chen-zhihui/;Master Liao
 42841;Ip Man;Shibuya Tenma;letterboxd.com/actor/shibuya-tenma/;Colonel Sato
@@ -1956,15 +2030,13 @@ film_id;film_title;name;link;character_name
 51338;An American Werewolf in London;Lila Kaye;letterboxd.com/actor/lila-kaye/;Barmaid
 51338;An American Werewolf in London;Rik Mayall;letterboxd.com/actor/rik-mayall/;Second Chess Player
 51338;An American Werewolf in London;Sean Baker;letterboxd.com/actor/sean-baker-1/;2nd Dart Player
-51338;An American Werewolf in London;Frank Oz;letterboxd.com/actor/frank-oz/;Mr. Collins / Miss Piggy (archive footage)
+51338;An American Werewolf in London;Frank Oz;letterboxd.com/actor/frank-oz/;Mr. Collins
 51338;An American Werewolf in London;Paul Kember;letterboxd.com/actor/paul-kember/;Sergeant McManus
 51338;An American Werewolf in London;Joe Belcher;letterboxd.com/actor/joe-belcher/;Truck Driver
 51338;An American Werewolf in London;Paddy Ryan;letterboxd.com/actor/paddy-ryan/;First Werewolf
 51338;An American Werewolf in London;Anne-Marie Davies;letterboxd.com/actor/anne-marie-davies/;Nurse Susan Gallagher
 51338;An American Werewolf in London;Colin Fernandes;letterboxd.com/actor/colin-fernandes/;Benjamin
 51338;An American Werewolf in London;Albert Moses;letterboxd.com/actor/albert-moses/;Hospital Porter
-51338;An American Werewolf in London;Jim Henson;letterboxd.com/actor/jim-henson/;Kermit the Frog (archive footage)
-51338;An American Werewolf in London;Dave Goelz;letterboxd.com/actor/dave-goelz/;Beauregard (archive footage)
 51338;An American Werewolf in London;Michele Brisigotti;letterboxd.com/actor/michele-brisigotti/;Rachel Kessler
 51338;An American Werewolf in London;Mark Fisher;letterboxd.com/actor/mark-fisher-2/;Max Kessler
 51338;An American Werewolf in London;Gordon Sterne;letterboxd.com/actor/gordon-sterne/;Mr. Kessler
@@ -3134,18 +3206,18 @@ film_id;film_title;name;link;character_name
 51471;Nosferatu;Fanny Schreck;letterboxd.com/actor/fanny-schreck/;Hospital Nurse (uncredited)
 51471;Nosferatu;Hardy von Francois;letterboxd.com/actor/hardy-von-francois/;Doctor in the Hospital (uncredited)
 51471;Nosferatu;Heinrich Witte;letterboxd.com/actor/heinrich-witte/;Sailor / Warden in the Madhouse (uncredited)
-45489;Fallen Angels;Leon Lai;letterboxd.com/actor/leon-lai-1/;Wong Chi-Ming
-45489;Fallen Angels;Charlie Yeung;letterboxd.com/actor/charlie-yeung/;Charlie
+45489;Fallen Angels;Leon Lai Ming;letterboxd.com/actor/leon-lai-ming/;Wong Chi-Ming
+45489;Fallen Angels;Charlie Yeung Choi-Nei;letterboxd.com/actor/charlie-yeung-choi-nei/;Charlie
 45489;Fallen Angels;Takeshi Kaneshiro;letterboxd.com/actor/takeshi-kaneshiro/;Ho Chi-mo
 45489;Fallen Angels;Karen Mok Man-Wai;letterboxd.com/actor/karen-mok/;Blondie
 45489;Fallen Angels;Michelle Reis;letterboxd.com/actor/michelle-reis/;Killer's Agent
 45489;Fallen Angels;Chan Man-Lei;letterboxd.com/actor/chan-man-lei/;Wu's Father
 45489;Fallen Angels;Toru Saito;letterboxd.com/actor/toru-saito/;Sato
 45489;Fallen Angels;Benz Kong To-Hoi;letterboxd.com/actor/benz-kong-to-hoi/;Ah Hoi
-45489;Fallen Angels;Chan Fai-hung;letterboxd.com/actor/chan-fai-hung/;Man Forced to Eat Ice-cream
-45489;Fallen Angels;Kwan Lee-na;letterboxd.com/actor/kwan-lee-na/;Woman Pressed to Buy Vegetables
+45489;Fallen Angels;Chan Fai-Hung;letterboxd.com/actor/chan-fai-hung/;Man Forced to Eat Ice-cream
+45489;Fallen Angels;Kwan Lee-Na;letterboxd.com/actor/kwan-lee-na/;Woman Pressed to Buy Vegetables
 45489;Fallen Angels;Wu Yuk-Ho;letterboxd.com/actor/wu-yuk-ho/;Man Forced to Have His Clothes Washed
-45489;Fallen Angels;Johnnie Kong;letterboxd.com/actor/johnnie-kong/;Victim
+45489;Fallen Angels;Johnnie Kong Yeuk-Shing;letterboxd.com/actor/johnnie-kong-yeuk-shing/;Victim
 45489;Fallen Angels;Chun Kang Wang;letterboxd.com/actor/chun-kang-wang/;Victim
 45489;Fallen Angels;Mak Shu-San;letterboxd.com/actor/mak-shu-san/;Tenant
 45489;Fallen Angels;Choi Kwok-Ping;letterboxd.com/actor/choi-kwok-ping/;Rascal
@@ -3180,3 +3252,186 @@ film_id;film_title;name;link;character_name
 51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;Victor Harrington;letterboxd.com/actor/victor-harrington/;War Room Aide (uncredited)
 34848;Meshes of the Afternoon;Maya Deren;letterboxd.com/actor/maya-deren/;The Woman
 34848;Meshes of the Afternoon;Alexander Hammid;letterboxd.com/actor/alexander-hammid-1/;The Man
+51494;The Wizard of Oz;Judy Garland;letterboxd.com/actor/judy-garland/;Dorothy Gale
+51494;The Wizard of Oz;Frank Morgan;letterboxd.com/actor/frank-morgan/;Professor Marvel / The Wizard of Oz
+51494;The Wizard of Oz;Ray Bolger;letterboxd.com/actor/ray-bolger/;"""Hunk"" / Scarecrow"
+51494;The Wizard of Oz;Bert Lahr;letterboxd.com/actor/bert-lahr/;"""Zeke"" / Cowardly Lion"
+51494;The Wizard of Oz;Jack Haley;letterboxd.com/actor/jack-haley-1/;"""Hickory"" / Tin Man"
+51494;The Wizard of Oz;Billie Burke;letterboxd.com/actor/billie-burke/;Glinda
+51494;The Wizard of Oz;Margaret Hamilton;letterboxd.com/actor/margaret-hamilton/;Miss Gulch / Wicked Witch of the West
+51494;The Wizard of Oz;Charley Grapewin;letterboxd.com/actor/charley-grapewin/;Uncle Henry
+51494;The Wizard of Oz;Clara Blandick;letterboxd.com/actor/clara-blandick/;Auntie Em
+51494;The Wizard of Oz;Terry;letterboxd.com/actor/terry-1/;Toto
+51494;The Wizard of Oz;Pat Walshe;letterboxd.com/actor/pat-walshe/;Nikko
+51494;The Wizard of Oz;Adriana Caselotti;letterboxd.com/actor/adriana-caselotti/;Juliet (voice) (uncredited)
+51494;The Wizard of Oz;Harry Earles;letterboxd.com/actor/harry-earles/;Lollipop Guild Member (uncredited)
+51494;The Wizard of Oz;Jerry Maren;letterboxd.com/actor/jerry-maren/;Lollipop Guild Member (uncredited)
+51494;The Wizard of Oz;Parnell St. Aubin;letterboxd.com/actor/parnell-st-aubin/;Munchkin (uncredited)
+51494;The Wizard of Oz;Billy Bletcher;letterboxd.com/actor/billy-bletcher/;Mayor / Lollipop Guild Member (voice) (uncredited)
+51494;The Wizard of Oz;Pinto Colvig;letterboxd.com/actor/pinto-colvig/;Munchkins (voice) (uncredited)
+51494;The Wizard of Oz;Charles Becker;letterboxd.com/actor/charles-becker/;Munchkin Mayor (uncredited)
+51494;The Wizard of Oz;Mitchell Lewis;letterboxd.com/actor/mitchell-lewis/;Captain of the Winkie Guard (uncredited)
+51494;The Wizard of Oz;Buster Brodie;letterboxd.com/actor/buster-brodie/;Winged Monkey (uncredited)
+51494;The Wizard of Oz;Ethelreda Leopold;letterboxd.com/actor/ethelreda-leopold-1/;Emerald City Manicurist (uncredited)
+51494;The Wizard of Oz;Billy Curtis;letterboxd.com/actor/billy-curtis/;Munchkin (uncredited)
+51494;The Wizard of Oz;Eleanor Keaton;letterboxd.com/actor/eleanor-keaton/;Ozmite (uncredited)
+51494;The Wizard of Oz;Buddy Ebsen;letterboxd.com/actor/buddy-ebsen/;Tin Man (singing voice) (uncredited)
+51494;The Wizard of Oz;Angelo Rossitto;letterboxd.com/actor/angelo-rossitto/;Munchkin Villager (uncredited)
+51230;Dawn of the Dead;David Emge;letterboxd.com/actor/david-emge/;"Stephen ""Flyboy"" Andrews"
+51230;Dawn of the Dead;Ken Foree;letterboxd.com/actor/ken-foree/;Peter Washington
+51230;Dawn of the Dead;Scott H. Reiniger;letterboxd.com/actor/scott-h-reiniger/;"Roger ""Trooper"" DeMarco"
+51230;Dawn of the Dead;Gaylen Ross;letterboxd.com/actor/gaylen-ross/;"Francine ""Fran"" Parker"
+51230;Dawn of the Dead;David Crawford;letterboxd.com/actor/david-crawford/;Dr. James Foster
+51230;Dawn of the Dead;David Early;letterboxd.com/actor/david-early/;Sidney Berman
+51230;Dawn of the Dead;Richard France;letterboxd.com/actor/richard-france/;Dr. Milliard Rausch
+51230;Dawn of the Dead;Howard Smith;letterboxd.com/actor/howard-smith/;TV Commentator
+51230;Dawn of the Dead;Daniel Dietrich;letterboxd.com/actor/daniel-dietrich/;Dan Givens
+51230;Dawn of the Dead;Fred Baker;letterboxd.com/actor/fred-baker/;Police Commander
+51230;Dawn of the Dead;James A. Baffico;letterboxd.com/actor/james-a-baffico/;Wooley
+51230;Dawn of the Dead;Rod Stouffer;letterboxd.com/actor/rod-stouffer/;Roy Tucker
+51230;Dawn of the Dead;Jese Del Gre;letterboxd.com/actor/jese-del-gre/;Old Priest
+51230;Dawn of the Dead;Clayton McKinnon;letterboxd.com/actor/clayton-mckinnon/;Officer in Project Apt.
+51230;Dawn of the Dead;John Rice;letterboxd.com/actor/john-rice-1/;Officer in Project Apt.
+51230;Dawn of the Dead;Ted Bank;letterboxd.com/actor/ted-bank/;Officer at Police Dock
+51230;Dawn of the Dead;Randy Kovitz;letterboxd.com/actor/randy-kovitz/;Officer at Police Dock
+51230;Dawn of the Dead;Patrick McCloskey;letterboxd.com/actor/patrick-mccloskey/;Officer at Police Dock
+51230;Dawn of the Dead;Joseph Pilato;letterboxd.com/actor/joseph-pilato/;Officer at Police Dock
+51230;Dawn of the Dead;Pasquale Buba;letterboxd.com/actor/pasquale-buba/;Motorcycle Raider
+51230;Dawn of the Dead;Tony Buba;letterboxd.com/actor/tony-buba/;Motorcycle Raider
+51230;Dawn of the Dead;Tom Savini;letterboxd.com/actor/tom-savini/;Motorcycle Raider
+51230;Dawn of the Dead;Larry Vaira;letterboxd.com/actor/larry-vaira/;Motorcycle Raider
+51230;Dawn of the Dead;Marty Schiff;letterboxd.com/actor/marty-schiff/;Motorcycle Raider
+51230;Dawn of the Dead;Taso N. Stavrakis;letterboxd.com/actor/taso-n-stavrakis/;Motorcycle Raider
+51230;Dawn of the Dead;Sharon Ceccatti;letterboxd.com/actor/sharon-ceccatti/;Lead Zombie (Nurse)
+51230;Dawn of the Dead;Mike Christopher;letterboxd.com/actor/mike-christopher-1/;Lead Zombie (Hare Krishna)
+51230;Dawn of the Dead;Clayton Hill;letterboxd.com/actor/clayton-hill/;Lead Zombie
+51230;Dawn of the Dead;John Amplas;letterboxd.com/actor/john-amplas/;2nd Guy on Roof (uncredited)
+51230;Dawn of the Dead;Greg Besnak;letterboxd.com/actor/greg-besnak/;Fu Manchu Zombie (uncredited)
+51230;Dawn of the Dead;Rik Billock;letterboxd.com/actor/rik-billock/;Gray Suited Zombie (uncredited)
+51230;Dawn of the Dead;Christine Forrest;letterboxd.com/actor/christine-forrest/;TV Producer / Zombie / Mall Announcer (voice) (uncredited)
+51230;Dawn of the Dead;Roy Frumkes;letterboxd.com/actor/roy-frumkes/;Pie-in-Face Zombie (uncredited)
+51230;Dawn of the Dead;Debra Gordon;letterboxd.com/actor/debra-gordon/;Red Turtleneck Sweater Zombie (uncredited)
+51230;Dawn of the Dead;Michael Gornick;letterboxd.com/actor/michael-gornick/;Radio News Reporter (voice) (uncredited)
+51230;Dawn of the Dead;Jim Krut;letterboxd.com/actor/jim-krut/;Helicopter Zombie (uncredited)
+51230;Dawn of the Dead;Donald Rubinstein;letterboxd.com/actor/donald-rubinstein/;Parking Lot Zombie (uncredited)
+51230;Dawn of the Dead;George A. Romero;letterboxd.com/actor/george-a-romero/;TV Director / Biker (uncredited)
+51230;Dawn of the Dead;Warner Shook;letterboxd.com/actor/warner-shook/;Security Guard Zombie (uncredited)
+51230;Dawn of the Dead;Sara Venable;letterboxd.com/actor/sara-venable/;Leotard Zombie (uncredited)
+51230;Dawn of the Dead;Laura Ziemba;letterboxd.com/actor/laura-ziemba/;Ice Skating Rink Zombie
+51230;Dawn of the Dead;Robert Williams;letterboxd.com/actor/robert-williams-2/;Soldier in Apartment Project
+51230;Dawn of the Dead;John 'Weezer' Wickerham;letterboxd.com/actor/john-weezer-wickerham/;Black Knit Cap Sunglasses Bearded Biker
+51230;Dawn of the Dead;Vickie Walters;letterboxd.com/actor/vickie-walters/;Brown Leather Jacket Biker Chick
+51230;Dawn of the Dead;Billie Walters;letterboxd.com/actor/billie-walters/;Biker Chick Wearing Brown Headband
+51230;Dawn of the Dead;Vincent Vok;letterboxd.com/actor/vincent-vok/;WGON - TV Station Employee
+51230;Dawn of the Dead;Susan Vermazen;letterboxd.com/actor/susan-vermazen/;Dark Curly Haired Plaid Shirted Zombie
+51230;Dawn of the Dead;Bobbi Van Eman;letterboxd.com/actor/bobbi-van-eman/;Beautiful Curly Haired Female WGON-TV Technician
+51230;Dawn of the Dead;Jeanette Lansel Vaira;letterboxd.com/actor/jeanette-lansel-vaira/;Biker Chick
+51230;Dawn of the Dead;Danny Vail;letterboxd.com/actor/danny-vail/;Mall Zombie
+51230;Dawn of the Dead;Milt Thompson;letterboxd.com/actor/milt-thompson/;Checkered Shirted Zombie Who Attacks Stephen
+51230;Dawn of the Dead;Ralph Tallo;letterboxd.com/actor/ralph-tallo/;Stephen's Grey Suited Airport Zombie Attacker
+51230;Dawn of the Dead;Stephen M. Silverman;letterboxd.com/actor/stephen-m-silverman/;Zombie
+51230;Dawn of the Dead;Donna Siegel;letterboxd.com/actor/donna-siegel/;Dark Haired Light Brown Bloused Woman
+51230;Dawn of the Dead;Gina Sestak;letterboxd.com/actor/gina-sestak/;Longhaired Glasses Zombie
+51230;Dawn of the Dead;Frank A. Serrao;letterboxd.com/actor/frank-a-serrao/;Fat Grey-Suited Zombie
+51230;Dawn of the Dead;Mike Savini;letterboxd.com/actor/mike-savini/;Zombie Boy in Airport Chart House
+51230;Dawn of the Dead;Donna Savini;letterboxd.com/actor/donna-savini/;Zombie Girl in Airport Chart House
+51230;Dawn of the Dead;Charlie Peters;letterboxd.com/actor/charlie-peters/;Bearded White Collared Shirted WGON-TV Crew Member
+51230;Dawn of the Dead;Jeff Paul;letterboxd.com/actor/jeff-paul/;Biker Who Shoots Flyboy
+51230;Dawn of the Dead;Ken Nagin;letterboxd.com/actor/ken-nagin/;Pendant Headband Biker with Axe
+51230;Dawn of the Dead;Robert V. Michelucci;letterboxd.com/actor/robert-v-michelucci/;Bearded Scope Zombie / Zombie Who Attacks Mousey
+51230;Dawn of the Dead;Doug Mertz;letterboxd.com/actor/doug-mertz/;Preppie Zombie - 2nd Pie-In Face
+51230;Dawn of the Dead;Molly McCloskey;letterboxd.com/actor/molly-mccloskey/;Lovely Woman at WGON (uncredited)
+51230;Dawn of the Dead;Nicholas Mastandrea;letterboxd.com/actor/nicholas-mastandrea/;Mall Zombie Outside Gun Store
+51230;Dawn of the Dead;Leonard Lies;letterboxd.com/actor/leonard-lies/;Machete Zombie
+51230;Dawn of the Dead;Ed Letteri;letterboxd.com/actor/ed-letteri/;Long-Haired Man by Door at WGON-TV
+51230;Dawn of the Dead;Maxine Lapiduss;letterboxd.com/actor/maxine-lapiduss/;Redhead Zombie Outside J.C. Penny
+51230;Dawn of the Dead;Robert Langer;letterboxd.com/actor/robert-langer/;Mustachioed Plaid-Shirted Zombie Eating Bikers' Flesh
+51230;Dawn of the Dead;Ralph Langer;letterboxd.com/actor/ralph-langer/;Green Collared-Shirted Zombie in Ice Skating Rink
+51230;Dawn of the Dead;Tommy Lafitte;letterboxd.com/actor/tommy-lafitte/;Miguel, The Zombie
+51230;Dawn of the Dead;'Wild Bill' Laczko;letterboxd.com/actor/wild-bill-laczko/;Head Bandage Redneck
+51230;Dawn of the Dead;Katherine Kolbert;letterboxd.com/actor/katherine-kolbert/;Brunette Biker Chick Throwing Pies and Cakes
+51230;Dawn of the Dead;C. Courtney Joyner;letterboxd.com/actor/c-courtney-joyner/;Zombie Wearing Eyeglasses
+51230;Dawn of the Dead;Jeannie Jefferies;letterboxd.com/actor/jeannie-jefferies/;Blonde Zombie Who Attacks Roger in Truck
+51230;Dawn of the Dead;Jon Hayden;letterboxd.com/actor/jon-hayden/;Featured Zombie
+51230;Dawn of the Dead;John Harrison;letterboxd.com/actor/john-harrison-2/;Screwdriver Zombie
+51230;Dawn of the Dead;Barry Gress;letterboxd.com/actor/barry-gress/;Parking Lot Zombie Knocking Sign Over
+51230;Dawn of the Dead;Ingeborg Forrest;letterboxd.com/actor/ingeborg-forrest/;Mall Zombie Wearing Blue Nightgown
+51230;Dawn of the Dead;Cliff Forrest;letterboxd.com/actor/cliff-forrest/;Tony, Man at WGON - TV ('You all right?')
+51230;Dawn of the Dead;Tom Dubensky;letterboxd.com/actor/tom-dubensky/;Young WGON-TV Man Wearing Plaid Shirt
+51230;Dawn of the Dead;Zilla Clinton;letterboxd.com/actor/zilla-clinton/;Blonde Biker Chick Riding Motorcycle
+51230;Dawn of the Dead;Mary Lee Casey;letterboxd.com/actor/mary-lee-casey/;Featured Light Blue Bathrobe Zombie
+51230;Dawn of the Dead;Adolph Caesar;letterboxd.com/actor/adolph-caesar/;Narrator of Theatrical Trailer
+51230;Dawn of the Dead;David W. Butler;letterboxd.com/actor/david-w-butler/;2nd Biker in Elevator
+51230;Dawn of the Dead;Ben Barenholtz;letterboxd.com/actor/ben-barenholtz/;Cowboy Hat Zombie Hit by Sledge
+51230;Dawn of the Dead;Renee Banks;letterboxd.com/actor/renee-banks/;Wild Haired Plaid Shirted Apartment Zombie
+51230;Dawn of the Dead;Joe Abeln;letterboxd.com/actor/joe-abeln/;Redneck Rifleman That Misses
+51230;Dawn of the Dead;Nick Tallo;letterboxd.com/actor/nick-tallo/;Motorcycle Raider
+51230;Dawn of the Dead;Joe Shelby;letterboxd.com/actor/joe-shelby/;Motorcycle Raider
+51230;Dawn of the Dead;Rudy Ricci;letterboxd.com/actor/rudy-ricci/;Motorcycle Raider
+51230;Dawn of the Dead;Joey Baffico;letterboxd.com/actor/joey-baffico/;Zombie Attacking Roger (uncredited)
+97190;The Company of Strangers;Alice Diabo;letterboxd.com/actor/alice-diabo/;Alice
+97190;The Company of Strangers;Constance Garneau;letterboxd.com/actor/constance-garneau/;Constance
+97190;The Company of Strangers;Winifred Holden;letterboxd.com/actor/winifred-holden/;Winnie
+97190;The Company of Strangers;Cissy Meddings;letterboxd.com/actor/cissy-meddings/;Cissy
+97190;The Company of Strangers;Beth Webber;letterboxd.com/actor/beth-webber/;Beth
+97190;The Company of Strangers;Catherine Roche;letterboxd.com/actor/catherine-roche/;Catherine
+97190;The Company of Strangers;Mary Meigs;letterboxd.com/actor/mary-meigs/;Mary
+97190;The Company of Strangers;Michelle Sweeney;letterboxd.com/actor/michelle-sweeney-1/;Michelle
+43921;Tokyo Godfathers;Aya Okamoto;letterboxd.com/actor/aya-okamoto/;Miyuki (voice)
+43921;Tokyo Godfathers;Yoshiaki Umegaki;letterboxd.com/actor/yoshiaki-umegaki/;Hana (voice)
+43921;Tokyo Godfathers;Tohru Emori;letterboxd.com/actor/tohru-emori/;Gin (voice)
+43921;Tokyo Godfathers;Satomi Korogi;letterboxd.com/actor/satomi-korogi/;Kiyoko (voice)
+43921;Tokyo Godfathers;Mamiko Noto;letterboxd.com/actor/mamiko-noto/;Kiyoko, Gin's daughter (voice)
+43921;Tokyo Godfathers;Ryūji Saikachi;letterboxd.com/actor/ryuji-saikachi/;Roujin (voice)
+43921;Tokyo Godfathers;Kyôko Terase;letterboxd.com/actor/kyoko-terase/;Sachiko (voice)
+43921;Tokyo Godfathers;Rikiya Koyama;letterboxd.com/actor/rikiya-koyama/;Shinrou (voice)
+43921;Tokyo Godfathers;Hiroya Ishimaru;letterboxd.com/actor/hiroya-ishimaru/;Yasuo (voice)
+43921;Tokyo Godfathers;Koichi Yamadera;letterboxd.com/actor/koichi-yamadera/;Taxi Driver (voice)
+43921;Tokyo Godfathers;Akio Otsuka;letterboxd.com/actor/akio-otsuka-1/;Isha (voice)
+43921;Tokyo Godfathers;Yusaku Yara;letterboxd.com/actor/yusaku-yara/;Ishida (voice)
+43921;Tokyo Godfathers;Seizô Katô;letterboxd.com/actor/seizo-kato/;Kaa-san (voice)
+43921;Tokyo Godfathers;Shozo Iizuka;letterboxd.com/actor/shozo-iizuka/;Oota (voice)
+43921;Tokyo Godfathers;Chiyako Shibahara;letterboxd.com/actor/chiyako-shibahara/;
+43921;Tokyo Godfathers;Mitsuru Ogata;letterboxd.com/actor/mitsuru-ogata/;
+43921;Tokyo Godfathers;Hidenari Ugaki;letterboxd.com/actor/hidenari-ugaki/;Additional voices
+48894;Kiss Kiss Bang Bang;Robert Downey Jr.;letterboxd.com/actor/robert-downey-jr/;Harry Lockhart
+48894;Kiss Kiss Bang Bang;Val Kilmer;letterboxd.com/actor/val-kilmer/;Gay Perry
+48894;Kiss Kiss Bang Bang;Michelle Monaghan;letterboxd.com/actor/michelle-monaghan/;Harmony Faith Lane
+48894;Kiss Kiss Bang Bang;Corbin Bernsen;letterboxd.com/actor/corbin-bernsen/;Harlan Dexter
+48894;Kiss Kiss Bang Bang;Dash Mihok;letterboxd.com/actor/dash-mihok/;Mr. Frying Pan
+48894;Kiss Kiss Bang Bang;Larry Miller;letterboxd.com/actor/larry-miller/;Dabney Shaw
+48894;Kiss Kiss Bang Bang;Rockmond Dunbar;letterboxd.com/actor/rockmond-dunbar/;Mr. Fire
+48894;Kiss Kiss Bang Bang;Shannyn Sossamon;letterboxd.com/actor/shannyn-sossamon/;Pink Hair Girl
+48894;Kiss Kiss Bang Bang;Angela Lindvall;letterboxd.com/actor/angela-lindvall/;Flicka
+48894;Kiss Kiss Bang Bang;Indio Falconer Downey;letterboxd.com/actor/indio-falconer-downey/;Harry Age 9
+48894;Kiss Kiss Bang Bang;Ariel Winter;letterboxd.com/actor/ariel-winter/;Harmony Age 7
+48894;Kiss Kiss Bang Bang;Duane Carnahan;letterboxd.com/actor/duane-carnahan/;Chainsaw Kid
+48894;Kiss Kiss Bang Bang;Josh Richman;letterboxd.com/actor/josh-richman/;Rickie
+48894;Kiss Kiss Bang Bang;Martha Hackett;letterboxd.com/actor/martha-hackett/;Pistol Woman
+48894;Kiss Kiss Bang Bang;Nancy Fish;letterboxd.com/actor/nancy-fish/;NY Casting Woman
+48894;Kiss Kiss Bang Bang;Bill McAdams Jr.;letterboxd.com/actor/bill-mcadams-jr/;N.Y. Cop
+48894;Kiss Kiss Bang Bang;Tanja Reichert;letterboxd.com/actor/tanja-reichert/;B-Movie Actress
+48894;Kiss Kiss Bang Bang;Jake McKinnon;letterboxd.com/actor/jake-mckinnon/;Creature
+48894;Kiss Kiss Bang Bang;Stephanie Pearson;letterboxd.com/actor/stephanie-pearson/;Teen Harmony
+48894;Kiss Kiss Bang Bang;Christopher Gilman;letterboxd.com/actor/christopher-gilman/;Protocop
+48894;Kiss Kiss Bang Bang;Brendan Fehily;letterboxd.com/actor/brendan-fehily/;Local News Reporter
+48894;Kiss Kiss Bang Bang;David Newsom;letterboxd.com/actor/david-newsom/;Agent Type
+48894;Kiss Kiss Bang Bang;Judie Aronson;letterboxd.com/actor/judie-aronson/;Gift Bag Girl
+48894;Kiss Kiss Bang Bang;Ali Hillis;letterboxd.com/actor/ali-hillis/;Marleah
+48894;Kiss Kiss Bang Bang;Wiley M. Pickett;letterboxd.com/actor/wiley-m-pickett/;Homicide Cop
+48894;Kiss Kiss Bang Bang;Joe Keyes;letterboxd.com/actor/joe-keyes/;Lobby Cop
+48894;Kiss Kiss Bang Bang;Bobby Tuttle;letterboxd.com/actor/bobby-tuttle/;Hotel Concierge
+48894;Kiss Kiss Bang Bang;Jake Eberle;letterboxd.com/actor/jake-eberle/;Patrol Cop
+48894;Kiss Kiss Bang Bang;Saida Pagan;letterboxd.com/actor/saida-pagan/;News Anchor
+48894;Kiss Kiss Bang Bang;Lela Edgar;letterboxd.com/actor/lela-edgar/;Party Girl
+48894;Kiss Kiss Bang Bang;Daniel Browning Smith;letterboxd.com/actor/daniel-browning-smith/;Rubber Boy
+48894;Kiss Kiss Bang Bang;Teresa Maria Herrera;letterboxd.com/actor/teresa-maria-herrera/;Newswoman
+48894;Kiss Kiss Bang Bang;Kathy Lamkin;letterboxd.com/actor/kathy-lamkin/;Woman in Hospital Blues
+48894;Kiss Kiss Bang Bang;Evan Parke;letterboxd.com/actor/evan-parke/;Dexter Clinic Guard
+48894;Kiss Kiss Bang Bang;Vincent Laresca;letterboxd.com/actor/vincent-laresca/;Aurelio
+48894;Kiss Kiss Bang Bang;Brian Simpson;letterboxd.com/actor/brian-simpson/;Dexter Goon
+48894;Kiss Kiss Bang Bang;Cole S. McKay;letterboxd.com/actor/cole-s-mckay-1/;Dexter Goon
+48894;Kiss Kiss Bang Bang;Ben Hernandez Bray;letterboxd.com/actor/ben-hernandez-bray/;Dexter Goon
+48894;Kiss Kiss Bang Bang;Harrison Young;letterboxd.com/actor/harrison-young/;Harmony's Dad
+48894;Kiss Kiss Bang Bang;Laurence Fishburne;letterboxd.com/actor/laurence-fishburne/;Bear in Genaros Beer Commercial (voice) (uncredited)
+48894;Kiss Kiss Bang Bang;Deanna Dozier;letterboxd.com/actor/deanna-dozier/;Kristin (uncredited)

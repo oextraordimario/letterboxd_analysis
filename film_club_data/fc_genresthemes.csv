@@ -38,8 +38,8 @@ film_id;film_title;value
 508037;RRR;Bollywood emotional dramas
 508037;RRR;Historical battles and epic heroism
 508037;RRR;Superheroes in action-packed battles with villains
-508037;RRR;Emotional and captivating fantasy storytelling
 508037;RRR;Epic adventure and breathtaking battles
+508037;RRR;Emotional and captivating fantasy storytelling
 48018;Speed Racer;Adventure
 48018;Speed Racer;Action
 48018;Speed Racer;Family
@@ -60,8 +60,8 @@ film_id;film_title;value
 46759;Cobra;Thriller
 46759;Cobra;Crime
 46759;Cobra;Crime, drugs and gangsters
-46759;Cobra;Thrillers and murder mysteries
 46759;Cobra;High speed and special ops
+46759;Cobra;Thrillers and murder mysteries
 46759;Cobra;Epic heroes
 46759;Cobra;Violent action, guns, and crime
 46759;Cobra;Adrenaline-fueled action and fast cars
@@ -75,6 +75,7 @@ film_id;film_title;value
 474474;Everything Everywhere All at Once;Humanity and the world around us
 474474;Everything Everywhere All at Once;Moving relationship stories
 474474;Everything Everywhere All at Once;Crude humor and satire
+474474;Everything Everywhere All at Once;Epic heroes
 474474;Everything Everywhere All at Once;Surreal and thought-provoking visions of life and death
 474474;Everything Everywhere All at Once;Touching and sentimental family stories
 474474;Everything Everywhere All at Once;Powerful stories of heartbreak and suffering
@@ -97,8 +98,8 @@ film_id;film_title;value
 574385;The Unbearable Weight of Massive Talent;Crime
 574385;The Unbearable Weight of Massive Talent;Comedy
 574385;The Unbearable Weight of Massive Talent;Crude humor and satire
-574385;The Unbearable Weight of Massive Talent;Relationship comedy
 574385;The Unbearable Weight of Massive Talent;High speed and special ops
+574385;The Unbearable Weight of Massive Talent;Relationship comedy
 574385;The Unbearable Weight of Massive Talent;Gags, jokes, and slapstick humor
 574385;The Unbearable Weight of Massive Talent;Action comedy and silly heroics
 574385;The Unbearable Weight of Massive Talent;Laugh-out-loud relationship entanglements
@@ -130,7 +131,7 @@ film_id;film_title;value
 479814;Free Guy;Gags, jokes, and slapstick humor
 479814;Free Guy;Action comedy and silly heroics
 479814;Free Guy;Teen school antics and laughter
-479814;Free Guy;Catchy songs and hilarious musical comedy
+479814;Free Guy;Amusing jokes and witty satire
 47233;Tremors;Horror
 47233;Tremors;Action
 47233;Tremors;Comedy
@@ -166,7 +167,6 @@ film_id;film_title;value
 47345;The Craft;Terrifying, haunted, and supernatural horror
 47345;The Craft;Twisted dark psychological thriller
 47345;The Craft;Creepy, chilling, and terrifying horror
-47345;The Craft;Gothic and eerie haunting horror
 51387;Evil Dead II;Horror
 51387;Evil Dead II;Comedy
 51387;Evil Dead II;Fantasy
@@ -190,6 +190,7 @@ film_id;film_title;value
 51157;Point Break;Crime
 51157;Point Break;Action
 51157;Point Break;High speed and special ops
+51157;Point Break;Epic heroes
 51157;Point Break;Heists and thrilling action
 51157;Point Break;Adrenaline-fueled action and fast cars
 51157;Point Break;Explosive and action-packed heroes vs. villains
@@ -205,7 +206,7 @@ film_id;film_title;value
 49632;Flash Gordon;Action-packed space and alien sagas
 49632;Flash Gordon;Fantasy adventure, heroism, and swordplay
 49632;Flash Gordon;Imaginative space odysseys and alien encounters
-49632;Flash Gordon;Action comedy and silly heroics
+49632;Flash Gordon;Epic adventure and breathtaking battles
 41672;Killer Klowns from Outer Space;Science Fiction
 41672;Killer Klowns from Outer Space;Horror
 41672;Killer Klowns from Outer Space;Comedy
@@ -280,6 +281,16 @@ film_id;film_title;value
 51386;Army of Darkness;Gags, jokes, and slapstick humor
 51386;Army of Darkness;Spooky, scary comedy
 51386;Army of Darkness;Superheroes in action-packed battles with villains
+51483;Requiem for a Dream;Drama
+51483;Requiem for a Dream;Crime
+51483;Requiem for a Dream;Humanity and the world around us
+51483;Requiem for a Dream;Intense violence and sexual transgression
+51483;Requiem for a Dream;Moving relationship stories
+51483;Requiem for a Dream;Powerful stories of heartbreak and suffering
+51483;Requiem for a Dream;Challenging or sexual themes & twists
+51483;Requiem for a Dream;Touching and sentimental family stories
+51483;Requiem for a Dream;Emotional teen coming-of-age stories
+51483;Requiem for a Dream;Violent crime and drugs
 276291;The Meg;Action
 276291;The Meg;Science Fiction
 276291;The Meg;Horror
@@ -324,7 +335,7 @@ film_id;film_title;value
 241920;Shin Godzilla;Action
 241920;Shin Godzilla;Horror
 241920;Shin Godzilla;Science Fiction
-241920;Shin Godzilla;Epic heroes
+241920;Shin Godzilla;Politics and human rights
 241920;Shin Godzilla;Sci-fi monster and dinosaur adventures
 241920;Shin Godzilla;Dangerous technology and the apocalypse
 241920;Shin Godzilla;Sci-fi horror, creatures, and aliens
@@ -404,7 +415,7 @@ film_id;film_title;value
 561763;Pig;Surreal and thought-provoking visions of life and death
 561763;Pig;Touching and sentimental family stories
 561763;Pig;Heartbreaking and moving family drama
-561763;Pig;Emotional and touching family dramas
+561763;Pig;Emotional teen coming-of-age stories
 51338;An American Werewolf in London;Comedy
 51338;An American Werewolf in London;Horror
 51338;An American Werewolf in London;Horror, the undead and monster classics
@@ -446,8 +457,8 @@ film_id;film_title;value
 617443;Dune: Part Two;Humanity and the world around us
 617443;Dune: Part Two;Action-packed space and alien sagas
 617443;Dune: Part Two;Superheroes in action-packed battles with villains
-617443;Dune: Part Two;Historical battles and epic heroism
 617443;Dune: Part Two;Fantasy adventure, heroism, and swordplay
+617443;Dune: Part Two;Historical battles and epic heroism
 617443;Dune: Part Two;Emotional and captivating fantasy storytelling
 6838;Miami Connection;Action
 6838;Miami Connection;Music
@@ -455,14 +466,15 @@ film_id;film_title;value
 6838;Miami Connection;Song and dance
 6838;Miami Connection;Epic heroes
 6838;Miami Connection;Intense combat and martial arts
-6838;Miami Connection;Legendary musicians and stardom
 6838;Miami Connection;Dance rhythms and catchy tunes
+6838;Miami Connection;Legendary musicians and stardom
 575258;Renfield;Comedy
 575258;Renfield;Horror
 575258;Renfield;Crude humor and satire
 575258;Renfield;Crime, drugs and gangsters
 575258;Renfield;Relationship comedy
 575258;Renfield;Horror, the undead and monster classics
+575258;Renfield;Epic heroes
 575258;Renfield;Bloody vampire horror
 575258;Renfield;Gags, jokes, and slapstick humor
 575258;Renfield;Action comedy and silly heroics
@@ -568,6 +580,7 @@ film_id;film_title;value
 488751;Monkey Man;Thriller
 488751;Monkey Man;Action
 488751;Monkey Man;Epic heroes
+488751;Monkey Man;High speed and special ops
 488751;Monkey Man;Intense combat and martial arts
 488751;Monkey Man;Violent action, guns, and crime
 488751;Monkey Man;Explosive and action-packed heroes vs. villains
@@ -589,7 +602,7 @@ film_id;film_title;value
 43569;Repo Man;Teen school antics and laughter
 43569;Repo Man;Funny jokes and crude humor
 43569;Repo Man;Action comedy and silly heroics
-43569;Repo Man;Laugh-out-loud relationship entanglements
+43569;Repo Man;Catchy songs and hilarious musical comedy
 50851;Re-Animator;Comedy
 50851;Re-Animator;Horror
 50851;Re-Animator;Science Fiction
@@ -642,3 +655,40 @@ film_id;film_title;value
 51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;Riveting political and presidential drama
 51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;Bravery in War
 34848;Meshes of the Afternoon;Fantasy
+51494;The Wizard of Oz;Adventure
+51494;The Wizard of Oz;Family
+51494;The Wizard of Oz;Fantasy
+51494;The Wizard of Oz;Song and dance
+51494;The Wizard of Oz;Fairy-tale fantasy and enchanted magic
+51494;The Wizard of Oz;Dazzling vocal performances and musicals
+51494;The Wizard of Oz;Emotional and captivating fantasy storytelling
+51494;The Wizard of Oz;Adorable animals and heartwarming families
+51494;The Wizard of Oz;Holiday joy and heartwarming Christmas
+51230;Dawn of the Dead;Horror
+51230;Dawn of the Dead;Horror, the undead and monster classics
+51230;Dawn of the Dead;Intense violence and sexual transgression
+51230;Dawn of the Dead;Survival horror and zombie carnage
+51230;Dawn of the Dead;Gory, gruesome, and slasher horror
+51230;Dawn of the Dead;Sci-fi horror, creatures, and aliens
+51230;Dawn of the Dead;Terrifying, haunted, and supernatural horror
+51230;Dawn of the Dead;Extreme gory horror and cannibalism
+97190;The Company of Strangers;Drama
+43921;Tokyo Godfathers;Drama
+43921;Tokyo Godfathers;Comedy
+43921;Tokyo Godfathers;Animation
+43921;Tokyo Godfathers;Moving relationship stories
+43921;Tokyo Godfathers;Emotional and captivating fantasy storytelling
+43921;Tokyo Godfathers;Holiday joy and heartwarming Christmas
+43921;Tokyo Godfathers;Touching and sentimental family stories
+43921;Tokyo Godfathers;Powerful stories of heartbreak and suffering
+43921;Tokyo Godfathers;Heartbreaking and moving family drama
+48894;Kiss Kiss Bang Bang;Crime
+48894;Kiss Kiss Bang Bang;Mystery
+48894;Kiss Kiss Bang Bang;Comedy
+48894;Kiss Kiss Bang Bang;Crude humor and satire
+48894;Kiss Kiss Bang Bang;Thrillers and murder mysteries
+48894;Kiss Kiss Bang Bang;Gags, jokes, and slapstick humor
+48894;Kiss Kiss Bang Bang;Amusing jokes and witty satire
+48894;Kiss Kiss Bang Bang;Action comedy and silly heroics
+48894;Kiss Kiss Bang Bang;Noir and dark crime dramas
+48894;Kiss Kiss Bang Bang;Spooky, scary comedy
