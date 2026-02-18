@@ -405,6 +405,7 @@ def build_filmclub_dfs(filmclub_list_url):
                 "film_title",
             ]
         ]
+        .rename(columns={0: "value"})
         .reset_index(drop=True)
     )
 
