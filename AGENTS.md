@@ -16,6 +16,7 @@
   - `python src/filmclub_image_cache.py --use-playwright`
 - Install Playwright browsers (first-time setup):
   - `python -m playwright install`
+  - Playwright profile is stored at `src/playwright_profile/` (ignored by git).
 - Run the Streamlit report locally:
   - `streamlit run streamlit_app.py`
 - If you add scripts, document their usage here and keep them runnable from the repo root.

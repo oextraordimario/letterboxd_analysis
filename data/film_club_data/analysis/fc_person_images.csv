@@ -1,0 +1,13 @@
+name;role;link;person_url;image_url;image_path;status;error_message
+Nicolas Cage;actor;/actor/nicolas-cage/;https://letterboxd.com/actor/nicolas-cage/;https://image.tmdb.org/t/p/w500/y1RtezurZYveYkVNRht7CwEgSYY.jpg;person_images\actor_nicolas_cage.jpg;ok;
+Bruce Campbell;actor;/actor/bruce-campbell/;https://letterboxd.com/actor/bruce-campbell/;https://image.tmdb.org/t/p/w500/p9335ljr7luOWsfwZSOlsIzFJKE.jpg;person_images\actor_bruce_campbell.jpg;ok;
+Ian McKellen;actor;/actor/ian-mckellen/;https://letterboxd.com/actor/ian-mckellen/;https://image.tmdb.org/t/p/w500/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg;person_images\actor_ian_mckellen.jpg;ok;
+Sean Astin;actor;/actor/sean-astin/;https://letterboxd.com/actor/sean-astin/;https://image.tmdb.org/t/p/w500/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg;person_images\actor_sean_astin.jpg;ok;
+Sean Bean;actor;/actor/sean-bean/;https://letterboxd.com/actor/sean-bean/;https://image.tmdb.org/t/p/w500/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg;person_images\actor_sean_bean.jpg;ok;
+Peter Jackson;director;/director/peter-jackson/;https://letterboxd.com/director/peter-jackson/;https://image.tmdb.org/t/p/w500/bNc908d59Ba8VDNr4eCcm4G1cR.jpg;person_images\director_peter_jackson.jpg;ok;
+Satoshi Kon;director;/director/satoshi-kon/;https://letterboxd.com/director/satoshi-kon/;https://image.tmdb.org/t/p/w500/b7Oqg1bjS0e2iEzEjYWnsyVVagt.jpg;person_images\director_satoshi_kon.jpg;ok;
+Ti West;director;/director/ti-west/;https://letterboxd.com/director/ti-west/;https://image.tmdb.org/t/p/w500/y65ZHU9m830lbdbggxC8eOT123S.jpg;person_images\director_ti_west.jpg;ok;
+Fran Walsh;writer;/writer/fran-walsh/;https://letterboxd.com/writer/fran-walsh/;https://image.tmdb.org/t/p/w500/roXPta5fAmGzqdOIvUQbDavZy8Y.jpg;person_images\writer_fran_walsh.jpg;ok;
+Peter Jackson;writer;/writer/peter-jackson/;https://letterboxd.com/writer/peter-jackson/;https://image.tmdb.org/t/p/w500/bNc908d59Ba8VDNr4eCcm4G1cR.jpg;person_images\writer_peter_jackson.jpg;ok;
+Philippa Boyens;writer;/writer/philippa-boyens/;https://letterboxd.com/writer/philippa-boyens/;https://image.tmdb.org/t/p/w500/vfPQnrMZ87uPjyJYrSkQtqI6c0H.jpg;person_images\writer_philippa_boyens.jpg;ok;
+Ti West;writer;/writer/ti-west/;https://letterboxd.com/writer/ti-west/;https://image.tmdb.org/t/p/w500/y65ZHU9m830lbdbggxC8eOT123S.jpg;person_images\writer_ti_west.jpg;ok;

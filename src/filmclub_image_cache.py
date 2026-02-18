@@ -356,7 +356,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--profile-dir",
-        default="data/film_club_data/analysis/playwright_profile",
+        default="src/playwright_profile",
         help="Playwright persistent profile dir (use to pass Cloudflare checks).",
     )
     parser.add_argument(

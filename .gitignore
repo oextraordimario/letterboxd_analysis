@@ -2,3 +2,4 @@
 .env
 tmdb_auth.env
 auths.env
+src/playwright_profile/
