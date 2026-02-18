@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-FILMCLUB_FOLDER = REPO_ROOT / "film_club_data"
+FILMCLUB_FOLDER = REPO_ROOT / "data" / "film_club_data"
 AUTH_ENV = REPO_ROOT / "auths.env"
 
 
