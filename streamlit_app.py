@@ -114,6 +114,15 @@ def show_person_section(
                 st.write("Nenhum filme encontrado.")
 
 
+def section_break(height_rem: float = 12.0) -> None:
+    st.divider()
+    st.markdown(
+        f"<div style=\"margin: {height_rem}rem 0;\"></div>",
+        unsafe_allow_html=True,
+    )
+    st.divider()
+
+
 def main() -> None:
     st.set_page_config(page_title="Film-Fueled-Friends: Wrapped", layout="wide")
 
@@ -128,6 +137,7 @@ def main() -> None:
         "- Sugerir roadmap de filmes futuros\n"
         "- Incentivar o Jhones a usar o Letterboxd"
     )
+    section_break()
 
     main_metrics = load_csv("fc_main_metrics.csv").iloc[0]
 
@@ -157,6 +167,7 @@ def main() -> None:
         bar_chart(mpd, x="movie_count", y="release_decade", title="Filmes por década"),
         use_container_width=True,
     )
+    section_break()
 
     st.markdown("## Elenco")
     popular_actors = load_csv("fc_popular_actors.csv")
@@ -174,6 +185,7 @@ def main() -> None:
         images_df,
         role="actor",
     )
+    section_break()
 
     st.markdown("## Diretores")
     popular_directors = load_csv("fc_popular_directors.csv")
@@ -185,6 +197,7 @@ def main() -> None:
         images_df,
         role="director",
     )
+    section_break()
 
     st.markdown("## Roteiristas")
     popular_writers = load_csv("fc_popular_writers.csv")
@@ -196,6 +209,7 @@ def main() -> None:
         images_df,
         role="writer",
     )
+    section_break()
 
     st.markdown("## Países, idiomas e estúdios")
     mpc = load_csv("fc_movies_per_country.csv")
@@ -215,6 +229,7 @@ def main() -> None:
         bar_chart(mps, x="movie_count", y="studio", title="Filmes por estúdio"),
         use_container_width=True,
     )
+    section_break()
 
     st.markdown("## Gêneros e temas")
     pcg = load_csv("fc_popular_complete_genres.csv")
@@ -240,6 +255,7 @@ def main() -> None:
         ),
         use_container_width=True,
     )
+    section_break()
 
     st.markdown("## Sugestões de filmes pro futuro")
     st.markdown(
