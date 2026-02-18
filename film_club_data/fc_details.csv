@@ -1,484 +1,740 @@
-film_id;film_title;key;value;link
-51869;The Wizard;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
-51869;The Wizard;studio;Finnegan/Pinchuk Productions;letterboxd.com/studio/finnegan-pinchuk-productions/
-51869;The Wizard;country;USA;letterboxd.com/films/country/usa/
-51869;The Wizard;language;English;letterboxd.com/films/language/english/
-51869;The Wizard;language;English;letterboxd.com/films/language/english/
-51869;The Wizard;language;Italian;letterboxd.com/films/language/italian/
-565852;The Northman;studio;New Regency Pictures;letterboxd.com/studio/new-regency-pictures/
-565852;The Northman;studio;Square Peg;letterboxd.com/studio/square-peg/
-565852;The Northman;studio;Regency Enterprises;letterboxd.com/studio/regency-enterprises/
-565852;The Northman;country;USA;letterboxd.com/films/country/usa/
-565852;The Northman;language;English;letterboxd.com/films/language/english/
-565852;The Northman;language;English;letterboxd.com/films/language/english/
-565852;The Northman;language;Icelandic;letterboxd.com/films/language/icelandic/
-43552;Rad;studio;TriStar Pictures;letterboxd.com/studio/tristar-pictures-1/
-43552;Rad;studio;Utopia;letterboxd.com/studio/utopia-1/
-43552;Rad;studio;TaliaFilm II Productions;letterboxd.com/studio/taliafilm-ii-productions/
-43552;Rad;country;Canada;letterboxd.com/films/country/canada/
-43552;Rad;language;English;letterboxd.com/films/language/english/
-353117;Get Out;studio;Monkeypaw Productions;letterboxd.com/studio/monkeypaw-productions/
-353117;Get Out;studio;Blumhouse Productions;letterboxd.com/studio/blumhouse-productions/
-353117;Get Out;studio;QC Entertainment;letterboxd.com/studio/qc-entertainment/
-353117;Get Out;country;USA;letterboxd.com/films/country/usa/
-353117;Get Out;language;English;letterboxd.com/films/language/english/
-508037;RRR;studio;DVV Entertainment;letterboxd.com/studio/dvv-entertainment/
-508037;RRR;studio;Pen Studios;letterboxd.com/studio/pen-studios/
-508037;RRR;studio;Lyca Productions;letterboxd.com/studio/lyca-productions/
-508037;RRR;country;India;letterboxd.com/films/country/india/
-508037;RRR;language;Telugu;letterboxd.com/films/language/telugu/
-508037;RRR;language;English;letterboxd.com/films/language/english/
-508037;RRR;language;Telugu;letterboxd.com/films/language/telugu/
-48018;Speed Racer;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
-48018;Speed Racer;studio;Village Roadshow Pictures;letterboxd.com/studio/village-roadshow-pictures/
-48018;Speed Racer;studio;Silver Pictures;letterboxd.com/studio/silver-pictures/
-48018;Speed Racer;studio;Anarchos Productions;letterboxd.com/studio/anarchos-productions/
-48018;Speed Racer;studio;Velocity Productions;letterboxd.com/studio/velocity-productions/
-48018;Speed Racer;studio;Studio Babelsberg;letterboxd.com/studio/studio-babelsberg/
-48018;Speed Racer;country;Germany;letterboxd.com/films/country/germany/
-48018;Speed Racer;country;UK;letterboxd.com/films/country/uk/
-48018;Speed Racer;country;USA;letterboxd.com/films/country/usa/
-48018;Speed Racer;language;English;letterboxd.com/films/language/english/
-47798;They Live;studio;Alive Films;letterboxd.com/studio/alive-films/
-47798;They Live;studio;Larry Franco Productions;letterboxd.com/studio/larry-franco-productions/
-47798;They Live;country;USA;letterboxd.com/films/country/usa/
-47798;They Live;language;English;letterboxd.com/films/language/english/
-47798;They Live;language;German;letterboxd.com/films/language/german/
-47798;They Live;language;English;letterboxd.com/films/language/english/
-46759;Cobra;studio;The Cannon Group;letterboxd.com/studio/cannon-group/
-46759;Cobra;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
-46759;Cobra;studio;Golan-Globus Productions;letterboxd.com/studio/golan-globus-productions/
-46759;Cobra;country;USA;letterboxd.com/films/country/usa/
-46759;Cobra;language;English;letterboxd.com/films/language/english/
-474474;Everything Everywhere All at Once;studio;IAC Films;letterboxd.com/studio/iac-films/
-474474;Everything Everywhere All at Once;studio;AGBO;letterboxd.com/studio/agbo/
-474474;Everything Everywhere All at Once;studio;Ley Line Entertainment;letterboxd.com/studio/ley-line-entertainment/
-474474;Everything Everywhere All at Once;studio;Year of the Rat;letterboxd.com/studio/year-of-the-rat-productions/
-474474;Everything Everywhere All at Once;country;USA;letterboxd.com/films/country/usa/
-474474;Everything Everywhere All at Once;language;English;letterboxd.com/films/language/english/
-474474;Everything Everywhere All at Once;language;Cantonese;letterboxd.com/films/language/cantonese/
-474474;Everything Everywhere All at Once;language;Chinese;letterboxd.com/films/language/chinese/
-474474;Everything Everywhere All at Once;language;English;letterboxd.com/films/language/english/
-51554;The Mummy;studio;Alphaville Films;letterboxd.com/studio/alphaville-films/
-51554;The Mummy;country;USA;letterboxd.com/films/country/usa/
-51554;The Mummy;language;English;letterboxd.com/films/language/english/
-51554;The Mummy;language;English;letterboxd.com/films/language/english/
-51554;The Mummy;language;Arabic;letterboxd.com/films/language/arabic/
-574385;The Unbearable Weight of Massive Talent;studio;Saturn Films;letterboxd.com/studio/saturn-films/
-574385;The Unbearable Weight of Massive Talent;studio;Burr! Productions;letterboxd.com/studio/burr-productions/
-574385;The Unbearable Weight of Massive Talent;country;USA;letterboxd.com/films/country/usa/
-574385;The Unbearable Weight of Massive Talent;language;English;letterboxd.com/films/language/english/
-574385;The Unbearable Weight of Massive Talent;language;English;letterboxd.com/films/language/english/
-574385;The Unbearable Weight of Massive Talent;language;Spanish;letterboxd.com/films/language/spanish/
-2685;Unforgiven;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
-2685;Unforgiven;studio;Malpaso Productions;letterboxd.com/studio/malpaso-productions/
-2685;Unforgiven;country;USA;letterboxd.com/films/country/usa/
-2685;Unforgiven;language;English;letterboxd.com/films/language/english/
-51986;Twelve Monkeys;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
-51986;Twelve Monkeys;studio;Atlas Entertainment;letterboxd.com/studio/atlas-entertainment/
-51986;Twelve Monkeys;studio;Classico;letterboxd.com/studio/classico/
-51986;Twelve Monkeys;studio;Twelve Monkeys Productions;letterboxd.com/studio/twelve-monkeys-productions/
-51986;Twelve Monkeys;country;USA;letterboxd.com/films/country/usa/
-51986;Twelve Monkeys;language;English;letterboxd.com/films/language/english/
-51986;Twelve Monkeys;language;English;letterboxd.com/films/language/english/
-51986;Twelve Monkeys;language;French;letterboxd.com/films/language/french/
-479814;Free Guy;studio;Berlanti Productions;letterboxd.com/studio/berlanti-productions/
-479814;Free Guy;studio;21 Laps Entertainment;letterboxd.com/studio/21-laps-entertainment/
-479814;Free Guy;studio;Maximum Effort;letterboxd.com/studio/maximum-effort/
-479814;Free Guy;studio;Lit Entertainment Group;letterboxd.com/studio/lit-entertainment-group/
-479814;Free Guy;studio;20th Century Studios;letterboxd.com/studio/20th-century-studios/
-479814;Free Guy;country;USA;letterboxd.com/films/country/usa/
-479814;Free Guy;language;English;letterboxd.com/films/language/english/
-479814;Free Guy;language;English;letterboxd.com/films/language/english/
-479814;Free Guy;language;Japanese;letterboxd.com/films/language/japanese/
-47233;Tremors;studio;Wilson-Maddock Production;letterboxd.com/studio/wilson-maddock-production/
-47233;Tremors;studio;Pacific Western;letterboxd.com/studio/pacific-western/
-47233;Tremors;studio;No Frills Film Production;letterboxd.com/studio/no-frills-film-production/
-47233;Tremors;country;USA;letterboxd.com/films/country/usa/
-47233;Tremors;language;English;letterboxd.com/films/language/english/
-465978;Cats;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
-465978;Cats;studio;Perfect World Pictures;letterboxd.com/studio/perfect-world-pictures/
-465978;Cats;studio;Working Title Films;letterboxd.com/studio/working-title-films/
-465978;Cats;studio;Amblin Entertainment;letterboxd.com/studio/amblin-entertainment/
-465978;Cats;studio;Monumental Pictures;letterboxd.com/studio/monumental-pictures/
-465978;Cats;studio;The Really Useful Group;letterboxd.com/studio/the-really-useful-group-1/
-465978;Cats;studio;Working Title Films;letterboxd.com/studio/working-title-films-1/
-465978;Cats;country;China;letterboxd.com/films/country/china/
-465978;Cats;country;UK;letterboxd.com/films/country/uk/
-465978;Cats;country;USA;letterboxd.com/films/country/usa/
-465978;Cats;language;English;letterboxd.com/films/language/english/
-46087;Child's Play;studio;United Artists;letterboxd.com/studio/united-artists/
-46087;Child's Play;studio;David Kirschner Productions;letterboxd.com/studio/david-kirschner-productions/
-46087;Child's Play;studio;Metro-Goldwyn-Mayer;letterboxd.com/studio/metro-goldwyn-mayer-1/
-46087;Child's Play;country;USA;letterboxd.com/films/country/usa/
-46087;Child's Play;language;English;letterboxd.com/films/language/english/
-47345;The Craft;studio;Columbia Pictures;letterboxd.com/studio/columbia-pictures/
-47345;The Craft;studio;Red Wagon Entertainment;letterboxd.com/studio/red-wagon-entertainment/
-47345;The Craft;country;USA;letterboxd.com/films/country/usa/
-47345;The Craft;language;English;letterboxd.com/films/language/english/
-47345;The Craft;language;English;letterboxd.com/films/language/english/
-47345;The Craft;language;French;letterboxd.com/films/language/french/
-51387;Evil Dead II;studio;Rosebud Releasing Corporation;letterboxd.com/studio/rosebud-releasing-corporation/
-51387;Evil Dead II;studio;Renaissance Pictures;letterboxd.com/studio/renaissance-pictures/
-51387;Evil Dead II;studio;The De Laurentiis Company;letterboxd.com/studio/dino-de-laurentiis-company/
-51387;Evil Dead II;country;USA;letterboxd.com/films/country/usa/
-51387;Evil Dead II;language;English;letterboxd.com/films/language/english/
-431888;The Mitchells vs. the Machines;studio;Lord Miller;letterboxd.com/studio/lord-miller/
-431888;The Mitchells vs. the Machines;studio;Columbia Pictures;letterboxd.com/studio/columbia-pictures/
-431888;The Mitchells vs. the Machines;studio;Sony Pictures Animation;letterboxd.com/studio/sony-pictures-animation/
-431888;The Mitchells vs. the Machines;studio;One Cool Pictures;letterboxd.com/studio/one-cool-film-production/
-431888;The Mitchells vs. the Machines;country;Hong Kong;letterboxd.com/films/country/hong-kong/
-431888;The Mitchells vs. the Machines;country;USA;letterboxd.com/films/country/usa/
-431888;The Mitchells vs. the Machines;language;English;letterboxd.com/films/language/english/
-51157;Point Break;studio;Largo Entertainment;letterboxd.com/studio/largo-entertainment/
-51157;Point Break;studio;JVC;letterboxd.com/studio/jvc/
-51157;Point Break;studio;20th Century Fox;letterboxd.com/studio/20th-century-fox/
-51157;Point Break;country;Japan;letterboxd.com/films/country/japan/
-51157;Point Break;country;USA;letterboxd.com/films/country/usa/
-51157;Point Break;language;English;letterboxd.com/films/language/english/
-49632;Flash Gordon;studio;Starling Films;letterboxd.com/studio/starling-films/
-49632;Flash Gordon;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
-49632;Flash Gordon;studio;Famous Films Productions;letterboxd.com/studio/famous-films-ii/
-49632;Flash Gordon;studio;Flash Gordon Productions;letterboxd.com/studio/flash-gordon-productions/
-49632;Flash Gordon;studio;DDL Cinematografica;letterboxd.com/studio/ddl-cinematografica/
-49632;Flash Gordon;country;Italy;letterboxd.com/films/country/italy/
-49632;Flash Gordon;country;Netherlands;letterboxd.com/films/country/netherlands/
-49632;Flash Gordon;country;UK;letterboxd.com/films/country/uk/
-49632;Flash Gordon;country;USA;letterboxd.com/films/country/usa/
-49632;Flash Gordon;language;English;letterboxd.com/films/language/english/
-41672;Killer Klowns from Outer Space;studio;Sarlui / Diamant Production;letterboxd.com/studio/sarlui-diamant-production/
-41672;Killer Klowns from Outer Space;studio;Chiodo Bros. Productions;letterboxd.com/studio/chiodo-bros-productions/
-41672;Killer Klowns from Outer Space;country;USA;letterboxd.com/films/country/usa/
-41672;Killer Klowns from Outer Space;language;English;letterboxd.com/films/language/english/
-44960;The 36th Chamber of Shaolin;studio;Shaw Brothers;letterboxd.com/studio/shaw-brothers/
-44960;The 36th Chamber of Shaolin;country;Hong Kong;letterboxd.com/films/country/hong-kong/
-44960;The 36th Chamber of Shaolin;language;Chinese;letterboxd.com/films/language/chinese/
-45270;The Warriors;studio;Paramount Pictures;letterboxd.com/studio/paramount-1/
-45270;The Warriors;studio;Lawrence Gordon Productions;letterboxd.com/studio/lawrence-gordon-productions/
-45270;The Warriors;country;USA;letterboxd.com/films/country/usa/
-45270;The Warriors;language;English;letterboxd.com/films/language/english/
-598882;The Banshees of Inisherin;studio;Searchlight Pictures;letterboxd.com/studio/searchlight-pictures/
-598882;The Banshees of Inisherin;studio;Blueprint Pictures;letterboxd.com/studio/blueprint-pictures/
-598882;The Banshees of Inisherin;studio;Film4 Productions;letterboxd.com/studio/film4-productions/
-598882;The Banshees of Inisherin;studio;TSG Entertainment;letterboxd.com/studio/tsg-entertainment/
-598882;The Banshees of Inisherin;country;UK;letterboxd.com/films/country/uk/
-598882;The Banshees of Inisherin;country;USA;letterboxd.com/films/country/usa/
-598882;The Banshees of Inisherin;language;English;letterboxd.com/films/language/english/
-45104;Masters of the Universe;studio;Pressman Film;letterboxd.com/studio/pressman-film/
-45104;Masters of the Universe;studio;The Cannon Group;letterboxd.com/studio/cannon-group/
-45104;Masters of the Universe;studio;Golan-Globus Productions;letterboxd.com/studio/golan-globus-productions/
-45104;Masters of the Universe;country;USA;letterboxd.com/films/country/usa/
-45104;Masters of the Universe;language;English;letterboxd.com/films/language/english/
-44952;Invasion of the Body Snatchers;studio;United Artists;letterboxd.com/studio/united-artists/
-44952;Invasion of the Body Snatchers;country;USA;letterboxd.com/films/country/usa/
-44952;Invasion of the Body Snatchers;language;English;letterboxd.com/films/language/english/
-44952;Invasion of the Body Snatchers;language;English;letterboxd.com/films/language/english/
-44952;Invasion of the Body Snatchers;language;French;letterboxd.com/films/language/french/
-45260;Rollerball;studio;United Artists;letterboxd.com/studio/united-artists/
-45260;Rollerball;studio;Algonquin;letterboxd.com/studio/algonquin/
-45260;Rollerball;country;USA;letterboxd.com/films/country/usa/
-45260;Rollerball;language;English;letterboxd.com/films/language/english/
-31606;Bloodmoon;studio;Seasonal Film Corporation;letterboxd.com/studio/seasonal-film-corporation/
-31606;Bloodmoon;studio;Media of Medias;letterboxd.com/studio/media-of-medias/
-31606;Bloodmoon;country;USA;letterboxd.com/films/country/usa/
-31606;Bloodmoon;language;English;letterboxd.com/films/language/english/
-31606;Bloodmoon;language;English;letterboxd.com/films/language/english/
-31606;Bloodmoon;language;Portuguese;letterboxd.com/films/language/portuguese/
-51386;Army of Darkness;studio;Renaissance Pictures;letterboxd.com/studio/renaissance-pictures/
-51386;Army of Darkness;studio;The De Laurentiis Company;letterboxd.com/studio/dino-de-laurentiis-company/
-51386;Army of Darkness;studio;Introvision International;letterboxd.com/studio/introvision-international/
-51386;Army of Darkness;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
-51386;Army of Darkness;country;USA;letterboxd.com/films/country/usa/
-51386;Army of Darkness;language;English;letterboxd.com/films/language/english/
-51483;Requiem for a Dream;studio;Artisan Entertainment;letterboxd.com/studio/artisan-entertainment/
-51483;Requiem for a Dream;studio;Thousand Words;letterboxd.com/studio/thousand-words/
-51483;Requiem for a Dream;studio;Protozoa Pictures;letterboxd.com/studio/protozoa-pictures/
-51483;Requiem for a Dream;country;USA;letterboxd.com/films/country/usa/
-51483;Requiem for a Dream;language;English;letterboxd.com/films/language/english/
-276291;The Meg;studio;Apelles Entertainment;letterboxd.com/studio/apelles-entertainment/
-276291;The Meg;studio;Gravity Pictures;letterboxd.com/studio/gravity-pictures/
-276291;The Meg;studio;di Bonaventura Pictures;letterboxd.com/studio/di-bonaventura-pictures/
-276291;The Meg;studio;Flagship Entertainment Group;letterboxd.com/studio/flagship-entertainment-group/
-276291;The Meg;studio;Maeday Productions;letterboxd.com/studio/maeday-productions/
-276291;The Meg;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
-276291;The Meg;country;China;letterboxd.com/films/country/china/
-276291;The Meg;country;USA;letterboxd.com/films/country/usa/
-276291;The Meg;language;English;letterboxd.com/films/language/english/
-276291;The Meg;language;Chinese;letterboxd.com/films/language/chinese/
-276291;The Meg;language;English;letterboxd.com/films/language/english/
-276291;The Meg;language;Japanese;letterboxd.com/films/language/japanese/
-276291;The Meg;language;Thai;letterboxd.com/films/language/thai/
-51771;High Noon;studio;Stanley Kramer Productions;letterboxd.com/studio/stanley-kramer-productions/
-51771;High Noon;studio;United Artists;letterboxd.com/studio/united-artists/
-51771;High Noon;country;USA;letterboxd.com/films/country/usa/
-51771;High Noon;language;English;letterboxd.com/films/language/english/
-51771;High Noon;language;English;letterboxd.com/films/language/english/
-51771;High Noon;language;French;letterboxd.com/films/language/french/
-51771;High Noon;language;Italian;letterboxd.com/films/language/italian/
-46897;Bubba Ho-tep;studio;Silver Sphere Corporation;letterboxd.com/studio/silver-sphere-corporation/
-46897;Bubba Ho-tep;studio;Metro-Goldwyn-Mayer;letterboxd.com/studio/metro-goldwyn-mayer-1/
-46897;Bubba Ho-tep;country;USA;letterboxd.com/films/country/usa/
-46897;Bubba Ho-tep;language;English;letterboxd.com/films/language/english/
-46897;Bubba Ho-tep;language;English;letterboxd.com/films/language/english/
-46897;Bubba Ho-tep;language;German;letterboxd.com/films/language/german/
-51781;Fargo;studio;PolyGram Filmed Entertainment;letterboxd.com/studio/polygram-filmed-entertainment/
-51781;Fargo;studio;Working Title Films;letterboxd.com/studio/working-title-films/
-51781;Fargo;country;UK;letterboxd.com/films/country/uk/
-51781;Fargo;country;USA;letterboxd.com/films/country/usa/
-51781;Fargo;language;English;letterboxd.com/films/language/english/
-241920;Shin Godzilla;studio;Toho Pictures;letterboxd.com/studio/toho-pictures/
-241920;Shin Godzilla;studio;Cine Bazar;letterboxd.com/studio/cine-bazar/
-241920;Shin Godzilla;studio;TOHO;letterboxd.com/studio/toho/
-241920;Shin Godzilla;country;Japan;letterboxd.com/films/country/japan/
-241920;Shin Godzilla;language;Japanese;letterboxd.com/films/language/japanese/
-241920;Shin Godzilla;language;Italian;letterboxd.com/films/language/italian/
-241920;Shin Godzilla;language;German;letterboxd.com/films/language/german/
-241920;Shin Godzilla;language;English;letterboxd.com/films/language/english/
-241920;Shin Godzilla;language;Japanese;letterboxd.com/films/language/japanese/
-43812;Gaslight;studio;Metro-Goldwyn-Mayer;letterboxd.com/studio/metro-goldwyn-mayer-1/
-43812;Gaslight;country;USA;letterboxd.com/films/country/usa/
-43812;Gaslight;language;English;letterboxd.com/films/language/english/
-42841;Ip Man;studio;Mandarin Films;letterboxd.com/studio/mandarin-films-1/
-42841;Ip Man;studio;Golden Harvest Company;letterboxd.com/studio/golden-harvest-company/
-42841;Ip Man;studio;Beijing ShengShi HuaRei Film Investment & Management Co.;letterboxd.com/studio/beijing-shengshi-huarei-film-investment-management-co/
-42841;Ip Man;studio;China Film Co-Production Corp.;letterboxd.com/studio/china-film-co-production-corporation/
-42841;Ip Man;studio;New Film Studio of Beijing Starlight International Media Co. Ltd.;letterboxd.com/studio/new-film-studio-of-beijing-starlight-international-media-co-ltd/
-42841;Ip Man;studio;Prosperity Pictures;letterboxd.com/studio/prosperity-pictures/
-42841;Ip Man;studio;Shanghai Film Group;letterboxd.com/studio/shanghai-film-group/
-42841;Ip Man;studio;Time Antaeus Media Group;letterboxd.com/studio/time-antaeus-media-group/
-42841;Ip Man;country;China;letterboxd.com/films/country/china/
-42841;Ip Man;country;Hong Kong;letterboxd.com/films/country/hong-kong/
-42841;Ip Man;language;Cantonese;letterboxd.com/films/language/cantonese/
-42841;Ip Man;language;Chinese;letterboxd.com/films/language/chinese/
-42841;Ip Man;language;Japanese;letterboxd.com/films/language/japanese/
-42841;Ip Man;language;Cantonese;letterboxd.com/films/language/cantonese/
-51708;A Nightmare on Elm Street;studio;New Line Cinema;letterboxd.com/studio/new-line-cinema/
-51708;A Nightmare on Elm Street;studio;Smart Egg Pictures;letterboxd.com/studio/smart-egg-pictures/
-51708;A Nightmare on Elm Street;studio;Media Home Entertainment;letterboxd.com/studio/media-home-entertainment/
-51708;A Nightmare on Elm Street;studio;Cinema 84;letterboxd.com/studio/cinema-84/
-51708;A Nightmare on Elm Street;studio;The Elm Street Venture;letterboxd.com/studio/the-elm-street-venture/
-51708;A Nightmare on Elm Street;country;USA;letterboxd.com/films/country/usa/
-51708;A Nightmare on Elm Street;country;UK;letterboxd.com/films/country/uk/
-51708;A Nightmare on Elm Street;language;English;letterboxd.com/films/language/english/
-92160;Paddington;studio;StudioCanal;letterboxd.com/studio/studiocanal/
-92160;Paddington;studio;Anton Capital Entertainment;letterboxd.com/studio/anton-capital-entertainment/
-92160;Paddington;studio;Heyday Films;letterboxd.com/studio/heyday-films/
-92160;Paddington;studio;TF1 Films Production;letterboxd.com/studio/tf1-films-production-1/
-92160;Paddington;studio;The Weinstein Company;letterboxd.com/studio/the-weinstein-company/
-92160;Paddington;country;France;letterboxd.com/films/country/france/
-92160;Paddington;country;UK;letterboxd.com/films/country/uk/
-92160;Paddington;country;USA;letterboxd.com/films/country/usa/
-92160;Paddington;language;English;letterboxd.com/films/language/english/
-277023;Paddington 2;studio;StudioCanal;letterboxd.com/studio/studiocanal/
-277023;Paddington 2;studio;Heyday Films;letterboxd.com/studio/heyday-films/
-277023;Paddington 2;studio;Anton Capital Entertainment;letterboxd.com/studio/anton-capital-entertainment/
-277023;Paddington 2;country;France;letterboxd.com/films/country/france/
-277023;Paddington 2;country;UK;letterboxd.com/films/country/uk/
-277023;Paddington 2;language;English;letterboxd.com/films/language/english/
-45649;Hairspray;studio;New Line Cinema;letterboxd.com/studio/new-line-cinema/
-45649;Hairspray;country;USA;letterboxd.com/films/country/usa/
-45649;Hairspray;language;English;letterboxd.com/films/language/english/
-51881;28 Days Later;studio;DNA Films;letterboxd.com/studio/dna-films/
-51881;28 Days Later;country;UK;letterboxd.com/films/country/uk/
-51881;28 Days Later;language;English;letterboxd.com/films/language/english/
-51881;28 Days Later;language;Spanish;letterboxd.com/films/language/spanish/
-51881;28 Days Later;language;English;letterboxd.com/films/language/english/
-561763;Pig;studio;AI Film;letterboxd.com/studio/ai-film/
-561763;Pig;studio;Pulse Films;letterboxd.com/studio/pulse-films/
-561763;Pig;studio;Saturn Films;letterboxd.com/studio/saturn-films/
-561763;Pig;studio;Valparaiso Pictures;letterboxd.com/studio/valparaiso-pictures/
-561763;Pig;studio;BlockBox Entertainment;letterboxd.com/studio/blockbox-entertainment/
-561763;Pig;studio;Endeavor Content;letterboxd.com/studio/endeavor-content/
-561763;Pig;country;UK;letterboxd.com/films/country/uk/
-561763;Pig;country;USA;letterboxd.com/films/country/usa/
-561763;Pig;language;English;letterboxd.com/films/language/english/
-51338;An American Werewolf in London;studio;American Werewolf Inc.;letterboxd.com/studio/american-werewolf-inc/
-51338;An American Werewolf in London;studio;Lyncanthrope Films;letterboxd.com/studio/lyncanthrope-films/
-51338;An American Werewolf in London;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
-51338;An American Werewolf in London;studio;Guber/Peters Company;letterboxd.com/studio/guber-peters-company/
-51338;An American Werewolf in London;studio;PSO;letterboxd.com/studio/pso/
-51338;An American Werewolf in London;studio;Polygram Pictures;letterboxd.com/studio/polygram-pictures/
-51338;An American Werewolf in London;country;UK;letterboxd.com/films/country/uk/
-51338;An American Werewolf in London;country;USA;letterboxd.com/films/country/usa/
-51338;An American Werewolf in London;language;English;letterboxd.com/films/language/english/
-591053;Past Lives;studio;A24;letterboxd.com/studio/a24/
-591053;Past Lives;studio;Killer Films;letterboxd.com/studio/killer-films/
-591053;Past Lives;studio;2AM;letterboxd.com/studio/2am/
-591053;Past Lives;studio;CJ ENM;letterboxd.com/studio/cj-enm/
-591053;Past Lives;country;South Korea;letterboxd.com/films/country/south-korea/
-591053;Past Lives;country;USA;letterboxd.com/films/country/usa/
-591053;Past Lives;language;English;letterboxd.com/films/language/english/
-591053;Past Lives;language;English;letterboxd.com/films/language/english/
-591053;Past Lives;language;Korean;letterboxd.com/films/language/korean/
-47867;Napoleon Dynamite;studio;Access Films;letterboxd.com/studio/access-films/
-47867;Napoleon Dynamite;studio;Napoleon Pictures Limited;letterboxd.com/studio/napoleon-pictures-limited/
-47867;Napoleon Dynamite;studio;Cinetic Media;letterboxd.com/studio/cinetic-media/
-47867;Napoleon Dynamite;studio;Paramount Pictures;letterboxd.com/studio/paramount-1/
-47867;Napoleon Dynamite;studio;Fox Searchlight Pictures;letterboxd.com/studio/fox-searchlight-pictures/
-47867;Napoleon Dynamite;studio;MTV Films;letterboxd.com/studio/mtv-films/
-47867;Napoleon Dynamite;country;USA;letterboxd.com/films/country/usa/
-47867;Napoleon Dynamite;language;English;letterboxd.com/films/language/english/
-371378;Dune;studio;Legendary Pictures;letterboxd.com/studio/legendary-pictures-1/
-371378;Dune;country;USA;letterboxd.com/films/country/usa/
-371378;Dune;language;English;letterboxd.com/films/language/english/
-371378;Dune;language;Chinese;letterboxd.com/films/language/chinese/
-371378;Dune;language;English;letterboxd.com/films/language/english/
-617443;Dune: Part Two;studio;Legendary Pictures;letterboxd.com/studio/legendary-pictures-1/
-617443;Dune: Part Two;country;USA;letterboxd.com/films/country/usa/
-617443;Dune: Part Two;language;English;letterboxd.com/films/language/english/
-6838;Miami Connection;studio;Drafthouse Films;letterboxd.com/studio/drafthouse-films/
-6838;Miami Connection;country;USA;letterboxd.com/films/country/usa/
-6838;Miami Connection;country;Hong Kong;letterboxd.com/films/country/hong-kong/
-6838;Miami Connection;language;English;letterboxd.com/films/language/english/
-575258;Renfield;studio;Skybound Entertainment;letterboxd.com/studio/skybound-entertainment/
-575258;Renfield;studio;Universal Pictures;letterboxd.com/studio/universal-pictures/
-575258;Renfield;studio;Giant Wildcat;letterboxd.com/studio/giant-wildcat/
-575258;Renfield;country;USA;letterboxd.com/films/country/usa/
-575258;Renfield;language;English;letterboxd.com/films/language/english/
-575258;Renfield;language;English;letterboxd.com/films/language/english/
-575258;Renfield;language;Thai;letterboxd.com/films/language/thai/
-14220;The Man from Nowhere;studio;Opus Pictures;letterboxd.com/studio/opus-pictures/
-14220;The Man from Nowhere;studio;CJ Entertainment;letterboxd.com/studio/cj-entertainment/
-14220;The Man from Nowhere;studio;United Pictures;letterboxd.com/studio/united-pictures-2/
-14220;The Man from Nowhere;studio;M-Line Distribution;letterboxd.com/studio/m-line-distribution/
-14220;The Man from Nowhere;country;South Korea;letterboxd.com/films/country/south-korea/
-14220;The Man from Nowhere;language;Korean;letterboxd.com/films/language/korean/
-14220;The Man from Nowhere;language;English;letterboxd.com/films/language/english/
-14220;The Man from Nowhere;language;Korean;letterboxd.com/films/language/korean/
-333448;Isle of Dogs;studio;Studio Babelsberg;letterboxd.com/studio/studio-babelsberg/
-333448;Isle of Dogs;studio;American Empirical Pictures;letterboxd.com/studio/american-empirical-pictures/
-333448;Isle of Dogs;studio;Indian Paintbrush;letterboxd.com/studio/indian-paintbrush/
-333448;Isle of Dogs;studio;Scott Rudin Productions;letterboxd.com/studio/scott-rudin-productions/
-333448;Isle of Dogs;country;Germany;letterboxd.com/films/country/germany/
-333448;Isle of Dogs;country;USA;letterboxd.com/films/country/usa/
-333448;Isle of Dogs;language;English;letterboxd.com/films/language/english/
-333448;Isle of Dogs;language;English;letterboxd.com/films/language/english/
-333448;Isle of Dogs;language;Japanese;letterboxd.com/films/language/japanese/
-78266;The Raid;studio;Celluloid Dreams;letterboxd.com/studio/celluloid-dreams/
-78266;The Raid;studio;PT. Merantau Films;letterboxd.com/studio/pt-merantau-films/
-78266;The Raid;studio;XYZ Films;letterboxd.com/studio/xyz-films/
-78266;The Raid;studio;Stage 6 Films;letterboxd.com/studio/stage-6-films/
-78266;The Raid;country;France;letterboxd.com/films/country/france/
-78266;The Raid;country;Indonesia;letterboxd.com/films/country/indonesia/
-78266;The Raid;country;USA;letterboxd.com/films/country/usa/
-78266;The Raid;language;Indonesian;letterboxd.com/films/language/indonesian/
-51495;The Usual Suspects;studio;Bad Hat Harry Productions;letterboxd.com/studio/bad-hat-harry-productions/
-51495;The Usual Suspects;studio;Blue Parrot Productions;letterboxd.com/studio/blue-parrot-productions/
-51495;The Usual Suspects;country;USA;letterboxd.com/films/country/usa/
-51495;The Usual Suspects;language;English;letterboxd.com/films/language/english/
-51495;The Usual Suspects;language;Spanish;letterboxd.com/films/language/spanish/
-51495;The Usual Suspects;language;English;letterboxd.com/films/language/english/
-51495;The Usual Suspects;language;French;letterboxd.com/films/language/french/
-51495;The Usual Suspects;language;Hungarian;letterboxd.com/films/language/hungarian/
-50089;Pitch Black;studio;Interscope Communications;letterboxd.com/studio/interscope-communications/
-50089;Pitch Black;country;USA;letterboxd.com/films/country/usa/
-50089;Pitch Black;language;English;letterboxd.com/films/language/english/
-50089;Pitch Black;language;Arabic;letterboxd.com/films/language/arabic/
-50089;Pitch Black;language;English;letterboxd.com/films/language/english/
-35616;Hard Ticket to Hawaii;studio;Malibu Bay Films;letterboxd.com/studio/malibu-bay-films/
-35616;Hard Ticket to Hawaii;country;USA;letterboxd.com/films/country/usa/
-35616;Hard Ticket to Hawaii;language;English;letterboxd.com/films/language/english/
-680358;X;studio;A24;letterboxd.com/studio/a24/
-680358;X;studio;Little Lamb Productions;letterboxd.com/studio/little-lamb-productions/
-680358;X;country;USA;letterboxd.com/films/country/usa/
-680358;X;language;English;letterboxd.com/films/language/english/
-853822;Pearl;studio;A24;letterboxd.com/studio/a24/
-853822;Pearl;studio;Little Lamb Productions;letterboxd.com/studio/little-lamb-productions/
-853822;Pearl;country;USA;letterboxd.com/films/country/usa/
-853822;Pearl;language;English;letterboxd.com/films/language/english/
-853822;Pearl;language;English;letterboxd.com/films/language/english/
-853822;Pearl;language;German;letterboxd.com/films/language/german/
-922858;MaXXXine;studio;A24;letterboxd.com/studio/a24/
-922858;MaXXXine;studio;Motel Mojave;letterboxd.com/studio/motel-mojave/
-922858;MaXXXine;studio;Access Entertainment;letterboxd.com/studio/access-entertainment/
-922858;MaXXXine;country;USA;letterboxd.com/films/country/usa/
-922858;MaXXXine;language;English;letterboxd.com/films/language/english/
-48823;The Fugitive;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
-48823;The Fugitive;country;USA;letterboxd.com/films/country/usa/
-48823;The Fugitive;language;English;letterboxd.com/films/language/english/
-488751;Monkey Man;studio;Thunder Road;letterboxd.com/studio/thunder-road-1/
-488751;Monkey Man;studio;Bron Studios;letterboxd.com/studio/bron-studios/
-488751;Monkey Man;studio;Monkeypaw Productions;letterboxd.com/studio/monkeypaw-productions/
-488751;Monkey Man;studio;Minor Realm;letterboxd.com/studio/minor-realm/
-488751;Monkey Man;studio;Creative Wealth Media Finance;letterboxd.com/studio/creative-wealth-media-finance/
-488751;Monkey Man;studio;S'YA Concept;letterboxd.com/studio/sya-concept-1/
-488751;Monkey Man;country;Canada;letterboxd.com/films/country/canada/
-488751;Monkey Man;country;Singapore;letterboxd.com/films/country/singapore/
-488751;Monkey Man;country;USA;letterboxd.com/films/country/usa/
-488751;Monkey Man;language;English;letterboxd.com/films/language/english/
-488751;Monkey Man;language;Hindi;letterboxd.com/films/language/hindi/
-488751;Monkey Man;language;English;letterboxd.com/films/language/english/
-27730;Blade;studio;New Line Cinema;letterboxd.com/studio/new-line-cinema/
-27730;Blade;studio;Amen Ra Films;letterboxd.com/studio/amen-ra-films/
-27730;Blade;studio;Imaginary Forces;letterboxd.com/studio/imaginary-forces/
-27730;Blade;country;USA;letterboxd.com/films/country/usa/
-27730;Blade;language;English;letterboxd.com/films/language/english/
-27730;Blade;language;Russian;letterboxd.com/films/language/russian/
-27730;Blade;language;English;letterboxd.com/films/language/english/
-43569;Repo Man;studio;Edge City Productions;letterboxd.com/studio/edge-city-productions/
-43569;Repo Man;country;USA;letterboxd.com/films/country/usa/
-43569;Repo Man;language;English;letterboxd.com/films/language/english/
-43569;Repo Man;language;English;letterboxd.com/films/language/english/
-43569;Repo Man;language;Spanish;letterboxd.com/films/language/spanish/
-50851;Re-Animator;studio;Empire Pictures;letterboxd.com/studio/empire-pictures/
-50851;Re-Animator;country;USA;letterboxd.com/films/country/usa/
-50851;Re-Animator;language;English;letterboxd.com/films/language/english/
-223818;Dude Bro Party Massacre III;studio;Snoot Entertainment;letterboxd.com/studio/snoot-entertainment/
-223818;Dude Bro Party Massacre III;studio;5-Second Films;letterboxd.com/studio/5-second-films/
-223818;Dude Bro Party Massacre III;country;USA;letterboxd.com/films/country/usa/
-223818;Dude Bro Party Massacre III;language;English;letterboxd.com/films/language/english/
-223818;Dude Bro Party Massacre III;language;English;letterboxd.com/films/language/english/
-223818;Dude Bro Party Massacre III;language;French;letterboxd.com/films/language/french/
-47171;The Fly;studio;SLM Production Group;letterboxd.com/studio/slm-production-group/
-47171;The Fly;studio;Brooksfilms;letterboxd.com/studio/brooksfilms/
-47171;The Fly;country;Canada;letterboxd.com/films/country/canada/
-47171;The Fly;country;USA;letterboxd.com/films/country/usa/
-47171;The Fly;language;English;letterboxd.com/films/language/english/
-890105;Humanist Vampire Seeking Consenting Suicidal Person;studio;Art et essai;letterboxd.com/studio/art-et-essai/
-890105;Humanist Vampire Seeking Consenting Suicidal Person;studio;h264;letterboxd.com/studio/h264-distribution/
-890105;Humanist Vampire Seeking Consenting Suicidal Person;country;Canada;letterboxd.com/films/country/canada/
-890105;Humanist Vampire Seeking Consenting Suicidal Person;language;French;letterboxd.com/films/language/french/
-51471;Nosferatu;studio;Prana-Film;letterboxd.com/studio/prana-film-gmbh/
-51471;Nosferatu;country;Germany;letterboxd.com/films/country/germany/
-51471;Nosferatu;language;No spoken language;letterboxd.com/films/language/no-spoken-language/
-45489;Fallen Angels;studio;Jet Tone Production;letterboxd.com/studio/jet-tone-production/
-45489;Fallen Angels;studio;Block 2 Pictures;letterboxd.com/studio/block-2-pictures-1/
-45489;Fallen Angels;country;Hong Kong;letterboxd.com/films/country/hong-kong/
-45489;Fallen Angels;language;Cantonese;letterboxd.com/films/language/cantonese/
-45489;Fallen Angels;language;Cantonese;letterboxd.com/films/language/cantonese/
-45489;Fallen Angels;language;English;letterboxd.com/films/language/english/
-45489;Fallen Angels;language;Japanese;letterboxd.com/films/language/japanese/
-45489;Fallen Angels;language;Chinese;letterboxd.com/films/language/chinese/
-51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;studio;Columbia Pictures;letterboxd.com/studio/columbia-pictures/
-51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;studio;Stanley Kubrick Productions;letterboxd.com/studio/stanley-kubrick-productions/
-51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;studio;Hawk Films;letterboxd.com/studio/hawk-films/
-51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;country;UK;letterboxd.com/films/country/uk/
-51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;country;USA;letterboxd.com/films/country/usa/
-51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;language;English;letterboxd.com/films/language/english/
-34848;Meshes of the Afternoon;country;USA;letterboxd.com/films/country/usa/
-34848;Meshes of the Afternoon;language;No spoken language;letterboxd.com/films/language/no-spoken-language/
-51494;The Wizard of Oz;studio;Metro-Goldwyn-Mayer;letterboxd.com/studio/metro-goldwyn-mayer-1/
-51494;The Wizard of Oz;country;USA;letterboxd.com/films/country/usa/
-51494;The Wizard of Oz;language;English;letterboxd.com/films/language/english/
-51230;Dawn of the Dead;studio;Dawn Associates;letterboxd.com/studio/dawn-associates/
-51230;Dawn of the Dead;studio;Laurel Entertainment;letterboxd.com/studio/laurel-entertainment/
-51230;Dawn of the Dead;country;Italy;letterboxd.com/films/country/italy/
-51230;Dawn of the Dead;country;USA;letterboxd.com/films/country/usa/
-51230;Dawn of the Dead;language;English;letterboxd.com/films/language/english/
-97190;The Company of Strangers;studio;First Run Features;letterboxd.com/studio/first-run-features/
-97190;The Company of Strangers;studio;ONF | NFB;letterboxd.com/studio/onf-nfb/
-97190;The Company of Strangers;country;Canada;letterboxd.com/films/country/canada/
-97190;The Company of Strangers;language;English;letterboxd.com/films/language/english/
-43921;Tokyo Godfathers;studio;Madhouse;letterboxd.com/studio/madhouse-1/
-43921;Tokyo Godfathers;studio;Sony Pictures;letterboxd.com/studio/sony-pictures-1/
-43921;Tokyo Godfathers;studio;dentsu;letterboxd.com/studio/dentsu-2/
-43921;Tokyo Godfathers;studio;GENCO;letterboxd.com/studio/genco/
-43921;Tokyo Godfathers;country;Japan;letterboxd.com/films/country/japan/
-43921;Tokyo Godfathers;language;Japanese;letterboxd.com/films/language/japanese/
-43921;Tokyo Godfathers;language;English;letterboxd.com/films/language/english/
-43921;Tokyo Godfathers;language;Japanese;letterboxd.com/films/language/japanese/
-43921;Tokyo Godfathers;language;Spanish;letterboxd.com/films/language/spanish/
-48894;Kiss Kiss Bang Bang;studio;Silver Pictures;letterboxd.com/studio/silver-pictures/
-48894;Kiss Kiss Bang Bang;studio;Warner Bros. Pictures;letterboxd.com/studio/warner-bros-pictures/
-48894;Kiss Kiss Bang Bang;country;USA;letterboxd.com/films/country/usa/
-48894;Kiss Kiss Bang Bang;language;English;letterboxd.com/films/language/english/
+key;value;link;film_id;film_title
+studio;Universal Pictures;/studio/universal-pictures/;51869;The Wizard
+studio;Finnegan/Pinchuk Productions;/studio/finnegan-pinchuk-productions/;51869;The Wizard
+country;USA;/films/country/usa/;51869;The Wizard
+language;English;/films/language/english/;51869;The Wizard
+language;English;/films/language/english/;51869;The Wizard
+language;Italian;/films/language/italian/;51869;The Wizard
+studio;Regency Enterprises;/studio/regency-enterprises/;565852;The Northman
+studio;New Regency Pictures;/studio/new-regency-pictures/;565852;The Northman
+studio;Square Peg;/studio/square-peg/;565852;The Northman
+studio;Focus Features;/studio/focus-features/;565852;The Northman
+country;USA;/films/country/usa/;565852;The Northman
+language;English;/films/language/english/;565852;The Northman
+language;English;/films/language/english/;565852;The Northman
+language;Icelandic;/films/language/icelandic/;565852;The Northman
+studio;TaliaFilm II Productions;/studio/taliafilm-ii-productions/;43552;Rad
+country;USA;/films/country/usa/;43552;Rad
+language;English;/films/language/english/;43552;Rad
+studio;Monkeypaw Productions;/studio/monkeypaw-productions/;353117;Get Out
+studio;Blumhouse Productions;/studio/blumhouse-productions/;353117;Get Out
+studio;QC Entertainment;/studio/qc-entertainment/;353117;Get Out
+country;USA;/films/country/usa/;353117;Get Out
+language;English;/films/language/english/;353117;Get Out
+studio;DVV Entertainment;/studio/dvv-entertainment/;508037;RRR
+country;India;/films/country/india/;508037;RRR
+language;Telugu;/films/language/telugu/;508037;RRR
+language;English;/films/language/english/;508037;RRR
+language;Telugu;/films/language/telugu/;508037;RRR
+studio;Warner Bros. Pictures;/studio/warner-bros-pictures/;48018;Speed Racer
+studio;Village Roadshow Pictures;/studio/village-roadshow-pictures/;48018;Speed Racer
+studio;Silver Pictures;/studio/silver-pictures/;48018;Speed Racer
+studio;Anarchos Productions;/studio/anarchos-productions/;48018;Speed Racer
+country;USA;/films/country/usa/;48018;Speed Racer
+language;English;/films/language/english/;48018;Speed Racer
+language;English;/films/language/english/;48018;Speed Racer
+language;Japanese;/films/language/japanese/;48018;Speed Racer
+studio;Alive Films;/studio/alive-films/;47798;They Live
+studio;Larry Franco Productions;/studio/larry-franco-productions/;47798;They Live
+country;USA;/films/country/usa/;47798;They Live
+language;English;/films/language/english/;47798;They Live
+studio;The Cannon Group;/studio/cannon-group/;46759;Cobra
+studio;Warner Bros. Pictures;/studio/warner-bros-pictures/;46759;Cobra
+studio;Golan-Globus Productions;/studio/golan-globus-productions/;46759;Cobra
+country;USA;/films/country/usa/;46759;Cobra
+language;English;/films/language/english/;46759;Cobra
+studio;IAC Films;/studio/iac-films/;474474;Everything Everywhere All at Once
+studio;AGBO;/studio/agbo/;474474;Everything Everywhere All at Once
+studio;Ley Line Entertainment;/studio/ley-line-entertainment/;474474;Everything Everywhere All at Once
+studio;Year of the Rat;/studio/year-of-the-rat-productions/;474474;Everything Everywhere All at Once
+country;USA;/films/country/usa/;474474;Everything Everywhere All at Once
+language;English;/films/language/english/;474474;Everything Everywhere All at Once
+language;Cantonese;/films/language/cantonese/;474474;Everything Everywhere All at Once
+language;Chinese;/films/language/chinese/;474474;Everything Everywhere All at Once
+language;English;/films/language/english/;474474;Everything Everywhere All at Once
+studio;Alphaville Films;/studio/alphaville-films/;51554;The Mummy
+country;USA;/films/country/usa/;51554;The Mummy
+language;English;/films/language/english/;51554;The Mummy
+language;English;/films/language/english/;51554;The Mummy
+language;Arabic;/films/language/arabic/;51554;The Mummy
+studio;Saturn Films;/studio/saturn-films/;574385;The Unbearable Weight of Massive Talent
+studio;Burr! Productions;/studio/burr-productions/;574385;The Unbearable Weight of Massive Talent
+country;USA;/films/country/usa/;574385;The Unbearable Weight of Massive Talent
+language;English;/films/language/english/;574385;The Unbearable Weight of Massive Talent
+language;English;/films/language/english/;574385;The Unbearable Weight of Massive Talent
+language;Spanish;/films/language/spanish/;574385;The Unbearable Weight of Massive Talent
+studio;Warner Bros. Pictures;/studio/warner-bros-pictures/;2685;Unforgiven
+studio;Malpaso Productions;/studio/malpaso-productions/;2685;Unforgiven
+country;USA;/films/country/usa/;2685;Unforgiven
+language;English;/films/language/english/;2685;Unforgiven
+studio;Universal Pictures;/studio/universal-pictures/;51986;Twelve Monkeys
+studio;Atlas Entertainment;/studio/atlas-entertainment/;51986;Twelve Monkeys
+studio;Classico;/studio/classico/;51986;Twelve Monkeys
+studio;Twelve Monkeys Productions;/studio/twelve-monkeys-productions/;51986;Twelve Monkeys
+country;USA;/films/country/usa/;51986;Twelve Monkeys
+language;English;/films/language/english/;51986;Twelve Monkeys
+language;English;/films/language/english/;51986;Twelve Monkeys
+language;French;/films/language/french/;51986;Twelve Monkeys
+studio;Berlanti Productions;/studio/berlanti-productions/;479814;Free Guy
+studio;21 Laps Entertainment;/studio/21-laps-entertainment/;479814;Free Guy
+studio;Maximum Effort;/studio/maximum-effort/;479814;Free Guy
+studio;Lit Entertainment Group;/studio/lit-entertainment-group/;479814;Free Guy
+studio;20th Century Studios;/studio/20th-century-studios/;479814;Free Guy
+country;USA;/films/country/usa/;479814;Free Guy
+language;English;/films/language/english/;479814;Free Guy
+studio;No Frills Film Production;/studio/no-frills-film-production/;47233;Tremors
+studio;Wilson-Maddock Production;/studio/wilson-maddock-production/;47233;Tremors
+country;USA;/films/country/usa/;47233;Tremors
+language;English;/films/language/english/;47233;Tremors
+studio;Universal Pictures;/studio/universal-pictures/;465978;Cats
+studio;Perfect World Pictures;/studio/perfect-world-pictures/;465978;Cats
+studio;Working Title Films (GB);/studio/working-title-films-gb/;465978;Cats
+studio;Amblin Entertainment;/studio/amblin-entertainment/;465978;Cats
+studio;Monumental Pictures;/studio/monumental-pictures/;465978;Cats
+studio;The Really Useful Group;/studio/the-really-useful-group-1/;465978;Cats
+country;China;/films/country/china/;465978;Cats
+country;UK;/films/country/uk/;465978;Cats
+country;USA;/films/country/usa/;465978;Cats
+language;English;/films/language/english/;465978;Cats
+studio;United Artists;/studio/united-artists/;46087;Child's Play
+studio;David Kirschner Productions;/studio/david-kirschner-productions/;46087;Child's Play
+country;USA;/films/country/usa/;46087;Child's Play
+language;English;/films/language/english/;46087;Child's Play
+studio;Columbia Pictures;/studio/columbia-pictures/;47345;The Craft
+studio;Red Wagon Entertainment;/studio/red-wagon-entertainment/;47345;The Craft
+country;USA;/films/country/usa/;47345;The Craft
+language;English;/films/language/english/;47345;The Craft
+language;English;/films/language/english/;47345;The Craft
+language;French;/films/language/french/;47345;The Craft
+studio;Rosebud Releasing Corporation;/studio/rosebud-releasing-corporation/;51387;Evil Dead II
+studio;Renaissance Pictures;/studio/renaissance-pictures/;51387;Evil Dead II
+studio;The De Laurentiis Company;/studio/dino-de-laurentiis-company/;51387;Evil Dead II
+country;USA;/films/country/usa/;51387;Evil Dead II
+language;English;/films/language/english/;51387;Evil Dead II
+studio;Lord Miller;/studio/lord-miller/;431888;The Mitchells vs. the Machines
+studio;Columbia Pictures;/studio/columbia-pictures/;431888;The Mitchells vs. the Machines
+studio;Sony Pictures Animation;/studio/sony-pictures-animation/;431888;The Mitchells vs. the Machines
+studio;One Cool Pictures;/studio/one-cool-film-production/;431888;The Mitchells vs. the Machines
+country;Hong Kong;/films/country/hong-kong/;431888;The Mitchells vs. the Machines
+country;USA;/films/country/usa/;431888;The Mitchells vs. the Machines
+language;English;/films/language/english/;431888;The Mitchells vs. the Machines
+studio;Largo Entertainment;/studio/largo-entertainment/;51157;Point Break
+studio;Levy/Abrams/Guerin Productions;/studio/levy-abrams-guerin-productions/;51157;Point Break
+country;USA;/films/country/usa/;51157;Point Break
+language;English;/films/language/english/;51157;Point Break
+studio;Starling Films;/studio/starling-films/;49632;Flash Gordon
+studio;Universal Pictures;/studio/universal-pictures/;49632;Flash Gordon
+studio;Famous Films Productions;/studio/famous-films-ii/;49632;Flash Gordon
+studio;Flash Gordon Productions;/studio/flash-gordon-productions/;49632;Flash Gordon
+studio;DDL Cinematografica;/studio/ddl-cinematografica/;49632;Flash Gordon
+country;Italy;/films/country/italy/;49632;Flash Gordon
+country;Netherlands;/films/country/netherlands/;49632;Flash Gordon
+country;UK;/films/country/uk/;49632;Flash Gordon
+country;USA;/films/country/usa/;49632;Flash Gordon
+language;English;/films/language/english/;49632;Flash Gordon
+studio;Sarlui / Diamant Production;/studio/sarlui-diamant-production/;41672;Killer Klowns from Outer Space
+studio;Chiodo Bros. Productions;/studio/chiodo-bros-productions/;41672;Killer Klowns from Outer Space
+country;USA;/films/country/usa/;41672;Killer Klowns from Outer Space
+language;English;/films/language/english/;41672;Killer Klowns from Outer Space
+studio;Shaw Brothers;/studio/shaw-brothers/;44960;The 36th Chamber of Shaolin
+country;Hong Kong;/films/country/hong-kong/;44960;The 36th Chamber of Shaolin
+language;Chinese;/films/language/chinese/;44960;The 36th Chamber of Shaolin
+studio;Paramount Pictures;/studio/paramount-1/;45270;The Warriors
+studio;Lawrence Gordon Productions;/studio/lawrence-gordon-productions/;45270;The Warriors
+country;USA;/films/country/usa/;45270;The Warriors
+language;English;/films/language/english/;45270;The Warriors
+studio;Searchlight Pictures;/studio/searchlight-pictures/;598882;The Banshees of Inisherin
+studio;Blueprint Pictures;/studio/blueprint-pictures/;598882;The Banshees of Inisherin
+studio;Film4 Productions;/studio/film4-productions/;598882;The Banshees of Inisherin
+studio;TSG Entertainment;/studio/tsg-entertainment/;598882;The Banshees of Inisherin
+country;UK;/films/country/uk/;598882;The Banshees of Inisherin
+country;USA;/films/country/usa/;598882;The Banshees of Inisherin
+language;English;/films/language/english/;598882;The Banshees of Inisherin
+studio;Pressman Film;/studio/pressman-film/;45104;Masters of the Universe
+studio;The Cannon Group;/studio/cannon-group/;45104;Masters of the Universe
+studio;Golan-Globus Productions;/studio/golan-globus-productions/;45104;Masters of the Universe
+country;USA;/films/country/usa/;45104;Masters of the Universe
+language;English;/films/language/english/;45104;Masters of the Universe
+studio;United Artists;/studio/united-artists/;44952;Invasion of the Body Snatchers
+country;USA;/films/country/usa/;44952;Invasion of the Body Snatchers
+language;English;/films/language/english/;44952;Invasion of the Body Snatchers
+language;English;/films/language/english/;44952;Invasion of the Body Snatchers
+language;French;/films/language/french/;44952;Invasion of the Body Snatchers
+studio;United Artists;/studio/united-artists/;45260;Rollerball
+studio;Algonquin;/studio/algonquin/;45260;Rollerball
+country;USA;/films/country/usa/;45260;Rollerball
+language;English;/films/language/english/;45260;Rollerball
+studio;Seasonal Film Corporation;/studio/seasonal-film-corporation/;31606;Bloodmoon
+studio;Media of Medias;/studio/media-of-medias/;31606;Bloodmoon
+country;USA;/films/country/usa/;31606;Bloodmoon
+language;English;/films/language/english/;31606;Bloodmoon
+language;English;/films/language/english/;31606;Bloodmoon
+language;Portuguese;/films/language/portuguese/;31606;Bloodmoon
+studio;Renaissance Pictures;/studio/renaissance-pictures/;51386;Army of Darkness
+studio;Introvision International;/studio/introvision-international/;51386;Army of Darkness
+studio;Dino de Laurentiis Communications;/studio/dino-de-laurentiis-communications/;51386;Army of Darkness
+country;USA;/films/country/usa/;51386;Army of Darkness
+language;English;/films/language/english/;51386;Army of Darkness
+studio;Artisan Entertainment;/studio/artisan-entertainment/;51483;Requiem for a Dream
+studio;Thousand Words;/studio/thousand-words/;51483;Requiem for a Dream
+studio;Protozoa Pictures;/studio/protozoa-pictures/;51483;Requiem for a Dream
+studio;Industry Entertainment Partners;/studio/industry-entertainment/;51483;Requiem for a Dream
+studio;Bandeira Entertainment;/studio/bandeira-entertainment/;51483;Requiem for a Dream
+country;USA;/films/country/usa/;51483;Requiem for a Dream
+language;English;/films/language/english/;51483;Requiem for a Dream
+studio;Apelles Entertainment;/studio/apelles-entertainment/;276291;The Meg
+studio;Gravity Pictures;/studio/gravity-pictures/;276291;The Meg
+studio;di Bonaventura Pictures;/studio/di-bonaventura-pictures/;276291;The Meg
+studio;Flagship Entertainment Group;/studio/flagship-entertainment-group/;276291;The Meg
+studio;Maeday Productions;/studio/maeday-productions/;276291;The Meg
+studio;Warner Bros. Pictures;/studio/warner-bros-pictures/;276291;The Meg
+country;China;/films/country/china/;276291;The Meg
+country;USA;/films/country/usa/;276291;The Meg
+language;English;/films/language/english/;276291;The Meg
+language;Chinese;/films/language/chinese/;276291;The Meg
+language;English;/films/language/english/;276291;The Meg
+language;Japanese;/films/language/japanese/;276291;The Meg
+language;Thai;/films/language/thai/;276291;The Meg
+studio;Stanley Kramer Productions;/studio/stanley-kramer-productions/;51771;High Noon
+country;USA;/films/country/usa/;51771;High Noon
+language;English;/films/language/english/;51771;High Noon
+language;Spanish;/films/language/spanish/;51771;High Noon
+language;English;/films/language/english/;51771;High Noon
+studio;Silver Sphere Corporation;/studio/silver-sphere-corporation/;46897;Bubba Ho-tep
+country;USA;/films/country/usa/;46897;Bubba Ho-tep
+language;English;/films/language/english/;46897;Bubba Ho-tep
+studio;PolyGram Filmed Entertainment;/studio/polygram-filmed-entertainment/;51781;Fargo
+studio;Working Title Films (GB);/studio/working-title-films-gb/;51781;Fargo
+country;UK;/films/country/uk/;51781;Fargo
+country;USA;/films/country/usa/;51781;Fargo
+language;English;/films/language/english/;51781;Fargo
+studio;Toho Pictures;/studio/toho-pictures/;241920;Shin Godzilla
+studio;Cine Bazar;/studio/cine-bazar/;241920;Shin Godzilla
+country;Japan;/films/country/japan/;241920;Shin Godzilla
+language;Japanese;/films/language/japanese/;241920;Shin Godzilla
+language;Italian;/films/language/italian/;241920;Shin Godzilla
+language;German;/films/language/german/;241920;Shin Godzilla
+language;English;/films/language/english/;241920;Shin Godzilla
+language;Japanese;/films/language/japanese/;241920;Shin Godzilla
+studio;Metro-Goldwyn-Mayer;/studio/metro-goldwyn-mayer-1/;43812;Gaslight
+country;USA;/films/country/usa/;43812;Gaslight
+language;English;/films/language/english/;43812;Gaslight
+studio;Mandarin Films;/studio/mandarin-films-1/;42841;Ip Man
+studio;Beijing ShengShi HuaRei Film Investment & Management Co.;/studio/beijing-shengshi-huarei-film-investment-management-co/;42841;Ip Man
+studio;China Film Co-Production Corp.;/studio/china-film-co-production-corporation/;42841;Ip Man
+studio;New Film Studio of Beijing Starlight International Media Co. Ltd.;/studio/new-film-studio-of-beijing-starlight-international-media-co-ltd/;42841;Ip Man
+studio;Prosperity Pictures;/studio/prosperity-pictures/;42841;Ip Man
+studio;Shanghai Film Group;/studio/shanghai-film-group/;42841;Ip Man
+studio;Time Antaeus Media Group;/studio/time-antaeus-media-group/;42841;Ip Man
+studio;Golden Harvest Productions;/studio/golden-harvest-productions/;42841;Ip Man
+country;China;/films/country/china/;42841;Ip Man
+country;Hong Kong;/films/country/hong-kong/;42841;Ip Man
+language;Cantonese;/films/language/cantonese/;42841;Ip Man
+language;Chinese;/films/language/chinese/;42841;Ip Man
+language;Japanese;/films/language/japanese/;42841;Ip Man
+language;Cantonese;/films/language/cantonese/;42841;Ip Man
+studio;New Line Cinema;/studio/new-line-cinema/;51708;A Nightmare on Elm Street
+studio;Smart Egg Pictures;/studio/smart-egg-pictures/;51708;A Nightmare on Elm Street
+studio;Media Home Entertainment;/studio/media-home-entertainment/;51708;A Nightmare on Elm Street
+studio;Cinema 84;/studio/cinema-84/;51708;A Nightmare on Elm Street
+studio;The Elm Street Venture;/studio/the-elm-street-venture/;51708;A Nightmare on Elm Street
+country;USA;/films/country/usa/;51708;A Nightmare on Elm Street
+country;UK;/films/country/uk/;51708;A Nightmare on Elm Street
+language;English;/films/language/english/;51708;A Nightmare on Elm Street
+studio;StudioCanal;/studio/studiocanal/;92160;Paddington
+studio;Anton Capital Entertainment;/studio/anton-capital-entertainment/;92160;Paddington
+studio;Heyday Films;/studio/heyday-films/;92160;Paddington
+studio;TF1 Films Production;/studio/tf1-films-production-1/;92160;Paddington
+country;France;/films/country/france/;92160;Paddington
+country;UK;/films/country/uk/;92160;Paddington
+language;English;/films/language/english/;92160;Paddington
+studio;StudioCanal;/studio/studiocanal/;277023;Paddington 2
+studio;Heyday Films;/studio/heyday-films/;277023;Paddington 2
+studio;Anton Capital Entertainment;/studio/anton-capital-entertainment/;277023;Paddington 2
+country;France;/films/country/france/;277023;Paddington 2
+country;UK;/films/country/uk/;277023;Paddington 2
+language;English;/films/language/english/;277023;Paddington 2
+studio;New Line Cinema;/studio/new-line-cinema/;45649;Hairspray
+country;USA;/films/country/usa/;45649;Hairspray
+language;English;/films/language/english/;45649;Hairspray
+studio;DNA Films;/studio/dna-films/;51881;28 Days Later
+country;UK;/films/country/uk/;51881;28 Days Later
+language;English;/films/language/english/;51881;28 Days Later
+language;Spanish;/films/language/spanish/;51881;28 Days Later
+language;English;/films/language/english/;51881;28 Days Later
+studio;AI Film;/studio/ai-film/;561763;Pig
+studio;Pulse Films;/studio/pulse-films/;561763;Pig
+studio;Saturn Films;/studio/saturn-films/;561763;Pig
+studio;Valparaiso Pictures;/studio/valparaiso-pictures/;561763;Pig
+studio;BlockBox Entertainment;/studio/blockbox-entertainment/;561763;Pig
+studio;Endeavor Content;/studio/endeavor-content/;561763;Pig
+country;UK;/films/country/uk/;561763;Pig
+country;USA;/films/country/usa/;561763;Pig
+language;English;/films/language/english/;561763;Pig
+studio;Lyncanthrope Films;/studio/lyncanthrope-films/;51338;An American Werewolf in London
+studio;Polygram Pictures;/studio/polygram-pictures/;51338;An American Werewolf in London
+country;UK;/films/country/uk/;51338;An American Werewolf in London
+country;USA;/films/country/usa/;51338;An American Werewolf in London
+language;English;/films/language/english/;51338;An American Werewolf in London
+studio;A24;/studio/a24/;591053;Past Lives
+studio;Killer Films;/studio/killer-films/;591053;Past Lives
+studio;2AM;/studio/2am/;591053;Past Lives
+studio;CJ ENM;/studio/cj-enm/;591053;Past Lives
+country;USA;/films/country/usa/;591053;Past Lives
+country;South Korea;/films/country/south-korea/;591053;Past Lives
+language;English;/films/language/english/;591053;Past Lives
+language;English;/films/language/english/;591053;Past Lives
+language;Korean;/films/language/korean/;591053;Past Lives
+studio;Napoleon Pictures;/studio/napoleon-pictures-limited/;47867;Napoleon Dynamite
+country;USA;/films/country/usa/;47867;Napoleon Dynamite
+language;English;/films/language/english/;47867;Napoleon Dynamite
+studio;Legendary Pictures;/studio/legendary-pictures-1/;371378;Dune
+country;USA;/films/country/usa/;371378;Dune
+language;English;/films/language/english/;371378;Dune
+language;Chinese;/films/language/chinese/;371378;Dune
+language;English;/films/language/english/;371378;Dune
+studio;Legendary Pictures;/studio/legendary-pictures-1/;617443;Dune: Part Two
+country;USA;/films/country/usa/;617443;Dune: Part Two
+language;English;/films/language/english/;617443;Dune: Part Two
+studio;Drafthouse Films;/studio/drafthouse-films/;6838;Miami Connection
+country;USA;/films/country/usa/;6838;Miami Connection
+country;Hong Kong;/films/country/hong-kong/;6838;Miami Connection
+language;English;/films/language/english/;6838;Miami Connection
+studio;Skybound Entertainment;/studio/skybound-entertainment/;575258;Renfield
+studio;Universal Pictures;/studio/universal-pictures/;575258;Renfield
+studio;Giant Wildcat;/studio/giant-wildcat/;575258;Renfield
+country;USA;/films/country/usa/;575258;Renfield
+language;English;/films/language/english/;575258;Renfield
+language;English;/films/language/english/;575258;Renfield
+language;Thai;/films/language/thai/;575258;Renfield
+studio;Opus Pictures;/studio/opus-pictures/;14220;The Man from Nowhere
+studio;CJ Entertainment;/studio/cj-entertainment/;14220;The Man from Nowhere
+studio;United Pictures;/studio/united-pictures-2/;14220;The Man from Nowhere
+studio;M-Line Distribution;/studio/m-line-distribution/;14220;The Man from Nowhere
+country;South Korea;/films/country/south-korea/;14220;The Man from Nowhere
+language;Korean;/films/language/korean/;14220;The Man from Nowhere
+language;English;/films/language/english/;14220;The Man from Nowhere
+language;Korean;/films/language/korean/;14220;The Man from Nowhere
+studio;Studio Babelsberg;/studio/studio-babelsberg/;333448;Isle of Dogs
+studio;American Empirical Pictures;/studio/american-empirical-pictures/;333448;Isle of Dogs
+studio;Indian Paintbrush;/studio/indian-paintbrush/;333448;Isle of Dogs
+studio;Scott Rudin Productions;/studio/scott-rudin-productions/;333448;Isle of Dogs
+country;USA;/films/country/usa/;333448;Isle of Dogs
+country;Germany;/films/country/germany/;333448;Isle of Dogs
+language;English;/films/language/english/;333448;Isle of Dogs
+language;English;/films/language/english/;333448;Isle of Dogs
+language;Japanese;/films/language/japanese/;333448;Isle of Dogs
+studio;Celluloid Dreams;/studio/celluloid-dreams/;78266;The Raid
+studio;PT. Merantau Films;/studio/pt-merantau-films/;78266;The Raid
+studio;XYZ Films;/studio/xyz-films/;78266;The Raid
+country;Indonesia;/films/country/indonesia/;78266;The Raid
+country;France;/films/country/france/;78266;The Raid
+country;USA;/films/country/usa/;78266;The Raid
+language;Indonesian;/films/language/indonesian/;78266;The Raid
+studio;Bad Hat Harry Productions;/studio/bad-hat-harry-productions/;51495;The Usual Suspects
+studio;Blue Parrot Productions;/studio/blue-parrot-productions/;51495;The Usual Suspects
+country;USA;/films/country/usa/;51495;The Usual Suspects
+language;English;/films/language/english/;51495;The Usual Suspects
+language;Spanish;/films/language/spanish/;51495;The Usual Suspects
+language;English;/films/language/english/;51495;The Usual Suspects
+language;French;/films/language/french/;51495;The Usual Suspects
+language;Hungarian;/films/language/hungarian/;51495;The Usual Suspects
+studio;Interscope Communications;/studio/interscope-communications/;50089;Pitch Black
+country;USA;/films/country/usa/;50089;Pitch Black
+language;English;/films/language/english/;50089;Pitch Black
+language;Arabic;/films/language/arabic/;50089;Pitch Black
+language;English;/films/language/english/;50089;Pitch Black
+studio;Malibu Bay Films;/studio/malibu-bay-films/;35616;Hard Ticket to Hawaii
+country;USA;/films/country/usa/;35616;Hard Ticket to Hawaii
+language;English;/films/language/english/;35616;Hard Ticket to Hawaii
+studio;A24;/studio/a24/;680358;X
+studio;Little Lamb Productions;/studio/little-lamb-productions/;680358;X
+country;USA;/films/country/usa/;680358;X
+language;English;/films/language/english/;680358;X
+studio;A24;/studio/a24/;853822;Pearl
+studio;Little Lamb Productions;/studio/little-lamb-productions/;853822;Pearl
+country;USA;/films/country/usa/;853822;Pearl
+language;English;/films/language/english/;853822;Pearl
+language;English;/films/language/english/;853822;Pearl
+language;German;/films/language/german/;853822;Pearl
+studio;A24;/studio/a24/;922858;MaXXXine
+studio;Motel Mojave;/studio/motel-mojave/;922858;MaXXXine
+studio;Access Entertainment;/studio/access-entertainment/;922858;MaXXXine
+country;USA;/films/country/usa/;922858;MaXXXine
+language;English;/films/language/english/;922858;MaXXXine
+studio;Warner Bros. Pictures;/studio/warner-bros-pictures/;48823;The Fugitive
+country;USA;/films/country/usa/;48823;The Fugitive
+language;English;/films/language/english/;48823;The Fugitive
+studio;Thunder Road;/studio/thunder-road-1/;488751;Monkey Man
+studio;Bron Studios;/studio/bron-studios/;488751;Monkey Man
+studio;Monkeypaw Productions;/studio/monkeypaw-productions/;488751;Monkey Man
+studio;Minor Realm;/studio/minor-realm/;488751;Monkey Man
+studio;Creative Wealth Media Finance;/studio/creative-wealth-media-finance/;488751;Monkey Man
+studio;S'YA Concept;/studio/sya-concept-1/;488751;Monkey Man
+country;Canada;/films/country/canada/;488751;Monkey Man
+country;Singapore;/films/country/singapore/;488751;Monkey Man
+country;USA;/films/country/usa/;488751;Monkey Man
+language;English;/films/language/english/;488751;Monkey Man
+language;English;/films/language/english/;488751;Monkey Man
+language;Hindi;/films/language/hindi/;488751;Monkey Man
+studio;New Line Cinema;/studio/new-line-cinema/;27730;Blade
+studio;Amen Ra Films;/studio/amen-ra-films/;27730;Blade
+studio;Imaginary Forces;/studio/imaginary-forces/;27730;Blade
+country;USA;/films/country/usa/;27730;Blade
+language;English;/films/language/english/;27730;Blade
+language;Russian;/films/language/russian/;27730;Blade
+language;English;/films/language/english/;27730;Blade
+studio;Edge City Productions;/studio/edge-city-productions/;43569;Repo Man
+country;USA;/films/country/usa/;43569;Repo Man
+language;English;/films/language/english/;43569;Repo Man
+language;English;/films/language/english/;43569;Repo Man
+language;Spanish;/films/language/spanish/;43569;Repo Man
+studio;Empire Pictures;/studio/empire-pictures/;50851;Re-Animator
+country;USA;/films/country/usa/;50851;Re-Animator
+language;English;/films/language/english/;50851;Re-Animator
+studio;Snoot Entertainment;/studio/snoot-entertainment/;223818;Dude Bro Party Massacre III
+studio;5-Second Films;/studio/5-second-films/;223818;Dude Bro Party Massacre III
+country;USA;/films/country/usa/;223818;Dude Bro Party Massacre III
+language;English;/films/language/english/;223818;Dude Bro Party Massacre III
+language;French;/films/language/french/;223818;Dude Bro Party Massacre III
+language;English;/films/language/english/;223818;Dude Bro Party Massacre III
+studio;SLM Production Group;/studio/slm-production-group/;47171;The Fly
+studio;Brooksfilms;/studio/brooksfilms/;47171;The Fly
+country;Canada;/films/country/canada/;47171;The Fly
+country;USA;/films/country/usa/;47171;The Fly
+language;English;/films/language/english/;47171;The Fly
+studio;Art et essai;/studio/art-et-essai/;890105;Humanist Vampire Seeking Consenting Suicidal Person
+country;Canada;/films/country/canada/;890105;Humanist Vampire Seeking Consenting Suicidal Person
+language;French;/films/language/french/;890105;Humanist Vampire Seeking Consenting Suicidal Person
+studio;Prana-Film;/studio/prana-film-gmbh/;51471;Nosferatu
+country;Germany;/films/country/germany/;51471;Nosferatu
+language;No spoken language;/films/language/no-spoken-language/;51471;Nosferatu
+studio;Jet Tone Production;/studio/jet-tone-production/;45489;Fallen Angels
+country;Hong Kong;/films/country/hong-kong/;45489;Fallen Angels
+language;Cantonese;/films/language/cantonese/;45489;Fallen Angels
+language;Cantonese;/films/language/cantonese/;45489;Fallen Angels
+language;Chinese;/films/language/chinese/;45489;Fallen Angels
+language;English;/films/language/english/;45489;Fallen Angels
+language;Japanese;/films/language/japanese/;45489;Fallen Angels
+studio;Hawk Films;/studio/hawk-films/;51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+studio;Columbia Pictures;/studio/columbia-pictures/;51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+country;UK;/films/country/uk/;51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+country;USA;/films/country/usa/;51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+language;English;/films/language/english/;51218;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+country;USA;/films/country/usa/;34848;Meshes of the Afternoon
+language;No spoken language;/films/language/no-spoken-language/;34848;Meshes of the Afternoon
+studio;Metro-Goldwyn-Mayer;/studio/metro-goldwyn-mayer-1/;51494;The Wizard of Oz
+country;USA;/films/country/usa/;51494;The Wizard of Oz
+language;English;/films/language/english/;51494;The Wizard of Oz
+studio;Dawn Associates;/studio/dawn-associates/;51230;Dawn of the Dead
+studio;Laurel Entertainment;/studio/laurel-entertainment/;51230;Dawn of the Dead
+country;Italy;/films/country/italy/;51230;Dawn of the Dead
+country;USA;/films/country/usa/;51230;Dawn of the Dead
+language;English;/films/language/english/;51230;Dawn of the Dead
+studio;First Run Features;/studio/first-run-features/;97190;The Company of Strangers
+studio;ONF | NFB;/studio/onf-nfb/;97190;The Company of Strangers
+country;Canada;/films/country/canada/;97190;The Company of Strangers
+language;English;/films/language/english/;97190;The Company of Strangers
+studio;Madhouse;/studio/madhouse-1/;43921;Tokyo Godfathers
+studio;Sony Pictures;/studio/sony-pictures-1/;43921;Tokyo Godfathers
+studio;dentsu;/studio/dentsu-2/;43921;Tokyo Godfathers
+studio;GENCO;/studio/genco/;43921;Tokyo Godfathers
+country;Japan;/films/country/japan/;43921;Tokyo Godfathers
+language;Japanese;/films/language/japanese/;43921;Tokyo Godfathers
+language;English;/films/language/english/;43921;Tokyo Godfathers
+language;Japanese;/films/language/japanese/;43921;Tokyo Godfathers
+language;Spanish;/films/language/spanish/;43921;Tokyo Godfathers
+studio;Silver Pictures;/studio/silver-pictures/;48894;Kiss Kiss Bang Bang
+studio;Warner Bros. Pictures;/studio/warner-bros-pictures/;48894;Kiss Kiss Bang Bang
+country;USA;/films/country/usa/;48894;Kiss Kiss Bang Bang
+language;English;/films/language/english/;48894;Kiss Kiss Bang Bang
+studio;Working Title Films (GB);/studio/working-title-films-gb/;838140;The Substance
+studio;Blacksmith;/studio/blacksmith/;838140;The Substance
+studio;Working Title Films (US);/studio/working-title-films-1/;838140;The Substance
+country;France;/films/country/france/;838140;The Substance
+country;UK;/films/country/uk/;838140;The Substance
+country;USA;/films/country/usa/;838140;The Substance
+language;English;/films/language/english/;838140;The Substance
+studio;Shaft Productions;/studio/shaft-productions/;51624;Shaft
+studio;Metro-Goldwyn-Mayer;/studio/metro-goldwyn-mayer-1/;51624;Shaft
+country;USA;/films/country/usa/;51624;Shaft
+language;English;/films/language/english/;51624;Shaft
+studio;Focus Features;/studio/focus-features/;359505;Nosferatu
+studio;Studio 8;/studio/studio-8/;359505;Nosferatu
+studio;Maiden Voyage Pictures;/studio/maiden-voyage-pictures/;359505;Nosferatu
+studio;Birch Hill Road Entertainment;/studio/birch-hill-road-entertainment/;359505;Nosferatu
+country;USA;/films/country/usa/;359505;Nosferatu
+language;English;/films/language/english/;359505;Nosferatu
+language;Russian;/films/language/russian/;359505;Nosferatu
+language;German;/films/language/german/;359505;Nosferatu
+language;Latin;/films/language/latin/;359505;Nosferatu
+language;Romanian;/films/language/romanian/;359505;Nosferatu
+language;English;/films/language/english/;359505;Nosferatu
+studio;Cre Film;/studio/cre-film/;959540;Anora
+studio;FilmNation Entertainment;/studio/filmnation-entertainment/;959540;Anora
+country;USA;/films/country/usa/;959540;Anora
+language;English;/films/language/english/;959540;Anora
+language;English;/films/language/english/;959540;Anora
+language;Russian;/films/language/russian/;959540;Anora
+language;Armenian;/films/language/armenian/;959540;Anora
+studio;Centropolis Entertainment;/studio/centropolis-entertainment/;47555;Eight Legged Freaks
+studio;Village Roadshow Pictures;/studio/village-roadshow-pictures/;47555;Eight Legged Freaks
+studio;NPV Entertainment;/studio/npv-entertainment/;47555;Eight Legged Freaks
+studio;Electric Entertainment;/studio/electric-entertainment/;47555;Eight Legged Freaks
+studio;Warner Bros. Pictures;/studio/warner-bros-pictures/;47555;Eight Legged Freaks
+country;Australia;/films/country/australia/;47555;Eight Legged Freaks
+country;USA;/films/country/usa/;47555;Eight Legged Freaks
+language;English;/films/language/english/;47555;Eight Legged Freaks
+studio;BoulderLight Pictures;/studio/boulderlight-pictures/;977172;Companion
+studio;New Line Cinema;/studio/new-line-cinema/;977172;Companion
+studio;Vertigo Entertainment;/studio/vertigo-entertainment/;977172;Companion
+studio;Subconscious;/studio/subconscious/;977172;Companion
+studio;Domain Entertainment;/studio/domain-entertainment/;977172;Companion
+country;USA;/films/country/usa/;977172;Companion
+language;English;/films/language/english/;977172;Companion
+language;Russian;/films/language/russian/;977172;Companion
+language;German;/films/language/german/;977172;Companion
+language;Chinese;/films/language/chinese/;977172;Companion
+language;English;/films/language/english/;977172;Companion
+language;Spanish;/films/language/spanish/;977172;Companion
+studio;A24;/studio/a24/;739691;Dream Scenario
+studio;Square Peg;/studio/square-peg/;739691;Dream Scenario
+studio;Saturn Films;/studio/saturn-films/;739691;Dream Scenario
+country;USA;/films/country/usa/;739691;Dream Scenario
+language;English;/films/language/english/;739691;Dream Scenario
+language;English;/films/language/english/;739691;Dream Scenario
+language;French;/films/language/french/;739691;Dream Scenario
+studio;Amblin Entertainment;/studio/amblin-entertainment/;47254;The Goonies
+studio;Warner Bros. Pictures;/studio/warner-bros-pictures/;47254;The Goonies
+country;USA;/films/country/usa/;47254;The Goonies
+language;English;/films/language/english/;47254;The Goonies
+language;English;/films/language/english/;47254;The Goonies
+language;Italian;/films/language/italian/;47254;The Goonies
+language;Spanish;/films/language/spanish/;47254;The Goonies
+language;Cantonese;/films/language/cantonese/;47254;The Goonies
+studio;Indústria Cinematográfica Apolo;/studio/industria-cinematografica-apolo/;31640;At Midnight I'll Take Your Soul
+country;Brazil;/films/country/brazil/;31640;At Midnight I'll Take Your Soul
+language;Portuguese;/films/language/portuguese/;31640;At Midnight I'll Take Your Soul
+studio;SF Studios;/studio/sf-studios-1/;51620;The Seventh Seal
+country;Sweden;/films/country/sweden/;51620;The Seventh Seal
+language;Swedish;/films/language/swedish/;51620;The Seventh Seal
+studio;Copperheart Entertainment;/studio/copperheart-entertainment/;46762;Ginger Snaps
+country;Canada;/films/country/canada/;46762;Ginger Snaps
+language;English;/films/language/english/;46762;Ginger Snaps
+studio;New World Pictures;/studio/new-world-pictures/;44012;Death Race 2000
+country;USA;/films/country/usa/;44012;Death Race 2000
+language;English;/films/language/english/;44012;Death Race 2000
+studio;Malibu Bay Films;/studio/malibu-bay-films/;28440;Do or Die
+country;USA;/films/country/usa/;28440;Do or Die
+language;English;/films/language/english/;28440;Do or Die
+studio;Circle Films;/studio/circle-films/;51707;Raising Arizona
+country;USA;/films/country/usa/;51707;Raising Arizona
+language;English;/films/language/english/;51707;Raising Arizona
+studio;Madhouse;/studio/madhouse-1/;46175;Perfect Blue
+studio;Rex Entertainment;/studio/rex-entertainment-1/;46175;Perfect Blue
+studio;Kotobuki Seihan Printing;/studio/kotobuki-seihan-printing/;46175;Perfect Blue
+studio;Asahi Broadcasting Corporation;/studio/asahi-broadcasting-corporation/;46175;Perfect Blue
+studio;Fangs Co.;/studio/fangs-co/;46175;Perfect Blue
+studio;ONIRO;/studio/oniro/;46175;Perfect Blue
+country;Japan;/films/country/japan/;46175;Perfect Blue
+language;Japanese;/films/language/japanese/;46175;Perfect Blue
+studio;Dasepo Club;/studio/dasepo-club/;192720;A Hard Day
+studio;AD406;/studio/ad406/;192720;A Hard Day
+country;South Korea;/films/country/south-korea/;192720;A Hard Day
+language;Korean;/films/language/korean/;192720;A Hard Day
+studio;Castle Rock Entertainment;/studio/castle-rock-entertainment/;41291;The Last Days of Disco
+studio;Westerly Films;/studio/westerly-films/;41291;The Last Days of Disco
+country;USA;/films/country/usa/;41291;The Last Days of Disco
+language;English;/films/language/english/;41291;The Last Days of Disco
+studio;Universal Pictures;/studio/universal-pictures/;49930;Frankenstein
+country;USA;/films/country/usa/;49930;Frankenstein
+language;English;/films/language/english/;49930;Frankenstein
+language;Latin;/films/language/latin/;49930;Frankenstein
+language;English;/films/language/english/;49930;Frankenstein
+studio;Globo Filmes;/studio/globo-filmes/;26694;Ó Paí, Ó: Look at This
+studio;Dueto Filmes;/studio/dueto-filmes/;26694;Ó Paí, Ó: Look at This
+studio;Dezenove Som e Imagem;/studio/dezenove-som-e-imagem/;26694;Ó Paí, Ó: Look at This
+country;Brazil;/films/country/brazil/;26694;Ó Paí, Ó: Look at This
+language;Portuguese;/films/language/portuguese/;26694;Ó Paí, Ó: Look at This
+studio;Cartoon Saloon;/studio/cartoon-saloon/;373808;Wolfwalkers
+studio;Melusine Productions;/studio/melusine-productions/;373808;Wolfwalkers
+studio;Haut et Court;/studio/haut-et-court/;373808;Wolfwalkers
+studio;Canal+;/studio/canal-3/;373808;Wolfwalkers
+studio;RTÉ;/studio/rte-1/;373808;Wolfwalkers
+studio;OCS;/studio/ocs/;373808;Wolfwalkers
+studio;Folivari;/studio/folivari/;373808;Wolfwalkers
+studio;GKIDS;/studio/gkids/;373808;Wolfwalkers
+studio;Value & Power Culture Communications;/studio/value-power-culture-communications/;373808;Wolfwalkers
+studio;Fís Éireann/Screen Ireland;/studio/fis-eireann-screen-ireland-1/;373808;Wolfwalkers
+country;France;/films/country/france/;373808;Wolfwalkers
+country;Ireland;/films/country/ireland/;373808;Wolfwalkers
+country;Luxembourg;/films/country/luxembourg/;373808;Wolfwalkers
+country;USA;/films/country/usa/;373808;Wolfwalkers
+country;China;/films/country/china/;373808;Wolfwalkers
+language;English;/films/language/english/;373808;Wolfwalkers
+language;Irish;/films/language/irish/;373808;Wolfwalkers
+language;English;/films/language/english/;373808;Wolfwalkers
+studio;Paka Hill Film Production Co.;/studio/paka-hill-film-production-co/;21517;The Heroic Trio
+studio;China Entertainment Films Production;/studio/china-entertainment-films-production/;21517;The Heroic Trio
+country;Hong Kong;/films/country/hong-kong/;21517;The Heroic Trio
+language;Cantonese;/films/language/cantonese/;21517;The Heroic Trio
+studio;Kinoshita Group;/studio/kinoshita-group/;446482;Paddington in Peru
+studio;Marmalade Pictures;/studio/marmalade-pictures/;446482;Paddington in Peru
+studio;StudioCanal;/studio/studiocanal-2/;446482;Paddington in Peru
+country;UK;/films/country/uk/;446482;Paddington in Peru
+country;Japan;/films/country/japan/;446482;Paddington in Peru
+language;English;/films/language/english/;446482;Paddington in Peru
+language;English;/films/language/english/;446482;Paddington in Peru
+language;Spanish;/films/language/spanish/;446482;Paddington in Peru
+studio;Village Roadshow Pictures Asia;/studio/village-roadshow-pictures-asia/;395072;Shadow
+studio;LeVision Pictures;/studio/levision-pictures/;395072;Shadow
+studio;Bona Film Group;/studio/bona-film-group/;395072;Shadow
+studio;Perfect Village Entertainment;/studio/perfect-village-entertainment/;395072;Shadow
+studio;Tencent Pictures;/studio/tencent-pictures/;395072;Shadow
+country;China;/films/country/china/;395072;Shadow
+country;Hong Kong;/films/country/hong-kong/;395072;Shadow
+language;Chinese;/films/language/chinese/;395072;Shadow
+studio;DC Studios;/studio/dc-studios/;957050;Superman
+studio;Troll Court Entertainment;/studio/troll-court-entertainment/;957050;Superman
+studio;The Safran Company;/studio/the-safran-company/;957050;Superman
+studio;Domain Entertainment;/studio/domain-entertainment/;957050;Superman
+country;USA;/films/country/usa/;957050;Superman
+language;English;/films/language/english/;957050;Superman
+studio;Amblin Entertainment;/studio/amblin-entertainment/;47354;To Wong Foo, Thanks for Everything! Julie Newmar
+studio;Universal Pictures;/studio/universal-pictures/;47354;To Wong Foo, Thanks for Everything! Julie Newmar
+country;USA;/films/country/usa/;47354;To Wong Foo, Thanks for Everything! Julie Newmar
+language;English;/films/language/english/;47354;To Wong Foo, Thanks for Everything! Julie Newmar
+studio;Carolco Pictures;/studio/carolco-pictures-1/;51291;Total Recall
+studio;Ronald Shusett/Gary Goldman Productions;/studio/ronald-shusett-gary-goldman/;51291;Total Recall
+country;USA;/films/country/usa/;51291;Total Recall
+language;English;/films/language/english/;51291;Total Recall
+studio;X Filme Creative Pool;/studio/x-filme-creative-pool-1/;51946;Run Lola Run
+country;Germany;/films/country/germany/;51946;Run Lola Run
+language;German;/films/language/german/;51946;Run Lola Run
+language;German;/films/language/german/;51946;Run Lola Run
+language;English;/films/language/english/;51946;Run Lola Run
+language;Japanese;/films/language/japanese/;51946;Run Lola Run
+studio;Estudios Picasso;/studio/estudios-picasso/;51047;Pan's Labyrinth
+studio;Esperanto Filmoj;/studio/esperanto-filmoj/;51047;Pan's Labyrinth
+studio;Tequila Gang;/studio/tequila-gang/;51047;Pan's Labyrinth
+studio;Telecinco Cinema;/studio/telecinco-cinema-1/;51047;Pan's Labyrinth
+country;Mexico;/films/country/mexico/;51047;Pan's Labyrinth
+country;Spain;/films/country/spain/;51047;Pan's Labyrinth
+country;USA;/films/country/usa/;51047;Pan's Labyrinth
+language;Spanish;/films/language/spanish/;51047;Pan's Labyrinth
+studio;DEG;/studio/deg-1/;50894;Bill & Ted's Excellent Adventure
+studio;Nelson Entertainment;/studio/nelson-entertainment/;50894;Bill & Ted's Excellent Adventure
+studio;Interscope Communications;/studio/interscope-communications/;50894;Bill & Ted's Excellent Adventure
+studio;Soisson/Murphy Productions;/studio/soisson-murphy-productions/;50894;Bill & Ted's Excellent Adventure
+country;USA;/films/country/usa/;50894;Bill & Ted's Excellent Adventure
+language;English;/films/language/english/;50894;Bill & Ted's Excellent Adventure
+language;English;/films/language/english/;50894;Bill & Ted's Excellent Adventure
+language;French;/films/language/french/;50894;Bill & Ted's Excellent Adventure
+language;German;/films/language/german/;50894;Bill & Ted's Excellent Adventure
+language;Greek (modern);/films/language/greekmodern/;50894;Bill & Ted's Excellent Adventure
+studio;Universal Pictures;/studio/universal-pictures/;51827;Bride of Frankenstein
+studio;James Whale Productions;/studio/james-whale-productions/;51827;Bride of Frankenstein
+country;USA;/films/country/usa/;51827;Bride of Frankenstein
+language;English;/films/language/english/;51827;Bride of Frankenstein
+studio;Harbor Productions;/studio/harbor-productions/;34615;Phantom of the Paradise
+studio;Pressman-Williams;/studio/pressman-williams/;34615;Phantom of the Paradise
+country;USA;/films/country/usa/;34615;Phantom of the Paradise
+language;English;/films/language/english/;34615;Phantom of the Paradise
+studio;BlackBird;/studio/blackbird/;277413;Swiss Army Man
+studio;Tadmor;/studio/tadmor/;277413;Swiss Army Man
+studio;Astrakan Films;/studio/astrakan-films-ab/;277413;Swiss Army Man
+studio;Cold Iron Pictures;/studio/cold-iron-pictures/;277413;Swiss Army Man
+studio;Prettybird;/studio/prettybird/;277413;Swiss Army Man
+country;USA;/films/country/usa/;277413;Swiss Army Man
+language;English;/films/language/english/;277413;Swiss Army Man
+studio;Eve Productions Inc.;/studio/eve-productions-inc/;51744;Faster, Pussycat! Kill! Kill!
+country;USA;/films/country/usa/;51744;Faster, Pussycat! Kill! Kill!
+language;English;/films/language/english/;51744;Faster, Pussycat! Kill! Kill!
+studio;Universal Pictures;/studio/universal-pictures/;47367;Tarantula
+country;USA;/films/country/usa/;47367;Tarantula
+language;English;/films/language/english/;47367;Tarantula
+studio;Filmirage;/studio/filmirage/;34941;Troll 2
+country;Italy;/films/country/italy/;34941;Troll 2
+country;USA;/films/country/usa/;34941;Troll 2
+language;English;/films/language/english/;34941;Troll 2
+studio;Lemming Film;/studio/lemming-film/;1104348;The Secret Agent
+studio;One Two Films;/studio/one-two-films/;1104348;The Secret Agent
+studio;CinemaScópio;/studio/cinemascopio-1/;1104348;The Secret Agent
+studio;ARTE France Cinéma;/studio/arte-france-cinema-5/;1104348;The Secret Agent
+studio;MK Productions;/studio/mk-productions-1/;1104348;The Secret Agent
+studio;Primo Content;/studio/primo-content/;1104348;The Secret Agent
+studio;Agência Nacional do Cinema - ANCINE;/studio/agencia-nacional-do-cinema-ancine-1/;1104348;The Secret Agent
+studio;Banco Regional de Desenvolvimento do Extremo Sul;/studio/banco-regional-de-desenvolvimento-do-extremo-sul/;1104348;The Secret Agent
+studio;Fundo Setorial do Audiovisual;/studio/fundo-setorial-do-audiovisual/;1104348;The Secret Agent
+country;Brazil;/films/country/brazil/;1104348;The Secret Agent
+country;France;/films/country/france/;1104348;The Secret Agent
+country;Germany;/films/country/germany/;1104348;The Secret Agent
+country;Netherlands;/films/country/netherlands/;1104348;The Secret Agent
+country;Argentina;/films/country/argentina/;1104348;The Secret Agent
+language;Portuguese;/films/language/portuguese/;1104348;The Secret Agent
+language;English;/films/language/english/;1104348;The Secret Agent
+language;German;/films/language/german/;1104348;The Secret Agent
+language;Portuguese;/films/language/portuguese/;1104348;The Secret Agent
+studio;TOHO;/studio/toho/;44925;Yojimbo
+country;Japan;/films/country/japan/;44925;Yojimbo
+language;Japanese;/films/language/japanese/;44925;Yojimbo
+studio;TriStar Pictures;/studio/tristar-pictures-1/;43471;The Last Dragon
+studio;Motown Productions;/studio/motown-productions/;43471;The Last Dragon
+studio;Tri-Star-Delphi III Productions;/studio/tri-star-delphi-iii-productions/;43471;The Last Dragon
+country;USA;/films/country/usa/;43471;The Last Dragon
+language;English;/films/language/english/;43471;The Last Dragon
+language;Cantonese;/films/language/cantonese/;43471;The Last Dragon
+language;English;/films/language/english/;43471;The Last Dragon
+studio;Miramax;/studio/miramax-1/;755564;The Holdovers
+studio;Gran Via Productions;/studio/gran-via-productions/;755564;The Holdovers
+country;USA;/films/country/usa/;755564;The Holdovers
+language;English;/films/language/english/;755564;The Holdovers
+studio;William Dozier Productions;/studio/william-dozier-productions/;50163;Batman
+studio;20th Century Fox;/studio/20th-century-fox/;50163;Batman
+studio;Greenlawn Productions;/studio/greenlawn-productions/;50163;Batman
+country;USA;/films/country/usa/;50163;Batman
+language;English;/films/language/english/;50163;Batman
+studio;Cube Libre;/studio/cube-libre/;51664;Cube
+studio;The Feature Film Project;/studio/feature-film-project/;51664;Cube
+country;Canada;/films/country/canada/;51664;Cube
+language;English;/films/language/english/;51664;Cube
+language;German;/films/language/german/;51664;Cube
+language;English;/films/language/english/;51664;Cube
+studio;Madhouse;/studio/madhouse-1/;29884;Millennium Actress
+country;Japan;/films/country/japan/;29884;Millennium Actress
+language;Japanese;/films/language/japanese/;29884;Millennium Actress
+studio;Odessa Filmworks Inc.;/studio/odessa-filmworks-inc/;41742;Jesus Christ Vampire Hunter
+country;Canada;/films/country/canada/;41742;Jesus Christ Vampire Hunter
+language;English;/films/language/english/;41742;Jesus Christ Vampire Hunter
+studio;New Line Cinema;/studio/new-line-cinema/;51930;The Lord of the Rings: The Fellowship of the Ring
+studio;WingNut Films;/studio/wingnut-films/;51930;The Lord of the Rings: The Fellowship of the Ring
+studio;The Saul Zaentz Company;/studio/the-saul-zaentz-company/;51930;The Lord of the Rings: The Fellowship of the Ring
+country;New Zealand;/films/country/new-zealand/;51930;The Lord of the Rings: The Fellowship of the Ring
+country;USA;/films/country/usa/;51930;The Lord of the Rings: The Fellowship of the Ring
+language;English;/films/language/english/;51930;The Lord of the Rings: The Fellowship of the Ring
+studio;New Line Cinema;/studio/new-line-cinema/;51929;The Lord of the Rings: The Two Towers
+studio;WingNut Films;/studio/wingnut-films/;51929;The Lord of the Rings: The Two Towers
+studio;The Saul Zaentz Company;/studio/the-saul-zaentz-company/;51929;The Lord of the Rings: The Two Towers
+country;New Zealand;/films/country/new-zealand/;51929;The Lord of the Rings: The Two Towers
+country;USA;/films/country/usa/;51929;The Lord of the Rings: The Two Towers
+language;English;/films/language/english/;51929;The Lord of the Rings: The Two Towers
+studio;New Line Cinema;/studio/new-line-cinema/;51928;The Lord of the Rings: The Return of the King
+studio;WingNut Films;/studio/wingnut-films/;51928;The Lord of the Rings: The Return of the King
+studio;The Saul Zaentz Company;/studio/the-saul-zaentz-company/;51928;The Lord of the Rings: The Return of the King
+country;New Zealand;/films/country/new-zealand/;51928;The Lord of the Rings: The Return of the King
+country;USA;/films/country/usa/;51928;The Lord of the Rings: The Return of the King
+language;English;/films/language/english/;51928;The Lord of the Rings: The Return of the King
+studio;Universal Pictures;/studio/universal-pictures/;47221;Death Becomes Her
+country;USA;/films/country/usa/;47221;Death Becomes Her
+language;English;/films/language/english/;47221;Death Becomes Her
+studio;Braveworld Productions;/studio/braveworld-productions/;51287;The Running Man
+studio;Keith Barish Productions;/studio/keith-barish-productions/;51287;The Running Man
+studio;TAFT Entertainment Pictures;/studio/taft-entertainment-pictures/;51287;The Running Man
+country;USA;/films/country/usa/;51287;The Running Man
+language;English;/films/language/english/;51287;The Running Man
+language;English;/films/language/english/;51287;The Running Man
+language;Italian;/films/language/italian/;51287;The Running Man
+language;Japanese;/films/language/japanese/;51287;The Running Man
+studio;Act III Productions;/studio/act-iii-productions/;51821;Stand by Me
+country;USA;/films/country/usa/;51821;Stand by Me
+language;English;/films/language/english/;51821;Stand by Me
