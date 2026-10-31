@@ -3,10 +3,10 @@
 import { useState } from "react";
 
 /** Envelope com uma pergunta na frente; clicar vira o cartão e mostra a resposta (children). */
-export function Reveal({ question, sub, children }: { question: string; sub?: string; children: React.ReactNode }) {
+export function Reveal({ question, sub, variant, children }: { question: string; sub?: string; variant?: string; children: React.ReactNode }) {
   const [open, setOpen] = useState(false);
   return (
-    <div className={`flip${open ? " is-open" : ""}`}>
+    <div className={`flip${variant ? ` flip-${variant}` : ""}${open ? " is-open" : ""}`}>
       <button type="button" className="flip-front" onClick={() => setOpen(true)} aria-expanded={open} tabIndex={open ? -1 : 0}>
         <span className="envelope-flap" aria-hidden />
         <span className="envelope-seal" aria-hidden>
