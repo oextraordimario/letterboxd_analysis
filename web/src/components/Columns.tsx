@@ -7,7 +7,7 @@ type Item = { label: string; value: number };
 
 /**
  * Colunas verticais com o valor em cima de cada barra. Com `previous`, mostra um botão que
- * põe ao lado de cada coluna a barra da última apresentação (mesma escala).
+ * divide cada coluna em duas partes empilhadas: a última apresentação e o que entrou desde então.
  */
 export function Columns({
   items,
@@ -22,7 +22,7 @@ export function Columns({
 }) {
   const [compare, setCompare] = useState(false);
   const prevBy = Object.fromEntries((previous ?? []).map((i) => [i.label, i.value]));
-  const max = Math.max(...items.map((i) => i.value), ...(previous ?? []).map((i) => i.value), 1);
+  const max = Math.max(...items.map((i) => i.value), 1);
   const u = (v: number) => (v === 1 ? unit.replace(/s$/, "") : unit);
 
   return (
@@ -34,7 +34,7 @@ export function Columns({
           </button>
           <div className="legend" aria-hidden={!compare}>
             <span><i className="swatch swatch-prev" /> {previousLabel}</span>
-            <span><i className="swatch swatch-now" /> agora</span>
+            <span><i className="swatch swatch-now" /> desde então</span>
           </div>
         </div>
       )}
@@ -50,15 +50,12 @@ export function Columns({
               title={`${item.label} · ${fmt(item.value)} ${u(item.value)}${previous ? ` (${previousLabel}: ${fmt(prev)})` : ""}`}
             >
               <span className="columns-plot">
-                {previous && (
-                  <span className="columns-bar columns-bar-prev" style={{ height: `${(prev / max) * 100}%` }}>
-                    <span className="columns-value">{fmt(prev)}</span>
-                  </span>
-                )}
-                <span className="columns-bar" style={{ height: `${(item.value / max) * 100}%` }}>
+                <span className="columns-bar stack" style={{ height: `${(item.value / max) * 100}%` }}>
+                  <span className="stack-new" />
+                  {previous && <span className="stack-prev" style={{ height: `${item.value ? (Math.min(prev, item.value) / item.value) * 100 : 0}%` }} />}
                   <span className="columns-value">
                     {fmt(item.value)}
-                    {previous && delta > 0 && <small className="columns-delta">+{fmt(delta)}</small>}
+                    {previous && delta > 0 && <small className="columns-delta">{fmt(prev)} + {fmt(delta)}</small>}
                   </span>
                 </span>
               </span>

@@ -172,7 +172,8 @@ const LABELS = [
   "Roteiro",
   "Bastidores",
   "Países e idiomas",
-  "Gêneros",
+  "Gêneros: top 5",
+  "Gêneros: bottom 5",
   "Temas",
   "Próxima temporada",
   "Todos os filmes",
@@ -234,6 +235,21 @@ export default function Home() {
   const crew = r.crew.map((c) => ({ ...c, people: c.people.filter((p) => !CREW_HIDDEN.has(p.name)) })).filter((c) => c.people.length);
   const crewSolo = crew.filter((c) => c.people.length === 1);
   const crewGroup = crew.filter((c) => c.people.length > 1);
+  // Gêneros com o valor da última apresentação, para o botão de comparar.
+  const genreLists = (pick: <T>(list: T[]) => T[]) =>
+    (
+      [
+        ["Gênero principal de cada filme", r.genres_primary, r.previous.genres_primary],
+        ["Todos os gêneros marcados", r.genres_all, r.previous.genres_all],
+      ] as const
+    ).map(([caption, now, prev]) => ({
+      caption,
+      items: pick([...now]).map((g) => ({
+        label: genrePt(g.genre),
+        value: g.movie_count,
+        prev: prev.find((x) => x.genre === g.genre)?.movie_count ?? 0,
+      })),
+    }));
   const forgotten = r.films.filter((f) => f.group_voters < r.min_voters).sort((a, b) => b.group_voters - a.group_voters);
   // Consenso: nota média alta (ou baixa) com pouco desvio. Empate: mais notas, depois mais popular no site.
   const eligible = r.films.filter((f) => f.group_voters >= r.min_voters);
@@ -692,10 +708,15 @@ export default function Home() {
         </div>
       </Slide>
 
-      <Slide id="generos" title="Do que a gente gosta">
-        <div className="two-col reveal">
-          <BarList caption="Gênero principal de cada filme" items={r.genres_primary.map((g) => ({ label: genrePt(g.genre), value: g.movie_count }))} />
-          <BarList caption="Todos os gêneros marcados" items={r.genres_all.map((g) => ({ label: genrePt(g.genre), value: g.movie_count }))} />
+      <Slide id="generos" title="Do que a gente mais gosta" lede="Os 5 gêneros que mais aparecem.">
+        <div className="reveal">
+          <CompareBars previousLabel={r.previous.label} lists={genreLists((l) => l.slice(0, 5))} />
+        </div>
+      </Slide>
+
+      <Slide id="generos-menos" title="Do que a gente menos gosta" lede="Os 5 gêneros que menos aparecem.">
+        <div className="reveal">
+          <CompareBars previousLabel={r.previous.label} lists={genreLists((l) => l.slice(-5).reverse())} />
         </div>
       </Slide>
 

@@ -7,10 +7,10 @@ export type CompareItem = { label: string; value: number; prev: number };
 export type CompareList = { caption: string; items: CompareItem[] };
 
 /**
- * Listas de barras horizontais com um botão que mostra, sob cada barra, a barra da
- * última apresentação (mesma escala por lista) e quanto cresceu.
+ * Listas de barras horizontais com um botão que divide cada barra em duas partes empilhadas:
+ * o que já existia na última apresentação e o que entrou desde então.
  */
-export function CompareBars({ lists, previousLabel }: { lists: CompareList[]; previousLabel: string }) {
+export function CompareBars({ lists, previousLabel, columns = 2 }: { lists: CompareList[]; previousLabel: string; columns?: number }) {
   const [compare, setCompare] = useState(false);
   return (
     <div className={`compare-bars${compare ? " is-comparing" : ""}`}>
@@ -20,12 +20,12 @@ export function CompareBars({ lists, previousLabel }: { lists: CompareList[]; pr
         </button>
         <div className="legend" aria-hidden={!compare}>
           <span><i className="swatch swatch-prev" /> {previousLabel}</span>
-          <span><i className="swatch swatch-now" /> agora</span>
+          <span><i className="swatch swatch-now" /> desde então</span>
         </div>
       </div>
-      <div className="two-col">
+      <div className={columns === 2 ? "two-col" : ""}>
         {lists.map((list) => {
-          const max = Math.max(...list.items.map((i) => Math.max(i.value, i.prev)), 1);
+          const max = Math.max(...list.items.map((i) => i.value), 1);
           return (
             <figure key={list.caption} className="barlist">
               <figcaption>{list.caption}</figcaption>
@@ -38,17 +38,16 @@ export function CompareBars({ lists, previousLabel }: { lists: CompareList[]; pr
                         {item.label}
                         {item.prev === 0 && <em className="compare-new">novo!</em>}
                       </span>
-                      <span className="compare-tracks">
-                        <span className="barlist-track">
-                          <span className="barlist-bar" style={{ width: `${(item.value / max) * 100}%` }} />
-                          <span className="barlist-value">
-                            {fmt(item.value)}
-                            {delta > 0 && <small className="compare-delta"> +{fmt(delta)}</small>}
+                      <span className="barlist-track">
+                        <span className="bar-area">
+                          <span className="barlist-bar stack" style={{ width: `${(item.value / max) * 100}%` }}>
+                            <span className="stack-prev" style={{ width: `${item.value ? (Math.min(item.prev, item.value) / item.value) * 100 : 0}%` }} />
+                            <span className="stack-new" />
                           </span>
                         </span>
-                        <span className="barlist-track compare-prev">
-                          <span className="barlist-bar" style={{ width: `${(item.prev / max) * 100}%` }} />
-                          <span className="barlist-value">{fmt(item.prev)}</span>
+                        <span className="barlist-value">
+                          {fmt(item.value)}
+                          {delta > 0 && <small className="compare-delta"> ({fmt(item.prev)} + {fmt(delta)})</small>}
                         </span>
                       </span>
                     </li>
