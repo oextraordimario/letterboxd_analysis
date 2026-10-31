@@ -38,6 +38,7 @@ export type Film = {
   group_voters: number;
   group_std: number | null;
   diff_vs_lbxd: number | null;
+  genres: string[];
   liked_by: string[];
   like_count: number;
 };

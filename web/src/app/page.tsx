@@ -174,6 +174,7 @@ const LABELS = [
   "Países e idiomas",
   "Gêneros: top 5",
   "Gêneros: bottom 5",
+  "Território novo",
   "Temas",
   "Próxima temporada",
   "Todos os filmes",
@@ -250,6 +251,11 @@ export default function Home() {
         prev: prev.find((x) => x.genre === g.genre)?.movie_count ?? 0,
       })),
     }));
+  // Gêneros marcados "novo!" no slide de bottom 5 (não existiam em nov/24) e os filmes que os trouxeram.
+  const newGenres = [...new Set(genreLists((l) => l.slice(-5).reverse()).flatMap((l) => l.items.filter((i) => i.prev === 0)).map((i) => i.label))]
+    .map((label) => r.genres_all.find((g) => genrePt(g.genre) === label)?.genre)
+    .filter((g): g is string => !!g);
+  const newGenreFilms = r.films.filter((f) => f.genres.some((g) => newGenres.includes(g)));
   const forgotten = r.films.filter((f) => f.group_voters < r.min_voters).sort((a, b) => b.group_voters - a.group_voters);
   // Consenso: nota média alta (ou baixa) com pouco desvio. Empate: mais notas, depois mais popular no site.
   const eligible = r.films.filter((f) => f.group_voters >= r.min_voters);
@@ -718,6 +724,24 @@ export default function Home() {
         <div className="reveal">
           <CompareBars previousLabel={r.previous.label} lists={genreLists((l) => l.slice(-5).reverse())} />
         </div>
+      </Slide>
+
+      <Slide id="generos-novos" title="Território novo" lede={`Os filmes que trouxeram ${newGenres.map((g) => genrePt(g).toLowerCase()).join(" e ")} pra lista.`}>
+        <ol className="newgenre reveal">
+          {newGenreFilms.map((f) => (
+            <li key={f.slug}>
+              <a href={f.url} target="_blank" rel="noreferrer" title={`${f.title} (${f.year})`}>
+                {f.poster_url ? <img src={f.poster_url} alt="" loading="lazy" /> : <span>{f.title}</span>}
+              </a>
+              <span className="newgenre-title">{f.title}</span>
+              <span className="newgenre-tags">
+                {f.genres.filter((g) => newGenres.includes(g)).map((g) => (
+                  <em key={g}>{genrePt(g)}</em>
+                ))}
+              </span>
+            </li>
+          ))}
+        </ol>
       </Slide>
 
       <Slide id="temas" title="Os temas que mais voltam" lede="Os 20 temas mais frequentes, com os nomes do Letterboxd.">
