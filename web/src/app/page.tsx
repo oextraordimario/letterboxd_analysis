@@ -519,7 +519,11 @@ export default function Home() {
 
       <Slide id="decadas" title="De quando são" lede="Filmes por década de lançamento.">
         <div className="reveal">
-          <Columns items={[...r.decades].sort((a, b) => a.release_decade - b.release_decade).map((d) => ({ label: `${d.release_decade}s`, value: d.movie_count }))} />
+          <Columns
+            items={[...r.decades].sort((a, b) => a.release_decade - b.release_decade).map((d) => ({ label: `${d.release_decade}s`, value: d.movie_count }))}
+            previous={r.previous.decades.map((d) => ({ label: `${d.release_decade}s`, value: d.movie_count }))}
+            previousLabel={r.previous.label}
+          />
         </div>
       </Slide>
 

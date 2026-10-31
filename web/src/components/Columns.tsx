@@ -1,23 +1,74 @@
+"use client";
+
+import { useState } from "react";
 import { fmt } from "@/lib/format";
 
 type Item = { label: string; value: number };
 
-/** Colunas verticais, uma série, com o valor em cima de cada barra. */
-export function Columns({ items, unit = "filmes" }: { items: Item[]; unit?: string }) {
-  const max = Math.max(...items.map((i) => i.value), 1);
+/**
+ * Colunas verticais com o valor em cima de cada barra. Com `previous`, mostra um botão que
+ * põe ao lado de cada coluna a barra da última apresentação (mesma escala).
+ */
+export function Columns({
+  items,
+  previous,
+  previousLabel = "última apresentação",
+  unit = "filmes",
+}: {
+  items: Item[];
+  previous?: Item[];
+  previousLabel?: string;
+  unit?: string;
+}) {
+  const [compare, setCompare] = useState(false);
+  const prevBy = Object.fromEntries((previous ?? []).map((i) => [i.label, i.value]));
+  const max = Math.max(...items.map((i) => i.value), ...(previous ?? []).map((i) => i.value), 1);
+  const u = (v: number) => (v === 1 ? unit.replace(/s$/, "") : unit);
+
   return (
-    <figure className="columns">
+    <figure className={`columns${compare ? " is-comparing" : ""}`}>
+      {previous && (
+        <div className="columns-head">
+          <button type="button" className="compare-toggle" aria-pressed={compare} onClick={() => setCompare((c) => !c)}>
+            {compare ? "Esconder" : "Comparar com"} {previousLabel}
+          </button>
+          <div className="legend" aria-hidden={!compare}>
+            <span><i className="swatch swatch-prev" /> {previousLabel}</span>
+            <span><i className="swatch swatch-now" /> agora</span>
+          </div>
+        </div>
+      )}
       <ol style={{ "--n": items.length } as React.CSSProperties}>
-        {items.map((item) => (
-          <li key={item.label} tabIndex={0} title={`${item.label} · ${fmt(item.value)} ${item.value === 1 ? unit.replace(/s$/, "") : unit}`}>
-            <span className="columns-plot">
-              <span className="columns-bar" style={{ height: `${(item.value / max) * 100}%` }}>
-                <span className="columns-value">{fmt(item.value)}</span>
+        {items.map((item) => {
+          const prev = prevBy[item.label] ?? 0;
+          const delta = item.value - prev;
+          return (
+            <li
+              key={item.label}
+              className={previous && prev === 0 && item.value > 0 ? "is-filled" : undefined}
+              tabIndex={0}
+              title={`${item.label} · ${fmt(item.value)} ${u(item.value)}${previous ? ` (${previousLabel}: ${fmt(prev)})` : ""}`}
+            >
+              <span className="columns-plot">
+                {previous && (
+                  <span className="columns-bar columns-bar-prev" style={{ height: `${(prev / max) * 100}%` }}>
+                    <span className="columns-value">{fmt(prev)}</span>
+                  </span>
+                )}
+                <span className="columns-bar" style={{ height: `${(item.value / max) * 100}%` }}>
+                  <span className="columns-value">
+                    {fmt(item.value)}
+                    {previous && delta > 0 && <small className="columns-delta">+{fmt(delta)}</small>}
+                  </span>
+                </span>
               </span>
-            </span>
-            <span className="columns-label">{item.label}</span>
-          </li>
-        ))}
+              <span className="columns-label">
+                {item.label}
+                {previous && prev === 0 && item.value > 0 && <span className="columns-filled">preenchida!</span>}
+              </span>
+            </li>
+          );
+        })}
       </ol>
     </figure>
   );

@@ -67,6 +67,25 @@ export type Person = {
   films: string[];
 };
 
+/** Mesmos agregados, só com os filmes da última apresentação (notas/curtidas são as de hoje). */
+export type Previous = {
+  label: string;
+  film_count: number;
+  note: string;
+  metrics: Metrics;
+  members: Member[];
+  group_avg_overall: number;
+  lbxd_avg_overall_eligible: number;
+  decades: { release_decade: number; movie_count: number }[];
+  people: { actors: Person[]; directors: Person[]; writers: Person[] };
+  countries: { country: string; movie_count: number }[];
+  languages: { language: string; movie_count: number }[];
+  studios: { studio: string; movie_count: number }[];
+  genres_all: { genre: string; movie_count: number }[];
+  genres_primary: { genre: string; movie_count: number }[];
+  themes: { theme: string; movie_count: number }[];
+};
+
 export type Report = {
   generated_at: string;
   list_url: string;
@@ -89,6 +108,7 @@ export type Report = {
   genres_all: { genre: string; movie_count: number }[];
   genres_primary: { genre: string; movie_count: number }[];
   themes: { theme: string; movie_count: number }[];
+  previous: Previous;
 };
 
 // Lido no build (export estático). O arquivo é gerado por `python -m pipeline.build_analytics`.
