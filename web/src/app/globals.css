@@ -289,17 +289,36 @@ a:hover .darling-poster img { transform: scale(1.05); }
 }
 .break-title { margin: clamp(16px, 3vh, 32px) 0 0; font-style: italic; font-size: clamp(22px, 3.2vh, 34px); color: var(--ink-2); }
 
-.goals { list-style: none; margin: 0; padding: 0; display: grid; gap: clamp(8px, 1.6vh, 16px); max-width: 980px; }
-.goal { display: grid; grid-template-columns: 44px 1fr auto; align-items: center; gap: 16px; padding: clamp(8px, 1.4vh, 14px) 0; border-bottom: 1px solid #2a241f; }
+.goals { list-style: none; margin: 0; padding: 0; display: grid; gap: clamp(4px, 1vh, 10px); max-width: 1000px; }
+.goal { border-bottom: 1px solid #2a241f; }
+.goal-row {
+  all: unset; box-sizing: border-box; width: 100%; cursor: pointer; display: grid; grid-template-columns: 44px 1fr auto; align-items: center; gap: 16px;
+  padding: clamp(8px, 1.4vh, 14px) 6px; border-radius: 6px; transition: background 0.2s;
+}
+.goal-hidden .goal-row:hover { background: #ffffff08; }
+.goal-row:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.goal.is-open .goal-row { cursor: default; }
 .goal-mark { display: grid; place-items: center; width: 36px; height: 36px; border-radius: 50%; font-family: var(--font-display); font-weight: 900; font-size: 20px; }
+.goal-hidden .goal-mark { border: 2px solid #5a3a17; color: var(--accent); animation: goal-pulse 2.4s ease-in-out infinite; }
+.goal-hidden:nth-child(2n) .goal-mark { animation-delay: 0.4s; }
+.goal-hidden:nth-child(3n) .goal-mark { animation-delay: 0.8s; }
+@keyframes goal-pulse { 50% { box-shadow: 0 0 0 4px #f2c14e22; } }
+.goal.is-open .goal-mark { animation: goal-pop 0.5s cubic-bezier(.3,1.6,.5,1); }
+@keyframes goal-pop { from { transform: scale(0.3) rotate(-30deg); opacity: 0; } }
 .goal-done .goal-mark { background: var(--accent); color: #1a130c; }
-.goal-miss .goal-mark { border: 2px solid var(--down); color: var(--down); }
+.goal-miss .goal-mark { background: var(--down); color: #1a130c; }
 .goal-unknown .goal-mark { border: 2px dashed var(--muted); color: var(--muted); }
 .goal-text { font-size: clamp(17px, 2.3vh, 22px); }
-.goal-unknown .goal-text { color: var(--ink-2); }
 .goal-evidence { font-family: var(--font-mono); font-size: 13px; color: var(--muted); text-align: right; white-space: nowrap; }
-.goal-done .goal-evidence { color: var(--up); }
-@media (max-width: 700px) { .goal { grid-template-columns: 36px 1fr; } .goal-evidence { grid-column: 2; text-align: left; white-space: normal; } }
+.goal-evidence b { font-family: var(--font-display); font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; font-size: 14px; }
+.goal-hidden .goal-evidence { font-style: italic; color: #6b5a48; }
+.goal.is-open .goal-evidence { animation: goal-fade 0.5s ease-out; }
+@keyframes goal-fade { from { opacity: 0; transform: translateX(8px); } }
+.goal-done .goal-evidence b { color: var(--accent); }
+.goal-miss .goal-evidence b { color: var(--down); }
+.goal-unknown .goal-evidence b { color: var(--ink-2); }
+@media (max-width: 700px) { .goal-row { grid-template-columns: 36px 1fr; } .goal-evidence { grid-column: 2; text-align: left; white-space: normal; } }
+@media (prefers-reduced-motion: reduce) { .goal-mark, .goal-evidence { animation: none !important; } }
 
 /* ---------- Ingressos (membros) ---------- */
 

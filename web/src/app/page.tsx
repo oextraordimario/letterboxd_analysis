@@ -3,6 +3,7 @@ import { Columns } from "@/components/Columns";
 import { Deck } from "@/components/Deck";
 import { Dumbbell } from "@/components/Dumbbell";
 import { FilmTable } from "@/components/FilmTable";
+import { Goals, type Goal } from "@/components/Goals";
 import { Reveal } from "@/components/Reveal";
 import { countryPt, date, fmt, genrePt, languagePt, monthYear, signed, stars } from "@/lib/format";
 import { loadReport, type Film, type Person } from "@/lib/report";
@@ -169,7 +170,7 @@ export default function Home() {
   const brNow = prevCount(r.countries, (c) => c.country === "Brazil");
   const musicThen = prevCount(r.previous.genres_all, (g) => g.genre === "Music");
   const musicNow = prevCount(r.genres_all, (g) => g.genre === "Music");
-  const goals: { text: string; status: "done" | "miss" | "unknown"; evidence: string }[] = [
+  const goals: Goal[] = [
     {
       text: "Um filme da década de 30 e um da década de 60, já que são as únicas faltando.",
       status: decadeNow(1930) > decadeThen(1930) && decadeNow(1960) > decadeThen(1960) ? "done" : "miss",
@@ -182,9 +183,9 @@ export default function Home() {
     },
     { text: "Pelo menos um filme brasileiro pra não dar vexame.", status: brNow > brThen ? "done" : "miss", evidence: `${brThen} → ${brNow}` },
     { text: "Pra valorizar a indústria nacional, mais filmes brasileiros.", status: brNow - brThen > 1 ? "done" : "miss", evidence: `+${brNow - brThen} filmes` },
-    { text: "Pra incentivar a igualdade, mais filmes dirigidos por mulheres.", status: "unknown", evidence: "sem esse dado na raspagem" },
+    { text: "Pra incentivar a igualdade, mais filmes dirigidos por mulheres.", status: "unknown", evidence: "não peguei esse dado" },
     { text: "Mais filmes musicais!", status: musicNow > musicThen ? "done" : "miss", evidence: `${musicThen} → ${musicNow}` },
-    { text: "Jhones logar mais filmes!!!", status: "unknown", evidence: "Jhones, cadê você?" },
+    { text: "Jhones logar mais filmes!!!", status: "miss", evidence: "nunca mais logou nada" },
   ];
   const forgotten = r.films.filter((f) => f.group_voters < r.min_voters).sort((a, b) => b.group_voters - a.group_voters);
   // Consenso: nota média alta (ou baixa) com pouco desvio. Empate: mais notas, depois mais popular no site.
@@ -566,17 +567,9 @@ export default function Home() {
       </Slide>
 
       <Slide id="metas" title={`Lembra das metas de ${r.previous.label}?`}>
-        <ol className="goals reveal">
-          {goals.map((g) => (
-            <li key={g.text} className={`goal goal-${g.status}`}>
-              <span className="goal-mark" aria-label={g.status === "done" ? "cumprida" : g.status === "miss" ? "não cumprida" : "sem como medir"}>
-                {g.status === "done" ? "✓" : g.status === "miss" ? "✗" : "?"}
-              </span>
-              <span className="goal-text">{g.text}</span>
-              <span className="goal-evidence">{g.evidence}</span>
-            </li>
-          ))}
-        </ol>
+        <div className="reveal">
+          <Goals goals={goals} />
+        </div>
       </Slide>
 
       <Slide id="numeros" title="Os números da sessão">
