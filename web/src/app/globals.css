@@ -191,6 +191,21 @@ body { overflow-x: clip; }
 /* gap de 10px entre todos os itens: o deslocamento de metade da trilha inclui meio gap. */
 @keyframes ribbon { to { transform: translateX(calc(-50% - 5px)); } }
 
+/* ---------- Os esquecidos ---------- */
+
+.forgotten { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: clamp(14px, 2.4vh, 24px) 18px; }
+@media (min-width: 900px) { .forgotten { grid-template-columns: repeat(5, 1fr); } }
+.forgotten li { display: grid; gap: 6px; min-width: 0; }
+.forgotten a { display: block; aspect-ratio: 2 / 3; height: clamp(150px, 24vh, 270px); justify-self: start; overflow: hidden; border-radius: 3px; background: var(--surface-2); box-shadow: 0 0 0 1px #0006; }
+.forgotten img { width: 100%; height: 100%; object-fit: cover; filter: grayscale(0.85) brightness(0.8); transition: filter 0.3s, transform 0.3s; }
+.forgotten a:hover img { filter: none; transform: scale(1.04); }
+.forgotten-blank { display: grid; place-items: center; height: 100%; padding: 6px; font-size: 12px; text-align: center; }
+.forgotten-title { font-family: var(--font-display); font-weight: 700; text-transform: uppercase; font-size: 15px; line-height: 1.05; letter-spacing: 0.02em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.forgotten-raters { display: flex; align-items: center; }
+.forgotten-raters .avatar { width: 24px; box-shadow: 0 0 0 2px var(--bg); }
+.forgotten-raters > span + span { margin-left: -6px; }
+.forgotten-raters small { margin-left: 8px; font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
+
 /* ---------- Ingressos (membros) ---------- */
 
 .tickets { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 18px; }

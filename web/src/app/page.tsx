@@ -96,6 +96,7 @@ const LABELS = [
   "Temporada nova",
   "Premiações",
   "Notas: os dados",
+  "Os esquecidos",
   "Gostamos mais",
   "Gostamos menos",
   "Racharam o grupo",
@@ -120,6 +121,7 @@ export default function Home() {
   const byAvg = [...r.members].sort((a, b) => (b.avg_rating ?? 0) - (a.avg_rating ?? 0));
   const generous = byAvg[0];
   const harsh = byAvg[byAvg.length - 1];
+  const forgotten = r.films.filter((f) => f.group_voters < r.min_voters).sort((a, b) => b.group_voters - a.group_voters);
   const groupDiff = r.group_avg_overall - r.lbxd_avg_overall_eligible;
   const groupRated = r.films.filter((f) => f.group_voters >= r.min_voters).length;
 
@@ -266,6 +268,30 @@ export default function Home() {
             </article>
           ))}
         </div>
+      </Slide>
+
+      <Slide id="esquecidos" title="Os esquecidos" lede={`Menos de ${r.min_voters} notas nossas: ficaram de fora da média do grupo.`}>
+        <ol className="forgotten reveal">
+          {forgotten.map((f) => {
+            const raters = r.members.filter((mm) => f.ratings[mm.username] != null);
+            return (
+              <li key={f.slug}>
+                <a href={f.url} target="_blank" rel="noreferrer" title={`${f.title} (${f.year})`}>
+                  {f.poster_url ? <img src={f.poster_url} alt="" loading="lazy" /> : <span className="forgotten-blank">{f.title}</span>}
+                </a>
+                <span className="forgotten-title">{f.title}</span>
+                <span className="forgotten-raters">
+                  {raters.map((mm) => (
+                    <span key={mm.username} title={`${mm.display_name}: ${stars(f.ratings[mm.username])}`}>
+                      <Avatar url={mm.avatar_url} name={mm.display_name} />
+                    </span>
+                  ))}
+                  <small>{raters.length} de {r.members.length}</small>
+                </span>
+              </li>
+            );
+          })}
+        </ol>
       </Slide>
 
       <Slide
