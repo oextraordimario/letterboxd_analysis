@@ -68,6 +68,8 @@ export type Person = {
 };
 
 /** Mesmos agregados, só com os filmes da última apresentação (notas/curtidas são as de hoje). */
+export type CrewRole = { role: string; people: { name: string; movie_count: number; link: string; url: string; films: string[] }[] };
+
 export type Previous = {
   label: string;
   film_count: number;
@@ -78,6 +80,7 @@ export type Previous = {
   lbxd_avg_overall_eligible: number;
   decades: { release_decade: number; movie_count: number }[];
   people: { actors: Person[]; directors: Person[]; writers: Person[] };
+  crew: CrewRole[];
   countries: { country: string; movie_count: number }[];
   languages: { language: string; movie_count: number }[];
   studios: { studio: string; movie_count: number }[];
@@ -102,6 +105,7 @@ export type Report = {
   decades: { release_decade: number; movie_count: number }[];
   years_watched: { year: number; movie_count: number }[];
   people: { actors: Person[]; directors: Person[]; writers: Person[] };
+  crew: CrewRole[];
   countries: { country: string; movie_count: number }[];
   languages: { language: string; movie_count: number }[];
   studios: { studio: string; movie_count: number }[];

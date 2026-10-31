@@ -320,6 +320,17 @@ a:hover .darling-poster img { transform: scale(1.05); }
 @media (max-width: 700px) { .goal-row { grid-template-columns: 36px 1fr; } .goal-evidence { grid-column: 2; text-align: left; white-space: normal; } }
 @media (prefers-reduced-motion: reduce) { .goal-mark, .goal-evidence { animation: none !important; } }
 
+/* ---------- Bastidores (créditos) ---------- */
+
+.credits { margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: clamp(14px, 2.6vh, 28px) clamp(20px, 3vw, 40px); }
+@media (min-width: 900px) { .credits { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+.credit { display: grid; align-content: start; gap: 2px; text-align: center; }
+.credit dt { font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.14em; color: var(--muted); margin-bottom: 4px; }
+.credit dd { margin: 0; font-family: var(--font-display); font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; font-size: clamp(16px, 2.3vh, 22px); line-height: 1.1; }
+.credit dd a { text-decoration: none; }
+.credit dd a:hover { color: var(--accent); }
+.credit .credit-count { margin-top: 3px; font-family: var(--font-body); font-weight: 400; text-transform: none; letter-spacing: 0; font-style: italic; font-size: 14px; color: var(--ink-2); }
+
 /* ---------- Ingressos (membros) ---------- */
 
 .tickets { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 18px; }

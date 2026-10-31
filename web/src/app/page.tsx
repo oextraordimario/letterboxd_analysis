@@ -105,6 +105,21 @@ function Statuette() {
   );
 }
 
+const CREW_PT: Record<string, string> = {
+  editor: "Montagem",
+  cinematography: "Fotografia",
+  composer: "Trilha sonora",
+  "costume-design": "Figurino",
+  makeup: "Maquiagem",
+  hairstyling: "Cabelo",
+  "production-design": "Design de produção",
+  casting: "Elenco (casting)",
+  "executive-producer": "Produção executiva",
+  "visual-effects": "Efeitos visuais",
+  stunts: "Dublês",
+  sound: "Som",
+};
+
 // Rótulos dos slides, na ordem em que aparecem (navegação lateral).
 const LABELS = [
   "Abertura",
@@ -127,6 +142,7 @@ const LABELS = [
   "Atores e atrizes",
   "Direção",
   "Roteiro",
+  "Bastidores",
   "Países e idiomas",
   "Gêneros",
   "Temas",
@@ -606,6 +622,24 @@ export default function Home() {
 
       <Slide id="roteiro" title="Quem escreveu" lede="Roteiristas com mais filmes na lista.">
         <People people={r.people.writers} />
+      </Slide>
+
+      <Slide id="bastidores" title="Bastidores" lede="Quem mais apareceu nos créditos que ninguém lê.">
+        <dl className="credits reveal">
+          {r.crew.map((c) => (
+            <div key={c.role} className="credit">
+              <dt>{CREW_PT[c.role] ?? c.role}</dt>
+              {c.people.map((p) => (
+                <dd key={p.link}>
+                  <a href={p.url} target="_blank" rel="noreferrer" title={p.films.join(" · ")}>
+                    {p.name}
+                  </a>
+                </dd>
+              ))}
+              <dd className="credit-count">{c.people[0].movie_count} filmes{c.people.length > 1 ? " cada" : ""}</dd>
+            </div>
+          ))}
+        </dl>
       </Slide>
 
       <Slide id="mundo" title="Países, idiomas e estúdios">
