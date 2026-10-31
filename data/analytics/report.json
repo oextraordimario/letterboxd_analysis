@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T15:07:58+00:00",
+ "generated_at": "2026-10-31T15:15:32+00:00",
  "list_url": "https://letterboxd.com/dromemario/list/fff-familia-fa-de-filmes/",
  "min_voters": 3,
  "last_presented": {
@@ -4283,7 +4283,7 @@
     "movie_count": 3,
     "link": "/actor/jarl-benzon-1/",
     "url": "https://letterboxd.com/actor/jarl-benzon-1/",
-    "image_url": NaN,
+    "image_url": null,
     "films": [
      "The Lord of the Rings: The Fellowship of the Ring",
      "The Lord of the Rings: The Return of the King",
@@ -4367,7 +4367,7 @@
     "movie_count": 3,
     "link": "/actor/jorn-benzon-1/",
     "url": "https://letterboxd.com/actor/jorn-benzon-1/",
-    "image_url": NaN,
+    "image_url": null,
     "films": [
      "The Lord of the Rings: The Fellowship of the Ring",
      "The Lord of the Rings: The Return of the King",
@@ -4547,7 +4547,7 @@
     "movie_count": 3,
     "link": "/actor/sam-kelly/",
     "url": "https://letterboxd.com/actor/sam-kelly/",
-    "image_url": NaN,
+    "image_url": null,
     "films": [
      "The Lord of the Rings: The Fellowship of the Ring",
      "The Lord of the Rings: The Return of the King",

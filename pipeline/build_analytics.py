@@ -224,7 +224,7 @@ def build() -> None:
     analytics["main_metrics"] = pd.DataFrame([metrics])
     analytics["movies_per_release_decade"] = movies_per_decade(films)
 
-    people_img = raw["people"].set_index("link")["image_url"].to_dict()
+    people_img = raw["people"].fillna({"image_url": ""}).set_index("link")["image_url"].to_dict()
     cast, crew = raw["cast"], raw["crew"]
     person_sections = {}
     for role, df, min_films in [
@@ -287,7 +287,7 @@ def build() -> None:
                 "year": f["release_year"],
                 "duration": f["duration"],
                 "url": f["letterboxd_url"],
-                "poster_url": f["poster_url"] or None,
+                "poster_url": f["poster_url"] if isinstance(f["poster_url"], str) and f["poster_url"] else None,
                 "lbxd_avg": f["avg_rating"],
                 "lbxd_rating_count": f["rating_count"],
                 "watched_date": f["watched_date"],
@@ -332,7 +332,7 @@ def build() -> None:
         "genres_primary": records(analytics["popular_primary_genres"]),
         "themes": records(analytics["popular_themes"].head(20)),
     }
-    (ANALYTICS_DIR / "report.json").write_text(json.dumps(report, ensure_ascii=False, indent=1), encoding="utf-8")
+    (ANALYTICS_DIR / "report.json").write_text(json.dumps(report, ensure_ascii=False, indent=1, allow_nan=False), encoding="utf-8")
     print(f"OK: {len(analytics)} tabelas em data/analytics/ + report.json")
 
 
