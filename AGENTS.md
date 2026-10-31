@@ -42,4 +42,4 @@
 - If sharing notebooks, strip outputs that expose sensitive data.
 
 ## User's Reminders
-- Last presentation to friends: Nov 2024, 72 movies, ending at Meshes of the Afternoon (commit `e85a600`). Kiss Kiss Bang Bang ended the Dec 2024 data update (78 movies), which was never presented. See `PLANO.md`.
+- Last presentation to friends: Nov 2024, 70 movies, ending at Fallen Angels (commits `84b61c0`..`f441176`). Dr. Strangelove and Meshes of the Afternoon were watched right after it and are not part of the presented data. Kiss Kiss Bang Bang ended the Dec 2024 data update (78 movies), which was never presented. See `PLANO.md`.

@@ -17,7 +17,7 @@ análise de notas do grupo.
 | Perfil pessoal (notebook 2b, `dromemario_*`) | Fica só no legado. |
 | Dados atuais (127 filmes, fev/2026) | Vão para `legacy/` com o código; o pipeline novo raspa tudo do zero. |
 | Deploy | Export estático do Next na Vercel. Confirmar antes de publicar. |
-| Corte "desde a última apresentação" | Última apresentação: nov/2024, 72 filmes, terminando em *Meshes of the Afternoon* (ver abaixo). |
+| Corte "desde a última apresentação" | Última apresentação: nov/2024, 70 filmes, terminando em *Fallen Angels* (ver abaixo). |
 
 ## Estrutura alvo
 
@@ -52,7 +52,7 @@ web/               # relatório em Next (export estático)
    - divergência para a média do Letterboxd: filmes que gostamos mais e menos;
    - quem do grupo dá notas mais altas/baixas e filmes que mais racharam o grupo
      (desvio-padrão);
-   - recorte "desde a última apresentação" (filmes 73 em diante).
+   - recorte "desde a última apresentação" (filmes 71 em diante).
 4. **Relatório em Next** em `web/` — página única, lê os JSONs de `data/analytics/`
    no build. Seções atuais + notas do grupo + divergência + novidades. Dev server via
    `preview_start` e `predev` que mata Next órfão.
@@ -65,7 +65,8 @@ Reconstruída pelo histórico do git e pelo diário do Letterboxd:
 
 | Data | Commit | Filmes | Último da lista | Observação |
 |---|---|---|---|---|
-| 16/11/2024 | `e85a600` | 72 | Meshes of the Afternoon | Versão apresentada aos amigos (nov/2024). |
+| 13–15/11/2024 | `84b61c0`…`f441176` | 70 | Fallen Angels | Versão apresentada aos amigos (nov/2024). |
+| 16/11/2024 | `e85a600` | 72 | Meshes of the Afternoon | Entraram Dr. Strangelove e Meshes, vistos logo depois da apresentação. |
 | 25/12/2024 | `eb16247` | 78 | Kiss Kiss Bang Bang | Atualização de dados, não apresentada. KKBB foi visto em dez/2024. |
 | 18/02/2026 | `077494e` | 127 | Stand by Me | Reextração para a migração a Streamlit. |
 | 31/10/2026 | — | 154 | — | Estado atual da lista. |
