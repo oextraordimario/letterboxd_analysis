@@ -401,7 +401,7 @@ export default function Home() {
               </tr>
             </thead>
             <tbody>
-              {splits.map((f) => {
+              {splits.slice(0, 6).map((f) => {
                 const vals = Object.values(f.ratings).filter((v): v is number => v != null);
                 const hi = Math.max(...vals);
                 const lo = Math.min(...vals);
