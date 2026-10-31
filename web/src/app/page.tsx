@@ -7,7 +7,6 @@ import { loadReport, type Person } from "@/lib/report";
 
 const r = loadReport();
 const bySlug = Object.fromEntries(r.films.map((f) => [f.slug, f]));
-const nameOf = Object.fromEntries(r.members.map((m) => [m.username, m.display_name]));
 const newFilms = r.films.filter((f) => !f.presented);
 const since = r.since_last_presentation;
 
@@ -80,7 +79,6 @@ const LABELS = [
   "Resumo",
   "Temporada nova",
   "Nossas notas",
-  "Afinidade",
   "Gostamos mais",
   "Gostamos menos",
   "Racharam o grupo",
@@ -98,14 +96,11 @@ const LABELS = [
 
 export default function Home() {
   const m = r.metrics;
-  const sortedMembers = [...r.members].sort((a, b) => (b.avg_rating ?? 0) - (a.avg_rating ?? 0));
-  const generous = sortedMembers[0];
-  const harsh = sortedMembers[sortedMembers.length - 1];
   const splits = r.divergence.splits.map((s) => bySlug[s]);
   const brazil = r.countries.find((c) => c.country === "Brazil")?.movie_count ?? 0;
   const fewestDecade = [...r.decades].sort((a, b) => a.movie_count - b.movie_count)[0];
   const cage = r.people.actors.find((p) => p.name === "Nicolas Cage")?.movie_count ?? 0;
-  const maxAffinity = r.affinity[r.affinity.length - 1].mean_abs_diff;
+  const groupRated = r.films.filter((f) => f.group_voters >= r.min_voters).length;
 
   return (
     <main>
@@ -192,6 +187,19 @@ export default function Home() {
         }
       >
         <div className="tickets reveal">
+          <article className="ticket ticket-group">
+            <header>
+              <h3>FFF</h3>
+            </header>
+            <p className="ticket-avg">
+              {fmt(r.group_avg_overall, 2)}
+              <small>nota média do grupo</small>
+            </p>
+            <dl>
+              <div><dt>Filmes avaliados</dt><dd>{groupRated} de {m.movies_watched}</dd></div>
+              <div><dt>Vs. Letterboxd</dt><dd>{signed(r.group_avg_overall - r.lbxd_avg_overall_eligible)}</dd></div>
+            </dl>
+          </article>
           {r.members.map((mm) => (
             <article key={mm.username} className="ticket">
               <header>
@@ -203,34 +211,11 @@ export default function Home() {
               </p>
               <dl>
                 <div><dt>Filmes da lista</dt><dd>{mm.films_seen} de {m.movies_watched}</dd></div>
-                <div><dt>Vs. Letterboxd</dt><dd>{signed(mm.avg_diff_vs_lbxd ?? 0)}</dd></div>
                 <div><dt>Vs. resto do grupo</dt><dd>{signed(mm.avg_diff_vs_group ?? 0)}</dd></div>
-                <div><dt>Favorito</dt><dd>{mm.favorite_film} <span className="stars">{stars(mm.favorite_rating)}</span></dd></div>
-                <div><dt>Odiou</dt><dd>{mm.least_favorite_film} <span className="stars">{stars(mm.least_favorite_rating)}</span></dd></div>
               </dl>
             </article>
           ))}
         </div>
-      </Slide>
-
-      <Slide id="afinidade" title="Quem pensa parecido" lede="Diferença média de nota entre cada dupla, nos filmes que os dois avaliaram. Quanto menor, mais afinados.">
-        <ol className="affinity reveal">
-          {r.affinity.map((a) => (
-            <li key={`${a.member_a}-${a.member_b}`}>
-              <span>
-                {nameOf[a.member_a]} <i>&</i> {nameOf[a.member_b]}
-              </span>
-              <span className="affinity-bar" style={{ width: `${(a.mean_abs_diff / maxAffinity) * 100}%` }} />
-              <span className="affinity-value">
-                {fmt(a.mean_abs_diff, 2)}★ <small>em {a.common_films} filmes</small>
-              </span>
-            </li>
-          ))}
-        </ol>
-        <p className="callout reveal">
-          <b>{generous.display_name}</b> é quem dá as notas mais altas ({fmt(generous.avg_rating ?? 0, 2)}); <b>{harsh.display_name}</b>, as mais
-          baixas ({fmt(harsh.avg_rating ?? 0, 2)}).
-        </p>
       </Slide>
 
       <Slide

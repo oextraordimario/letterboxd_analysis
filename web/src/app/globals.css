@@ -213,16 +213,11 @@ body { overflow-x: clip; }
 .ticket dl div { display: grid; gap: 1px; }
 .ticket dt { font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
 .ticket dd { margin: 0; }
+/* Ingresso do grupo: dourado, tinta escura. */
+.ticket-group { background: linear-gradient(180deg, #f6cf6a, #e0a93a); border-color: #f6cf6a; color: #1a130c; }
+.ticket-group .ticket-avg { color: #1a130c; border-bottom-color: #1a130c55; }
+.ticket-group .ticket-avg small, .ticket-group dt { color: #5a4220; }
 .stars { color: var(--accent); letter-spacing: 0.05em; white-space: nowrap; }
-
-/* ---------- Afinidade ---------- */
-
-.affinity { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; max-width: 780px; }
-.affinity li { display: grid; grid-template-columns: 220px 1fr auto; align-items: center; gap: 14px; font-size: 16px; }
-.affinity i { color: var(--muted); }
-.affinity-bar { height: 10px; border-radius: 0 4px 4px 0; background: var(--group); opacity: 0.85; }
-.affinity-value { font-family: var(--font-mono); font-size: 14px; white-space: nowrap; }
-.affinity-value small { color: var(--muted); }
 
 /* ---------- Barras ---------- */
 
@@ -326,8 +321,6 @@ tr.is-new td:first-child { box-shadow: inset 3px 0 0 var(--accent); }
 
 @media (max-width: 900px) {
   .two-col, .three-col { grid-template-columns: 1fr; gap: 8px; }
-  .affinity li { grid-template-columns: 1fr auto; }
-  .affinity-bar { grid-column: 1 / -1; grid-row: 2; }
 }
 @media (max-width: 560px) {
   body { font-size: 17px; }
@@ -378,6 +371,7 @@ html.deck .slide-season .stats-row .stat { padding: clamp(12px, 2.6vh, 28px) cla
 html.deck .tickets { grid-template-columns: repeat(auto-fit, minmax(0, 1fr)); gap: 14px; }
 html.deck .ticket { padding: 18px 16px 14px; }
 html.deck .ticket dl { gap: 6px; font-size: 14px; }
+html.deck .ticket h3 { font-size: clamp(19px, 1.75vw, 22px); }
 
 /* Pessoas: fotos limitadas pela altura disponível. */
 html.deck .people-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
@@ -389,7 +383,6 @@ html.deck .barlist li { padding: 1px 0; }
 html.deck .barlist-bar { height: 12px; }
 html.deck .barlist { margin-bottom: 0; }
 
-html.deck .affinity { max-width: 900px; gap: 10px; }
 html.deck .callout { margin-top: clamp(20px, 4vh, 40px); }
 html.deck .suggestions { font-size: clamp(20px, 2.4vh, 26px); gap: clamp(10px, 2vh, 20px); max-width: 900px; }
 
