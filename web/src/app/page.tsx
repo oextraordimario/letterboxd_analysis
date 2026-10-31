@@ -81,7 +81,6 @@ export default function Home() {
 
       <header className="hero">
         <div className="marquee">
-          <p className="marquee-top">Clube do filme · desde {monthYear(r.films[0].watched_date ?? r.generated_at)}</p>
           <h1>
             <span>Família</span> <span>Fã de</span> <span>Filmes</span>
           </h1>
