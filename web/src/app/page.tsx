@@ -79,7 +79,6 @@ const LABELS = [
   "Abertura",
   "Resumo",
   "Temporada nova",
-  "Cartazes",
   "Nossas notas",
   "Afinidade",
   "Gostamos mais",
@@ -106,8 +105,6 @@ export default function Home() {
   const brazil = r.countries.find((c) => c.country === "Brazil")?.movie_count ?? 0;
   const fewestDecade = [...r.decades].sort((a, b) => a.movie_count - b.movie_count)[0];
   const cage = r.people.actors.find((p) => p.name === "Nicolas Cage")?.movie_count ?? 0;
-  // Colunas do mural de cartazes para caber numa área ~2:1 (cartaz 2:3).
-  const posterCols = Math.ceil(Math.sqrt(1.5 * newFilms.length * 2.1));
   const maxAffinity = r.affinity[r.affinity.length - 1].mean_abs_diff;
 
   return (
@@ -159,35 +156,28 @@ export default function Home() {
         </nav>
       </Slide>
 
-      <Slide
-        id="temporada"
-        title={`${since.movies_watched} filmes depois de ${r.last_presented.title}`}
-        lede={
-          <>
-            A última retrospectiva parou no filme nº {r.last_presented.position}. De {date(since.first_date)} a {date(since.last_date)} vimos mais{" "}
-            {fmt(since.hours_watched, 0)} horas de cinema
-            {since.hours_watched > r.metrics.hours_watched - since.hours_watched ? ": mais do que tudo o que tinha rolado até então." : "."}
-          </>
-        }
-      >
+      <Slide id="temporada" className="slide-season" title="Filmes desde nov/24">
         <div className="stats-row reveal">
           <Stat value={fmt(since.movies_watched)} label="filmes novos" />
+          <Stat value={fmt(since.hours_watched, 0)} label="horas vistas" />
           <Stat value={fmt(since.avg_movie_length, 0)} label="min por filme, em média" />
+        </div>
+        <div className="stats-row reveal">
           <Stat value={since.name_longest_movie} label={`o mais longo · ${since.duration_longest_movie} min`} />
           <Stat value={since.best_lbxd_rating} label={`o mais bem avaliado no site · ${fmt(since.best_lbxd_rating_value, 2)}`} />
         </div>
-      </Slide>
-
-      <Slide id="cartazes" className="slide-posters">
-        <ol className="posters" style={{ "--cols": posterCols } as React.CSSProperties}>
-          {newFilms.map((f, i) => (
-            <li key={f.slug} style={{ "--i": i } as React.CSSProperties}>
-              <a href={f.url} target="_blank" rel="noreferrer" title={`${f.title} (${f.year})`}>
-                {f.poster_url ? <img src={f.poster_url} alt={f.title} loading="lazy" /> : <span>{f.title}</span>}
-              </a>
-            </li>
-          ))}
-        </ol>
+        <div className="ribbon reveal" style={{ "--n": newFilms.length } as React.CSSProperties}>
+          {/* Lista duplicada para o loop horizontal não ter emenda. */}
+          <ol className="ribbon-track">
+            {[...newFilms, ...newFilms].map((f, i) => (
+              <li key={f.slug + i} aria-hidden={i >= newFilms.length || undefined}>
+                <a href={f.url} target="_blank" rel="noreferrer" title={`${f.title} (${f.year})`} tabIndex={i >= newFilms.length ? -1 : undefined}>
+                  {f.poster_url ? <img src={f.poster_url} alt={f.title} loading="lazy" /> : <span>{f.title}</span>}
+                </a>
+              </li>
+            ))}
+          </ol>
+        </div>
       </Slide>
 
       <Slide

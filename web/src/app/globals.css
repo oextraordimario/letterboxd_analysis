@@ -168,12 +168,28 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gutter) 64px; pos
 
 /* ---------- Pôsteres ---------- */
 
-.posters { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(62px, 1fr)); gap: 6px; }
-@media (min-width: 900px) { .posters { grid-template-columns: repeat(var(--cols, 16), 1fr); } }
-.posters a { display: block; aspect-ratio: 2 / 3; overflow: hidden; border-radius: 3px; background: var(--surface-2); box-shadow: 0 0 0 1px #0006; }
-.posters img { width: 100%; height: 100%; object-fit: cover; filter: saturate(0.85); transition: transform 0.25s, filter 0.25s; }
-.posters a:hover img { transform: scale(1.06); filter: none; }
-.posters span { display: grid; place-items: center; height: 100%; padding: 4px; font-size: 10px; text-align: center; }
+/* Faixa de cartazes que passa sozinha na horizontal (sangra até as bordas da tela). */
+body { overflow-x: clip; }
+.ribbon {
+  margin-inline: calc(50% - 50vw); overflow: hidden; margin-top: clamp(8px, 2vh, 24px);
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 6%, #000 94%, transparent);
+          mask-image: linear-gradient(90deg, transparent, #000 6%, #000 94%, transparent);
+}
+.ribbon-track {
+  list-style: none; margin: 0; padding: 0; display: flex; gap: 10px; width: max-content;
+  animation: ribbon calc(var(--n, 80) * 1.4s) linear infinite;
+}
+.ribbon:hover .ribbon-track { animation-play-state: paused; }
+.ribbon li { flex: none; padding-right: 0; }
+.ribbon a {
+  display: block; height: clamp(120px, 24vh, 260px); aspect-ratio: 2 / 3; overflow: hidden; border-radius: 3px;
+  background: var(--surface-2); box-shadow: 0 0 0 1px #0006;
+}
+.ribbon img { width: 100%; height: 100%; object-fit: cover; filter: saturate(0.85); transition: transform 0.25s, filter 0.25s; }
+.ribbon a:hover img { transform: scale(1.06); filter: none; }
+.ribbon span { display: grid; place-items: center; height: 100%; padding: 4px; font-size: 11px; text-align: center; }
+/* gap de 10px entre todos os itens: o deslocamento de metade da trilha inclui meio gap. */
+@keyframes ribbon { to { transform: translateX(calc(-50% - 5px)); } }
 
 /* ---------- Ingressos (membros) ---------- */
 
@@ -352,11 +368,11 @@ html.deck .slide-inner { max-height: 100svh; }
 .slide .reveal:nth-child(4) { transition-delay: 0.36s; }
 html:not(.deck) .slide .reveal { opacity: 1; transform: none; }
 
-/* Mural de cartazes: entram um a um. */
-.slide-posters .slide-inner { padding: clamp(24px, 5vh, 56px) 0; }
-html.deck .slide-posters .posters { max-height: calc(100svh - 2 * clamp(24px, 5vh, 56px)); overflow: hidden; }
-.slide-posters .posters li { opacity: 0; transform: scale(0.85); transition: opacity 0.4s, transform 0.5s cubic-bezier(.2,.7,.2,1); transition-delay: calc(var(--i) * 12ms); }
-.slide-posters.is-active .posters li, .slide-posters.was-seen .posters li, html:not(.deck) .slide-posters .posters li { opacity: 1; transform: none; }
+/* Temporada nova: dois blocos de números + faixa de cartazes na mesma tela. */
+.slide-season .slide-inner { padding: clamp(24px, 6vh, 72px) 0; }
+html.deck .slide-season .stats-row { margin-bottom: clamp(10px, 2vh, 20px); }
+html.deck .slide-season .stats-row .stat { padding: clamp(12px, 2.6vh, 28px) clamp(18px, 2vw, 28px); }
+.slide-season .stats-row:nth-of-type(2) { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
 
 /* Ingressos numa fileira só. */
 html.deck .tickets { grid-template-columns: repeat(auto-fit, minmax(0, 1fr)); gap: 14px; }
@@ -419,7 +435,9 @@ html.deck .slide-fill .filmtable-scroll { flex: 1; min-height: 0; max-height: no
 @keyframes nudge { 0%, 100% { transform: translate(-50%, 0); } 50% { transform: translate(-50%, 5px); } }
 
 @media (prefers-reduced-motion: reduce) {
-  .slide .reveal, .slide-posters .posters li { transition: none; }
+  .slide .reveal { transition: none; }
+  .ribbon-track { animation: none; }
+  .ribbon { overflow-x: auto; }
 }
 
 /* Tabelas curtas (fora do último slide) mostram tudo, sem rolagem interna. */
