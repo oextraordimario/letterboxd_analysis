@@ -40,3 +40,6 @@
 ## Security & Configuration Tips
 - Do not commit API keys or tokens. Use `auths.env` locally and add new secrets to `.gitignore` if needed.
 - If sharing notebooks, strip outputs that expose sensitive data.
+
+## User's Reminders
+- Last presentation to friends: Nov 2024, 72 movies, ending at Meshes of the Afternoon (commit `e85a600`). Kiss Kiss Bang Bang ended the Dec 2024 data update (78 movies), which was never presented. See `PLANO.md`.
