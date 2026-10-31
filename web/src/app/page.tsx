@@ -101,11 +101,11 @@ const LABELS = [
   "Premiações pt2",
   "Notas: os dados",
   "Os esquecidos",
+  "Clima tenso: premiações",
+  "Clima tenso: os dados",
+  "Nem fede nem cheira",
   "#OpiniãoImpopular",
   "Impopular: os dados",
-  "Racharam: premiações",
-  "Racharam: os dados",
-  "Nem fede nem cheira",
   "Números",
   "Décadas e anos",
   "Atores e atrizes",
@@ -361,49 +361,7 @@ export default function Home() {
         </ol>
       </Slide>
 
-      <Slide id="impopular" title="#OpiniãoImpopular: premiações">
-        <div className="reveals reveal">
-          {[
-            { q: "Óscar amor incompreendido", sub: "gostamos mais que o mundo", f: bySlug[r.divergence.liked_more[0]] },
-            { q: "Óscar ranço eterno", sub: "gostamos menos que o mundo", f: bySlug[r.divergence.liked_less[0]] },
-          ].map(({ q, sub, f }) => (
-            <Reveal key={q} question={q} sub={sub}>
-              <article className="award">
-                <Statuette />
-                <p className="award-intro">E o Óscar vai para</p>
-                <a className="award-poster" href={f.url} target="_blank" rel="noreferrer">
-                  {f.poster_url && <img src={f.poster_url} alt="" />}
-                </a>
-                <h3>{f.title}</h3>
-                <p className="award-avg">
-                  {signed(f.diff_vs_lbxd ?? 0)}
-                  <small>
-                    {fmt(f.group_avg ?? 0, 2)} nossa · {fmt(f.lbxd_avg, 2)} Letterboxd
-                  </small>
-                </p>
-              </article>
-            </Reveal>
-          ))}
-        </div>
-      </Slide>
-
-      <Slide
-        id="impopular-dados"
-        title="#OpiniãoImpopular: os dados"
-      >
-        <div className="two-col dumbbells reveal">
-          <div>
-            <p className="subhead up">Gostamos mais que o mundo</p>
-            <Dumbbell films={r.divergence.liked_more.slice(0, 5).map((s) => bySlug[s])} members={r.members} />
-          </div>
-          <div>
-            <p className="subhead down">Gostamos menos que o mundo</p>
-            <Dumbbell films={r.divergence.liked_less.slice(0, 5).map((s) => bySlug[s])} members={r.members} />
-          </div>
-        </div>
-      </Slide>
-
-      <Slide id="racharam" title="Racharam o grupo: premiações">
+      <Slide id="racharam" title="Clima tenso (ou não): premiações">
         <div className="reveals reveal">
           {[
             { q: "Óscar discórdia", sub: "maior divergência entre nós", f: splits[0] },
@@ -435,7 +393,7 @@ export default function Home() {
         </div>
       </Slide>
 
-      <Slide id="racharam-dados" title="Racharam o grupo: os dados">
+      <Slide id="racharam-dados" title="Clima tenso (ou não): os dados">
         <div className="filmtable-scroll reveal">
           <table className="splits">
             <thead>
@@ -489,6 +447,48 @@ export default function Home() {
             </li>
           ))}
         </ol>
+      </Slide>
+
+      <Slide id="impopular" title="#OpiniãoImpopular: premiações">
+        <div className="reveals reveal">
+          {[
+            { q: "Óscar amor incompreendido", sub: "gostamos mais que o mundo", f: bySlug[r.divergence.liked_more[0]] },
+            { q: "Óscar ranço eterno", sub: "gostamos menos que o mundo", f: bySlug[r.divergence.liked_less[0]] },
+          ].map(({ q, sub, f }) => (
+            <Reveal key={q} question={q} sub={sub}>
+              <article className="award">
+                <Statuette />
+                <p className="award-intro">E o Óscar vai para</p>
+                <a className="award-poster" href={f.url} target="_blank" rel="noreferrer">
+                  {f.poster_url && <img src={f.poster_url} alt="" />}
+                </a>
+                <h3>{f.title}</h3>
+                <p className="award-avg">
+                  {signed(f.diff_vs_lbxd ?? 0)}
+                  <small>
+                    {fmt(f.group_avg ?? 0, 2)} nossa · {fmt(f.lbxd_avg, 2)} Letterboxd
+                  </small>
+                </p>
+              </article>
+            </Reveal>
+          ))}
+        </div>
+      </Slide>
+
+      <Slide
+        id="impopular-dados"
+        title="#OpiniãoImpopular: os dados"
+      >
+        <div className="two-col dumbbells reveal">
+          <div>
+            <p className="subhead up">Gostamos mais que o mundo</p>
+            <Dumbbell films={r.divergence.liked_more.slice(0, 5).map((s) => bySlug[s])} members={r.members} />
+          </div>
+          <div>
+            <p className="subhead down">Gostamos menos que o mundo</p>
+            <Dumbbell films={r.divergence.liked_less.slice(0, 5).map((s) => bySlug[s])} members={r.members} />
+          </div>
+        </div>
       </Slide>
 
       <Slide id="numeros" title="Os números da sessão">
