@@ -6,7 +6,7 @@ import { FilmTable } from "@/components/FilmTable";
 import { Goals, type Goal } from "@/components/Goals";
 import { Reveal } from "@/components/Reveal";
 import { countryPt, date, fmt, genrePt, languagePt, monthYear, signed, stars } from "@/lib/format";
-import { loadReport, type Film, type Person } from "@/lib/report";
+import { loadReport, type CrewRole, type Film, type Person } from "@/lib/report";
 
 const r = loadReport();
 const bySlug = Object.fromEntries(r.films.map((f) => [f.slug, f]));
@@ -119,6 +119,34 @@ const CREW_PT: Record<string, string> = {
   sound: "Som",
 };
 
+// Nomes cortados à mão dos empates de bastidores (escolha editorial).
+const CREW_HIDDEN = new Set(["Ti West", "Richard Taylor", "John Hubbard"]);
+
+function Credit({ c, solo = false }: { c: CrewRole; solo?: boolean }) {
+  return (
+    <div className={`credit${solo ? " credit-solo" : ""}`}>
+      <dt>{CREW_PT[c.role] ?? c.role}</dt>
+      <dd className="credit-photos">
+        {c.people.map((p) => (
+          <span key={p.link} className="avatar" title={p.name}>
+            {p.image_url ? <img src={p.image_url} alt="" loading="lazy" /> : <span>{p.name[0]}</span>}
+          </span>
+        ))}
+      </dd>
+      {c.people.map((p) => (
+        <dd key={p.link} className="credit-name">
+          <a href={p.url} target="_blank" rel="noreferrer" title={p.films.join(" · ")}>
+            {p.name}
+          </a>
+        </dd>
+      ))}
+      <dd className="credit-count">
+        {c.people[0].movie_count} filmes{c.people.length > 1 ? " cada" : ""}
+      </dd>
+    </div>
+  );
+}
+
 // Rótulos dos slides, na ordem em que aparecem (navegação lateral).
 const LABELS = [
   "Abertura",
@@ -202,6 +230,9 @@ export default function Home() {
     { text: "Mais filmes musicais!", status: musicNow > musicThen ? "done" : "miss", evidence: `${musicThen} → ${musicNow}` },
     { text: "Jhones logar mais filmes!!!", status: "miss", evidence: "nunca mais logou nada" },
   ];
+  const crew = r.crew.map((c) => ({ ...c, people: c.people.filter((p) => !CREW_HIDDEN.has(p.name)) })).filter((c) => c.people.length);
+  const crewSolo = crew.filter((c) => c.people.length === 1);
+  const crewGroup = crew.filter((c) => c.people.length > 1);
   const forgotten = r.films.filter((f) => f.group_voters < r.min_voters).sort((a, b) => b.group_voters - a.group_voters);
   // Consenso: nota média alta (ou baixa) com pouco desvio. Empate: mais notas, depois mais popular no site.
   const eligible = r.films.filter((f) => f.group_voters >= r.min_voters);
@@ -625,25 +656,11 @@ export default function Home() {
 
       <Slide id="bastidores" title="Bastidores" lede="Quem mais apareceu nos créditos que ninguém lê.">
         <dl className="credits reveal">
-          {r.crew.map((c) => (
-            <div key={c.role} className="credit">
-              <dt>{CREW_PT[c.role] ?? c.role}</dt>
-              <dd className="credit-photos">
-                {c.people.map((p) => (
-                  <span key={p.link} className="avatar" title={p.name}>
-                    {p.image_url ? <img src={p.image_url} alt="" loading="lazy" /> : <span>{p.name[0]}</span>}
-                  </span>
-                ))}
-              </dd>
-              {c.people.map((p) => (
-                <dd key={p.link}>
-                  <a href={p.url} target="_blank" rel="noreferrer" title={p.films.join(" · ")}>
-                    {p.name}
-                  </a>
-                </dd>
-              ))}
-              <dd className="credit-count">{c.people[0].movie_count} filmes{c.people.length > 1 ? " cada" : ""}</dd>
-            </div>
+          {crewSolo.map((c) => (
+            <Credit key={c.role} c={c} solo />
+          ))}
+          {crewGroup.map((c) => (
+            <Credit key={c.role} c={c} />
           ))}
         </dl>
       </Slide>

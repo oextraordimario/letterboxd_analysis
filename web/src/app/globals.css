@@ -323,14 +323,17 @@ a:hover .darling-poster img { transform: scale(1.05); }
 /* ---------- Bastidores (créditos) ---------- */
 
 .credits { margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: clamp(14px, 2.6vh, 28px) clamp(20px, 3vw, 40px); }
-@media (min-width: 900px) { .credits { grid-template-columns: repeat(6, minmax(0, 1fr)); } }
+@media (min-width: 900px) { .credits { grid-template-columns: repeat(30, minmax(0, 1fr)); } .credit-solo { grid-column: span 5; } .credit:not(.credit-solo) { grid-column: span 6; } }
+.credit-solo .credit-photos .avatar { width: clamp(64px, 13vh, 130px); box-shadow: 0 0 0 2px var(--bg), 0 0 0 4px var(--accent), 0 0 24px #f2c14e44; }
+.credit-solo .credit-name { font-size: clamp(17px, 2.7vh, 26px); color: var(--accent); }
+.credit-solo .credit-count { font-size: 15px; }
 .credit { display: grid; align-content: start; gap: 2px; text-align: center; }
 .credit dt { font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.14em; color: var(--muted); margin-bottom: 4px; }
 .credit dd { margin: 0; font-family: var(--font-display); font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; font-size: clamp(14px, 2.1vh, 20px); line-height: 1.1; }
 .credit dd a { text-decoration: none; }
 .credit dd a:hover { color: var(--accent); }
 .credit-photos { display: flex; justify-content: center; margin: 2px 0 8px !important; }
-.credit-photos .avatar { width: clamp(44px, 7.5vh, 76px); box-shadow: 0 0 0 2px var(--bg), 0 0 0 3px #5a3a17; }
+.credit-photos .avatar { width: clamp(38px, 6vh, 60px); box-shadow: 0 0 0 2px var(--bg), 0 0 0 3px #5a3a17; }
 .credit-photos .avatar + .avatar { margin-left: -12px; }
 .credit-photos .avatar > span { font-size: 20px; }
 .credit .credit-count { margin-top: 3px; font-family: var(--font-body); font-weight: 400; text-transform: none; letter-spacing: 0; font-style: italic; font-size: 14px; color: var(--ink-2); }
