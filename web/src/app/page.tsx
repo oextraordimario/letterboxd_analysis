@@ -4,7 +4,7 @@ import { Dumbbell } from "@/components/Dumbbell";
 import { FilmTable } from "@/components/FilmTable";
 import { Reveal } from "@/components/Reveal";
 import { countryPt, date, fmt, genrePt, languagePt, monthYear, signed, stars } from "@/lib/format";
-import { loadReport, type Person } from "@/lib/report";
+import { loadReport, type Film, type Person } from "@/lib/report";
 
 const r = loadReport();
 const bySlug = Object.fromEntries(r.films.map((f) => [f.slug, f]));
@@ -74,6 +74,9 @@ function People({ people }: { people: Person[] }) {
   );
 }
 
+/** Nota como número + estrela ("4,5★"); a fonte display não tem o glifo ★ desenhado em sequência. */
+const starNum = (v: number, digits?: number) => `${fmt(v, digits ?? (Number.isInteger(v) ? 0 : 1))}★`;
+
 function Avatar({ url, name }: { url: string; name: string }) {
   return <span className="avatar">{url ? <img src={url} alt="" /> : <span>{name[0]}</span>}</span>;
 }
@@ -101,6 +104,7 @@ const LABELS = [
   "Impopular: os dados",
   "Racharam: premiações",
   "Racharam: os dados",
+  "Nem fede nem cheira",
   "Números",
   "Décadas e anos",
   "Atores e atrizes",
@@ -123,10 +127,19 @@ export default function Home() {
   const generous = byAvg[0];
   const harsh = byAvg[byAvg.length - 1];
   const forgotten = r.films.filter((f) => f.group_voters < r.min_voters).sort((a, b) => b.group_voters - a.group_voters);
-  // Maior convergência: menor desvio; empate vai para quem teve mais notas, depois o mais popular no site.
-  const consensus = r.films
-    .filter((f) => f.group_voters >= r.min_voters)
-    .sort((a, b) => (a.group_std ?? 9) - (b.group_std ?? 9) || b.group_voters - a.group_voters || b.lbxd_rating_count - a.lbxd_rating_count)[0];
+  // Consenso: nota média alta (ou baixa) com pouco desvio. Empate: mais notas, depois mais popular no site.
+  const eligible = r.films.filter((f) => f.group_voters >= r.min_voters);
+  const tieBreak = (a: Film, b: Film) => b.group_voters - a.group_voters || b.lbxd_rating_count - a.lbxd_rating_count;
+  const lovedByAll = [...eligible].sort(
+    (a, b) => ((b.group_avg ?? 0) - (b.group_std ?? 0)) - ((a.group_avg ?? 0) - (a.group_std ?? 0)) || tieBreak(a, b),
+  )[0];
+  const hatedByAll = [...eligible].sort(
+    (a, b) => ((a.group_avg ?? 9) + (a.group_std ?? 9)) - ((b.group_avg ?? 9) + (b.group_std ?? 9)) || tieBreak(a, b),
+  )[0];
+  // "Nem fede nem cheira": todo mundo deu ★★★, ou quase.
+  const lukewarm = eligible
+    .filter((f) => Math.abs((f.group_avg ?? 0) - 3) <= 0.25 && (f.group_std ?? 9) <= 0.25)
+    .sort((a, b) => (a.group_std ?? 0) - (b.group_std ?? 0) || tieBreak(a, b));
   const groupDiff = r.group_avg_overall - r.lbxd_avg_overall_eligible;
   const groupRated = r.films.filter((f) => f.group_voters >= r.min_voters).length;
 
@@ -345,7 +358,8 @@ export default function Home() {
         <div className="reveals reveal">
           {[
             { q: "Óscar discórdia", sub: "maior divergência entre nós", f: splits[0] },
-            { q: "Óscar consenso", sub: "maior convergência entre nós", f: consensus },
+            { q: "Óscar amor unânime", sub: "todo mundo deu nota alta", f: lovedByAll },
+            { q: "Óscar ódio unânime", sub: "todo mundo deu nota baixa", f: hatedByAll },
           ].map(({ q, sub, f }) => {
             const vals = Object.values(f.ratings).filter((v): v is number => v != null);
             const lo = Math.min(...vals);
@@ -360,7 +374,7 @@ export default function Home() {
                   </a>
                   <h3>{f.title}</h3>
                   <p className="award-avg">
-                    {lo === hi ? stars(lo) : `${stars(lo)} a ${stars(hi)}`}
+                    {f === splits[0] ? `${starNum(lo)} a ${starNum(hi)}` : starNum(f.group_avg ?? 0, 2)}
                     <small>
                       {vals.length} notas · desvio {fmt(f.group_std ?? 0, 2)}
                     </small>
@@ -414,6 +428,18 @@ export default function Home() {
             </tbody>
           </table>
         </div>
+      </Slide>
+
+      <Slide id="mornos" title="Nem fede nem cheira" lede={`${lukewarm.length} filmes em que todo mundo deu ★★★, ou quase isso.`}>
+        <ol className="lukewarm reveal">
+          {lukewarm.map((f) => (
+            <li key={f.slug}>
+              <a href={f.url} target="_blank" rel="noreferrer" title={`${f.title} (${f.year}) · ${fmt(f.group_avg ?? 0, 2)}★ · desvio ${fmt(f.group_std ?? 0, 2)}`}>
+                {f.poster_url ? <img src={f.poster_url} alt={f.title} loading="lazy" /> : <span>{f.title}</span>}
+              </a>
+            </li>
+          ))}
+        </ol>
       </Slide>
 
       <Slide id="numeros" title="Os números da sessão">

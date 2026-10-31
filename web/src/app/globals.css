@@ -206,6 +206,15 @@ body { overflow-x: clip; }
 .forgotten-raters > span + span { margin-left: -6px; }
 .forgotten-raters small { margin-left: 8px; font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
 
+/* ---------- Nem fede nem cheira ---------- */
+
+.lukewarm { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(76px, 1fr)); gap: 10px; }
+@media (min-width: 900px) { .lukewarm { grid-template-columns: repeat(11, 1fr); } }
+.lukewarm a { display: block; aspect-ratio: 2 / 3; overflow: hidden; border-radius: 3px; background: var(--surface-2); box-shadow: 0 0 0 1px #0006; }
+.lukewarm img { width: 100%; height: 100%; object-fit: cover; filter: saturate(0.35) sepia(0.25); transition: filter 0.3s, transform 0.3s; }
+.lukewarm a:hover img { filter: none; transform: scale(1.05); }
+.lukewarm span { display: grid; place-items: center; height: 100%; padding: 4px; font-size: 11px; text-align: center; }
+
 /* ---------- Ingressos (membros) ---------- */
 
 .tickets { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 18px; }
