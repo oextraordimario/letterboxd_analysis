@@ -298,7 +298,7 @@ export default function Home() {
         <div className="reveals reveal">
           {[
             { q: "Óscar amor incompreendido", sub: "gostamos mais que o mundo", f: bySlug[r.divergence.liked_more[0]] },
-            { q: "Óscar ódio incompreendido", sub: "gostamos menos que o mundo", f: bySlug[r.divergence.liked_less[0]] },
+            { q: "Óscar ranço eterno", sub: "gostamos menos que o mundo", f: bySlug[r.divergence.liked_less[0]] },
           ].map(({ q, sub, f }) => (
             <Reveal key={q} question={q} sub={sub}>
               <article className="award">
@@ -323,16 +323,15 @@ export default function Home() {
       <Slide
         id="impopular-dados"
         title="#OpiniãoImpopular: os dados"
-        lede={`Média do grupo vs. média do Letterboxd, nos filmes com ${r.min_voters} ou mais notas nossas. Passe o mouse para ver a nota de cada um.`}
       >
         <div className="two-col dumbbells reveal">
           <div>
             <p className="subhead up">Gostamos mais que o mundo</p>
-            <Dumbbell films={r.divergence.liked_more.map((s) => bySlug[s])} members={r.members} />
+            <Dumbbell films={r.divergence.liked_more.slice(0, 5).map((s) => bySlug[s])} members={r.members} />
           </div>
           <div>
             <p className="subhead down">Gostamos menos que o mundo</p>
-            <Dumbbell films={r.divergence.liked_less.map((s) => bySlug[s])} members={r.members} />
+            <Dumbbell films={r.divergence.liked_less.slice(0, 5).map((s) => bySlug[s])} members={r.members} />
           </div>
         </div>
       </Slide>
