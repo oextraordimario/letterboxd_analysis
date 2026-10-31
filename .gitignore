@@ -12,3 +12,6 @@ data/raw/_cache/
 
 # Legacy
 legacy/src/playwright_profile/
+
+.vercel
+.env*
