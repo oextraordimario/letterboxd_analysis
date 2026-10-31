@@ -74,12 +74,28 @@ function People({ people }: { people: Person[] }) {
   );
 }
 
+function Avatar({ url, name }: { url: string; name: string }) {
+  return <span className="avatar">{url ? <img src={url} alt="" /> : <span>{name[0]}</span>}</span>;
+}
+
+/** Silhueta de estatueta (tipo Oscar), desenhada à mão. */
+function Statuette() {
+  return (
+    <svg className="statuette" viewBox="0 0 24 64" aria-hidden>
+      <circle cx="12" cy="5.5" r="3.6" />
+      <path d="M7.6 11.2Q12 8.6 16.4 11.2L15.4 22Q14.6 33 15 44H9Q9.4 33 8.6 22Z" />
+      <path d="M7 44h10v3H7zM5 47.5h14v3H5zM6 51h12v10H6z" />
+    </svg>
+  );
+}
+
 // Rótulos dos slides, na ordem em que aparecem (navegação lateral).
 const LABELS = [
   "Abertura",
   "Resumo",
   "Temporada nova",
-  "Nossas notas",
+  "Premiações",
+  "Notas: os dados",
   "Gostamos mais",
   "Gostamos menos",
   "Racharam o grupo",
@@ -179,42 +195,73 @@ export default function Home() {
         </div>
       </Slide>
 
-      <Slide id="notas" title="Nossas notas">
+      <Slide id="notas" title="Nossas notas: premiações">
         <div className="reveals reveal">
           <Reveal question="Como a gente se compara com o resto do Letterboxd?">
-            <article className="ticket ticket-group">
-              <header>
-                <h3>FFF</h3>
-              </header>
-              <p className="ticket-avg">
+            <article className="award award-group">
+              <Statuette />
+              <p className="award-intro">E o Óscar vai para</p>
+              <ul className="award-avatars">
+                {r.members.map((mm) => (
+                  <li key={mm.username}><Avatar url={mm.avatar_url} name={mm.display_name} /></li>
+                ))}
+              </ul>
+              <h3>FFF</h3>
+              <p className="award-avg">
                 {fmt(r.group_avg_overall, 2)}
-                <small>nota média do grupo</small>
+                <small>nota média do grupo · {signed(r.group_avg_overall - r.lbxd_avg_overall_eligible)} vs. Letterboxd</small>
               </p>
-              <dl>
-                <div><dt>Filmes avaliados</dt><dd>{groupRated} de {m.movies_watched}</dd></div>
-                <div><dt>Vs. Letterboxd</dt><dd>{signed(r.group_avg_overall - r.lbxd_avg_overall_eligible)}</dd></div>
-              </dl>
             </article>
           </Reveal>
           {[
-            { q: "Troféu generosidade (notas mais altas)", mm: generous },
-            { q: "Troféu cinéfilo (notas mais baixas)", mm: harsh },
+            { q: "Óscar generosidade (notas mais altas)", mm: generous },
+            { q: "Óscar cinéfilo (notas mais baixas)", mm: harsh },
           ].map(({ q, mm }) => (
             <Reveal key={q} question={q}>
-              <article className="ticket">
-                <header>
-                  <h3>{mm.display_name}</h3>
-                </header>
-                <p className="ticket-avg">
+              <article className="award">
+                <Statuette />
+                <p className="award-intro">E o Óscar vai para</p>
+                <span className="award-photo"><Avatar url={mm.avatar_url} name={mm.display_name} /></span>
+                <h3>{mm.display_name}</h3>
+                <p className="award-avg">
                   {fmt(mm.avg_rating ?? 0, 2)}
-                  <small>nota média</small>
+                  <small>nota média · {signed(mm.avg_diff_vs_group ?? 0)} vs. resto do grupo</small>
                 </p>
-                <dl>
-                  <div><dt>Filmes da lista</dt><dd>{mm.films_seen} de {m.movies_watched}</dd></div>
-                  <div><dt>Vs. resto do grupo</dt><dd>{signed(mm.avg_diff_vs_group ?? 0)}</dd></div>
-                </dl>
               </article>
             </Reveal>
+          ))}
+        </div>
+      </Slide>
+
+      <Slide id="dados" title="Nossas notas: os dados">
+        <div className="tickets reveal">
+          <article className="ticket ticket-group">
+            <header>
+              <h3>FFF</h3>
+            </header>
+            <p className="ticket-avg">
+              {fmt(r.group_avg_overall, 2)}
+              <small>nota média do grupo</small>
+            </p>
+            <dl>
+              <div><dt>Filmes avaliados</dt><dd>{groupRated} de {m.movies_watched}</dd></div>
+              <div><dt>Vs. Letterboxd</dt><dd>{signed(r.group_avg_overall - r.lbxd_avg_overall_eligible)}</dd></div>
+            </dl>
+          </article>
+          {r.members.map((mm) => (
+            <article key={mm.username} className="ticket">
+              <header>
+                <h3>{mm.display_name}</h3>
+              </header>
+              <p className="ticket-avg">
+                {fmt(mm.avg_rating ?? 0, 2)}
+                <small>nota média</small>
+              </p>
+              <dl>
+                <div><dt>Filmes da lista</dt><dd>{mm.films_seen} de {m.movies_watched}</dd></div>
+                <div><dt>Vs. resto do grupo</dt><dd>{signed(mm.avg_diff_vs_group ?? 0)}</dd></div>
+              </dl>
+            </article>
           ))}
         </div>
       </Slide>

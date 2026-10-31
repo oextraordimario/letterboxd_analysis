@@ -121,7 +121,7 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gutter) 64px; pos
 .cast ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px clamp(20px, 4vw, 44px); }
 .cast a { display: grid; justify-items: center; gap: 10px; text-decoration: none; }
 .avatar {
-  width: clamp(72px, 9vw, 104px); aspect-ratio: 1; border-radius: 50%; overflow: hidden; background: var(--surface-2);
+  display: block; flex: none; width: clamp(72px, 9vw, 104px); aspect-ratio: 1; border-radius: 50%; overflow: hidden; background: var(--surface-2);
   box-shadow: 0 0 0 2px var(--bg), 0 0 0 4px #5a3a17, 0 0 18px #f2c14e33; transition: box-shadow 0.2s, transform 0.2s;
 }
 .avatar img { width: 100%; height: 100%; object-fit: cover; }
@@ -141,12 +141,12 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gutter) 64px; pos
   flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: center;
   padding: clamp(40px, 8vh, 96px) 0;
 }
-.section-head { max-width: 860px; margin-bottom: clamp(20px, 4vh, 40px); }
+.section-head { max-width: none; margin-bottom: clamp(20px, 4vh, 40px); }
 .slide h2 {
   margin: 0; font-family: var(--font-display); font-weight: 800; text-transform: uppercase;
   font-size: clamp(40px, min(6.5vw, 10vh), 96px); line-height: 0.92; letter-spacing: 0.01em;
 }
-.lede { color: var(--ink-2); font-size: 20px; margin: 16px 0 0; }
+.lede { color: var(--ink-2); font-size: 20px; margin: 16px 0 0; max-width: 860px; }
 .subhead { font-size: 17px; color: var(--ink-2); margin: 40px 0 12px; }
 .subhead.up { color: var(--up); }
 .subhead.down { color: var(--down); }
@@ -229,18 +229,50 @@ body { overflow-x: clip; }
 .flip.is-open .flip-front { transform: rotateY(180deg); }
 .flip.is-open .flip-back { transform: none; }
 .flip-front {
-  all: unset; grid-area: 1 / 1; cursor: pointer; box-sizing: border-box; min-height: 260px;
-  display: flex; flex-direction: column; justify-content: space-between; gap: 24px;
-  padding: 24px 22px; border-radius: 10px; border: 1px dashed #6a5640;
-  background: repeating-linear-gradient(135deg, #1d1916 0 10px, #201b17 10px 20px);
+  all: unset; grid-area: 1 / 1; cursor: pointer; box-sizing: border-box; min-height: 300px; position: relative; overflow: hidden;
+  display: flex; flex-direction: column; justify-content: flex-end; gap: 14px;
+  padding: 24px 22px; border-radius: 6px; border: 1px solid #a8862f;
+  background: linear-gradient(160deg, #8a1f1f, #5c1212); box-shadow: 0 18px 40px #0008, inset 0 0 0 6px #5c121255, inset 0 0 0 7px #c9a24a66;
   backface-visibility: hidden; -webkit-backface-visibility: hidden;
-  transition: transform 0.8s cubic-bezier(.3,.7,.2,1), border-color 0.2s, background 0.2s;
+  transition: transform 0.8s cubic-bezier(.3,.7,.2,1), box-shadow 0.2s;
 }
-.flip-front:hover { border-color: var(--accent); }
+/* Aba do envelope (triângulo) e lacre com a estatueta. */
+.envelope-flap {
+  position: absolute; inset: 0 0 auto 0; height: 46%;
+  background: linear-gradient(180deg, #9c2626, #741919); clip-path: polygon(0 0, 100% 0, 50% 100%);
+  filter: drop-shadow(0 2px 0 #c9a24a88);
+}
+.envelope-seal {
+  position: absolute; left: 50%; top: 46%; transform: translate(-50%, -50%);
+  width: 56px; height: 56px; border-radius: 50%; display: grid; place-items: center;
+  background: radial-gradient(circle at 35% 30%, #f6d987, #c9952e 60%, #8f6519); box-shadow: 0 3px 8px #0009, inset 0 0 0 3px #a87a24;
+}
+.envelope-seal svg { height: 38px; fill: #5c3f0e; }
+.flip-front .flip-question { color: #f6e7c4; }
+.flip-front .flip-hint { color: #f2c14e; }
+.flip-front:hover { box-shadow: 0 22px 48px #000a, inset 0 0 0 6px #5c121255, inset 0 0 0 7px #f2c14e; }
 .flip-front:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
 .flip-question { font-family: var(--font-display); font-weight: 800; text-transform: uppercase; font-size: clamp(24px, 2.4vw, 32px); line-height: 1.02; }
 .flip-hint { font-family: var(--font-mono); font-size: 12px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); }
 .flip-front:hover .flip-hint { text-decoration: underline; text-underline-offset: 4px; }
+/* Cartão de dentro do envelope. */
+.award {
+  display: flex; flex-direction: column; align-items: center; text-align: center; gap: 8px; min-height: 300px;
+  padding: 18px 18px 20px; border-radius: 6px; color: #241a10;
+  background: linear-gradient(180deg, #fbf3df, #efe0bd); box-shadow: 0 18px 40px #0008, inset 0 0 0 5px #fbf3df, inset 0 0 0 6px #b8913a;
+}
+.statuette { height: 44px; fill: #b8862a; flex: none; }
+.award-intro { margin: 0; font-style: italic; font-size: 15px; color: #6a5236; }
+.award h3 { margin: 0; font-family: var(--font-display); font-weight: 800; text-transform: uppercase; font-size: 30px; line-height: 1; letter-spacing: 0.03em; }
+.award-photo { margin: 6px 0 4px; }
+.award-photo .avatar { width: clamp(84px, 14vh, 120px); box-shadow: 0 0 0 2px #fbf3df, 0 0 0 4px #b8913a; }
+.award-avatars { list-style: none; margin: 4px 0; padding: 0; display: flex; justify-content: center; }
+.award-avatars li + li { margin-left: -14px; }
+.award-avatars .avatar { width: 50px; box-shadow: 0 0 0 2px #fbf3df; }
+.award-avg { margin: auto 0 0; font-family: var(--font-display); font-weight: 900; font-size: 46px; line-height: 1; color: #8a1f1f; }
+.award-avg small { display: block; margin-top: 6px; font-family: var(--font-mono); font-weight: 400; font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase; color: #6a5236; }
+.award-group .award-avg { color: #9a6a12; }
+
 @media (prefers-reduced-motion: reduce) { .flip-front, .flip-back { transition: none; } }
 
 .stars { color: var(--accent); letter-spacing: 0.05em; white-space: nowrap; }
