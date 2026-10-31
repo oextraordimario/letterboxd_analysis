@@ -217,6 +217,32 @@ body { overflow-x: clip; }
 .ticket-group { background: linear-gradient(180deg, #f6cf6a, #e0a93a); border-color: #f6cf6a; color: #1a130c; }
 .ticket-group .ticket-avg { color: #1a130c; border-bottom-color: #1a130c55; }
 .ticket-group .ticket-avg small, .ticket-group dt { color: #5a4220; }
+/* Perguntas que viram para revelar um ingresso. */
+.reveals { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: clamp(16px, 2.5vw, 32px); max-width: 960px; }
+.flip { display: grid; perspective: 1400px; }
+.flip-front, .flip-back {
+  grid-area: 1 / 1; backface-visibility: hidden; -webkit-backface-visibility: hidden;
+  transition: transform 0.8s cubic-bezier(.3,.7,.2,1);
+}
+.flip-back { transform: rotateY(-180deg); display: grid; }
+.flip-back .ticket { --notch: 146px; }
+.flip.is-open .flip-front { transform: rotateY(180deg); }
+.flip.is-open .flip-back { transform: none; }
+.flip-front {
+  all: unset; grid-area: 1 / 1; cursor: pointer; box-sizing: border-box; min-height: 260px;
+  display: flex; flex-direction: column; justify-content: space-between; gap: 24px;
+  padding: 24px 22px; border-radius: 10px; border: 1px dashed #6a5640;
+  background: repeating-linear-gradient(135deg, #1d1916 0 10px, #201b17 10px 20px);
+  backface-visibility: hidden; -webkit-backface-visibility: hidden;
+  transition: transform 0.8s cubic-bezier(.3,.7,.2,1), border-color 0.2s, background 0.2s;
+}
+.flip-front:hover { border-color: var(--accent); }
+.flip-front:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
+.flip-question { font-family: var(--font-display); font-weight: 800; text-transform: uppercase; font-size: clamp(24px, 2.4vw, 32px); line-height: 1.02; }
+.flip-hint { font-family: var(--font-mono); font-size: 12px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); }
+.flip-front:hover .flip-hint { text-decoration: underline; text-underline-offset: 4px; }
+@media (prefers-reduced-motion: reduce) { .flip-front, .flip-back { transition: none; } }
+
 .stars { color: var(--accent); letter-spacing: 0.05em; white-space: nowrap; }
 
 /* ---------- Barras ---------- */

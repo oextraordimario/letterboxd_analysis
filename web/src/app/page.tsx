@@ -2,6 +2,7 @@ import { BarList } from "@/components/BarList";
 import { Deck } from "@/components/Deck";
 import { Dumbbell } from "@/components/Dumbbell";
 import { FilmTable } from "@/components/FilmTable";
+import { Reveal } from "@/components/Reveal";
 import { countryPt, date, fmt, genrePt, languagePt, monthYear, signed, stars } from "@/lib/format";
 import { loadReport, type Person } from "@/lib/report";
 
@@ -100,7 +101,10 @@ export default function Home() {
   const brazil = r.countries.find((c) => c.country === "Brazil")?.movie_count ?? 0;
   const fewestDecade = [...r.decades].sort((a, b) => a.movie_count - b.movie_count)[0];
   const cage = r.people.actors.find((p) => p.name === "Nicolas Cage")?.movie_count ?? 0;
-  const groupRated = r.films.filter((f) => f.group_voters >= r.min_voters).length;
+  const byAvg = [...r.members].sort((a, b) => (b.avg_rating ?? 0) - (a.avg_rating ?? 0));
+  const generous = byAvg[0];
+  const harsh = byAvg[byAvg.length - 1];
+  const groupRated =r.films.filter((f) => f.group_voters >= r.min_voters).length;
 
   return (
     <main>
@@ -176,34 +180,41 @@ export default function Home() {
       </Slide>
 
       <Slide id="notas" title="Nossas notas">
-        <div className="tickets reveal">
-          <article className="ticket ticket-group">
-            <header>
-              <h3>FFF</h3>
-            </header>
-            <p className="ticket-avg">
-              {fmt(r.group_avg_overall, 2)}
-              <small>nota média do grupo</small>
-            </p>
-            <dl>
-              <div><dt>Filmes avaliados</dt><dd>{groupRated} de {m.movies_watched}</dd></div>
-              <div><dt>Vs. Letterboxd</dt><dd>{signed(r.group_avg_overall - r.lbxd_avg_overall_eligible)}</dd></div>
-            </dl>
-          </article>
-          {r.members.map((mm) => (
-            <article key={mm.username} className="ticket">
+        <div className="reveals reveal">
+          <Reveal question="Como a gente se compara com o resto do Letterboxd?">
+            <article className="ticket ticket-group">
               <header>
-                <h3>{mm.display_name}</h3>
+                <h3>FFF</h3>
               </header>
               <p className="ticket-avg">
-                {fmt(mm.avg_rating ?? 0, 2)}
-                <small>nota média</small>
+                {fmt(r.group_avg_overall, 2)}
+                <small>nota média do grupo</small>
               </p>
               <dl>
-                <div><dt>Filmes da lista</dt><dd>{mm.films_seen} de {m.movies_watched}</dd></div>
-                <div><dt>Vs. resto do grupo</dt><dd>{signed(mm.avg_diff_vs_group ?? 0)}</dd></div>
+                <div><dt>Filmes avaliados</dt><dd>{groupRated} de {m.movies_watched}</dd></div>
+                <div><dt>Vs. Letterboxd</dt><dd>{signed(r.group_avg_overall - r.lbxd_avg_overall_eligible)}</dd></div>
               </dl>
             </article>
+          </Reveal>
+          {[
+            { q: "Troféu generosidade (notas mais altas)", mm: generous },
+            { q: "Troféu cinéfilo (notas mais baixas)", mm: harsh },
+          ].map(({ q, mm }) => (
+            <Reveal key={q} question={q}>
+              <article className="ticket">
+                <header>
+                  <h3>{mm.display_name}</h3>
+                </header>
+                <p className="ticket-avg">
+                  {fmt(mm.avg_rating ?? 0, 2)}
+                  <small>nota média</small>
+                </p>
+                <dl>
+                  <div><dt>Filmes da lista</dt><dd>{mm.films_seen} de {m.movies_watched}</dd></div>
+                  <div><dt>Vs. resto do grupo</dt><dd>{signed(mm.avg_diff_vs_group ?? 0)}</dd></div>
+                </dl>
+              </article>
+            </Reveal>
           ))}
         </div>
       </Slide>
