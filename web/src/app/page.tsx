@@ -689,19 +689,19 @@ export default function Home() {
         </div>
       </Slide>
 
-      <Slide id="atores" title="Quem mais apareceu na nossa tela" lede="Atores e atrizes com mais filmes na lista.">
+      <Slide id="atores" title="Quem mais apareceu">
         <People people={r.people.actors} />
       </Slide>
 
-      <Slide id="direcao" title="Atrás da câmera" lede="Quem mais dirigiu o que a gente viu.">
+      <Slide id="direcao" title="Atrás da câmera">
         <People people={r.people.directors} />
       </Slide>
 
-      <Slide id="roteiro" title="Quem escreveu" lede="Roteiristas com mais filmes na lista.">
+      <Slide id="roteiro" title="Quem escreveu">
         <People people={r.people.writers} />
       </Slide>
 
-      <Slide id="bastidores" title="Bastidores" lede="Quem mais apareceu nos créditos que ninguém lê.">
+      <Slide id="bastidores" title="Bastidores">
         <dl className="credits reveal">
           {crewSolo.map((c) => (
             <Credit key={c.role} c={c} solo />
@@ -738,19 +738,19 @@ export default function Home() {
         </div>
       </Slide>
 
-      <Slide id="generos" title="Do que a gente mais gosta" lede="Os 5 gêneros que mais aparecem.">
+      <Slide id="generos" title="Do que a gente mais gosta">
         <div className="reveal">
           <CompareBars previousLabel={r.previous.label} lists={genreLists((l) => l.slice(0, 5))} />
         </div>
       </Slide>
 
-      <Slide id="generos-menos" title="Do que a gente menos gosta" lede="Os 5 gêneros que menos aparecem.">
+      <Slide id="generos-menos" title="Do que a gente menos gosta">
         <div className="reveal">
           <CompareBars previousLabel={r.previous.label} lists={genreLists((l) => l.slice(-5).reverse())} />
         </div>
       </Slide>
 
-      <Slide id="generos-novos" title="Território novo" lede={`O que entrou na lista pela primeira vez desde ${r.previous.label}.`}>
+      <Slide id="generos-novos" title="Território novo">
         <div className="newterr reveal">
           {newTerritory.map((group) => (
             <section key={group.title} className="newterr-group" style={{ "--n": group.films.length } as React.CSSProperties}>
@@ -772,10 +772,10 @@ export default function Home() {
         </div>
       </Slide>
 
-      <Slide id="temas" title="Os temas que mais voltam" lede="Os 20 temas mais frequentes, com os nomes do Letterboxd.">
+      <Slide id="temas" className="slide-themes" title="Os temas que mais voltam">
         <div className="two-col reveal">
-          <BarList items={r.themes.slice(0, 10).map((t) => ({ label: t.theme, value: t.movie_count }))} max={r.themes[0].movie_count} />
-          <BarList items={r.themes.slice(10, 20).map((t) => ({ label: t.theme, value: t.movie_count }))} max={r.themes[0].movie_count} />
+          <BarList items={r.themes.slice(0, 4).map((t) => ({ label: t.theme, value: t.movie_count }))} max={r.themes[0].movie_count} />
+          <BarList items={r.themes.slice(4, 8).map((t) => ({ label: t.theme, value: t.movie_count }))} max={r.themes[0].movie_count} />
         </div>
       </Slide>
 

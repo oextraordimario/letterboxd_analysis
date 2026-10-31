@@ -705,3 +705,11 @@ html.deck .slide .stats-row .stat { padding: clamp(18px, 4vh, 40px) clamp(18px, 
 html.deck .slide .stats-row .stat-value { font-size: clamp(44px, 9vh, 96px); }
 html.deck .slide .stats-row .stat-value.is-text { font-size: clamp(26px, 4.4vh, 44px); }
 html.deck .slide .stats-row .stat-label { font-size: 14px; margin-top: 6px; }
+
+/* Temas: só 8, então barras grossas e nomes inteiros. */
+.slide-themes .two-col { gap: clamp(32px, 5vw, 72px); }
+.slide-themes .barlist ol { gap: clamp(10px, 2.4vh, 24px); }
+.slide-themes .barlist li { grid-template-columns: 1fr; gap: 6px; font-size: clamp(16px, 2.3vh, 21px); }
+.slide-themes .barlist-label { white-space: normal; color: var(--ink); }
+html.deck .slide-themes .barlist-bar { height: clamp(14px, 2.6vh, 24px); }
+.slide-themes .barlist-value { font-size: clamp(14px, 2vh, 18px); }
