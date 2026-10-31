@@ -221,6 +221,13 @@ def build() -> None:
 
     analytics: dict[str, pd.DataFrame] = {}
     metrics = main_metrics(films)
+    # Idade do clube: da primeira sessão até hoje.
+    start = pd.Timestamp(films["watched_date"].min())
+    today = pd.Timestamp(date.today())
+    months = (today.year - start.year) * 12 + (today.month - start.month) - (today.day < start.day)
+    metrics["club_start"] = start.date().isoformat()
+    metrics["club_age_months"] = int(months)
+    metrics["films_per_month"] = round(len(films) / ((today - start).days / (365.25 / 12)), 2)
     analytics["main_metrics"] = pd.DataFrame([metrics])
     analytics["movies_per_release_decade"] = movies_per_decade(films)
 
@@ -255,7 +262,9 @@ def build() -> None:
     ratings = seen.dropna(subset=["rating"])
     gr = group_ratings(films, ratings, member_names)
     analytics["group_ratings"] = gr
-    analytics["member_stats"] = member_stats(gr, seen, members)
+    analytics["member_stats"] = member_stats(gr, seen, members).merge(
+        members[["username", "avatar_url"]].fillna({"avatar_url": ""}), on="username"
+    )
     analytics["member_affinity"] = affinity(gr, member_names)
 
     eligible = gr[gr["group_voters"] >= MIN_VOTERS]

@@ -1,6 +1,6 @@
-username;display_name;films_seen;films_rated;avg_rating;avg_diff_vs_lbxd;avg_diff_vs_group;favorite_film;favorite_rating;least_favorite_film;least_favorite_rating
-dromemario;dromemario;154;152;3.45;-0.27;0.16;12 Angry Men;5.0;Cats;1.0
-marmito;Marmito;144;144;3.38;-0.35;0.02;Dune: Part Two;5.0;Cats;0.5
-pratini;Pratini;146;146;3.19;-0.53;-0.19;12 Angry Men;5.0;Batman;0.5
-instalkiane;instalkiane;40;40;3.38;-0.36;-0.07;The Lord of the Rings: The Return of the King;5.0;Cats;1.0
-zafrina;Zafrina;28;28;3.52;-0.25;0.14;The Lord of the Rings: The Return of the King;5.0;Leprechaun;1.0
+username;display_name;films_seen;films_rated;avg_rating;avg_diff_vs_lbxd;avg_diff_vs_group;favorite_film;favorite_rating;least_favorite_film;least_favorite_rating;avatar_url
+dromemario;dromemario;154;152;3.45;-0.27;0.16;12 Angry Men;5.0;Cats;1.0;https://a.ltrbxd.com/resized/avatar/upload/5/8/5/7/8/shard/avtr-0-220-0-220-crop.jpg?v=df9c48ce63
+marmito;Marmito;144;144;3.38;-0.35;0.02;Dune: Part Two;5.0;Cats;0.5;https://a.ltrbxd.com/resized/avatar/upload/7/0/9/9/6/9/2/shard/avtr-0-220-0-220-crop.jpg?v=755bf317c4
+pratini;Pratini;146;146;3.19;-0.53;-0.19;12 Angry Men;5.0;Batman;0.5;https://a.ltrbxd.com/resized/avatar/upload/7/0/9/9/7/5/9/shard/avtr-0-220-0-220-crop.jpg?v=caeaebcc61
+instalkiane;instalkiane;40;40;3.38;-0.36;-0.07;The Lord of the Rings: The Return of the King;5.0;Cats;1.0;https://a.ltrbxd.com/resized/avatar/upload/7/0/9/9/8/0/4/shard/avtr-0-220-0-220-crop.jpg?v=7d418ceb7a
+zafrina;Zafrina;28;28;3.52;-0.25;0.14;The Lord of the Rings: The Return of the King;5.0;Leprechaun;1.0;https://a.ltrbxd.com/resized/avatar/upload/2/1/3/3/5/6/6/9/shard/avtr-0-220-0-220-crop.jpg?v=b6c86ae4ea

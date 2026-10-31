@@ -4,7 +4,7 @@ Membros = dono da lista + quem curtiu a lista + EXTRA_MEMBERS - EXCLUDED_MEMBERS
 (ver pipeline/config.py).
 
 Saídas em data/raw/ (só filmes da lista; rode scrape_list antes):
-- fc_members.csv        username, nome de exibição e origem (owner/like/extra)
+- fc_members.csv        username, nome de exibição, origem (owner/like/extra) e avatar
 - fc_member_films.csv   filmes da lista que cada membro marcou como visto, com a nota (0,5–5)
 - fc_owner_diary.csv    entradas do diário do dono da lista (data, nota, se foi revisão)
 
@@ -38,7 +38,15 @@ def scrape_members() -> list[dict]:
         profile = http.get_soup(f"/{m['username']}/")
         og = profile.find("meta", property="og:title") if profile else None
         display = og["content"].replace("’s profile", "").strip() if og else m["username"]
-        result.append({"username": m["username"], "display_name": display, "source": m["source"]})
+        avatar = profile.select_one("span.avatar.-large img") if profile else None
+        result.append(
+            {
+                "username": m["username"],
+                "display_name": display,
+                "source": m["source"],
+                "avatar_url": avatar["src"] if avatar else "",
+            }
+        )
     return result
 
 
