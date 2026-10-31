@@ -175,17 +175,7 @@ export default function Home() {
         </div>
       </Slide>
 
-      <Slide
-        id="notas"
-        title="Nossas notas"
-        lede={
-          <>
-            Nos filmes em que pelo menos {r.min_voters} de nós deram nota, a média do grupo é{" "}
-            <b className="accent">{fmt(r.group_avg_overall, 2)}</b>; a do Letterboxd para os mesmos filmes é{" "}
-            <b className="site">{fmt(r.lbxd_avg_overall_eligible, 2)}</b>. A gente é mais exigente que a internet.
-          </>
-        }
-      >
+      <Slide id="notas" title="Nossas notas">
         <div className="tickets reveal">
           <article className="ticket ticket-group">
             <header>
