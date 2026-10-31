@@ -352,6 +352,7 @@ export default function Home() {
             <dl>
               <div><dt>Filmes avaliados</dt><dd>{groupRated} de {m.movies_watched}</dd></div>
               <div><dt>Vs. Letterboxd</dt><dd>{signed(r.group_avg_overall - r.lbxd_avg_overall_eligible)}</dd></div>
+              <div><dt>Filmes curtidos</dt><dd>{r.films.filter((f) => f.like_count > 0).length} de {m.movies_watched}♥</dd></div>
             </dl>
           </article>
           {r.members.map((mm) => (
@@ -365,8 +366,9 @@ export default function Home() {
               </p>
               <dl>
                 <div><dt>Filmes da lista</dt><dd>{mm.films_seen} de {m.movies_watched}</dd></div>
-                <div><dt>Vs. resto do grupo</dt><dd>{signed(mm.avg_diff_vs_group ?? 0)}</dd></div>
+                <div><dt>Vs. grupo</dt><dd>{signed(mm.avg_diff_vs_group ?? 0)}</dd></div>
                 <div><dt>Desvio padrão</dt><dd>±{fmt(memberStd[mm.username], 2)}</dd></div>
+                <div><dt>Filmes curtidos</dt><dd>{mm.films_liked}♥</dd></div>
               </dl>
             </article>
           ))}
