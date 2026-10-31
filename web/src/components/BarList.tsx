@@ -3,8 +3,8 @@ import { fmt } from "@/lib/format";
 type Item = { label: string; value: number; hint?: string };
 
 /** Barras horizontais ranqueadas, uma série, rótulo de valor em cada barra. */
-export function BarList({ items, unit = "filmes", caption }: { items: Item[]; unit?: string; caption?: string }) {
-  const max = Math.max(...items.map((i) => i.value), 1);
+export function BarList({ items, unit = "filmes", caption, max: maxProp }: { items: Item[]; unit?: string; caption?: string; max?: number }) {
+  const max = maxProp ?? Math.max(...items.map((i) => i.value), 1);
   return (
     <figure className="barlist">
       {caption && <figcaption>{caption}</figcaption>}

@@ -61,12 +61,13 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gutter) 64px; pos
 
 /* ---------- Hero / marquise ---------- */
 
-.hero { --hero-pad: clamp(16px, 3vw, 32px); padding: var(--hero-pad) 0 48px; text-align: center; }
+.slide-hero { --hero-pad: clamp(16px, 3vw, 32px); text-align: center; }
+.slide-hero .slide-inner { padding: var(--hero-pad) 0; }
 
 .marquee {
   --dot: 9px;
   position: relative;
-  /* ocupa toda a dobra; os números grandes ficam abaixo dela */
+  /* ocupa toda a dobra */
   min-height: calc(100svh - 2 * var(--hero-pad));
   display: flex; flex-direction: column; justify-content: center; gap: clamp(20px, 5vh, 56px);
   padding: clamp(48px, 10vh, 120px) clamp(24px, 6vw, 96px);
@@ -110,10 +111,7 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gutter) 64px; pos
 .marquee h1 { margin-top: clamp(28px, 6vh, 64px); }
 
 /* Abertura: segunda dobra, ocupa a tela inteira */
-.opening {
-  min-height: 100svh; display: flex; flex-direction: column; justify-content: center; align-items: center;
-  gap: clamp(28px, 6vh, 80px); padding: clamp(32px, 6vh, 88px) 0; text-align: center;
-}
+.opening .slide-inner { align-items: center; gap: clamp(28px, 6vh, 80px); text-align: center; }
 .hero-numbers { display: flex; flex-wrap: wrap; justify-content: center; gap: clamp(20px, 4vh, 56px) clamp(32px, 6vw, 88px); max-width: 1000px; }
 .hero-numbers .stat { flex: 0 0 auto; min-width: 200px; }
 .hero-numbers .stat-value { font-size: clamp(56px, min(9vw, 12.5vh), 112px); color: var(--accent); }
@@ -137,11 +135,16 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gutter) 64px; pos
 
 /* ---------- Seções ---------- */
 
-.section { padding: 72px 0 24px; border-top: 1px solid var(--rule); }
-.section-head { max-width: 780px; margin-bottom: 36px; }
-.section h2 {
+/* Cada slide ocupa a tela inteira; o conteúdo fica centralizado na vertical. */
+.slide { position: relative; min-height: 100svh; display: flex; }
+.slide-inner {
+  flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: center;
+  padding: clamp(40px, 8vh, 96px) 0;
+}
+.section-head { max-width: 860px; margin-bottom: clamp(20px, 4vh, 40px); }
+.slide h2 {
   margin: 0; font-family: var(--font-display); font-weight: 800; text-transform: uppercase;
-  font-size: clamp(36px, 6vw, 68px); line-height: 0.95; letter-spacing: 0.01em;
+  font-size: clamp(40px, min(6.5vw, 10vh), 96px); line-height: 0.92; letter-spacing: 0.01em;
 }
 .lede { color: var(--ink-2); font-size: 20px; margin: 16px 0 0; }
 .subhead { font-size: 17px; color: var(--ink-2); margin: 40px 0 12px; }
@@ -166,6 +169,7 @@ main { max-width: var(--max); margin: 0 auto; padding: 0 var(--gutter) 64px; pos
 /* ---------- Pôsteres ---------- */
 
 .posters { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(62px, 1fr)); gap: 6px; }
+@media (min-width: 900px) { .posters { grid-template-columns: repeat(var(--cols, 16), 1fr); } }
 .posters a { display: block; aspect-ratio: 2 / 3; overflow: hidden; border-radius: 3px; background: var(--surface-2); box-shadow: 0 0 0 1px #0006; }
 .posters img { width: 100%; height: 100%; object-fit: cover; filter: saturate(0.85); transition: transform 0.25s, filter 0.25s; }
 .posters a:hover img { transform: scale(1.06); filter: none; }
@@ -295,12 +299,12 @@ tr.is-new td:first-child { box-shadow: inset 3px 0 0 var(--accent); }
   padding: 8px 12px; font: inherit; min-width: 240px;
 }
 .filmtable-controls input[type="checkbox"] { accent-color: var(--accent); }
-.filmtable-scroll { max-height: 640px; }
+.filmtable-scroll { max-height: 70svh; }
 
 .suggestions { margin: 0; padding-left: 1.2em; display: grid; gap: 10px; font-size: 20px; max-width: 780px; }
 .suggestions li::marker { content: "★  "; color: var(--accent); }
 
-.footer { border-top: 1px solid var(--rule); margin-top: 64px; padding-top: 24px; color: var(--muted); font-size: 15px; }
+.footer { margin-top: 16px; color: var(--muted); font-size: 14px; }
 
 /* ---------- Responsivo ---------- */
 
@@ -326,3 +330,107 @@ tr.is-new td:first-child { box-shadow: inset 3px 0 0 var(--accent); }
   .marquee h1 { font-size: 23vw; line-height: 0.98; }
   .marquee h1 span { display: block; }
 }
+
+/* =====================================================================
+   Modo apresentação (desktop): cada slide tem exatamente a altura da tela
+   e o conteúdo entra com animação quando o slide fica ativo.
+   ===================================================================== */
+
+html.deck { scroll-behavior: auto; }
+html.deck body { overflow-x: hidden; }
+html.deck .slide { height: 100svh; min-height: 0; }
+html.deck .slide-inner { max-height: 100svh; }
+
+/* Entrada: cada .reveal sobe e aparece, em sequência. */
+.slide .reveal {
+  opacity: 0; transform: translateY(28px);
+  transition: opacity 0.7s cubic-bezier(.2,.7,.2,1), transform 0.8s cubic-bezier(.2,.7,.2,1);
+}
+.slide.is-active .reveal, .slide.was-seen .reveal { opacity: 1; transform: none; }
+.slide .reveal:nth-child(2) { transition-delay: 0.12s; }
+.slide .reveal:nth-child(3) { transition-delay: 0.24s; }
+.slide .reveal:nth-child(4) { transition-delay: 0.36s; }
+html:not(.deck) .slide .reveal { opacity: 1; transform: none; }
+
+/* Mural de cartazes: entram um a um. */
+.slide-posters .slide-inner { padding: clamp(24px, 5vh, 56px) 0; }
+html.deck .slide-posters .posters { max-height: calc(100svh - 2 * clamp(24px, 5vh, 56px)); overflow: hidden; }
+.slide-posters .posters li { opacity: 0; transform: scale(0.85); transition: opacity 0.4s, transform 0.5s cubic-bezier(.2,.7,.2,1); transition-delay: calc(var(--i) * 12ms); }
+.slide-posters.is-active .posters li, .slide-posters.was-seen .posters li, html:not(.deck) .slide-posters .posters li { opacity: 1; transform: none; }
+
+/* Ingressos numa fileira só. */
+html.deck .tickets { grid-template-columns: repeat(auto-fit, minmax(0, 1fr)); gap: 14px; }
+html.deck .ticket { padding: 18px 16px 14px; }
+html.deck .ticket dl { gap: 6px; font-size: 14px; }
+
+/* Pessoas: fotos limitadas pela altura disponível. */
+html.deck .people-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+html.deck .person-photo { aspect-ratio: auto; height: clamp(150px, 32vh, 290px); }
+.person-films { display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+
+/* Barras mais compactas para listas longas caberem. */
+html.deck .barlist li { padding: 1px 0; }
+html.deck .barlist-bar { height: 12px; }
+html.deck .barlist { margin-bottom: 0; }
+
+html.deck .affinity { max-width: 900px; gap: 10px; }
+html.deck .callout { margin-top: clamp(20px, 4vh, 40px); }
+html.deck .suggestions { font-size: clamp(20px, 2.4vh, 26px); gap: clamp(10px, 2vh, 20px); max-width: 900px; }
+
+/* Tabela final preenche o resto da tela e rola por dentro. */
+.slide-table .slide-inner { justify-content: flex-start; }
+html.deck .slide-table .slide-inner { padding-bottom: 24px; }
+html.deck .slide-fill { flex: 1; min-height: 0; display: flex; flex-direction: column; }
+html.deck .slide-fill .filmtable { flex: 1; min-height: 0; display: flex; flex-direction: column; }
+html.deck .slide-fill .filmtable-scroll { flex: 1; min-height: 0; max-height: none; }
+
+/* Navegação lateral, contador e botão de próximo. */
+.deck-dots {
+  position: fixed; right: clamp(12px, 2vw, 28px); top: 50%; transform: translateY(-50%); z-index: 40;
+  display: flex; flex-direction: column; gap: 10px;
+}
+.deck-dots[hidden], .deck-counter[hidden] { display: none; }
+.deck-dots button {
+  all: unset; cursor: pointer; position: relative; width: 8px; height: 8px; border-radius: 50%;
+  background: var(--rule); transition: background 0.2s, transform 0.2s;
+}
+.deck-dots button:hover { background: var(--ink-2); }
+.deck-dots button.is-current { background: var(--accent); transform: scale(1.5); box-shadow: 0 0 10px #f2c14e88; }
+.deck-dots button:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.deck-dot-label {
+  position: absolute; right: 18px; top: 50%; transform: translate(6px, -50%); white-space: nowrap;
+  font-family: var(--font-display); text-transform: uppercase; letter-spacing: 0.12em; font-size: 12px; color: var(--ink-2);
+  background: #0d0b0aee; padding: 3px 8px; border-radius: 3px; opacity: 0; pointer-events: none; transition: opacity 0.15s, transform 0.15s;
+}
+.deck-dots button:hover .deck-dot-label, .deck-dots button:focus-visible .deck-dot-label { opacity: 1; transform: translate(0, -50%); }
+
+.deck-counter {
+  position: fixed; left: clamp(12px, 2vw, 28px); bottom: 20px; z-index: 40;
+  font-family: var(--font-mono); font-size: 12px; color: var(--muted); letter-spacing: 0.1em;
+}
+.deck-counter i { font-style: normal; opacity: 0.5; }
+.deck-next {
+  all: unset; cursor: pointer; position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%); z-index: 40;
+  width: 36px; height: 36px; display: grid; place-items: center; border-radius: 50%;
+  color: var(--accent); font-size: 18px; border: 1px solid #5a3a17; background: #14110fcc;
+  animation: nudge 2.2s ease-in-out infinite;
+}
+.deck-next:hover { background: #2a1c10; }
+@keyframes nudge { 0%, 100% { transform: translate(-50%, 0); } 50% { transform: translate(-50%, 5px); } }
+
+@media (prefers-reduced-motion: reduce) {
+  .slide .reveal, .slide-posters .posters li { transition: none; }
+}
+
+/* Tabelas curtas (fora do último slide) mostram tudo, sem rolagem interna. */
+.slide:not(.slide-table) .filmtable-scroll { max-height: none; overflow-y: hidden; }
+html.deck .splits td, html.deck .splits th { padding-top: 6px; padding-bottom: 6px; }
+
+html.deck .ticket { --notch: 142px; }
+
+/* Slides de números: blocos maiores para ocupar a tela. */
+html.deck .slide .stats-row { margin-bottom: clamp(16px, 3vh, 32px); }
+html.deck .slide .stats-row .stat { padding: clamp(18px, 4vh, 40px) clamp(18px, 2vw, 28px); }
+html.deck .slide .stats-row .stat-value { font-size: clamp(44px, 9vh, 96px); }
+html.deck .slide .stats-row .stat-value.is-text { font-size: clamp(26px, 4.4vh, 44px); }
+html.deck .slide .stats-row .stat-label { font-size: 14px; margin-top: 6px; }
