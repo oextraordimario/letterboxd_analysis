@@ -126,6 +126,17 @@ export default function Home() {
   const byAvg = [...r.members].sort((a, b) => (b.avg_rating ?? 0) - (a.avg_rating ?? 0));
   const generous = byAvg[0];
   const harsh = byAvg[byAvg.length - 1];
+  // Desvio padrão (amostral) das notas de cada membro nos filmes da lista.
+  const memberStd = Object.fromEntries(
+    r.members.map((mm) => {
+      const v = r.films.map((f) => f.ratings[mm.username]).filter((x): x is number => x != null);
+      const mean = v.reduce((a, b) => a + b, 0) / v.length;
+      return [mm.username, Math.sqrt(v.reduce((a, b) => a + (b - mean) ** 2, 0) / (v.length - 1))];
+    }),
+  );
+  const byStd = [...r.members].sort((a, b) => memberStd[a.username] - memberStd[b.username]);
+  const steady = byStd[0];
+  const swingy = byStd[byStd.length - 1];
   const forgotten = r.films.filter((f) => f.group_voters < r.min_voters).sort((a, b) => b.group_voters - a.group_voters);
   // Consenso: nota média alta (ou baixa) com pouco desvio. Empate: mais notas, depois mais popular no site.
   const eligible = r.films.filter((f) => f.group_voters >= r.min_voters);
@@ -236,19 +247,28 @@ export default function Home() {
             </article>
           </Reveal>
           {[
-            { q: "Óscar generosidade", sub: "notas mais altas", mm: generous },
-            { q: "Óscar ranzinza", sub: "notas mais baixas", mm: harsh },
-          ].map(({ q, sub, mm }) => (
+            { q: "Óscar generosidade", sub: "notas mais altas", mm: generous, std: false },
+            { q: "Óscar ranzinza", sub: "notas mais baixas", mm: harsh, std: false },
+            { q: "Óscar consistente", sub: "notas mais parecidas entre si", mm: steady, std: true },
+            { q: "Óscar 8 ou 80", sub: "notas mais espalhadas", mm: swingy, std: true },
+          ].map(({ q, sub, mm, std }) => (
             <Reveal key={q} question={q} sub={sub}>
               <article className="award">
                 <Statuette />
                 <p className="award-intro">E o Óscar vai para</p>
                 <span className="award-photo"><Avatar url={mm.avatar_url} name={mm.display_name} /></span>
                 <h3>{mm.display_name}</h3>
-                <p className="award-avg">
-                  {fmt(mm.avg_rating ?? 0, 2)}
-                  <small>{signed(mm.avg_diff_vs_group ?? 0)} vs. grupo</small>
-                </p>
+                {std ? (
+                  <p className="award-avg">
+                    ±{fmt(memberStd[mm.username], 2)}
+                    <small>desvio padrão das notas</small>
+                  </p>
+                ) : (
+                  <p className="award-avg">
+                    {fmt(mm.avg_rating ?? 0, 2)}
+                    <small>{signed(mm.avg_diff_vs_group ?? 0)} vs. grupo</small>
+                  </p>
+                )}
               </article>
             </Reveal>
           ))}
@@ -282,6 +302,7 @@ export default function Home() {
               <dl>
                 <div><dt>Filmes da lista</dt><dd>{mm.films_seen} de {m.movies_watched}</dd></div>
                 <div><dt>Vs. resto do grupo</dt><dd>{signed(mm.avg_diff_vs_group ?? 0)}</dd></div>
+                <div><dt>Desvio padrão</dt><dd>±{fmt(memberStd[mm.username], 2)}</dd></div>
               </dl>
             </article>
           ))}
