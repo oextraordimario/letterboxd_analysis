@@ -1,0 +1,5577 @@
+{
+ "generated_at": "2026-10-31T15:07:58+00:00",
+ "list_url": "https://letterboxd.com/dromemario/list/fff-familia-fa-de-filmes/",
+ "min_voters": 3,
+ "last_presented": {
+  "position": 71,
+  "title": "Fallen Angels"
+ },
+ "metrics": {
+  "movies_watched": 154,
+  "minutes_watched": 16385,
+  "hours_watched": 273.08,
+  "days_watched": 11.38,
+  "avg_movie_length": 106.4,
+  "name_longest_movie": "The Lord of the Rings: The Return of the King",
+  "duration_longest_movie": 201,
+  "name_shortest_movie": "Meshes of the Afternoon",
+  "duration_shortest_movie": 14,
+  "avg_lbxd_rating": 3.72,
+  "best_lbxd_rating": "12 Angry Men",
+  "best_lbxd_rating_value": 4.63,
+  "worst_lbxd_rating": "Cats",
+  "worst_lbxd_rating_value": 1.24
+ },
+ "since_last_presentation": {
+  "movies_watched": 83,
+  "minutes_watched": 8743,
+  "hours_watched": 145.72,
+  "days_watched": 6.07,
+  "avg_movie_length": 105.34,
+  "name_longest_movie": "The Lord of the Rings: The Return of the King",
+  "duration_longest_movie": 201,
+  "name_shortest_movie": "Meshes of the Afternoon",
+  "duration_shortest_movie": 14,
+  "avg_lbxd_rating": 3.78,
+  "best_lbxd_rating": "12 Angry Men",
+  "best_lbxd_rating_value": 4.63,
+  "worst_lbxd_rating": "Troll 2",
+  "worst_lbxd_rating_value": 2.34,
+  "first_date": "2024-11-15",
+  "last_date": "2026-10-15"
+ },
+ "members": [
+  {
+   "username": "dromemario",
+   "display_name": "dromemario",
+   "films_seen": 154,
+   "films_rated": 152,
+   "avg_rating": 3.45,
+   "avg_diff_vs_lbxd": -0.27,
+   "avg_diff_vs_group": 0.16,
+   "favorite_film": "12 Angry Men",
+   "favorite_rating": 5.0,
+   "least_favorite_film": "Cats",
+   "least_favorite_rating": 1.0
+  },
+  {
+   "username": "marmito",
+   "display_name": "Marmito",
+   "films_seen": 144,
+   "films_rated": 144,
+   "avg_rating": 3.38,
+   "avg_diff_vs_lbxd": -0.35,
+   "avg_diff_vs_group": 0.02,
+   "favorite_film": "Dune: Part Two",
+   "favorite_rating": 5.0,
+   "least_favorite_film": "Cats",
+   "least_favorite_rating": 0.5
+  },
+  {
+   "username": "pratini",
+   "display_name": "Pratini",
+   "films_seen": 146,
+   "films_rated": 146,
+   "avg_rating": 3.19,
+   "avg_diff_vs_lbxd": -0.53,
+   "avg_diff_vs_group": -0.19,
+   "favorite_film": "12 Angry Men",
+   "favorite_rating": 5.0,
+   "least_favorite_film": "Batman",
+   "least_favorite_rating": 0.5
+  },
+  {
+   "username": "instalkiane",
+   "display_name": "instalkiane",
+   "films_seen": 40,
+   "films_rated": 40,
+   "avg_rating": 3.38,
+   "avg_diff_vs_lbxd": -0.36,
+   "avg_diff_vs_group": -0.07,
+   "favorite_film": "The Lord of the Rings: The Return of the King",
+   "favorite_rating": 5.0,
+   "least_favorite_film": "Cats",
+   "least_favorite_rating": 1.0
+  },
+  {
+   "username": "zafrina",
+   "display_name": "Zafrina",
+   "films_seen": 28,
+   "films_rated": 28,
+   "avg_rating": 3.52,
+   "avg_diff_vs_lbxd": -0.25,
+   "avg_diff_vs_group": 0.14,
+   "favorite_film": "The Lord of the Rings: The Return of the King",
+   "favorite_rating": 5.0,
+   "least_favorite_film": "Leprechaun",
+   "least_favorite_rating": 1.0
+  }
+ ],
+ "affinity": [
+  {
+   "member_a": "pratini",
+   "member_b": "zafrina",
+   "common_films": 28,
+   "mean_abs_diff": 0.43
+  },
+  {
+   "member_a": "marmito",
+   "member_b": "pratini",
+   "common_films": 138,
+   "mean_abs_diff": 0.46
+  },
+  {
+   "member_a": "dromemario",
+   "member_b": "zafrina",
+   "common_films": 28,
+   "mean_abs_diff": 0.48
+  },
+  {
+   "member_a": "marmito",
+   "member_b": "zafrina",
+   "common_films": 25,
+   "mean_abs_diff": 0.5
+  },
+  {
+   "member_a": "dromemario",
+   "member_b": "marmito",
+   "common_films": 142,
+   "mean_abs_diff": 0.54
+  },
+  {
+   "member_a": "dromemario",
+   "member_b": "pratini",
+   "common_films": 144,
+   "mean_abs_diff": 0.61
+  },
+  {
+   "member_a": "marmito",
+   "member_b": "instalkiane",
+   "common_films": 37,
+   "mean_abs_diff": 0.66
+  },
+  {
+   "member_a": "dromemario",
+   "member_b": "instalkiane",
+   "common_films": 40,
+   "mean_abs_diff": 0.78
+  },
+  {
+   "member_a": "pratini",
+   "member_b": "instalkiane",
+   "common_films": 38,
+   "mean_abs_diff": 0.83
+  }
+ ],
+ "films": [
+  {
+   "position": 1,
+   "slug": "the-wizard",
+   "title": "The Wizard",
+   "year": 1989,
+   "duration": 100,
+   "url": "https://letterboxd.com/film/the-wizard/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/6/9/51869-the-wizard-0-600-0-900-crop.jpg?v=013144552c",
+   "lbxd_avg": 2.96,
+   "lbxd_rating_count": 17921,
+   "watched_date": "2022-04-05",
+   "presented": true,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": 3.0,
+    "pratini": 3.5,
+    "instalkiane": 2.5,
+    "zafrina": null
+   },
+   "group_avg": 2.75,
+   "group_voters": 4,
+   "group_std": 0.56,
+   "diff_vs_lbxd": -0.21
+  },
+  {
+   "position": 2,
+   "slug": "the-northman",
+   "title": "The Northman",
+   "year": 2022,
+   "duration": 137,
+   "url": "https://letterboxd.com/film/the-northman/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/6/5/8/5/2/565852-the-northman-0-600-0-900-crop.jpg?v=8e3d277969",
+   "lbxd_avg": 3.77,
+   "lbxd_rating_count": 979562,
+   "watched_date": "2022-05-24",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 3.5,
+    "instalkiane": 3.0,
+    "zafrina": null
+   },
+   "group_avg": 3.12,
+   "group_voters": 4,
+   "group_std": 0.22,
+   "diff_vs_lbxd": -0.65
+  },
+  {
+   "position": 3,
+   "slug": "rad",
+   "title": "Rad",
+   "year": 1986,
+   "duration": 93,
+   "url": "https://letterboxd.com/film/rad/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/5/5/2/43552-rad-0-600-0-900-crop.jpg?v=0dfaf401a5",
+   "lbxd_avg": 3.24,
+   "lbxd_rating_count": 10446,
+   "watched_date": "2022-04-14",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.17,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -0.07
+  },
+  {
+   "position": 4,
+   "slug": "get-out-2017",
+   "title": "Get Out",
+   "year": 2017,
+   "duration": 104,
+   "url": "https://letterboxd.com/film/get-out-2017/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/5/3/1/1/7/353117-get-out-0-600-0-900-crop.jpg?v=136acec030",
+   "lbxd_avg": 4.13,
+   "lbxd_rating_count": 4893295,
+   "watched_date": "2022-06-07",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 2.5,
+    "instalkiane": 4.0,
+    "zafrina": null
+   },
+   "group_avg": 3.62,
+   "group_voters": 4,
+   "group_std": 0.65,
+   "diff_vs_lbxd": -0.51
+  },
+  {
+   "position": 5,
+   "slug": "rrr",
+   "title": "RRR",
+   "year": 2022,
+   "duration": 187,
+   "url": "https://letterboxd.com/film/rrr/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/8/0/3/7/508037-rrr-0-600-0-900-crop.jpg?v=4e4649b7f9",
+   "lbxd_avg": 4.21,
+   "lbxd_rating_count": 373585,
+   "watched_date": "2022-07-19",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 5.0,
+    "pratini": 4.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.5,
+   "group_voters": 3,
+   "group_std": 0.41,
+   "diff_vs_lbxd": 0.29
+  },
+  {
+   "position": 6,
+   "slug": "speed-racer",
+   "title": "Speed Racer",
+   "year": 2008,
+   "duration": 135,
+   "url": "https://letterboxd.com/film/speed-racer/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/0/1/8/48018-speed-racer-0-600-0-900-crop.jpg?v=35fe09fa1e",
+   "lbxd_avg": 3.62,
+   "lbxd_rating_count": 303252,
+   "watched_date": "2022-07-26",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.5,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.17,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -0.45
+  },
+  {
+   "position": 7,
+   "slug": "they-live",
+   "title": "They Live",
+   "year": 1988,
+   "duration": 93,
+   "url": "https://letterboxd.com/film/they-live/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/7/9/8/47798-they-live-0-600-0-900-crop.jpg?v=816bf826a0",
+   "lbxd_avg": 3.75,
+   "lbxd_rating_count": 378654,
+   "watched_date": "2022-08-01",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.5,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.17,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -0.58
+  },
+  {
+   "position": 8,
+   "slug": "cobra-1986",
+   "title": "Cobra",
+   "year": 1986,
+   "duration": 87,
+   "url": "https://letterboxd.com/film/cobra-1986/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/7/5/9/46759-cobra-0-600-0-900-crop.jpg?v=fbd949c36b",
+   "lbxd_avg": 3.02,
+   "lbxd_rating_count": 72140,
+   "watched_date": "2022-08-16",
+   "presented": true,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": 2.0,
+    "pratini": 2.0,
+    "instalkiane": 1.0,
+    "zafrina": null
+   },
+   "group_avg": 1.75,
+   "group_voters": 4,
+   "group_std": 0.43,
+   "diff_vs_lbxd": -1.27
+  },
+  {
+   "position": 9,
+   "slug": "everything-everywhere-all-at-once",
+   "title": "Everything Everywhere All at Once",
+   "year": 2022,
+   "duration": 140,
+   "url": "https://letterboxd.com/film/everything-everywhere-all-at-once/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/4/4/7/4/474474-everything-everywhere-all-at-once-0-600-0-900-crop.jpg?v=281f1a041e",
+   "lbxd_avg": 4.23,
+   "lbxd_rating_count": 4210626,
+   "watched_date": "2022-08-23",
+   "presented": true,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 4.0,
+    "pratini": 5.0,
+    "instalkiane": 3.0,
+    "zafrina": null
+   },
+   "group_avg": 4.25,
+   "group_voters": 4,
+   "group_std": 0.83,
+   "diff_vs_lbxd": 0.02
+  },
+  {
+   "position": 10,
+   "slug": "the-mummy-1999",
+   "title": "The Mummy",
+   "year": 1999,
+   "duration": 124,
+   "url": "https://letterboxd.com/film/the-mummy-1999/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/5i/du/2g/s8/6CweTLmngcPrsEH4G6RKvdwmQdC-0-600-0-900-crop.jpg?v=397ac4a555",
+   "lbxd_avg": 3.61,
+   "lbxd_rating_count": 784088,
+   "watched_date": "2022-09-01",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.5,
+    "pratini": null,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.25,
+   "group_voters": 2,
+   "group_std": 0.25,
+   "diff_vs_lbxd": -0.36
+  },
+  {
+   "position": 11,
+   "slug": "the-unbearable-weight-of-massive-talent",
+   "title": "The Unbearable Weight of Massive Talent",
+   "year": 2022,
+   "duration": 107,
+   "url": "https://letterboxd.com/film/the-unbearable-weight-of-massive-talent/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/7/4/3/8/5/574385-the-unbearable-weight-of-massive-talent-0-600-0-900-crop.jpg?v=2c49da09f3",
+   "lbxd_avg": 3.44,
+   "lbxd_rating_count": 486060,
+   "watched_date": "2022-09-02",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.5,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.17,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": 0.73
+  },
+  {
+   "position": 12,
+   "slug": "unforgiven",
+   "title": "Unforgiven",
+   "year": 1992,
+   "duration": 130,
+   "url": "https://letterboxd.com/film/unforgiven/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/jm/nq/0c/ke/9oPodyvCWyPMZJDjg29tBfFRwtG-0-600-0-900-crop.jpg?v=9afed9f6aa",
+   "lbxd_avg": 4.21,
+   "lbxd_rating_count": 347792,
+   "watched_date": "2022-09-09",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 2.5,
+    "pratini": 3.0,
+    "instalkiane": 1.0,
+    "zafrina": null
+   },
+   "group_avg": 2.38,
+   "group_voters": 4,
+   "group_std": 0.82,
+   "diff_vs_lbxd": -1.83
+  },
+  {
+   "position": 13,
+   "slug": "twelve-monkeys",
+   "title": "Twelve Monkeys",
+   "year": 1995,
+   "duration": 129,
+   "url": "https://letterboxd.com/film/twelve-monkeys/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/gx/5a/fn/12/6Sj9wDu3YugthXsU0Vry5XFAZGg-0-600-0-900-crop.jpg?v=f6da1ec950",
+   "lbxd_avg": 3.89,
+   "lbxd_rating_count": 510137,
+   "watched_date": "2022-09-13",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": 0.11
+  },
+  {
+   "position": 14,
+   "slug": "free-guy",
+   "title": "Free Guy",
+   "year": 2021,
+   "duration": 115,
+   "url": "https://letterboxd.com/film/free-guy/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/9/8/1/4/479814-free-guy-0-600-0-900-crop.jpg?v=0cd7303445",
+   "lbxd_avg": 3.02,
+   "lbxd_rating_count": 1323720,
+   "watched_date": "2022-09-20",
+   "presented": true,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": null,
+    "pratini": 3.0,
+    "instalkiane": 3.5,
+    "zafrina": null
+   },
+   "group_avg": 2.83,
+   "group_voters": 3,
+   "group_std": 0.62,
+   "diff_vs_lbxd": -0.19
+  },
+  {
+   "position": 15,
+   "slug": "tremors",
+   "title": "Tremors",
+   "year": 1990,
+   "duration": 96,
+   "url": "https://letterboxd.com/film/tremors/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/as/zy/qv/ft/aC2wOckYHkLi9usARIfqR51OFV9-0-600-0-900-crop.jpg?v=71c5d815d7",
+   "lbxd_avg": 3.53,
+   "lbxd_rating_count": 237899,
+   "watched_date": "2022-09-29",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": 2.5,
+    "zafrina": null
+   },
+   "group_avg": 3.38,
+   "group_voters": 4,
+   "group_std": 0.54,
+   "diff_vs_lbxd": -0.15
+  },
+  {
+   "position": 16,
+   "slug": "cats-2019",
+   "title": "Cats",
+   "year": 2019,
+   "duration": 110,
+   "url": "https://letterboxd.com/film/cats-2019/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/5/9/7/8/465978-cats-0-600-0-900-crop.jpg?v=586897dd38",
+   "lbxd_avg": 1.24,
+   "lbxd_rating_count": 189523,
+   "watched_date": "2022-10-11",
+   "presented": true,
+   "ratings": {
+    "dromemario": 1.0,
+    "marmito": 0.5,
+    "pratini": 4.0,
+    "instalkiane": 1.0,
+    "zafrina": null
+   },
+   "group_avg": 1.62,
+   "group_voters": 4,
+   "group_std": 1.39,
+   "diff_vs_lbxd": 0.38
+  },
+  {
+   "position": 17,
+   "slug": "childs-play",
+   "title": "Child's Play",
+   "year": 1988,
+   "duration": 87,
+   "url": "https://letterboxd.com/film/childs-play/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/0/8/7/46087-child-s-play-0-600-0-900-crop.jpg?v=cc6f984b42",
+   "lbxd_avg": 3.33,
+   "lbxd_rating_count": 482193,
+   "watched_date": "2022-10-12",
+   "presented": true,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": 3.0,
+    "pratini": 2.0,
+    "instalkiane": 3.0,
+    "zafrina": null
+   },
+   "group_avg": 2.5,
+   "group_voters": 4,
+   "group_std": 0.5,
+   "diff_vs_lbxd": -0.83
+  },
+  {
+   "position": 18,
+   "slug": "the-craft",
+   "title": "The Craft",
+   "year": 1996,
+   "duration": 101,
+   "url": "https://letterboxd.com/film/the-craft/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/3/4/5/47345-the-craft-0-600-0-900-crop.jpg?v=d340df121c",
+   "lbxd_avg": 3.58,
+   "lbxd_rating_count": 667493,
+   "watched_date": "2022-10-27",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 2.0,
+    "pratini": 1.5,
+    "instalkiane": 2.0,
+    "zafrina": null
+   },
+   "group_avg": 2.12,
+   "group_voters": 4,
+   "group_std": 0.54,
+   "diff_vs_lbxd": -1.46
+  },
+  {
+   "position": 19,
+   "slug": "evil-dead-ii",
+   "title": "Evil Dead II",
+   "year": 1987,
+   "duration": 84,
+   "url": "https://letterboxd.com/film/evil-dead-ii/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/p9/tg/s4/ca/dxbIRmIo0rN5R6WGvxnJuUJPh3t-0-600-0-900-crop.jpg?v=12b2d3f8b3",
+   "lbxd_avg": 3.98,
+   "lbxd_rating_count": 519001,
+   "watched_date": "2022-10-27",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 3.5,
+    "instalkiane": 3.0,
+    "zafrina": null
+   },
+   "group_avg": 3.62,
+   "group_voters": 4,
+   "group_std": 0.41,
+   "diff_vs_lbxd": -0.36
+  },
+  {
+   "position": 20,
+   "slug": "the-mitchells-vs-the-machines",
+   "title": "The Mitchells vs. the Machines",
+   "year": 2021,
+   "duration": 110,
+   "url": "https://letterboxd.com/film/the-mitchells-vs-the-machines/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/1/8/8/8/431888-the-mitchells-vs-the-machines-0-600-0-900-crop.jpg?v=d3be38052a",
+   "lbxd_avg": 3.81,
+   "lbxd_rating_count": 692635,
+   "watched_date": "2022-11-03",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 4.0,
+    "pratini": 3.0,
+    "instalkiane": 4.5,
+    "zafrina": null
+   },
+   "group_avg": 3.62,
+   "group_voters": 4,
+   "group_std": 0.65,
+   "diff_vs_lbxd": -0.19
+  },
+  {
+   "position": 21,
+   "slug": "point-break",
+   "title": "Point Break",
+   "year": 1991,
+   "duration": 122,
+   "url": "https://letterboxd.com/film/point-break/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/1/5/7/51157-point-break-0-600-0-900-crop.jpg?v=3cd33a67b2",
+   "lbxd_avg": 3.78,
+   "lbxd_rating_count": 476375,
+   "watched_date": "2022-11-10",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 2.5,
+    "pratini": 2.5,
+    "instalkiane": 1.5,
+    "zafrina": null
+   },
+   "group_avg": 2.38,
+   "group_voters": 4,
+   "group_std": 0.54,
+   "diff_vs_lbxd": -1.4
+  },
+  {
+   "position": 22,
+   "slug": "flash-gordon-1980",
+   "title": "Flash Gordon",
+   "year": 1980,
+   "duration": 111,
+   "url": "https://letterboxd.com/film/flash-gordon-1980/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/6/3/2/49632-flash-gordon-0-600-0-900-crop.jpg?v=597f184515",
+   "lbxd_avg": 3.24,
+   "lbxd_rating_count": 62369,
+   "watched_date": "2022-11-17",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.33,
+   "group_voters": 3,
+   "group_std": 0.47,
+   "diff_vs_lbxd": 0.09
+  },
+  {
+   "position": 23,
+   "slug": "killer-klowns-from-outer-space",
+   "title": "Killer Klowns from Outer Space",
+   "year": 1988,
+   "duration": 86,
+   "url": "https://letterboxd.com/film/killer-klowns-from-outer-space/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/1/6/7/2/41672-killer-klowns-from-outer-space-0-600-0-900-crop.jpg?v=62918cf2e0",
+   "lbxd_avg": 3.4,
+   "lbxd_rating_count": 237212,
+   "watched_date": "2023-01-26",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.33,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -0.07
+  },
+  {
+   "position": 24,
+   "slug": "the-36th-chamber-of-shaolin",
+   "title": "The 36th Chamber of Shaolin",
+   "year": 1978,
+   "duration": 116,
+   "url": "https://letterboxd.com/film/the-36th-chamber-of-shaolin/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/9/6/0/44960-the-36th-chamber-of-shaolin-0-600-0-900-crop.jpg?v=ab340a14b0",
+   "lbxd_avg": 4.06,
+   "lbxd_rating_count": 44268,
+   "watched_date": "2023-02-02",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.67,
+   "group_voters": 3,
+   "group_std": 0.47,
+   "diff_vs_lbxd": -0.39
+  },
+  {
+   "position": 25,
+   "slug": "the-warriors",
+   "title": "The Warriors",
+   "year": 1979,
+   "duration": 94,
+   "url": "https://letterboxd.com/film/the-warriors/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/2/7/0/45270-the-warriors-0-600-0-900-crop.jpg?v=acf7a78e78",
+   "lbxd_avg": 3.85,
+   "lbxd_rating_count": 204633,
+   "watched_date": "2023-02-09",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 1.5,
+    "pratini": 1.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.0,
+   "group_voters": 3,
+   "group_std": 0.71,
+   "diff_vs_lbxd": -1.85
+  },
+  {
+   "position": 26,
+   "slug": "the-banshees-of-inisherin",
+   "title": "The Banshees of Inisherin",
+   "year": 2022,
+   "duration": 114,
+   "url": "https://letterboxd.com/film/the-banshees-of-inisherin/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/9/8/8/8/2/598882-the-banshees-of-inisherin-0-600-0-900-crop.jpg?v=933f9af6e7",
+   "lbxd_avg": 4.12,
+   "lbxd_rating_count": 1249160,
+   "watched_date": "2023-02-14",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": 4.0,
+    "zafrina": null
+   },
+   "group_avg": 3.25,
+   "group_voters": 4,
+   "group_std": 0.43,
+   "diff_vs_lbxd": -0.87
+  },
+  {
+   "position": 27,
+   "slug": "masters-of-the-universe",
+   "title": "Masters of the Universe",
+   "year": 1987,
+   "duration": 106,
+   "url": "https://letterboxd.com/film/masters-of-the-universe/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/1/0/4/45104-masters-of-the-universe-0-600-0-900-crop.jpg?v=e36bf3f17f",
+   "lbxd_avg": 2.5,
+   "lbxd_rating_count": 51072,
+   "watched_date": "2023-03-16",
+   "presented": true,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": 2.0,
+    "pratini": 2.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -0.5
+  },
+  {
+   "position": 28,
+   "slug": "invasion-of-the-body-snatchers-1978",
+   "title": "Invasion of the Body Snatchers",
+   "year": 1978,
+   "duration": 116,
+   "url": "https://letterboxd.com/film/invasion-of-the-body-snatchers-1978/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/6u/bl/vb/cd/5oNHdVo0vTsaC47Jv2Wb4eeo4V4-0-600-0-900-crop.jpg?v=b2619cea7f",
+   "lbxd_avg": 3.94,
+   "lbxd_rating_count": 191133,
+   "watched_date": "2023-03-23",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": 0.06
+  },
+  {
+   "position": 29,
+   "slug": "rollerball",
+   "title": "Rollerball",
+   "year": 1975,
+   "duration": 125,
+   "url": "https://letterboxd.com/film/rollerball/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/2/6/0/45260-rollerball-0-600-0-900-crop.jpg?v=c649e30faf",
+   "lbxd_avg": 3.27,
+   "lbxd_rating_count": 35423,
+   "watched_date": "2023-04-27",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 2.5,
+    "pratini": 2.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.67,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -0.6
+  },
+  {
+   "position": 30,
+   "slug": "bloodmoon",
+   "title": "Bloodmoon",
+   "year": 1997,
+   "duration": 103,
+   "url": "https://letterboxd.com/film/bloodmoon/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/1/6/0/6/31606-bloodmoon-0-600-0-900-crop.jpg?v=02f036844a",
+   "lbxd_avg": 3.41,
+   "lbxd_rating_count": 1396,
+   "watched_date": "2023-05-18",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.33,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -0.08
+  },
+  {
+   "position": 31,
+   "slug": "army-of-darkness",
+   "title": "Army of Darkness",
+   "year": 1992,
+   "duration": 89,
+   "url": "https://letterboxd.com/film/army-of-darkness/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/a7/6d/2x/pn/z7jxLTbnDx4tmLprfClKoUvOPmF-0-600-0-900-crop.jpg?v=80ad22d392",
+   "lbxd_avg": 3.7,
+   "lbxd_rating_count": 382212,
+   "watched_date": "2023-05-25",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 4.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.17,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": 0.47
+  },
+  {
+   "position": 32,
+   "slug": "requiem-for-a-dream",
+   "title": "Requiem for a Dream",
+   "year": 2000,
+   "duration": 102,
+   "url": "https://letterboxd.com/film/requiem-for-a-dream/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/lv/4b/f2/zj/muym4jTjdLx7E6as09d1wlC3sOB-0-600-0-900-crop.jpg?v=b4d5a4aa37",
+   "lbxd_avg": 4.11,
+   "lbxd_rating_count": 1837835,
+   "watched_date": "2023-07-06",
+   "presented": true,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 3.5,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.17,
+   "group_voters": 3,
+   "group_std": 0.62,
+   "diff_vs_lbxd": 0.06
+  },
+  {
+   "position": 33,
+   "slug": "the-meg",
+   "title": "The Meg",
+   "year": 2018,
+   "duration": 113,
+   "url": "https://letterboxd.com/film/the-meg/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/7/6/2/9/1/276291-the-meg-0-600-0-900-crop.jpg?v=55a1bb2539",
+   "lbxd_avg": 2.49,
+   "lbxd_rating_count": 574995,
+   "watched_date": "2023-06-01",
+   "presented": true,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": 2.5,
+    "pratini": 3.0,
+    "instalkiane": 2.5,
+    "zafrina": null
+   },
+   "group_avg": 2.5,
+   "group_voters": 4,
+   "group_std": 0.35,
+   "diff_vs_lbxd": 0.01
+  },
+  {
+   "position": 34,
+   "slug": "high-noon",
+   "title": "High Noon",
+   "year": 1952,
+   "duration": 85,
+   "url": "https://letterboxd.com/film/high-noon/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/7/1/51771-high-noon-0-600-0-900-crop.jpg?v=f3771dd12d",
+   "lbxd_avg": 3.99,
+   "lbxd_rating_count": 100995,
+   "watched_date": "2023-06-27",
+   "presented": true,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 4.0,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.17,
+   "group_voters": 3,
+   "group_std": 0.62,
+   "diff_vs_lbxd": 0.18
+  },
+  {
+   "position": 35,
+   "slug": "bubba-ho-tep",
+   "title": "Bubba Ho-tep",
+   "year": 2002,
+   "duration": 92,
+   "url": "https://letterboxd.com/film/bubba-ho-tep/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/8/9/7/46897-bubba-ho-tep-0-600-0-900-crop.jpg?v=f8eb2ca272",
+   "lbxd_avg": 3.28,
+   "lbxd_rating_count": 47884,
+   "watched_date": "2023-07-13",
+   "presented": true,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": 2.0,
+    "pratini": 1.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 1.67,
+   "group_voters": 3,
+   "group_std": 0.47,
+   "diff_vs_lbxd": -1.61
+  },
+  {
+   "position": 36,
+   "slug": "fargo",
+   "title": "Fargo",
+   "year": 1996,
+   "duration": 98,
+   "url": "https://letterboxd.com/film/fargo/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/8/1/51781-fargo-0-600-0-900-crop.jpg?v=44835e3b35",
+   "lbxd_avg": 4.13,
+   "lbxd_rating_count": 1521801,
+   "watched_date": "2023-08-10",
+   "presented": true,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 4.0,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.17,
+   "group_voters": 3,
+   "group_std": 0.62,
+   "diff_vs_lbxd": 0.04
+  },
+  {
+   "position": 37,
+   "slug": "shin-godzilla",
+   "title": "Shin Godzilla",
+   "year": 2016,
+   "duration": 120,
+   "url": "https://letterboxd.com/film/shin-godzilla/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/8g/5p/p4/6b/8YWirGQidtZeSEmhqvQM5FrI6N1-0-600-0-900-crop.jpg?v=10e3695a0f",
+   "lbxd_avg": 3.89,
+   "lbxd_rating_count": 293587,
+   "watched_date": "2023-09-14",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -0.89
+  },
+  {
+   "position": 38,
+   "slug": "gaslight-1944",
+   "title": "Gaslight",
+   "year": 1944,
+   "duration": 114,
+   "url": "https://letterboxd.com/film/gaslight-1944/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/8/1/2/43812-gaslight-0-600-0-900-crop.jpg?v=79da42925e",
+   "lbxd_avg": 4.05,
+   "lbxd_rating_count": 70466,
+   "watched_date": "2023-09-21",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": null,
+    "pratini": 4.0,
+    "instalkiane": 3.5,
+    "zafrina": null
+   },
+   "group_avg": 3.83,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -0.22
+  },
+  {
+   "position": 39,
+   "slug": "ip-man",
+   "title": "Ip Man",
+   "year": 2008,
+   "duration": 106,
+   "url": "https://letterboxd.com/film/ip-man/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/2/8/4/1/42841-ip-man-0-600-0-900-crop.jpg?v=a2770708db",
+   "lbxd_avg": 3.98,
+   "lbxd_rating_count": 143065,
+   "watched_date": "2023-10-05",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 4.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.33,
+   "group_voters": 3,
+   "group_std": 0.47,
+   "diff_vs_lbxd": -0.65
+  },
+  {
+   "position": 40,
+   "slug": "a-nightmare-on-elm-street",
+   "title": "A Nightmare on Elm Street",
+   "year": 1984,
+   "duration": 91,
+   "url": "https://letterboxd.com/film/a-nightmare-on-elm-street/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/0/8/51708-a-nightmare-on-elm-street-0-600-0-900-crop.jpg?v=659352ad1f",
+   "lbxd_avg": 3.71,
+   "lbxd_rating_count": 885909,
+   "watched_date": "2023-10-19",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.5,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": 4.0
+   },
+   "group_avg": 3.38,
+   "group_voters": 4,
+   "group_std": 0.41,
+   "diff_vs_lbxd": -0.33
+  },
+  {
+   "position": 41,
+   "slug": "paddington",
+   "title": "Paddington",
+   "year": 2014,
+   "duration": 95,
+   "url": "https://letterboxd.com/film/paddington/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/2/1/6/0/92160-paddington-0-600-0-900-crop.jpg?v=c7db8f284b",
+   "lbxd_avg": 3.8,
+   "lbxd_rating_count": 1042467,
+   "watched_date": "2023-11-30",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 3.5,
+    "instalkiane": 4.0,
+    "zafrina": null
+   },
+   "group_avg": 3.88,
+   "group_voters": 4,
+   "group_std": 0.22,
+   "diff_vs_lbxd": 0.08
+  },
+  {
+   "position": 42,
+   "slug": "paddington-2",
+   "title": "Paddington 2",
+   "year": 2017,
+   "duration": 104,
+   "url": "https://letterboxd.com/film/paddington-2/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/ij/ub/so/m3/zuXMvSQq9F7H29qzuUm0qyUqw6m-0-600-0-900-crop.jpg?v=a53cafc017",
+   "lbxd_avg": 4.1,
+   "lbxd_rating_count": 759245,
+   "watched_date": "2023-11-30",
+   "presented": true,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 4.5,
+    "pratini": 4.0,
+    "instalkiane": 4.5,
+    "zafrina": null
+   },
+   "group_avg": 4.5,
+   "group_voters": 4,
+   "group_std": 0.35,
+   "diff_vs_lbxd": 0.4
+  },
+  {
+   "position": 43,
+   "slug": "hairspray",
+   "title": "Hairspray",
+   "year": 1988,
+   "duration": 92,
+   "url": "https://letterboxd.com/film/hairspray/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/6/4/9/45649-hairspray-0-600-0-900-crop.jpg?v=d3b9d13162",
+   "lbxd_avg": 3.69,
+   "lbxd_rating_count": 85082,
+   "watched_date": "2023-12-07",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 2.5,
+    "pratini": 2.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.5,
+   "group_voters": 3,
+   "group_std": 0.41,
+   "diff_vs_lbxd": -1.19
+  },
+  {
+   "position": 44,
+   "slug": "28-days-later",
+   "title": "28 Days Later",
+   "year": 2002,
+   "duration": 113,
+   "url": "https://letterboxd.com/film/28-days-later/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/qr/28/nz/3f/xaYdxi1PBEAYvqknvAmMPK5Eff3-0-600-0-900-crop.jpg?v=22d7237ed9",
+   "lbxd_avg": 3.73,
+   "lbxd_rating_count": 1521565,
+   "watched_date": "2024-01-11",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.33,
+   "group_voters": 3,
+   "group_std": 0.47,
+   "diff_vs_lbxd": -0.4
+  },
+  {
+   "position": 45,
+   "slug": "pig-2021",
+   "title": "Pig",
+   "year": 2021,
+   "duration": 92,
+   "url": "https://letterboxd.com/film/pig-2021/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/6/1/7/6/3/561763-pig-0-600-0-900-crop.jpg?v=fb522b9d9a",
+   "lbxd_avg": 3.73,
+   "lbxd_rating_count": 320667,
+   "watched_date": "2024-01-18",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 4.0,
+    "pratini": 2.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.17,
+   "group_voters": 3,
+   "group_std": 0.62,
+   "diff_vs_lbxd": -0.56
+  },
+  {
+   "position": 46,
+   "slug": "an-american-werewolf-in-london",
+   "title": "An American Werewolf in London",
+   "year": 1981,
+   "duration": 97,
+   "url": "https://letterboxd.com/film/an-american-werewolf-in-london/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/3/3/8/51338-an-american-werewolf-in-london-0-600-0-900-crop.jpg?v=20aaa45d61",
+   "lbxd_avg": 3.83,
+   "lbxd_rating_count": 337120,
+   "watched_date": "2024-01-25",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 2.5,
+    "pratini": 2.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.5,
+   "group_voters": 3,
+   "group_std": 0.41,
+   "diff_vs_lbxd": -1.33
+  },
+  {
+   "position": 47,
+   "slug": "past-lives",
+   "title": "Past Lives",
+   "year": 2023,
+   "duration": 106,
+   "url": "https://letterboxd.com/film/past-lives/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/9/1/0/5/3/591053-past-lives-0-600-0-900-crop.jpg?v=c600b7854e",
+   "lbxd_avg": 4.16,
+   "lbxd_rating_count": 1899947,
+   "watched_date": "2024-02-08",
+   "presented": true,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 3.0,
+    "pratini": 2.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.5,
+   "group_voters": 3,
+   "group_std": 1.08,
+   "diff_vs_lbxd": -0.66
+  },
+  {
+   "position": 48,
+   "slug": "napoleon-dynamite",
+   "title": "Napoleon Dynamite",
+   "year": 2004,
+   "duration": 95,
+   "url": "https://letterboxd.com/film/napoleon-dynamite/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/8/6/7/47867-napoleon-dynamite-0-600-0-900-crop.jpg?v=dc5d6552f9",
+   "lbxd_avg": 3.73,
+   "lbxd_rating_count": 753419,
+   "watched_date": "2024-02-29",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 1.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.0,
+   "group_voters": 3,
+   "group_std": 1.41,
+   "diff_vs_lbxd": -0.73
+  },
+  {
+   "position": 49,
+   "slug": "dune-2021",
+   "title": "Dune",
+   "year": 2021,
+   "duration": 155,
+   "url": "https://letterboxd.com/film/dune-2021/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/nx/8b/vs/gc/cDbNAY0KM84cxXhmj8f0dLWza3t-0-600-0-900-crop.jpg?v=49eed12751",
+   "lbxd_avg": 3.89,
+   "lbxd_rating_count": 4570530,
+   "watched_date": "2024-03-03",
+   "presented": true,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.0,
+   "group_voters": 3,
+   "group_std": 0.71,
+   "diff_vs_lbxd": 0.11
+  },
+  {
+   "position": 50,
+   "slug": "dune-part-two",
+   "title": "Dune: Part Two",
+   "year": 2024,
+   "duration": 167,
+   "url": "https://letterboxd.com/film/dune-part-two/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-600-0-900-crop.jpg?v=cc533700f8",
+   "lbxd_avg": 4.37,
+   "lbxd_rating_count": 3750599,
+   "watched_date": "2024-03-25",
+   "presented": true,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 5.0,
+    "pratini": 4.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.83,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": 0.46
+  },
+  {
+   "position": 51,
+   "slug": "miami-connection",
+   "title": "Miami Connection",
+   "year": 1987,
+   "duration": 87,
+   "url": "https://letterboxd.com/film/miami-connection/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/8/3/8/6838-miami-connection-0-600-0-900-crop.jpg?v=5c02ece37d",
+   "lbxd_avg": 3.19,
+   "lbxd_rating_count": 24149,
+   "watched_date": "2024-03-07",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 5.0,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.0,
+   "group_voters": 3,
+   "group_std": 0.82,
+   "diff_vs_lbxd": 0.81
+  },
+  {
+   "position": 52,
+   "slug": "renfield",
+   "title": "Renfield",
+   "year": 2023,
+   "duration": 93,
+   "url": "https://letterboxd.com/film/renfield/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/7/5/2/5/8/575258-renfield-0-600-0-900-crop.jpg?v=cb762c27df",
+   "lbxd_avg": 2.86,
+   "lbxd_rating_count": 361103,
+   "watched_date": "2024-03-20",
+   "presented": true,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.67,
+   "group_voters": 3,
+   "group_std": 0.47,
+   "diff_vs_lbxd": -0.19
+  },
+  {
+   "position": 53,
+   "slug": "the-man-from-nowhere",
+   "title": "The Man from Nowhere",
+   "year": 2010,
+   "duration": 119,
+   "url": "https://letterboxd.com/film/the-man-from-nowhere/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/2/2/0/14220-the-man-from-nowhere-0-600-0-900-crop.jpg?v=fc0c110526",
+   "lbxd_avg": 3.89,
+   "lbxd_rating_count": 66800,
+   "watched_date": "2024-03-28",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 2.5,
+    "pratini": 2.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.67,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -1.22
+  },
+  {
+   "position": 54,
+   "slug": "isle-of-dogs-2018",
+   "title": "Isle of Dogs",
+   "year": 2018,
+   "duration": 101,
+   "url": "https://letterboxd.com/film/isle-of-dogs-2018/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/z2/5l/zn/to/uMcbu3qVseJGH24xUAyIVzmcQV4-0-600-0-900-crop.jpg?v=8bc488a9ff",
+   "lbxd_avg": 4.09,
+   "lbxd_rating_count": 1332709,
+   "watched_date": "2024-05-01",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.5,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.17,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -0.92
+  },
+  {
+   "position": 55,
+   "slug": "the-raid-2011",
+   "title": "The Raid",
+   "year": 2011,
+   "duration": 101,
+   "url": "https://letterboxd.com/film/the-raid-2011/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/8/2/6/6/78266-the-raid-0-600-0-900-crop.jpg?v=4095a2a23a",
+   "lbxd_avg": 4.04,
+   "lbxd_rating_count": 323978,
+   "watched_date": "2024-05-15",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -0.04
+  },
+  {
+   "position": 56,
+   "slug": "the-usual-suspects",
+   "title": "The Usual Suspects",
+   "year": 1995,
+   "duration": 106,
+   "url": "https://letterboxd.com/film/the-usual-suspects/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/5/51495-the-usual-suspects-0-600-0-900-crop.jpg?v=c02dce5b81",
+   "lbxd_avg": 4.08,
+   "lbxd_rating_count": 1154750,
+   "watched_date": "2024-06-06",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.33,
+   "group_voters": 3,
+   "group_std": 0.47,
+   "diff_vs_lbxd": -0.75
+  },
+  {
+   "position": 57,
+   "slug": "pitch-black",
+   "title": "Pitch Black",
+   "year": 2000,
+   "duration": 108,
+   "url": "https://letterboxd.com/film/pitch-black/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/dz/qs/cp/de/z46wU1mzQm6b1LoqGG8E2uWNnFW-0-600-0-900-crop.jpg?v=141e3a7201",
+   "lbxd_avg": 3.32,
+   "lbxd_rating_count": 116970,
+   "watched_date": "2024-07-02",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -0.32
+  },
+  {
+   "position": 58,
+   "slug": "hard-ticket-to-hawaii",
+   "title": "Hard Ticket to Hawaii",
+   "year": 1987,
+   "duration": 96,
+   "url": "https://letterboxd.com/film/hard-ticket-to-hawaii/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/5/6/1/6/35616-hard-ticket-to-hawaii-0-600-0-900-crop.jpg?v=2cc58c9f58",
+   "lbxd_avg": 3.08,
+   "lbxd_rating_count": 14267,
+   "watched_date": "2024-07-11",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.33,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": 0.25
+  },
+  {
+   "position": 59,
+   "slug": "x-2022",
+   "title": "X",
+   "year": 2022,
+   "duration": 106,
+   "url": "https://letterboxd.com/film/x-2022/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/8/0/3/5/8/680358-x-0-600-0-900-crop.jpg?v=8ba5e11abf",
+   "lbxd_avg": 3.4,
+   "lbxd_rating_count": 1831625,
+   "watched_date": "2024-07-13",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.67,
+   "group_voters": 3,
+   "group_std": 0.47,
+   "diff_vs_lbxd": 0.27
+  },
+  {
+   "position": 60,
+   "slug": "pearl-2022",
+   "title": "Pearl",
+   "year": 2022,
+   "duration": 102,
+   "url": "https://letterboxd.com/film/pearl-2022/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/5/3/8/2/2/853822-pearl-0-600-0-900-crop.jpg?v=471dfc4a24",
+   "lbxd_avg": 3.7,
+   "lbxd_rating_count": 2219022,
+   "watched_date": "2024-07-13",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 1.5,
+    "instalkiane": 4.0,
+    "zafrina": 4.0
+   },
+   "group_avg": 3.5,
+   "group_voters": 5,
+   "group_std": 1.0,
+   "diff_vs_lbxd": -0.2
+  },
+  {
+   "position": 61,
+   "slug": "maxxxine",
+   "title": "MaXXXine",
+   "year": 2024,
+   "duration": 103,
+   "url": "https://letterboxd.com/film/maxxxine/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/2/2/8/5/8/922858-maxxxine-0-600-0-900-crop.jpg?v=a0fd94e61f",
+   "lbxd_avg": 3.09,
+   "lbxd_rating_count": 1024087,
+   "watched_date": "2024-07-13",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": null,
+    "instalkiane": 5.0,
+    "zafrina": null
+   },
+   "group_avg": 4.33,
+   "group_voters": 3,
+   "group_std": 0.47,
+   "diff_vs_lbxd": 1.24
+  },
+  {
+   "position": 62,
+   "slug": "the-fugitive-1993",
+   "title": "The Fugitive",
+   "year": 1993,
+   "duration": 131,
+   "url": "https://letterboxd.com/film/the-fugitive-1993/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/8/2/3/48823-the-fugitive-0-600-0-900-crop.jpg?v=f0226b0e25",
+   "lbxd_avg": 3.92,
+   "lbxd_rating_count": 331378,
+   "watched_date": "2024-08-26",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.83,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -0.09
+  },
+  {
+   "position": 63,
+   "slug": "monkey-man",
+   "title": "Monkey Man",
+   "year": 2024,
+   "duration": 122,
+   "url": "https://letterboxd.com/film/monkey-man/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/8/7/5/1/488751-monkey-man-0-600-0-900-crop.jpg?v=0c25a18552",
+   "lbxd_avg": 3.72,
+   "lbxd_rating_count": 626683,
+   "watched_date": "2024-09-02",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": null,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.75,
+   "group_voters": 2,
+   "group_std": 0.25,
+   "diff_vs_lbxd": 0.03
+  },
+  {
+   "position": 64,
+   "slug": "blade",
+   "title": "Blade",
+   "year": 1998,
+   "duration": 121,
+   "url": "https://letterboxd.com/film/blade/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/7/7/3/0/27730-blade-0-600-0-900-crop.jpg?v=c6c4275ae2",
+   "lbxd_avg": 3.52,
+   "lbxd_rating_count": 481867,
+   "watched_date": "2024-09-16",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": 0.48
+  },
+  {
+   "position": 65,
+   "slug": "repo-man",
+   "title": "Repo Man",
+   "year": 1984,
+   "duration": 92,
+   "url": "https://letterboxd.com/film/repo-man/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/0f/wo/u4/2q/kifgXnv8i8h7gCZvvwoUWUo4mBf-0-600-0-900-crop.jpg?v=f0383e9d2b",
+   "lbxd_avg": 3.73,
+   "lbxd_rating_count": 115508,
+   "watched_date": "2024-09-23",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": 0.27
+  },
+  {
+   "position": 66,
+   "slug": "re-animator",
+   "title": "Re-Animator",
+   "year": 1985,
+   "duration": 86,
+   "url": "https://letterboxd.com/film/re-animator/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/wd/b8/27/m3/hJnP2O0uTuh8HsR094WLTi3sQwc-0-600-0-900-crop.jpg?v=229c35a394",
+   "lbxd_avg": 3.76,
+   "lbxd_rating_count": 204697,
+   "watched_date": "2024-10-07",
+   "presented": true,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -0.76
+  },
+  {
+   "position": 67,
+   "slug": "dude-bro-party-massacre-iii",
+   "title": "Dude Bro Party Massacre III",
+   "year": 2015,
+   "duration": 101,
+   "url": "https://letterboxd.com/film/dude-bro-party-massacre-iii/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/2/3/8/1/8/223818-dude-bro-party-massacre-iii-0-600-0-900-crop.jpg?v=71ee5f8f32",
+   "lbxd_avg": 3.37,
+   "lbxd_rating_count": 10084,
+   "watched_date": "2024-10-14",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.5,
+    "pratini": 3.0,
+    "instalkiane": 3.0,
+    "zafrina": null
+   },
+   "group_avg": 3.38,
+   "group_voters": 4,
+   "group_std": 0.41,
+   "diff_vs_lbxd": 0.01
+  },
+  {
+   "position": 68,
+   "slug": "the-fly-1986",
+   "title": "The Fly",
+   "year": 1986,
+   "duration": 96,
+   "url": "https://letterboxd.com/film/the-fly-1986/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/1/7/1/47171-the-fly-0-600-0-900-crop.jpg?v=30802b8573",
+   "lbxd_avg": 4.0,
+   "lbxd_rating_count": 604711,
+   "watched_date": "2024-10-22",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.5,
+    "pratini": 2.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.33,
+   "group_voters": 3,
+   "group_std": 0.62,
+   "diff_vs_lbxd": -0.67
+  },
+  {
+   "position": 69,
+   "slug": "humanist-vampire-seeking-consenting-suicidal-person",
+   "title": "Humanist Vampire Seeking Consenting Suicidal Person",
+   "year": 2023,
+   "duration": 91,
+   "url": "https://letterboxd.com/film/humanist-vampire-seeking-consenting-suicidal-person/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/9/0/1/0/5/890105-humanist-vampire-seeking-consenting-suicidal-person-0-600-0-900-crop.jpg?v=17a4ea90a4",
+   "lbxd_avg": 3.9,
+   "lbxd_rating_count": 216505,
+   "watched_date": "2024-10-28",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": 4.0,
+    "zafrina": 4.0
+   },
+   "group_avg": 3.8,
+   "group_voters": 5,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -0.1
+  },
+  {
+   "position": 70,
+   "slug": "nosferatu",
+   "title": "Nosferatu",
+   "year": 1922,
+   "duration": 94,
+   "url": "https://letterboxd.com/film/nosferatu/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/4/7/1/51471-nosferatu-0-600-0-900-crop.jpg?v=97f8f97666",
+   "lbxd_avg": 3.82,
+   "lbxd_rating_count": 440014,
+   "watched_date": "2024-11-05",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 4.0,
+    "instalkiane": 2.5,
+    "zafrina": null
+   },
+   "group_avg": 3.62,
+   "group_voters": 4,
+   "group_std": 0.65,
+   "diff_vs_lbxd": -0.2
+  },
+  {
+   "position": 71,
+   "slug": "fallen-angels",
+   "title": "Fallen Angels",
+   "year": 1995,
+   "duration": 98,
+   "url": "https://letterboxd.com/film/fallen-angels/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/4/8/9/45489-fallen-angels-0-600-0-900-crop.jpg?v=26d8dd7207",
+   "lbxd_avg": 4.16,
+   "lbxd_rating_count": 781491,
+   "watched_date": "2024-11-11",
+   "presented": true,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -0.16
+  },
+  {
+   "position": 72,
+   "slug": "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb",
+   "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+   "year": 1964,
+   "duration": 95,
+   "url": "https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/2/1/8/51218-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love--0-600-0-900-crop.jpg?v=c814dfbae0",
+   "lbxd_avg": 4.3,
+   "lbxd_rating_count": 681906,
+   "watched_date": "2024-11-15",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 4.5,
+    "pratini": 4.0,
+    "instalkiane": 4.0,
+    "zafrina": null
+   },
+   "group_avg": 3.88,
+   "group_voters": 4,
+   "group_std": 0.54,
+   "diff_vs_lbxd": -0.42
+  },
+  {
+   "position": 73,
+   "slug": "meshes-of-the-afternoon",
+   "title": "Meshes of the Afternoon",
+   "year": 1943,
+   "duration": 14,
+   "url": "https://letterboxd.com/film/meshes-of-the-afternoon/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/8/4/8/34848-meshes-of-the-afternoon-0-600-0-900-crop.jpg?v=d4cb4033e8",
+   "lbxd_avg": 4.23,
+   "lbxd_rating_count": 100576,
+   "watched_date": "2024-11-15",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.0,
+    "pratini": 4.0,
+    "instalkiane": 4.0,
+    "zafrina": null
+   },
+   "group_avg": 3.75,
+   "group_voters": 4,
+   "group_std": 0.43,
+   "diff_vs_lbxd": -0.48
+  },
+  {
+   "position": 74,
+   "slug": "the-wizard-of-oz-1939",
+   "title": "The Wizard of Oz",
+   "year": 1939,
+   "duration": 102,
+   "url": "https://letterboxd.com/film/the-wizard-of-oz-1939/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/4/51494-the-wizard-of-oz-1939-0-600-0-900-crop.jpg?v=61f48285ea",
+   "lbxd_avg": 3.91,
+   "lbxd_rating_count": 1017009,
+   "watched_date": "2024-11-21",
+   "presented": false,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": 4.5,
+    "zafrina": null
+   },
+   "group_avg": 3.88,
+   "group_voters": 4,
+   "group_std": 0.89,
+   "diff_vs_lbxd": -0.03
+  },
+  {
+   "position": 75,
+   "slug": "dawn-of-the-dead",
+   "title": "Dawn of the Dead",
+   "year": 1978,
+   "duration": 127,
+   "url": "https://letterboxd.com/film/dawn-of-the-dead/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/q9/17/om/9y/8D6WEfNZr6JadQrqJr5OOq1QlV0-0-600-0-900-crop.jpg?v=b65bcfbd46",
+   "lbxd_avg": 3.95,
+   "lbxd_rating_count": 212461,
+   "watched_date": "2024-11-26",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 2.5,
+    "pratini": 2.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.0,
+   "group_voters": 3,
+   "group_std": 0.71,
+   "diff_vs_lbxd": -0.95
+  },
+  {
+   "position": 76,
+   "slug": "the-company-of-strangers",
+   "title": "The Company of Strangers",
+   "year": 1990,
+   "duration": 101,
+   "url": "https://letterboxd.com/film/the-company-of-strangers/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/7/1/9/0/97190-strangers-in-good-company-0-600-0-900-crop.jpg?v=83ef4a9e61",
+   "lbxd_avg": 4.28,
+   "lbxd_rating_count": 10433,
+   "watched_date": "2024-12-02",
+   "presented": false,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 4.0,
+    "pratini": 3.5,
+    "instalkiane": 3.0,
+    "zafrina": null
+   },
+   "group_avg": 3.88,
+   "group_voters": 4,
+   "group_std": 0.74,
+   "diff_vs_lbxd": -0.4
+  },
+  {
+   "position": 77,
+   "slug": "tokyo-godfathers",
+   "title": "Tokyo Godfathers",
+   "year": 2003,
+   "duration": 92,
+   "url": "https://letterboxd.com/film/tokyo-godfathers/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/zl/no/np/nn/aY1q9dTGC8u8TUsAgnpJHsdAdJZ-0-600-0-900-crop.jpg?v=6bf4242f8d",
+   "lbxd_avg": 4.26,
+   "lbxd_rating_count": 280579,
+   "watched_date": "2024-12-09",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 4.0,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.67,
+   "group_voters": 3,
+   "group_std": 0.47,
+   "diff_vs_lbxd": -0.59
+  },
+  {
+   "position": 78,
+   "slug": "kiss-kiss-bang-bang-2005",
+   "title": "Kiss Kiss Bang Bang",
+   "year": 2005,
+   "duration": 103,
+   "url": "https://letterboxd.com/film/kiss-kiss-bang-bang-2005/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/ek/qa/d5/cb/18GHWx66uADdY7GM9NL8WRY5GSw-0-600-0-900-crop.jpg?v=cc723e4c2b",
+   "lbxd_avg": 3.73,
+   "lbxd_rating_count": 208249,
+   "watched_date": "2024-12-16",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 2.5,
+    "pratini": 2.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.67,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -1.06
+  },
+  {
+   "position": 79,
+   "slug": "the-substance",
+   "title": "The Substance",
+   "year": 2024,
+   "duration": 141,
+   "url": "https://letterboxd.com/film/the-substance/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-600-0-900-crop.jpg?v=ab9e1072f8",
+   "lbxd_avg": 3.72,
+   "lbxd_rating_count": 3962000,
+   "watched_date": "2025-01-06",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 2.5,
+    "instalkiane": null,
+    "zafrina": 4.5
+   },
+   "group_avg": 3.75,
+   "group_voters": 4,
+   "group_std": 0.75,
+   "diff_vs_lbxd": 0.03
+  },
+  {
+   "position": 80,
+   "slug": "shaft",
+   "title": "Shaft",
+   "year": 1971,
+   "duration": 100,
+   "url": "https://letterboxd.com/film/shaft/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/6/2/4/51624-shaft-0-600-0-900-crop.jpg?v=d94298c054",
+   "lbxd_avg": 3.47,
+   "lbxd_rating_count": 41354,
+   "watched_date": "2025-01-07",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -0.47
+  },
+  {
+   "position": 81,
+   "slug": "nosferatu-2024",
+   "title": "Nosferatu",
+   "year": 2024,
+   "duration": 133,
+   "url": "https://letterboxd.com/film/nosferatu-2024/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/5/9/5/0/5/359505-nosferatu-2024-0-600-0-900-crop.jpg?v=a12d4ad648",
+   "lbxd_avg": 3.65,
+   "lbxd_rating_count": 2782570,
+   "watched_date": "2025-01-16",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 4.0,
+    "pratini": 4.0,
+    "instalkiane": 4.0,
+    "zafrina": null
+   },
+   "group_avg": 3.75,
+   "group_voters": 4,
+   "group_std": 0.43,
+   "diff_vs_lbxd": 0.1
+  },
+  {
+   "position": 82,
+   "slug": "anora",
+   "title": "Anora",
+   "year": 2024,
+   "duration": 139,
+   "url": "https://letterboxd.com/film/anora/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/5/9/5/4/0/959540-anora-0-600-0-900-crop.jpg?v=6f92877033",
+   "lbxd_avg": 3.76,
+   "lbxd_rating_count": 2662984,
+   "watched_date": "2025-01-28",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": 0.24
+  },
+  {
+   "position": 83,
+   "slug": "eight-legged-freaks",
+   "title": "Eight Legged Freaks",
+   "year": 2002,
+   "duration": 99,
+   "url": "https://letterboxd.com/film/eight-legged-freaks/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/5/5/5/47555-eight-legged-freaks-0-600-0-900-crop.jpg?v=181f47401f",
+   "lbxd_avg": 2.62,
+   "lbxd_rating_count": 55536,
+   "watched_date": "2025-02-04",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": 0.38
+  },
+  {
+   "position": 84,
+   "slug": "companion-2025",
+   "title": "Companion",
+   "year": 2025,
+   "duration": 97,
+   "url": "https://letterboxd.com/film/companion-2025/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/7/7/1/7/2/977172-companion-2025-0-600-0-900-crop.jpg?v=66c5c946ec",
+   "lbxd_avg": 3.38,
+   "lbxd_rating_count": 1723127,
+   "watched_date": "2025-02-07",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 4.0,
+    "instalkiane": 5.0,
+    "zafrina": null
+   },
+   "group_avg": 4.25,
+   "group_voters": 4,
+   "group_std": 0.43,
+   "diff_vs_lbxd": 0.87
+  },
+  {
+   "position": 85,
+   "slug": "dream-scenario",
+   "title": "Dream Scenario",
+   "year": 2023,
+   "duration": 102,
+   "url": "https://letterboxd.com/film/dream-scenario/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/3/9/6/9/1/739691-dream-scenario-0-600-0-900-crop.jpg?v=bd5ff0ede9",
+   "lbxd_avg": 3.41,
+   "lbxd_rating_count": 520420,
+   "watched_date": "2025-02-11",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 2.5,
+    "instalkiane": 2.5,
+    "zafrina": null
+   },
+   "group_avg": 2.75,
+   "group_voters": 4,
+   "group_std": 0.25,
+   "diff_vs_lbxd": -0.66
+  },
+  {
+   "position": 86,
+   "slug": "the-goonies",
+   "title": "The Goonies",
+   "year": 1985,
+   "duration": 114,
+   "url": "https://letterboxd.com/film/the-goonies/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/2/5/4/47254-the-goonies-0-600-0-900-crop.jpg?v=fc8eb0611b",
+   "lbxd_avg": 3.83,
+   "lbxd_rating_count": 748606,
+   "watched_date": "2025-02-19",
+   "presented": false,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": null,
+    "pratini": 2.0,
+    "instalkiane": 1.0,
+    "zafrina": null
+   },
+   "group_avg": 1.67,
+   "group_voters": 3,
+   "group_std": 0.47,
+   "diff_vs_lbxd": -2.16
+  },
+  {
+   "position": 87,
+   "slug": "at-midnight-ill-take-your-soul",
+   "title": "At Midnight I'll Take Your Soul",
+   "year": 1964,
+   "duration": 83,
+   "url": "https://letterboxd.com/film/at-midnight-ill-take-your-soul/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/1/6/4/0/31640-at-midnight-i-ll-take-your-soul-0-600-0-900-crop.jpg?v=a70dcc97c3",
+   "lbxd_avg": 3.58,
+   "lbxd_rating_count": 25944,
+   "watched_date": "2025-02-25",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.33,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -0.25
+  },
+  {
+   "position": 88,
+   "slug": "the-seventh-seal",
+   "title": "The Seventh Seal",
+   "year": 1957,
+   "duration": 96,
+   "url": "https://letterboxd.com/film/the-seventh-seal/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/6/2/0/51620-the-seventh-seal-0-600-0-900-crop.jpg?v=fa1963f0b2",
+   "lbxd_avg": 4.31,
+   "lbxd_rating_count": 456409,
+   "watched_date": "2025-03-10",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.0,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.5,
+   "group_voters": 3,
+   "group_std": 0.41,
+   "diff_vs_lbxd": -0.81
+  },
+  {
+   "position": 89,
+   "slug": "ginger-snaps",
+   "title": "Ginger Snaps",
+   "year": 2000,
+   "duration": 108,
+   "url": "https://letterboxd.com/film/ginger-snaps/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/7/6/2/46762-ginger-snaps-0-600-0-900-crop.jpg?v=89b7114ec9",
+   "lbxd_avg": 3.66,
+   "lbxd_rating_count": 230447,
+   "watched_date": "2025-03-18",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": 3.0,
+    "zafrina": null
+   },
+   "group_avg": 3.5,
+   "group_voters": 4,
+   "group_std": 0.35,
+   "diff_vs_lbxd": -0.16
+  },
+  {
+   "position": 90,
+   "slug": "death-race-2000",
+   "title": "Death Race 2000",
+   "year": 1975,
+   "duration": 80,
+   "url": "https://letterboxd.com/film/death-race-2000/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/0/1/2/44012-death-race-2000-0-600-0-900-crop.jpg?v=35f1de5f36",
+   "lbxd_avg": 3.27,
+   "lbxd_rating_count": 46448,
+   "watched_date": "2025-03-24",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.5,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": 3.0
+   },
+   "group_avg": 3.12,
+   "group_voters": 4,
+   "group_std": 0.22,
+   "diff_vs_lbxd": -0.15
+  },
+  {
+   "position": 91,
+   "slug": "do-or-die",
+   "title": "Do or Die",
+   "year": 1991,
+   "duration": 97,
+   "url": "https://letterboxd.com/film/do-or-die/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/8/4/4/0/28440-do-or-die-0-600-0-900-crop.jpg?v=50738cbc73",
+   "lbxd_avg": 2.73,
+   "lbxd_rating_count": 1874,
+   "watched_date": "2025-03-31",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 2.5,
+    "pratini": 2.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.67,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -0.06
+  },
+  {
+   "position": 92,
+   "slug": "raising-arizona",
+   "title": "Raising Arizona",
+   "year": 1987,
+   "duration": 94,
+   "url": "https://letterboxd.com/film/raising-arizona/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/0/7/51707-raising-arizona-0-600-0-900-crop.jpg?v=4a10e2c93f",
+   "lbxd_avg": 3.87,
+   "lbxd_rating_count": 340689,
+   "watched_date": "2025-04-09",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -0.87
+  },
+  {
+   "position": 93,
+   "slug": "perfect-blue",
+   "title": "Perfect Blue",
+   "year": 1997,
+   "duration": 81,
+   "url": "https://letterboxd.com/film/perfect-blue/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/1/7/5/46175-perfect-blue-0-600-0-900-crop.jpg?v=1ed5878cce",
+   "lbxd_avg": 4.37,
+   "lbxd_rating_count": 1412076,
+   "watched_date": "2025-04-15",
+   "presented": false,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 5.0,
+    "pratini": 4.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.83,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": 0.46
+  },
+  {
+   "position": 94,
+   "slug": "a-hard-day",
+   "title": "A Hard Day",
+   "year": 2014,
+   "duration": 111,
+   "url": "https://letterboxd.com/film/a-hard-day/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/9/2/7/2/0/192720-a-hard-day-0-600-0-900-crop.jpg?v=9e7977a813",
+   "lbxd_avg": 3.66,
+   "lbxd_rating_count": 23365,
+   "watched_date": "2025-04-23",
+   "presented": false,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": 2.0,
+    "pratini": 2.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -1.66
+  },
+  {
+   "position": 95,
+   "slug": "the-last-days-of-disco",
+   "title": "The Last Days of Disco",
+   "year": 1998,
+   "duration": 113,
+   "url": "https://letterboxd.com/film/the-last-days-of-disco/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/xz/4x/xq/oo/h4xnwIVcbhSAuD6rr1E1JwS4NMx-0-600-0-900-crop.jpg?v=6e12a4fdf3",
+   "lbxd_avg": 3.76,
+   "lbxd_rating_count": 40156,
+   "watched_date": "2025-04-29",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": null,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.25,
+   "group_voters": 2,
+   "group_std": 0.25,
+   "diff_vs_lbxd": -0.51
+  },
+  {
+   "position": 96,
+   "slug": "frankenstein-1931",
+   "title": "Frankenstein",
+   "year": 1931,
+   "duration": 70,
+   "url": "https://letterboxd.com/film/frankenstein-1931/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/0v/a7/ib/7t/wB58wlBAr6484Wm6VyFDqSD8VOJ-0-600-0-900-crop.jpg?v=70996dc2b3",
+   "lbxd_avg": 3.76,
+   "lbxd_rating_count": 245101,
+   "watched_date": "2025-05-14",
+   "presented": false,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.0,
+   "group_voters": 3,
+   "group_std": 0.71,
+   "diff_vs_lbxd": 0.24
+  },
+  {
+   "position": 97,
+   "slug": "o-pai-o-look-at-this",
+   "title": "Ó Paí, Ó: Look at This",
+   "year": 2007,
+   "duration": 96,
+   "url": "https://letterboxd.com/film/o-pai-o-look-at-this/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/6/6/9/4/26694-o-pai-o-look-at-this-0-600-0-900-crop.jpg?v=7e0c32b17a",
+   "lbxd_avg": 3.83,
+   "lbxd_rating_count": 30204,
+   "watched_date": "2025-05-19",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.5,
+    "pratini": null,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.75,
+   "group_voters": 2,
+   "group_std": 0.25,
+   "diff_vs_lbxd": -0.08
+  },
+  {
+   "position": 98,
+   "slug": "wolfwalkers",
+   "title": "Wolfwalkers",
+   "year": 2020,
+   "duration": 102,
+   "url": "https://letterboxd.com/film/wolfwalkers/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/7/3/8/0/8/373808-wolfwalkers-0-600-0-900-crop.jpg?v=bd5ffe55b4",
+   "lbxd_avg": 4.25,
+   "lbxd_rating_count": 195109,
+   "watched_date": "2025-06-03",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": 3.5,
+    "zafrina": null
+   },
+   "group_avg": 3.38,
+   "group_voters": 4,
+   "group_std": 0.22,
+   "diff_vs_lbxd": -0.87
+  },
+  {
+   "position": 99,
+   "slug": "the-heroic-trio",
+   "title": "The Heroic Trio",
+   "year": 1993,
+   "duration": 88,
+   "url": "https://letterboxd.com/film/the-heroic-trio/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/1/5/1/7/21517-the-heroic-trio-0-600-0-900-crop.jpg?v=93576680e3",
+   "lbxd_avg": 3.61,
+   "lbxd_rating_count": 24863,
+   "watched_date": "2025-06-11",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.33,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -0.28
+  },
+  {
+   "position": 100,
+   "slug": "paddington-in-peru",
+   "title": "Paddington in Peru",
+   "year": 2024,
+   "duration": 106,
+   "url": "https://letterboxd.com/film/paddington-in-peru/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/6/4/8/2/446482-paddington-in-peru-0-600-0-900-crop.jpg?v=929c78758b",
+   "lbxd_avg": 3.4,
+   "lbxd_rating_count": 323628,
+   "watched_date": "2025-07-03",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 3.5,
+    "instalkiane": 4.5,
+    "zafrina": 4.0
+   },
+   "group_avg": 4.0,
+   "group_voters": 5,
+   "group_std": 0.32,
+   "diff_vs_lbxd": 0.6
+  },
+  {
+   "position": 101,
+   "slug": "shadow-2018",
+   "title": "Shadow",
+   "year": 2018,
+   "duration": 116,
+   "url": "https://letterboxd.com/film/shadow-2018/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/9/5/0/7/2/395072-shadow-0-600-0-900-crop.jpg?v=3ae96bddb3",
+   "lbxd_avg": 3.64,
+   "lbxd_rating_count": 33434,
+   "watched_date": "2025-07-09",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": 3.0
+   },
+   "group_avg": 3.0,
+   "group_voters": 4,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -0.64
+  },
+  {
+   "position": 102,
+   "slug": "superman-2025",
+   "title": "Superman",
+   "year": 2025,
+   "duration": 130,
+   "url": "https://letterboxd.com/film/superman-2025/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/5/7/0/5/0/957050-superman-2025-0-600-0-900-crop.jpg?v=54e41a55ff",
+   "lbxd_avg": 3.82,
+   "lbxd_rating_count": 3457131,
+   "watched_date": "2026-07-03",
+   "presented": false,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": 3.5,
+    "pratini": 2.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.67,
+   "group_voters": 3,
+   "group_std": 0.62,
+   "diff_vs_lbxd": -1.15
+  },
+  {
+   "position": 103,
+   "slug": "to-wong-foo-thanks-for-everything-julie-newmar",
+   "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+   "year": 1995,
+   "duration": 108,
+   "url": "https://letterboxd.com/film/to-wong-foo-thanks-for-everything-julie-newmar/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/3/5/4/47354-to-wong-foo-thanks-for-everything-julie-newmar-0-600-0-900-crop.jpg?v=92ec18458b",
+   "lbxd_avg": 4.17,
+   "lbxd_rating_count": 173099,
+   "watched_date": "2025-07-23",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.67,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -0.5
+  },
+  {
+   "position": 104,
+   "slug": "total-recall",
+   "title": "Total Recall",
+   "year": 1990,
+   "duration": 113,
+   "url": "https://letterboxd.com/film/total-recall/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/2/9/1/51291-total-recall-0-600-0-900-crop.jpg?v=85f262b6c9",
+   "lbxd_avg": 3.82,
+   "lbxd_rating_count": 372535,
+   "watched_date": "2025-07-28",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": 0.18
+  },
+  {
+   "position": 105,
+   "slug": "run-lola-run",
+   "title": "Run Lola Run",
+   "year": 1998,
+   "duration": 80,
+   "url": "https://letterboxd.com/film/run-lola-run/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/6/51946-run-lola-run-0-600-0-900-crop.jpg?v=06ffcb44b3",
+   "lbxd_avg": 3.86,
+   "lbxd_rating_count": 287622,
+   "watched_date": "2025-08-13",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": 3.0
+   },
+   "group_avg": 3.0,
+   "group_voters": 4,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -0.86
+  },
+  {
+   "position": 106,
+   "slug": "pans-labyrinth",
+   "title": "Pan's Labyrinth",
+   "year": 2006,
+   "duration": 118,
+   "url": "https://letterboxd.com/film/pans-labyrinth/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/0/4/7/51047-pan-s-labyrinth-0-600-0-900-crop.jpg?v=79f89e7325",
+   "lbxd_avg": 4.15,
+   "lbxd_rating_count": 1114675,
+   "watched_date": "2025-09-04",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.5,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": 4.0
+   },
+   "group_avg": 3.88,
+   "group_voters": 4,
+   "group_std": 0.22,
+   "diff_vs_lbxd": -0.27
+  },
+  {
+   "position": 107,
+   "slug": "bill-teds-excellent-adventure",
+   "title": "Bill & Ted's Excellent Adventure",
+   "year": 1989,
+   "duration": 90,
+   "url": "https://letterboxd.com/film/bill-teds-excellent-adventure/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/8/9/4/50894-bill-ted-s-excellent-adventure-0-600-0-900-crop.jpg?v=7515d21045",
+   "lbxd_avg": 3.67,
+   "lbxd_rating_count": 265082,
+   "watched_date": "2025-09-09",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 4.0,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.5,
+   "group_voters": 3,
+   "group_std": 0.41,
+   "diff_vs_lbxd": -0.17
+  },
+  {
+   "position": 108,
+   "slug": "bride-of-frankenstein",
+   "title": "Bride of Frankenstein",
+   "year": 1935,
+   "duration": 75,
+   "url": "https://letterboxd.com/film/bride-of-frankenstein/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/p7/zi/45/xn/5241zUwe7rC17MNc2QpCBKKdp1N-0-600-0-900-crop.jpg?v=0431699bb4",
+   "lbxd_avg": 3.95,
+   "lbxd_rating_count": 149802,
+   "watched_date": "2025-09-23",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -0.95
+  },
+  {
+   "position": 109,
+   "slug": "phantom-of-the-paradise",
+   "title": "Phantom of the Paradise",
+   "year": 1974,
+   "duration": 92,
+   "url": "https://letterboxd.com/film/phantom-of-the-paradise/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/6/1/5/34615-phantom-of-the-paradise-0-600-0-900-crop.jpg?v=3c231dd1ff",
+   "lbxd_avg": 4.15,
+   "lbxd_rating_count": 189512,
+   "watched_date": "2025-09-29",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.0,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.5,
+   "group_voters": 3,
+   "group_std": 0.41,
+   "diff_vs_lbxd": -0.65
+  },
+  {
+   "position": 110,
+   "slug": "swiss-army-man",
+   "title": "Swiss Army Man",
+   "year": 2016,
+   "duration": 97,
+   "url": "https://letterboxd.com/film/swiss-army-man/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/pp/ya/j6/9k/kH7Jwo3Pv0pbosU4rzDafTigIZx-0-600-0-900-crop.jpg?v=5acfbde8a0",
+   "lbxd_avg": 3.67,
+   "lbxd_rating_count": 415474,
+   "watched_date": "2025-10-08",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 4.0,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.5,
+   "group_voters": 3,
+   "group_std": 0.41,
+   "diff_vs_lbxd": -0.17
+  },
+  {
+   "position": 111,
+   "slug": "faster-pussycat-kill-kill",
+   "title": "Faster, Pussycat! Kill! Kill!",
+   "year": 1965,
+   "duration": 83,
+   "url": "https://letterboxd.com/film/faster-pussycat-kill-kill/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/4/51744-faster-pussycat-kill-kill--0-600-0-900-crop.jpg?v=38b24d042f",
+   "lbxd_avg": 3.65,
+   "lbxd_rating_count": 35735,
+   "watched_date": "2025-10-13",
+   "presented": false,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": null,
+    "pratini": 1.5,
+    "instalkiane": null,
+    "zafrina": 2.5
+   },
+   "group_avg": 2.0,
+   "group_voters": 3,
+   "group_std": 0.41,
+   "diff_vs_lbxd": -1.65
+  },
+  {
+   "position": 112,
+   "slug": "tarantula",
+   "title": "Tarantula",
+   "year": 1955,
+   "duration": 80,
+   "url": "https://letterboxd.com/film/tarantula/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/3/6/7/47367-tarantula-0-600-0-900-crop.jpg?v=b6421072eb",
+   "lbxd_avg": 3.13,
+   "lbxd_rating_count": 12897,
+   "watched_date": "2025-10-22",
+   "presented": false,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": 2.0,
+    "pratini": 2.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -1.13
+  },
+  {
+   "position": 113,
+   "slug": "troll-2",
+   "title": "Troll 2",
+   "year": 1990,
+   "duration": 95,
+   "url": "https://letterboxd.com/film/troll-2/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/4/9/4/1/34941-troll-2-0-600-0-900-crop.jpg?v=f24546a2b3",
+   "lbxd_avg": 2.34,
+   "lbxd_rating_count": 50883,
+   "watched_date": "2025-10-28",
+   "presented": false,
+   "ratings": {
+    "dromemario": 1.0,
+    "marmito": 1.5,
+    "pratini": 2.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 1.5,
+   "group_voters": 3,
+   "group_std": 0.41,
+   "diff_vs_lbxd": -0.84
+  },
+  {
+   "position": 114,
+   "slug": "the-secret-agent-2025",
+   "title": "The Secret Agent",
+   "year": 2025,
+   "duration": 161,
+   "url": "https://letterboxd.com/film/the-secret-agent-2025/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/0/4/3/4/8/1104348-the-secret-agent-2025-0-600-0-900-crop.jpg?v=3bcd2a3e02",
+   "lbxd_avg": 3.8,
+   "lbxd_rating_count": 679014,
+   "watched_date": "2025-11-06",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 4.0,
+    "pratini": 4.5,
+    "instalkiane": null,
+    "zafrina": 4.0
+   },
+   "group_avg": 3.88,
+   "group_voters": 4,
+   "group_std": 0.54,
+   "diff_vs_lbxd": 0.08
+  },
+  {
+   "position": 115,
+   "slug": "yojimbo",
+   "title": "Yojimbo",
+   "year": 1961,
+   "duration": 110,
+   "url": "https://letterboxd.com/film/yojimbo/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/nw/l2/zw/wy/tN7kYPjRhDolpui9sc9Eq9n5b2O-0-600-0-900-crop.jpg?v=5cea1d49c1",
+   "lbxd_avg": 4.3,
+   "lbxd_rating_count": 200968,
+   "watched_date": "2025-11-12",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.0,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.67,
+   "group_voters": 3,
+   "group_std": 0.47,
+   "diff_vs_lbxd": -0.63
+  },
+  {
+   "position": 116,
+   "slug": "the-last-dragon",
+   "title": "The Last Dragon",
+   "year": 1985,
+   "duration": 109,
+   "url": "https://letterboxd.com/film/the-last-dragon/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/4/7/1/43471-the-last-dragon-0-600-0-900-crop.jpg?v=ab866b9bff",
+   "lbxd_avg": 3.45,
+   "lbxd_rating_count": 22177,
+   "watched_date": "2025-11-18",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": 0.55
+  },
+  {
+   "position": 117,
+   "slug": "the-holdovers",
+   "title": "The Holdovers",
+   "year": 2023,
+   "duration": 133,
+   "url": "https://letterboxd.com/film/the-holdovers/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/5/5/5/6/4/755564-the-holdovers-0-600-0-900-crop.jpg?v=99bbdd8955",
+   "lbxd_avg": 4.26,
+   "lbxd_rating_count": 1655862,
+   "watched_date": "2025-12-02",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": 4.0,
+    "zafrina": 3.0
+   },
+   "group_avg": 3.6,
+   "group_voters": 5,
+   "group_std": 0.37,
+   "diff_vs_lbxd": -0.66
+  },
+  {
+   "position": 118,
+   "slug": "batman-1966",
+   "title": "Batman",
+   "year": 1966,
+   "duration": 105,
+   "url": "https://letterboxd.com/film/batman-1966/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/1/6/3/50163-batman-0-600-0-900-crop.jpg?v=db37d40ecf",
+   "lbxd_avg": 3.31,
+   "lbxd_rating_count": 83397,
+   "watched_date": "2025-12-10",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 0.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.17,
+   "group_voters": 3,
+   "group_std": 1.18,
+   "diff_vs_lbxd": -1.14
+  },
+  {
+   "position": 119,
+   "slug": "cube",
+   "title": "Cube",
+   "year": 1997,
+   "duration": 90,
+   "url": "https://letterboxd.com/film/cube/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/op/7o/t7/az/u50r6chJGO2iqxVAvtQ07obiCkB-0-600-0-900-crop.jpg?v=e7e1cf5ff1",
+   "lbxd_avg": 3.28,
+   "lbxd_rating_count": 281637,
+   "watched_date": "2025-12-18",
+   "presented": false,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": 2.0,
+    "pratini": 2.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -1.28
+  },
+  {
+   "position": 120,
+   "slug": "millennium-actress",
+   "title": "Millennium Actress",
+   "year": 2001,
+   "duration": 87,
+   "url": "https://letterboxd.com/film/millennium-actress/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/9/8/8/4/29884-millennium-actress-0-600-0-900-crop.jpg?v=7c3df2e20f",
+   "lbxd_avg": 4.24,
+   "lbxd_rating_count": 177622,
+   "watched_date": "2026-01-06",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.5,
+    "pratini": 2.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.33,
+   "group_voters": 3,
+   "group_std": 0.62,
+   "diff_vs_lbxd": -0.91
+  },
+  {
+   "position": 121,
+   "slug": "jesus-christ-vampire-hunter",
+   "title": "Jesus Christ Vampire Hunter",
+   "year": 2001,
+   "duration": 85,
+   "url": "https://letterboxd.com/film/jesus-christ-vampire-hunter/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/1/7/4/2/41742-jesus-christ-vampire-hunter-0-600-0-900-crop.jpg?v=08bb971451",
+   "lbxd_avg": 3.35,
+   "lbxd_rating_count": 13655,
+   "watched_date": "2026-01-13",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.33,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -0.02
+  },
+  {
+   "position": 122,
+   "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+   "title": "The Lord of the Rings: The Fellowship of the Ring",
+   "year": 2001,
+   "duration": 179,
+   "url": "https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/3t/vq/0u/m6/1tX9ZlgVvWjAQhMs1vAfsYpi7VK-0-600-0-900-crop.jpg?v=30bbb824e1",
+   "lbxd_avg": 4.39,
+   "lbxd_rating_count": 3356696,
+   "watched_date": "2026-01-22",
+   "presented": false,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 2.5,
+    "pratini": 5.0,
+    "instalkiane": 5.0,
+    "zafrina": 5.0
+   },
+   "group_avg": 4.5,
+   "group_voters": 5,
+   "group_std": 1.0,
+   "diff_vs_lbxd": 0.11
+  },
+  {
+   "position": 123,
+   "slug": "the-lord-of-the-rings-the-two-towers",
+   "title": "The Lord of the Rings: The Two Towers",
+   "year": 2002,
+   "duration": 179,
+   "url": "https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/2/9/51929-the-lord-of-the-rings-the-two-towers-0-600-0-900-crop.jpg?v=9ef6c09783",
+   "lbxd_avg": 4.44,
+   "lbxd_rating_count": 2499372,
+   "watched_date": "2026-01-23",
+   "presented": false,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 3.5,
+    "pratini": 5.0,
+    "instalkiane": 4.5,
+    "zafrina": 5.0
+   },
+   "group_avg": 4.6,
+   "group_voters": 5,
+   "group_std": 0.58,
+   "diff_vs_lbxd": 0.16
+  },
+  {
+   "position": 124,
+   "slug": "the-lord-of-the-rings-the-return-of-the-king",
+   "title": "The Lord of the Rings: The Return of the King",
+   "year": 2003,
+   "duration": 201,
+   "url": "https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/zs/nt/u4/uz/xieWkPAgQrrk5wOyncayPd65hrp-0-600-0-900-crop.jpg?v=4c89d05285",
+   "lbxd_avg": 4.56,
+   "lbxd_rating_count": 2553677,
+   "watched_date": "2026-01-24",
+   "presented": false,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 4.0,
+    "pratini": 4.5,
+    "instalkiane": 5.0,
+    "zafrina": 5.0
+   },
+   "group_avg": 4.7,
+   "group_voters": 5,
+   "group_std": 0.4,
+   "diff_vs_lbxd": 0.14
+  },
+  {
+   "position": 125,
+   "slug": "death-becomes-her",
+   "title": "Death Becomes Her",
+   "year": 1992,
+   "duration": 104,
+   "url": "https://letterboxd.com/film/death-becomes-her/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/rq/bc/7v/ac/qBujUtUMenca7C6HzZhd0an0Jg3-0-600-0-900-crop.jpg?v=025c6b1e50",
+   "lbxd_avg": 3.78,
+   "lbxd_rating_count": 526234,
+   "watched_date": "2026-01-27",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 2.5,
+    "instalkiane": null,
+    "zafrina": 3.5
+   },
+   "group_avg": 3.0,
+   "group_voters": 4,
+   "group_std": 0.35,
+   "diff_vs_lbxd": -0.78
+  },
+  {
+   "position": 126,
+   "slug": "the-running-man",
+   "title": "The Running Man",
+   "year": 1987,
+   "duration": 101,
+   "url": "https://letterboxd.com/film/the-running-man/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/2/8/7/51287-the-running-man-0-600-0-900-crop.jpg?v=bfb575fbfa",
+   "lbxd_avg": 3.15,
+   "lbxd_rating_count": 184054,
+   "watched_date": "2026-02-03",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": null,
+    "pratini": 2.5,
+    "instalkiane": null,
+    "zafrina": 2.0
+   },
+   "group_avg": 2.5,
+   "group_voters": 3,
+   "group_std": 0.41,
+   "diff_vs_lbxd": -0.65
+  },
+  {
+   "position": 127,
+   "slug": "stand-by-me",
+   "title": "Stand by Me",
+   "year": 1986,
+   "duration": 89,
+   "url": "https://letterboxd.com/film/stand-by-me/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/2/1/51821-stand-by-me-0-600-0-900-crop.jpg?v=b3163b5def",
+   "lbxd_avg": 4.2,
+   "lbxd_rating_count": 1403094,
+   "watched_date": "2026-02-10",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.67,
+   "group_voters": 3,
+   "group_std": 0.47,
+   "diff_vs_lbxd": -0.53
+  },
+  {
+   "position": 128,
+   "slug": "thelma-louise",
+   "title": "Thelma & Louise",
+   "year": 1991,
+   "duration": 130,
+   "url": "https://letterboxd.com/film/thelma-louise/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/wt/r4/hc/iz/pnzuLoE52EiTfjfqRex2uTkH7LB-0-600-0-900-crop.jpg?v=5c24b21874",
+   "lbxd_avg": 4.23,
+   "lbxd_rating_count": 623814,
+   "watched_date": "2026-02-26",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.5,
+    "pratini": null,
+    "instalkiane": 5.0,
+    "zafrina": null
+   },
+   "group_avg": 4.5,
+   "group_voters": 3,
+   "group_std": 0.41,
+   "diff_vs_lbxd": 0.27
+  },
+  {
+   "position": 129,
+   "slug": "punch-drunk-love",
+   "title": "Punch-Drunk Love",
+   "year": 2002,
+   "duration": 96,
+   "url": "https://letterboxd.com/film/punch-drunk-love/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/9/1/4/47914-punch-drunk-love-0-600-0-900-crop.jpg?v=032fc20313",
+   "lbxd_avg": 3.96,
+   "lbxd_rating_count": 767544,
+   "watched_date": "2026-03-04",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 2.0,
+    "pratini": 1.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.0,
+   "group_voters": 3,
+   "group_std": 0.82,
+   "diff_vs_lbxd": -1.96
+  },
+  {
+   "position": 130,
+   "slug": "son-of-the-white-mare",
+   "title": "Son of the White Mare",
+   "year": 1981,
+   "duration": 86,
+   "url": "https://letterboxd.com/film/son-of-the-white-mare/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/3/9/2/6/23926-son-of-the-white-mare-0-600-0-900-crop.jpg?v=bcf5ab5bea",
+   "lbxd_avg": 4.23,
+   "lbxd_rating_count": 33016,
+   "watched_date": "2026-03-18",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 2.5,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.83,
+   "group_voters": 3,
+   "group_std": 0.24,
+   "diff_vs_lbxd": -1.4
+  },
+  {
+   "position": 131,
+   "slug": "good-boy-2025",
+   "title": "Good Boy",
+   "year": 2025,
+   "duration": 73,
+   "url": "https://letterboxd.com/film/good-boy-2025/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/1/5/8/1/1301581-good-boy-2025-0-600-0-900-crop.jpg?v=43c5363517",
+   "lbxd_avg": 2.98,
+   "lbxd_rating_count": 274777,
+   "watched_date": "2026-03-24",
+   "presented": false,
+   "ratings": {
+    "dromemario": null,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.0,
+   "group_voters": 2,
+   "group_std": 0.0,
+   "diff_vs_lbxd": 0.02
+  },
+  {
+   "position": 132,
+   "slug": "cinderella-baiana",
+   "title": "Cinderella Baiana",
+   "year": 1998,
+   "duration": 85,
+   "url": "https://letterboxd.com/film/cinderella-baiana/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/8/3/3/3/68333-cinderela-baiana-0-600-0-900-crop.jpg?v=4b1c631e81",
+   "lbxd_avg": 2.6,
+   "lbxd_rating_count": 3547,
+   "watched_date": "2026-04-07",
+   "presented": false,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": 3.0,
+    "pratini": null,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 2.5,
+   "group_voters": 2,
+   "group_std": 0.5,
+   "diff_vs_lbxd": -0.1
+  },
+  {
+   "position": 133,
+   "slug": "a-few-good-men",
+   "title": "A Few Good Men",
+   "year": 1992,
+   "duration": 138,
+   "url": "https://letterboxd.com/film/a-few-good-men/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/dw/l7/qy/bb/WgWLwk55YaXFZdlMnPJTKlxGcz-0-600-0-900-crop.jpg?v=60ddf4aa47",
+   "lbxd_avg": 4.07,
+   "lbxd_rating_count": 375034,
+   "watched_date": "2026-04-15",
+   "presented": false,
+   "ratings": {
+    "dromemario": null,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.0,
+   "group_voters": 2,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -1.07
+  },
+  {
+   "position": 134,
+   "slug": "godzilla",
+   "title": "Godzilla",
+   "year": 1954,
+   "duration": 96,
+   "url": "https://letterboxd.com/film/godzilla/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/8/6/6/50866-godzilla-0-600-0-900-crop.jpg?v=2b549c08f0",
+   "lbxd_avg": 4.07,
+   "lbxd_rating_count": 185785,
+   "watched_date": "2026-04-22",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.5,
+    "pratini": null,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.75,
+   "group_voters": 2,
+   "group_std": 0.25,
+   "diff_vs_lbxd": -0.32
+  },
+  {
+   "position": 135,
+   "slug": "robot-dreams",
+   "title": "Robot Dreams",
+   "year": 2023,
+   "duration": 102,
+   "url": "https://letterboxd.com/film/robot-dreams/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/5/3/4/2/0/753420-robot-dreams-0-600-0-900-crop.jpg?v=30220e6886",
+   "lbxd_avg": 4.09,
+   "lbxd_rating_count": 249990,
+   "watched_date": "2026-04-29",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": null,
+    "pratini": null,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.0,
+   "group_voters": 1,
+   "group_std": null,
+   "diff_vs_lbxd": -1.09
+  },
+  {
+   "position": 136,
+   "slug": "master-a-building-in-copacabana",
+   "title": "Master, a Building in Copacabana",
+   "year": 2002,
+   "duration": 110,
+   "url": "https://letterboxd.com/film/master-a-building-in-copacabana/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/4/3/4/6434-master-a-building-in-copacabana-0-600-0-900-crop.jpg?v=9fbffbdb2c",
+   "lbxd_avg": 4.31,
+   "lbxd_rating_count": 29138,
+   "watched_date": "2026-05-04",
+   "presented": false,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 4.0,
+    "pratini": 4.5,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.5,
+   "group_voters": 3,
+   "group_std": 0.41,
+   "diff_vs_lbxd": 0.19
+  },
+  {
+   "position": 137,
+   "slug": "mortal-kombat-ii",
+   "title": "Mortal Kombat II",
+   "year": 2026,
+   "duration": 116,
+   "url": "https://letterboxd.com/film/mortal-kombat-ii/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/3/6/5/7/1/836571-mortal-kombat-ii-0-600-0-900-crop.jpg?v=6fea3b13de",
+   "lbxd_avg": 2.82,
+   "lbxd_rating_count": 346060,
+   "watched_date": "2026-05-12",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": 3.5
+   },
+   "group_avg": 3.38,
+   "group_voters": 4,
+   "group_std": 0.22,
+   "diff_vs_lbxd": 0.56
+  },
+  {
+   "position": 138,
+   "slug": "in-the-mood-for-love",
+   "title": "In the Mood for Love",
+   "year": 2000,
+   "duration": 99,
+   "url": "https://letterboxd.com/film/in-the-mood-for-love/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/g1/7l/2j/qk/tSRdvZY1waXrTeMqeLBmq9IRs08-0-600-0-900-crop.jpg?v=938633fc19",
+   "lbxd_avg": 4.37,
+   "lbxd_rating_count": 1112144,
+   "watched_date": "2026-05-21",
+   "presented": false,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": null,
+    "pratini": null,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 5.0,
+   "group_voters": 1,
+   "group_std": null,
+   "diff_vs_lbxd": 0.63
+  },
+  {
+   "position": 139,
+   "slug": "the-4th-man",
+   "title": "The 4th Man",
+   "year": 1983,
+   "duration": 98,
+   "url": "https://letterboxd.com/film/the-4th-man/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/od/qh/ob/nz/jVLmPmZxGM1MCQaefQQNFZDALTj-0-600-0-900-crop.jpg?v=aa95255eba",
+   "lbxd_avg": 3.82,
+   "lbxd_rating_count": 14596,
+   "watched_date": "2026-05-25",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 2.5,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": 3.0
+   },
+   "group_avg": 2.88,
+   "group_voters": 4,
+   "group_std": 0.22,
+   "diff_vs_lbxd": -0.94
+  },
+  {
+   "position": 140,
+   "slug": "cinema-paradiso",
+   "title": "Cinema Paradiso",
+   "year": 1988,
+   "duration": 155,
+   "url": "https://letterboxd.com/film/cinema-paradiso/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/4/9/3/45493-cinema-paradiso-0-600-0-900-crop.jpg?v=8e66264ed4",
+   "lbxd_avg": 4.52,
+   "lbxd_rating_count": 572637,
+   "watched_date": "2026-06-15",
+   "presented": false,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 4.0,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": 3.5
+   },
+   "group_avg": 4.0,
+   "group_voters": 4,
+   "group_std": 0.61,
+   "diff_vs_lbxd": -0.52
+  },
+  {
+   "position": 141,
+   "slug": "black-dog-2024",
+   "title": "Black Dog",
+   "year": 2024,
+   "duration": 116,
+   "url": "https://letterboxd.com/film/black-dog-2024/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/3/3/7/5/9/1133759-black-dog-2024-0-600-0-900-crop.jpg?v=14b2df5d07",
+   "lbxd_avg": 3.88,
+   "lbxd_rating_count": 46208,
+   "watched_date": "2026-06-22",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -0.88
+  },
+  {
+   "position": 142,
+   "slug": "slc-punk",
+   "title": "SLC Punk",
+   "year": 1998,
+   "duration": 97,
+   "url": "https://letterboxd.com/film/slc-punk/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/3/3/5/48335-slc-punk-0-600-0-900-crop.jpg?v=d107067c95",
+   "lbxd_avg": 3.84,
+   "lbxd_rating_count": 185430,
+   "watched_date": "2026-07-08",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 4.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": 0.16
+  },
+  {
+   "position": 143,
+   "slug": "the-crow",
+   "title": "The Crow",
+   "year": 1994,
+   "duration": 102,
+   "url": "https://letterboxd.com/film/the-crow/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/1/0/4/47104-the-crow-0-600-0-900-crop.jpg?v=ee1947baad",
+   "lbxd_avg": 3.84,
+   "lbxd_rating_count": 361500,
+   "watched_date": "2026-07-16",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 2.5,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.17,
+   "group_voters": 3,
+   "group_std": 0.62,
+   "diff_vs_lbxd": -0.67
+  },
+  {
+   "position": 144,
+   "slug": "12-angry-men",
+   "title": "12 Angry Men",
+   "year": 1957,
+   "duration": 97,
+   "url": "https://letterboxd.com/film/12-angry-men/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/0/0/51700-12-angry-men-0-600-0-900-crop.jpg?v=b8aaf291a9",
+   "lbxd_avg": 4.63,
+   "lbxd_rating_count": 1795302,
+   "watched_date": "2026-07-23",
+   "presented": false,
+   "ratings": {
+    "dromemario": 5.0,
+    "marmito": 4.0,
+    "pratini": 5.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 4.67,
+   "group_voters": 3,
+   "group_std": 0.47,
+   "diff_vs_lbxd": 0.04
+  },
+  {
+   "position": 145,
+   "slug": "the-mask-1994",
+   "title": "The Mask",
+   "year": 1994,
+   "duration": 101,
+   "url": "https://letterboxd.com/film/the-mask-1994/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/2/9/8/51298-the-mask-0-600-0-900-crop.jpg?v=0b7bc0d127",
+   "lbxd_avg": 3.44,
+   "lbxd_rating_count": 1030858,
+   "watched_date": "2026-07-27",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.5,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": 3.0
+   },
+   "group_avg": 3.12,
+   "group_voters": 4,
+   "group_std": 0.22,
+   "diff_vs_lbxd": -0.32
+  },
+  {
+   "position": 146,
+   "slug": "the-odyssey-2026",
+   "title": "The Odyssey",
+   "year": 2026,
+   "duration": 173,
+   "url": "https://letterboxd.com/film/the-odyssey-2026/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/5/5/3/9/4/1255394-the-odyssey-2026-0-600-0-900-crop.jpg?v=1eed046d0c",
+   "lbxd_avg": 4.34,
+   "lbxd_rating_count": 4666749,
+   "watched_date": "2026-07-22",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.5,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": 3.5
+   },
+   "group_avg": 3.62,
+   "group_voters": 4,
+   "group_std": 0.22,
+   "diff_vs_lbxd": -0.72
+  },
+  {
+   "position": 147,
+   "slug": "palm-springs-2020",
+   "title": "Palm Springs",
+   "year": 2020,
+   "duration": 90,
+   "url": "https://letterboxd.com/film/palm-springs-2020/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/5/4/6/7/515467-palm-springs-0-600-0-900-crop.jpg?v=d3df94888b",
+   "lbxd_avg": 3.76,
+   "lbxd_rating_count": 933963,
+   "watched_date": "2026-08-13",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.0,
+   "group_voters": 3,
+   "group_std": 0.0,
+   "diff_vs_lbxd": -0.76
+  },
+  {
+   "position": 148,
+   "slug": "misery",
+   "title": "Misery",
+   "year": 1990,
+   "duration": 107,
+   "url": "https://letterboxd.com/film/misery/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/8/4/6/50846-misery-0-600-0-900-crop.jpg?v=f079fc8138",
+   "lbxd_avg": 4.0,
+   "lbxd_rating_count": 703861,
+   "watched_date": "2026-08-19",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 4.0,
+    "pratini": 3.5,
+    "instalkiane": null,
+    "zafrina": 3.5
+   },
+   "group_avg": 3.75,
+   "group_voters": 4,
+   "group_std": 0.25,
+   "diff_vs_lbxd": -0.25
+  },
+  {
+   "position": 149,
+   "slug": "legend",
+   "title": "Legend",
+   "year": 1985,
+   "duration": 94,
+   "url": "https://letterboxd.com/film/legend/",
+   "poster_url": "https://a.ltrbxd.com/resized/sm/upload/fz/y8/qa/2f/mJ9dl6hzp3xhCbohMgrai8I2AZU-0-600-0-900-crop.jpg?v=4ad31f83de",
+   "lbxd_avg": 3.17,
+   "lbxd_rating_count": 107380,
+   "watched_date": "2026-08-31",
+   "presented": false,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": 2.5,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": 3.0
+   },
+   "group_avg": 2.62,
+   "group_voters": 4,
+   "group_std": 0.41,
+   "diff_vs_lbxd": -0.55
+  },
+  {
+   "position": 150,
+   "slug": "coyote-vs-acme",
+   "title": "Coyote vs. Acme",
+   "year": 2026,
+   "duration": 103,
+   "url": "https://letterboxd.com/film/coyote-vs-acme/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/8/9/0/8/8/1089088-coyote-vs-acme-0-600-0-900-crop.jpg?v=735eb10cc7",
+   "lbxd_avg": 3.81,
+   "lbxd_rating_count": 648294,
+   "watched_date": "2026-09-07",
+   "presented": false,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": 3.5,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": 4.0
+   },
+   "group_avg": 3.12,
+   "group_voters": 4,
+   "group_std": 0.74,
+   "diff_vs_lbxd": -0.69
+  },
+  {
+   "position": 151,
+   "slug": "dracula-1958",
+   "title": "Dracula",
+   "year": 1958,
+   "duration": 82,
+   "url": "https://letterboxd.com/film/dracula-1958/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/9/3/5/44935-dracula-0-600-0-900-crop.jpg?v=ce1ddf1b0a",
+   "lbxd_avg": 3.59,
+   "lbxd_rating_count": 64339,
+   "watched_date": "2026-09-21",
+   "presented": false,
+   "ratings": {
+    "dromemario": 3.0,
+    "marmito": 3.0,
+    "pratini": 2.5,
+    "instalkiane": null,
+    "zafrina": 2.5
+   },
+   "group_avg": 2.75,
+   "group_voters": 4,
+   "group_std": 0.25,
+   "diff_vs_lbxd": -0.84
+  },
+  {
+   "position": 152,
+   "slug": "the-fall",
+   "title": "The Fall",
+   "year": 2006,
+   "duration": 117,
+   "url": "https://letterboxd.com/film/the-fall/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/2/8/2/2/42822-the-fall-0-600-0-900-crop.jpg?v=21978da70d",
+   "lbxd_avg": 4.29,
+   "lbxd_rating_count": 270399,
+   "watched_date": "2026-09-30",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 5.0,
+    "pratini": 4.5,
+    "instalkiane": null,
+    "zafrina": 4.5
+   },
+   "group_avg": 4.5,
+   "group_voters": 4,
+   "group_std": 0.35,
+   "diff_vs_lbxd": 0.21
+  },
+  {
+   "position": 153,
+   "slug": "leprechaun",
+   "title": "Leprechaun",
+   "year": 1993,
+   "duration": 93,
+   "url": "https://letterboxd.com/film/leprechaun/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/9/8/9/44989-leprechaun-0-600-0-900-crop.jpg?v=16f3e05e2d",
+   "lbxd_avg": 2.39,
+   "lbxd_rating_count": 81327,
+   "watched_date": "2026-10-07",
+   "presented": false,
+   "ratings": {
+    "dromemario": 2.0,
+    "marmito": null,
+    "pratini": 1.5,
+    "instalkiane": null,
+    "zafrina": 1.0
+   },
+   "group_avg": 1.5,
+   "group_voters": 3,
+   "group_std": 0.41,
+   "diff_vs_lbxd": -0.89
+  },
+  {
+   "position": 154,
+   "slug": "hellraiser",
+   "title": "Hellraiser",
+   "year": 1987,
+   "duration": 93,
+   "url": "https://letterboxd.com/film/hellraiser/",
+   "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/4/3/8/47438-hellraiser-0-600-0-900-crop.jpg?v=c927113564",
+   "lbxd_avg": 3.53,
+   "lbxd_rating_count": 478139,
+   "watched_date": "2026-10-15",
+   "presented": false,
+   "ratings": {
+    "dromemario": 4.0,
+    "marmito": 3.5,
+    "pratini": 3.0,
+    "instalkiane": null,
+    "zafrina": null
+   },
+   "group_avg": 3.5,
+   "group_voters": 3,
+   "group_std": 0.41,
+   "diff_vs_lbxd": -0.03
+  }
+ ],
+ "divergence": {
+  "liked_more": [
+   "maxxxine",
+   "companion-2025",
+   "miami-connection",
+   "the-unbearable-weight-of-massive-talent",
+   "paddington-in-peru",
+   "mortal-kombat-ii",
+   "the-last-dragon",
+   "blade",
+   "army-of-darkness",
+   "dune-part-two"
+  ],
+  "liked_less": [
+   "the-goonies",
+   "punch-drunk-love",
+   "the-warriors",
+   "unforgiven",
+   "a-hard-day",
+   "faster-pussycat-kill-kill",
+   "bubba-ho-tep",
+   "the-craft",
+   "point-break",
+   "son-of-the-white-mare"
+  ],
+  "splits": [
+   "napoleon-dynamite",
+   "cats-2019",
+   "batman-1966",
+   "past-lives",
+   "pearl-2022",
+   "the-lord-of-the-rings-the-fellowship-of-the-ring",
+   "the-wizard-of-oz-1939",
+   "everything-everywhere-all-at-once",
+   "punch-drunk-love",
+   "miami-connection"
+  ]
+ },
+ "group_avg_overall": 3.33,
+ "lbxd_avg_overall_eligible": 3.72,
+ "decades": [
+  {
+   "release_decade": 1920,
+   "movie_count": 1
+  },
+  {
+   "release_decade": 1930,
+   "movie_count": 3
+  },
+  {
+   "release_decade": 1940,
+   "movie_count": 2
+  },
+  {
+   "release_decade": 1950,
+   "movie_count": 6
+  },
+  {
+   "release_decade": 1960,
+   "movie_count": 5
+  },
+  {
+   "release_decade": 1970,
+   "movie_count": 8
+  },
+  {
+   "release_decade": 1980,
+   "movie_count": 28
+  },
+  {
+   "release_decade": 1990,
+   "movie_count": 32
+  },
+  {
+   "release_decade": 2000,
+   "movie_count": 22
+  },
+  {
+   "release_decade": 2010,
+   "movie_count": 13
+  },
+  {
+   "release_decade": 2020,
+   "movie_count": 34
+  }
+ ],
+ "years_watched": [
+  {
+   "year": 2022,
+   "movie_count": 22
+  },
+  {
+   "year": 2023,
+   "movie_count": 21
+  },
+  {
+   "year": 2024,
+   "movie_count": 35
+  },
+  {
+   "year": 2025,
+   "movie_count": 40
+  },
+  {
+   "year": 2026,
+   "movie_count": 36
+  }
+ ],
+ "people": {
+  "actors": [
+   {
+    "name": "Nicolas Cage",
+    "movie_count": 5,
+    "link": "/actor/nicolas-cage/",
+    "url": "https://letterboxd.com/actor/nicolas-cage/",
+    "image_url": "https://image.tmdb.org/t/p/w500/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
+    "films": [
+     "Dream Scenario",
+     "Pig",
+     "Raising Arizona",
+     "Renfield",
+     "The Unbearable Weight of Massive Talent"
+    ]
+   },
+   {
+    "name": "Bruce Campbell",
+    "movie_count": 4,
+    "link": "/actor/bruce-campbell/",
+    "url": "https://letterboxd.com/actor/bruce-campbell/",
+    "image_url": "https://image.tmdb.org/t/p/w500/p9335ljr7luOWsfwZSOlsIzFJKE.jpg",
+    "films": [
+     "Army of Darkness",
+     "Bubba Ho-tep",
+     "Evil Dead II",
+     "Fargo"
+    ]
+   },
+   {
+    "name": "Ian McKellen",
+    "movie_count": 4,
+    "link": "/actor/ian-mckellen/",
+    "url": "https://letterboxd.com/actor/ian-mckellen/",
+    "image_url": "https://image.tmdb.org/t/p/w500/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg",
+    "films": [
+     "Cats",
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Jeff Imada",
+    "movie_count": 4,
+    "link": "/actor/jeff-imada/",
+    "url": "https://letterboxd.com/actor/jeff-imada/",
+    "image_url": "https://image.tmdb.org/t/p/w500/sUNSaNQreSHYaJvKr0SfiBqMPDV.jpg",
+    "films": [
+     "Blade",
+     "Point Break",
+     "The Crow",
+     "They Live"
+    ]
+   },
+   {
+    "name": "Mia Goth",
+    "movie_count": 4,
+    "link": "/actor/mia-goth/",
+    "url": "https://letterboxd.com/actor/mia-goth/",
+    "image_url": "https://image.tmdb.org/t/p/w500/rwko7XVaKFcJH1dtAIIsrgLMzHb.jpg",
+    "films": [
+     "MaXXXine",
+     "Pearl",
+     "The Odyssey",
+     "X"
+    ]
+   },
+   {
+    "name": "Sean Astin",
+    "movie_count": 4,
+    "link": "/actor/sean-astin/",
+    "url": "https://letterboxd.com/actor/sean-astin/",
+    "image_url": "https://image.tmdb.org/t/p/w500/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg",
+    "films": [
+     "The Goonies",
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Andy Serkis",
+    "movie_count": 3,
+    "link": "/actor/andy-serkis/",
+    "url": "https://letterboxd.com/actor/andy-serkis/",
+    "image_url": "https://image.tmdb.org/t/p/w500/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Ben Whishaw",
+    "movie_count": 3,
+    "link": "/actor/ben-whishaw/",
+    "url": "https://letterboxd.com/actor/ben-whishaw/",
+    "image_url": "https://image.tmdb.org/t/p/w500/6iEdnDBCjuhJgATBMoieIr8p4oA.jpg",
+    "films": [
+     "Paddington",
+     "Paddington 2",
+     "Paddington in Peru"
+    ]
+   },
+   {
+    "name": "Billy Barty",
+    "movie_count": 3,
+    "link": "/actor/billy-barty/",
+    "url": "https://letterboxd.com/actor/billy-barty/",
+    "image_url": "https://image.tmdb.org/t/p/w500/b8Q8bD1AaXFDBpAg4pDBkb7Z1Nh.jpg",
+    "films": [
+     "Bride of Frankenstein",
+     "Legend",
+     "Masters of the Universe"
+    ]
+   },
+   {
+    "name": "Billy Boyd",
+    "movie_count": 3,
+    "link": "/actor/billy-boyd/",
+    "url": "https://letterboxd.com/actor/billy-boyd/",
+    "image_url": "https://image.tmdb.org/t/p/w500/jluumxuDr7rm2f97NFf9LydBdaZ.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Billy Jackson",
+    "movie_count": 3,
+    "link": "/actor/billy-jackson-1/",
+    "url": "https://letterboxd.com/actor/billy-jackson-1/",
+    "image_url": "https://image.tmdb.org/t/p/w500/kNX1BvIWnckJM35Xu007Ro45Ju5.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Brendan Gleeson",
+    "movie_count": 3,
+    "link": "/actor/brendan-gleeson/",
+    "url": "https://letterboxd.com/actor/brendan-gleeson/",
+    "image_url": "https://image.tmdb.org/t/p/w500/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg",
+    "films": [
+     "28 Days Later",
+     "Paddington 2",
+     "The Banshees of Inisherin"
+    ]
+   },
+   {
+    "name": "Burnell Tucker",
+    "movie_count": 3,
+    "link": "/actor/burnell-tucker/",
+    "url": "https://letterboxd.com/actor/burnell-tucker/",
+    "image_url": "https://image.tmdb.org/t/p/w500/2HXfmGuUHCl6rKeL0n6DXJlFtLs.jpg",
+    "films": [
+     "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+     "Flash Gordon",
+     "Rollerball"
+    ]
+   },
+   {
+    "name": "Cate Blanchett",
+    "movie_count": 3,
+    "link": "/actor/cate-blanchett/",
+    "url": "https://letterboxd.com/actor/cate-blanchett/",
+    "image_url": "https://image.tmdb.org/t/p/w500/1Rd567YFdGfkJjSlhNPR8joYkaX.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Christopher Lee",
+    "movie_count": 3,
+    "link": "/actor/christopher-lee/",
+    "url": "https://letterboxd.com/actor/christopher-lee/",
+    "image_url": "https://image.tmdb.org/t/p/w500/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg",
+    "films": [
+     "Dracula",
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Christopher McDonald",
+    "movie_count": 3,
+    "link": "/actor/christopher-mcdonald/",
+    "url": "https://letterboxd.com/actor/christopher-mcdonald/",
+    "image_url": "https://image.tmdb.org/t/p/w500/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg",
+    "films": [
+     "Requiem for a Dream",
+     "SLC Punk",
+     "Thelma & Louise"
+    ]
+   },
+   {
+    "name": "Craig Parker",
+    "movie_count": 3,
+    "link": "/actor/craig-parker/",
+    "url": "https://letterboxd.com/actor/craig-parker/",
+    "image_url": "https://image.tmdb.org/t/p/w500/gV5dbZ0gorOtIJXmJz7g3maDGgM.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Demi Moore",
+    "movie_count": 3,
+    "link": "/actor/demi-moore/",
+    "url": "https://letterboxd.com/actor/demi-moore/",
+    "image_url": "https://image.tmdb.org/t/p/w500/wApParZYBDi4yxekjfxjKEifJYh.jpg",
+    "films": [
+     "A Few Good Men",
+     "The Substance",
+     "The Unbearable Weight of Massive Talent"
+    ]
+   },
+   {
+    "name": "Dominic Monaghan",
+    "movie_count": 3,
+    "link": "/actor/dominic-monaghan/",
+    "url": "https://letterboxd.com/actor/dominic-monaghan/",
+    "image_url": "https://image.tmdb.org/t/p/w500/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Elijah Wood",
+    "movie_count": 3,
+    "link": "/actor/elijah-wood/",
+    "url": "https://letterboxd.com/actor/elijah-wood/",
+    "image_url": "https://image.tmdb.org/t/p/w500/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Frances McDormand",
+    "movie_count": 3,
+    "link": "/actor/frances-mcdormand/",
+    "url": "https://letterboxd.com/actor/frances-mcdormand/",
+    "image_url": "https://image.tmdb.org/t/p/w500/gBkoteKZshmQXEyEoyT6WE7N0tF.jpg",
+    "films": [
+     "Fargo",
+     "Isle of Dogs",
+     "Raising Arizona"
+    ]
+   },
+   {
+    "name": "Frank Gorshin",
+    "movie_count": 3,
+    "link": "/actor/frank-gorshin/",
+    "url": "https://letterboxd.com/actor/frank-gorshin/",
+    "image_url": "https://image.tmdb.org/t/p/w500/lGRDnt0HlOI3BGOLD5mFUwNi6QI.jpg",
+    "films": [
+     "Batman",
+     "Bloodmoon",
+     "Twelve Monkeys"
+    ]
+   },
+   {
+    "name": "Hugh Bonneville",
+    "movie_count": 3,
+    "link": "/actor/hugh-bonneville/",
+    "url": "https://letterboxd.com/actor/hugh-bonneville/",
+    "image_url": "https://image.tmdb.org/t/p/w500/skbxj8MUuNiI39ZkP38uEirU0bC.jpg",
+    "films": [
+     "Paddington",
+     "Paddington 2",
+     "Paddington in Peru"
+    ]
+   },
+   {
+    "name": "Hugo Weaving",
+    "movie_count": 3,
+    "link": "/actor/hugo-weaving/",
+    "url": "https://letterboxd.com/actor/hugo-weaving/",
+    "image_url": "https://image.tmdb.org/t/p/w500/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Imelda Staunton",
+    "movie_count": 3,
+    "link": "/actor/imelda-staunton/",
+    "url": "https://letterboxd.com/actor/imelda-staunton/",
+    "image_url": "https://image.tmdb.org/t/p/w500/tABRYOHUQeaUCAqrelJV5ZHjl1W.jpg",
+    "films": [
+     "Paddington",
+     "Paddington 2",
+     "Paddington in Peru"
+    ]
+   },
+   {
+    "name": "Jarl Benzon",
+    "movie_count": 3,
+    "link": "/actor/jarl-benzon-1/",
+    "url": "https://letterboxd.com/actor/jarl-benzon-1/",
+    "image_url": NaN,
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Jed Brophy",
+    "movie_count": 3,
+    "link": "/actor/jed-brophy/",
+    "url": "https://letterboxd.com/actor/jed-brophy/",
+    "image_url": "https://image.tmdb.org/t/p/w500/8NOsHgZIscn9ObgN3vshCzHrl5H.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Jeff Goldblum",
+    "movie_count": 3,
+    "link": "/actor/jeff-goldblum/",
+    "url": "https://letterboxd.com/actor/jeff-goldblum/",
+    "image_url": "https://image.tmdb.org/t/p/w500/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg",
+    "films": [
+     "Invasion of the Body Snatchers",
+     "Isle of Dogs",
+     "The Fly"
+    ]
+   },
+   {
+    "name": "Jim Broadbent",
+    "movie_count": 3,
+    "link": "/actor/jim-broadbent/",
+    "url": "https://letterboxd.com/actor/jim-broadbent/",
+    "image_url": "https://image.tmdb.org/t/p/w500/jTyvGwwR1NFpvgDhcmuWZCM241w.jpg",
+    "films": [
+     "Paddington",
+     "Paddington 2",
+     "Paddington in Peru"
+    ]
+   },
+   {
+    "name": "John Rhys-Davies",
+    "movie_count": 3,
+    "link": "/actor/john-rhys-davies/",
+    "url": "https://letterboxd.com/actor/john-rhys-davies/",
+    "image_url": "https://image.tmdb.org/t/p/w500/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Josh Brolin",
+    "movie_count": 3,
+    "link": "/actor/josh-brolin/",
+    "url": "https://letterboxd.com/actor/josh-brolin/",
+    "image_url": "https://image.tmdb.org/t/p/w500/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg",
+    "films": [
+     "Dune",
+     "Dune: Part Two",
+     "The Goonies"
+    ]
+   },
+   {
+    "name": "Julie Walters",
+    "movie_count": 3,
+    "link": "/actor/julie-walters/",
+    "url": "https://letterboxd.com/actor/julie-walters/",
+    "image_url": "https://image.tmdb.org/t/p/w500/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg",
+    "films": [
+     "Paddington",
+     "Paddington 2",
+     "Paddington in Peru"
+    ]
+   },
+   {
+    "name": "Jørn Benzon",
+    "movie_count": 3,
+    "link": "/actor/jorn-benzon-1/",
+    "url": "https://letterboxd.com/actor/jorn-benzon-1/",
+    "image_url": NaN,
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Karl Urban",
+    "movie_count": 3,
+    "link": "/actor/karl-urban/",
+    "url": "https://letterboxd.com/actor/karl-urban/",
+    "image_url": "https://image.tmdb.org/t/p/w500/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg",
+    "films": [
+     "Mortal Kombat II",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Katie Jackson",
+    "movie_count": 3,
+    "link": "/actor/katie-jackson-2/",
+    "url": "https://letterboxd.com/actor/katie-jackson-2/",
+    "image_url": "https://image.tmdb.org/t/p/w500/ypjcaQiVIeTBS6ERImxHaczeZwF.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Keith David",
+    "movie_count": 3,
+    "link": "/actor/keith-david/",
+    "url": "https://letterboxd.com/actor/keith-david/",
+    "image_url": "https://image.tmdb.org/t/p/w500/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg",
+    "films": [
+     "Pitch Black",
+     "Requiem for a Dream",
+     "They Live"
+    ]
+   },
+   {
+    "name": "Kevin Bacon",
+    "movie_count": 3,
+    "link": "/actor/kevin-bacon/",
+    "url": "https://letterboxd.com/actor/kevin-bacon/",
+    "image_url": "https://image.tmdb.org/t/p/w500/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg",
+    "films": [
+     "A Few Good Men",
+     "MaXXXine",
+     "Tremors"
+    ]
+   },
+   {
+    "name": "Larry Fessenden",
+    "movie_count": 3,
+    "link": "/actor/larry-fessenden/",
+    "url": "https://letterboxd.com/actor/larry-fessenden/",
+    "image_url": "https://image.tmdb.org/t/p/w500/imQGskBT7IjqHLVJDQFLR1h1UPH.jpg",
+    "films": [
+     "Good Boy",
+     "MaXXXine",
+     "X"
+    ]
+   },
+   {
+    "name": "Lee Hartley",
+    "movie_count": 3,
+    "link": "/actor/lee-hartley-1/",
+    "url": "https://letterboxd.com/actor/lee-hartley-1/",
+    "image_url": "https://image.tmdb.org/t/p/w500/bOx0jOOgP1VOvBPK6CIZ0oQVOyP.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Liv Tyler",
+    "movie_count": 3,
+    "link": "/actor/liv-tyler/",
+    "url": "https://letterboxd.com/actor/liv-tyler/",
+    "image_url": "https://image.tmdb.org/t/p/w500/rC6f9NoDN9l2tMgiEocIvnJi2tW.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Madeleine Harris",
+    "movie_count": 3,
+    "link": "/actor/madeleine-harris/",
+    "url": "https://letterboxd.com/actor/madeleine-harris/",
+    "image_url": "https://image.tmdb.org/t/p/w500/tvwnWhlM2M8RTOnnHc2wU7aE3yw.jpg",
+    "films": [
+     "Paddington",
+     "Paddington 2",
+     "Paddington in Peru"
+    ]
+   },
+   {
+    "name": "Nancy Fish",
+    "movie_count": 3,
+    "link": "/actor/nancy-fish/",
+    "url": "https://letterboxd.com/actor/nancy-fish/",
+    "image_url": "https://image.tmdb.org/t/p/w500/4hsbpX8MaxXDQBh9T4IJZD3wGza.jpg",
+    "films": [
+     "Death Becomes Her",
+     "Kiss Kiss Bang Bang",
+     "The Mask"
+    ]
+   },
+   {
+    "name": "Nicholas Hoult",
+    "movie_count": 3,
+    "link": "/actor/nicholas-hoult/",
+    "url": "https://letterboxd.com/actor/nicholas-hoult/",
+    "image_url": "https://image.tmdb.org/t/p/w500/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg",
+    "films": [
+     "Nosferatu",
+     "Renfield",
+     "Superman"
+    ]
+   },
+   {
+    "name": "Orlando Bloom",
+    "movie_count": 3,
+    "link": "/actor/orlando-bloom/",
+    "url": "https://letterboxd.com/actor/orlando-bloom/",
+    "image_url": "https://image.tmdb.org/t/p/w500/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Peter Jackson",
+    "movie_count": 3,
+    "link": "/actor/peter-jackson/",
+    "url": "https://letterboxd.com/actor/peter-jackson/",
+    "image_url": "https://image.tmdb.org/t/p/w500/bNc908d59Ba8VDNr4eCcm4G1cR.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Peter Kent",
+    "movie_count": 3,
+    "link": "/actor/peter-kent/",
+    "url": "https://letterboxd.com/actor/peter-kent/",
+    "image_url": "https://image.tmdb.org/t/p/w500/el1868cXV8Byu4uAUPkOrkIu9wd.jpg",
+    "films": [
+     "Re-Animator",
+     "The Running Man",
+     "Total Recall"
+    ]
+   },
+   {
+    "name": "Sala Baker",
+    "movie_count": 3,
+    "link": "/actor/sala-baker/",
+    "url": "https://letterboxd.com/actor/sala-baker/",
+    "image_url": "https://image.tmdb.org/t/p/w500/zn0kwgQ6IT847uMxz73w7ofHwyp.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Sam Kelly",
+    "movie_count": 3,
+    "link": "/actor/sam-kelly/",
+    "url": "https://letterboxd.com/actor/sam-kelly/",
+    "image_url": NaN,
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Samuel Joslin",
+    "movie_count": 3,
+    "link": "/actor/samuel-joslin/",
+    "url": "https://letterboxd.com/actor/samuel-joslin/",
+    "image_url": "https://image.tmdb.org/t/p/w500/gXthNRK0BN9IqXnhKIc4glxOB7P.jpg",
+    "films": [
+     "Paddington",
+     "Paddington 2",
+     "Paddington in Peru"
+    ]
+   },
+   {
+    "name": "Sean Bean",
+    "movie_count": 3,
+    "link": "/actor/sean-bean/",
+    "url": "https://letterboxd.com/actor/sean-bean/",
+    "image_url": "https://image.tmdb.org/t/p/w500/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "Wolfwalkers"
+    ]
+   },
+   {
+    "name": "Simon Farnaby",
+    "movie_count": 3,
+    "link": "/actor/simon-farnaby/",
+    "url": "https://letterboxd.com/actor/simon-farnaby/",
+    "image_url": "https://image.tmdb.org/t/p/w500/xslxzBfDYYHNFnAMWyjjxFUTlEk.jpg",
+    "films": [
+     "Paddington",
+     "Paddington 2",
+     "Paddington in Peru"
+    ]
+   },
+   {
+    "name": "Stephen Ure",
+    "movie_count": 3,
+    "link": "/actor/stephen-ure-1/",
+    "url": "https://letterboxd.com/actor/stephen-ure-1/",
+    "image_url": "https://image.tmdb.org/t/p/w500/g5sLvAz07eZgJ5A6vg5d4totVXz.jpg",
+    "films": [
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers",
+     "X"
+    ]
+   },
+   {
+    "name": "Tim Wong",
+    "movie_count": 3,
+    "link": "/actor/tim-wong-1/",
+    "url": "https://letterboxd.com/actor/tim-wong-1/",
+    "image_url": "https://image.tmdb.org/t/p/w500/nK1cr03CxVrqKBLdKuc8CgNtQ68.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Two Towers",
+     "The Meg"
+    ]
+   },
+   {
+    "name": "Viggo Mortensen",
+    "movie_count": 3,
+    "link": "/actor/viggo-mortensen/",
+    "url": "https://letterboxd.com/actor/viggo-mortensen/",
+    "image_url": "https://image.tmdb.org/t/p/w500/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Zendaya",
+    "movie_count": 3,
+    "link": "/actor/zendaya/",
+    "url": "https://letterboxd.com/actor/zendaya/",
+    "image_url": "https://image.tmdb.org/t/p/w500/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg",
+    "films": [
+     "Dune",
+     "Dune: Part Two",
+     "The Odyssey"
+    ]
+   }
+  ],
+  "directors": [
+   {
+    "name": "Peter Jackson",
+    "movie_count": 3,
+    "link": "/director/peter-jackson/",
+    "url": "https://letterboxd.com/director/peter-jackson/",
+    "image_url": "https://image.tmdb.org/t/p/w500/bNc908d59Ba8VDNr4eCcm4G1cR.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Rob Reiner",
+    "movie_count": 3,
+    "link": "/director/rob-reiner/",
+    "url": "https://letterboxd.com/director/rob-reiner/",
+    "image_url": "https://image.tmdb.org/t/p/w500/2nxxxj3aIU35eCOUEFBD0ireEhZ.jpg",
+    "films": [
+     "A Few Good Men",
+     "Misery",
+     "Stand by Me"
+    ]
+   },
+   {
+    "name": "Satoshi Kon",
+    "movie_count": 3,
+    "link": "/director/satoshi-kon/",
+    "url": "https://letterboxd.com/director/satoshi-kon/",
+    "image_url": "https://image.tmdb.org/t/p/w500/b7Oqg1bjS0e2iEzEjYWnsyVVagt.jpg",
+    "films": [
+     "Millennium Actress",
+     "Perfect Blue",
+     "Tokyo Godfathers"
+    ]
+   },
+   {
+    "name": "Ti West",
+    "movie_count": 3,
+    "link": "/director/ti-west/",
+    "url": "https://letterboxd.com/director/ti-west/",
+    "image_url": "https://image.tmdb.org/t/p/w500/y65ZHU9m830lbdbggxC8eOT123S.jpg",
+    "films": [
+     "MaXXXine",
+     "Pearl",
+     "X"
+    ]
+   },
+   {
+    "name": "Andy Sidaris",
+    "movie_count": 2,
+    "link": "/director/andy-sidaris/",
+    "url": "https://letterboxd.com/director/andy-sidaris/",
+    "image_url": "https://image.tmdb.org/t/p/w500/l33d8ipPzHr9428CKhpuDJ8XS8V.jpg",
+    "films": [
+     "Do or Die",
+     "Hard Ticket to Hawaii"
+    ]
+   },
+   {
+    "name": "Daniel Kwan",
+    "movie_count": 2,
+    "link": "/director/daniel-kwan-2/",
+    "url": "https://letterboxd.com/director/daniel-kwan-2/",
+    "image_url": "https://image.tmdb.org/t/p/w500/rVAZLUZhuKCmdzhCsSiOf8j64IA.jpg",
+    "films": [
+     "Everything Everywhere All at Once",
+     "Swiss Army Man"
+    ]
+   },
+   {
+    "name": "Daniel Scheinert",
+    "movie_count": 2,
+    "link": "/director/daniel-scheinert/",
+    "url": "https://letterboxd.com/director/daniel-scheinert/",
+    "image_url": "https://image.tmdb.org/t/p/w500/rb59IHeLhmyBgTeBH5LGXXIt3Y8.jpg",
+    "films": [
+     "Everything Everywhere All at Once",
+     "Swiss Army Man"
+    ]
+   },
+   {
+    "name": "Denis Villeneuve",
+    "movie_count": 2,
+    "link": "/director/denis-villeneuve/",
+    "url": "https://letterboxd.com/director/denis-villeneuve/",
+    "image_url": "https://image.tmdb.org/t/p/w500/xzQYqb4nR8xT7Zdw5itbEL9K3fd.jpg",
+    "films": [
+     "Dune",
+     "Dune: Part Two"
+    ]
+   },
+   {
+    "name": "James Whale",
+    "movie_count": 2,
+    "link": "/director/james-whale/",
+    "url": "https://letterboxd.com/director/james-whale/",
+    "image_url": "https://image.tmdb.org/t/p/w500/cXE0gUlXfx7qqZMdnUb5AeQMKHr.jpg",
+    "films": [
+     "Bride of Frankenstein",
+     "Frankenstein"
+    ]
+   },
+   {
+    "name": "Joel Coen",
+    "movie_count": 2,
+    "link": "/director/joel-coen/",
+    "url": "https://letterboxd.com/director/joel-coen/",
+    "image_url": "https://image.tmdb.org/t/p/w500/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg",
+    "films": [
+     "Fargo",
+     "Raising Arizona"
+    ]
+   },
+   {
+    "name": "Paul King",
+    "movie_count": 2,
+    "link": "/director/paul-king/",
+    "url": "https://letterboxd.com/director/paul-king/",
+    "image_url": "https://image.tmdb.org/t/p/w500/vteMQaGDpNHkKcuwT8yVQNeAohV.jpg",
+    "films": [
+     "Paddington",
+     "Paddington 2"
+    ]
+   },
+   {
+    "name": "Paul Verhoeven",
+    "movie_count": 2,
+    "link": "/director/paul-verhoeven-3/",
+    "url": "https://letterboxd.com/director/paul-verhoeven-3/",
+    "image_url": "https://image.tmdb.org/t/p/w500/r8k5pnuKZN3PUIizakuiTzEdjJJ.jpg",
+    "films": [
+     "The 4th Man",
+     "Total Recall"
+    ]
+   },
+   {
+    "name": "Ridley Scott",
+    "movie_count": 2,
+    "link": "/director/ridley-scott/",
+    "url": "https://letterboxd.com/director/ridley-scott/",
+    "image_url": "https://image.tmdb.org/t/p/w500/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
+    "films": [
+     "Legend",
+     "Thelma & Louise"
+    ]
+   },
+   {
+    "name": "Robert Eggers",
+    "movie_count": 2,
+    "link": "/director/robert-eggers/",
+    "url": "https://letterboxd.com/director/robert-eggers/",
+    "image_url": "https://image.tmdb.org/t/p/w500/8Mbq0G8FguELKC8zNFunapPpkt5.jpg",
+    "films": [
+     "Nosferatu",
+     "The Northman"
+    ]
+   },
+   {
+    "name": "Sam Raimi",
+    "movie_count": 2,
+    "link": "/director/sam-raimi/",
+    "url": "https://letterboxd.com/director/sam-raimi/",
+    "image_url": "https://image.tmdb.org/t/p/w500/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+    "films": [
+     "Army of Darkness",
+     "Evil Dead II"
+    ]
+   },
+   {
+    "name": "Wong Kar-Wai",
+    "movie_count": 2,
+    "link": "/director/wong-kar-wai/",
+    "url": "https://letterboxd.com/director/wong-kar-wai/",
+    "image_url": "https://image.tmdb.org/t/p/w500/yjtamGYg7n8H3lApDxTw6bja9ZR.jpg",
+    "films": [
+     "Fallen Angels",
+     "In the Mood for Love"
+    ]
+   }
+  ],
+  "writers": [
+   {
+    "name": "Fran Walsh",
+    "movie_count": 3,
+    "link": "/writer/fran-walsh/",
+    "url": "https://letterboxd.com/writer/fran-walsh/",
+    "image_url": "https://image.tmdb.org/t/p/w500/roXPta5fAmGzqdOIvUQbDavZy8Y.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Peter Jackson",
+    "movie_count": 3,
+    "link": "/writer/peter-jackson/",
+    "url": "https://letterboxd.com/writer/peter-jackson/",
+    "image_url": "https://image.tmdb.org/t/p/w500/bNc908d59Ba8VDNr4eCcm4G1cR.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Philippa Boyens",
+    "movie_count": 3,
+    "link": "/writer/philippa-boyens/",
+    "url": "https://letterboxd.com/writer/philippa-boyens/",
+    "image_url": "https://image.tmdb.org/t/p/w500/vfPQnrMZ87uPjyJYrSkQtqI6c0H.jpg",
+    "films": [
+     "The Lord of the Rings: The Fellowship of the Ring",
+     "The Lord of the Rings: The Return of the King",
+     "The Lord of the Rings: The Two Towers"
+    ]
+   },
+   {
+    "name": "Ti West",
+    "movie_count": 3,
+    "link": "/writer/ti-west/",
+    "url": "https://letterboxd.com/writer/ti-west/",
+    "image_url": "https://image.tmdb.org/t/p/w500/y65ZHU9m830lbdbggxC8eOT123S.jpg",
+    "films": [
+     "MaXXXine",
+     "Pearl",
+     "X"
+    ]
+   },
+   {
+    "name": "Andy Sidaris",
+    "movie_count": 2,
+    "link": "/writer/andy-sidaris/",
+    "url": "https://letterboxd.com/writer/andy-sidaris/",
+    "image_url": "https://image.tmdb.org/t/p/w500/l33d8ipPzHr9428CKhpuDJ8XS8V.jpg",
+    "films": [
+     "Do or Die",
+     "Hard Ticket to Hawaii"
+    ]
+   },
+   {
+    "name": "Daniel Kwan",
+    "movie_count": 2,
+    "link": "/writer/daniel-kwan-2/",
+    "url": "https://letterboxd.com/writer/daniel-kwan-2/",
+    "image_url": "https://image.tmdb.org/t/p/w500/rVAZLUZhuKCmdzhCsSiOf8j64IA.jpg",
+    "films": [
+     "Everything Everywhere All at Once",
+     "Swiss Army Man"
+    ]
+   },
+   {
+    "name": "Daniel Scheinert",
+    "movie_count": 2,
+    "link": "/writer/daniel-scheinert/",
+    "url": "https://letterboxd.com/writer/daniel-scheinert/",
+    "image_url": "https://image.tmdb.org/t/p/w500/rb59IHeLhmyBgTeBH5LGXXIt3Y8.jpg",
+    "films": [
+     "Everything Everywhere All at Once",
+     "Swiss Army Man"
+    ]
+   },
+   {
+    "name": "David Twohy",
+    "movie_count": 2,
+    "link": "/writer/david-twohy/",
+    "url": "https://letterboxd.com/writer/david-twohy/",
+    "image_url": "https://image.tmdb.org/t/p/w500/gQm0cwAk4bsWgA7wF2PTFb8X37Z.jpg",
+    "films": [
+     "Pitch Black",
+     "The Fugitive"
+    ]
+   },
+   {
+    "name": "David Webb Peoples",
+    "movie_count": 2,
+    "link": "/writer/david-webb-peoples/",
+    "url": "https://letterboxd.com/writer/david-webb-peoples/",
+    "image_url": "https://image.tmdb.org/t/p/w500/rK1eEwQ60MN7CkPbzxSeQPE8mmi.jpg",
+    "films": [
+     "Twelve Monkeys",
+     "Unforgiven"
+    ]
+   },
+   {
+    "name": "Denis Villeneuve",
+    "movie_count": 2,
+    "link": "/writer/denis-villeneuve/",
+    "url": "https://letterboxd.com/writer/denis-villeneuve/",
+    "image_url": "https://image.tmdb.org/t/p/w500/xzQYqb4nR8xT7Zdw5itbEL9K3fd.jpg",
+    "films": [
+     "Dune",
+     "Dune: Part Two"
+    ]
+   },
+   {
+    "name": "Ethan Coen",
+    "movie_count": 2,
+    "link": "/writer/ethan-coen/",
+    "url": "https://letterboxd.com/writer/ethan-coen/",
+    "image_url": "https://image.tmdb.org/t/p/w500/lbL8LEcvuxNrzda37g3mysOS2qS.jpg",
+    "films": [
+     "Fargo",
+     "Raising Arizona"
+    ]
+   },
+   {
+    "name": "Joel Coen",
+    "movie_count": 2,
+    "link": "/writer/joel-coen/",
+    "url": "https://letterboxd.com/writer/joel-coen/",
+    "image_url": "https://image.tmdb.org/t/p/w500/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg",
+    "films": [
+     "Fargo",
+     "Raising Arizona"
+    ]
+   },
+   {
+    "name": "John L. Balderston",
+    "movie_count": 2,
+    "link": "/writer/john-l-balderston/",
+    "url": "https://letterboxd.com/writer/john-l-balderston/",
+    "image_url": "https://image.tmdb.org/t/p/w500/jocViNiWTaIhBSvhxCjnSzjJKzI.jpg",
+    "films": [
+     "Bride of Frankenstein",
+     "Gaslight"
+    ]
+   },
+   {
+    "name": "Jon Spaihts",
+    "movie_count": 2,
+    "link": "/writer/jon-spaihts/",
+    "url": "https://letterboxd.com/writer/jon-spaihts/",
+    "image_url": "https://image.tmdb.org/t/p/w500/n5JF0cYCWe8AUqb4Sto042rnG4e.jpg",
+    "films": [
+     "Dune",
+     "Dune: Part Two"
+    ]
+   },
+   {
+    "name": "Lorenzo Semple Jr.",
+    "movie_count": 2,
+    "link": "/writer/lorenzo-semple-jr/",
+    "url": "https://letterboxd.com/writer/lorenzo-semple-jr/",
+    "image_url": "https://image.tmdb.org/t/p/w500/dqHwwCea2IJUvf8x3EL6cYqFEok.jpg",
+    "films": [
+     "Batman",
+     "Flash Gordon"
+    ]
+   },
+   {
+    "name": "Mark Burton",
+    "movie_count": 2,
+    "link": "/writer/mark-burton/",
+    "url": "https://letterboxd.com/writer/mark-burton/",
+    "image_url": "https://image.tmdb.org/t/p/w500/8HBmOh12MS8Wu06tkqVtoaINhzF.jpg",
+    "films": [
+     "Paddington 2",
+     "Paddington in Peru"
+    ]
+   },
+   {
+    "name": "Paul King",
+    "movie_count": 2,
+    "link": "/writer/paul-king/",
+    "url": "https://letterboxd.com/writer/paul-king/",
+    "image_url": "https://image.tmdb.org/t/p/w500/vteMQaGDpNHkKcuwT8yVQNeAohV.jpg",
+    "films": [
+     "Paddington",
+     "Paddington 2"
+    ]
+   },
+   {
+    "name": "Robert Eggers",
+    "movie_count": 2,
+    "link": "/writer/robert-eggers/",
+    "url": "https://letterboxd.com/writer/robert-eggers/",
+    "image_url": "https://image.tmdb.org/t/p/w500/8Mbq0G8FguELKC8zNFunapPpkt5.jpg",
+    "films": [
+     "Nosferatu",
+     "The Northman"
+    ]
+   },
+   {
+    "name": "Sadayuki Murai",
+    "movie_count": 2,
+    "link": "/writer/sadayuki-murai/",
+    "url": "https://letterboxd.com/writer/sadayuki-murai/",
+    "image_url": "https://image.tmdb.org/t/p/w500/7VPZKq7XCMchB0QvK4au0zzwTZE.jpg",
+    "films": [
+     "Millennium Actress",
+     "Perfect Blue"
+    ]
+   },
+   {
+    "name": "Sam Raimi",
+    "movie_count": 2,
+    "link": "/writer/sam-raimi/",
+    "url": "https://letterboxd.com/writer/sam-raimi/",
+    "image_url": "https://image.tmdb.org/t/p/w500/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+    "films": [
+     "Army of Darkness",
+     "Evil Dead II"
+    ]
+   },
+   {
+    "name": "Satoshi Kon",
+    "movie_count": 2,
+    "link": "/writer/satoshi-kon/",
+    "url": "https://letterboxd.com/writer/satoshi-kon/",
+    "image_url": "https://image.tmdb.org/t/p/w500/b7Oqg1bjS0e2iEzEjYWnsyVVagt.jpg",
+    "films": [
+     "Millennium Actress",
+     "Tokyo Godfathers"
+    ]
+   },
+   {
+    "name": "Wong Kar-Wai",
+    "movie_count": 2,
+    "link": "/writer/wong-kar-wai/",
+    "url": "https://letterboxd.com/writer/wong-kar-wai/",
+    "image_url": "https://image.tmdb.org/t/p/w500/yjtamGYg7n8H3lApDxTw6bja9ZR.jpg",
+    "films": [
+     "Fallen Angels",
+     "In the Mood for Love"
+    ]
+   }
+  ]
+ },
+ "countries": [
+  {
+   "country": "USA",
+   "movie_count": 115
+  },
+  {
+   "country": "UK",
+   "movie_count": 18
+  },
+  {
+   "country": "France",
+   "movie_count": 10
+  },
+  {
+   "country": "Hong Kong",
+   "movie_count": 9
+  },
+  {
+   "country": "Canada",
+   "movie_count": 7
+  },
+  {
+   "country": "China",
+   "movie_count": 6
+  },
+  {
+   "country": "Japan",
+   "movie_count": 6
+  },
+  {
+   "country": "Brazil",
+   "movie_count": 5
+  },
+  {
+   "country": "Germany",
+   "movie_count": 4
+  },
+  {
+   "country": "Italy",
+   "movie_count": 3
+  },
+  {
+   "country": "Netherlands",
+   "movie_count": 3
+  },
+  {
+   "country": "New Zealand",
+   "movie_count": 3
+  },
+  {
+   "country": "South Korea",
+   "movie_count": 3
+  },
+  {
+   "country": "Ireland",
+   "movie_count": 2
+  },
+  {
+   "country": "Spain",
+   "movie_count": 2
+  },
+  {
+   "country": "Argentina",
+   "movie_count": 1
+  },
+  {
+   "country": "Australia",
+   "movie_count": 1
+  },
+  {
+   "country": "Hungary",
+   "movie_count": 1
+  },
+  {
+   "country": "India",
+   "movie_count": 1
+  },
+  {
+   "country": "Indonesia",
+   "movie_count": 1
+  },
+  {
+   "country": "Luxembourg",
+   "movie_count": 1
+  },
+  {
+   "country": "Mexico",
+   "movie_count": 1
+  },
+  {
+   "country": "Singapore",
+   "movie_count": 1
+  },
+  {
+   "country": "Sweden",
+   "movie_count": 1
+  }
+ ],
+ "languages": [
+  {
+   "language": "English",
+   "movie_count": 130
+  },
+  {
+   "language": "Spanish",
+   "movie_count": 14
+  },
+  {
+   "language": "Japanese",
+   "movie_count": 13
+  },
+  {
+   "language": "French",
+   "movie_count": 10
+  },
+  {
+   "language": "German",
+   "movie_count": 9
+  },
+  {
+   "language": "Chinese",
+   "movie_count": 8
+  },
+  {
+   "language": "Cantonese",
+   "movie_count": 7
+  },
+  {
+   "language": "Italian",
+   "movie_count": 6
+  },
+  {
+   "language": "Portuguese",
+   "movie_count": 6
+  },
+  {
+   "language": "Russian",
+   "movie_count": 4
+  },
+  {
+   "language": "Korean",
+   "movie_count": 3
+  },
+  {
+   "language": "Latin",
+   "movie_count": 3
+  },
+  {
+   "language": "No spoken language",
+   "movie_count": 3
+  },
+  {
+   "language": "Arabic",
+   "movie_count": 2
+  },
+  {
+   "language": "Hindi",
+   "movie_count": 2
+  },
+  {
+   "language": "Hungarian",
+   "movie_count": 2
+  },
+  {
+   "language": "Romanian",
+   "movie_count": 2
+  },
+  {
+   "language": "Swedish",
+   "movie_count": 2
+  },
+  {
+   "language": "Thai",
+   "movie_count": 2
+  },
+  {
+   "language": "Armenian",
+   "movie_count": 1
+  },
+  {
+   "language": "Croatian",
+   "movie_count": 1
+  },
+  {
+   "language": "Dutch",
+   "movie_count": 1
+  },
+  {
+   "language": "Greek (modern)",
+   "movie_count": 1
+  },
+  {
+   "language": "Icelandic",
+   "movie_count": 1
+  },
+  {
+   "language": "Indonesian",
+   "movie_count": 1
+  },
+  {
+   "language": "Irish",
+   "movie_count": 1
+  },
+  {
+   "language": "Telugu",
+   "movie_count": 1
+  }
+ ],
+ "studios": [
+  {
+   "studio": "Universal Pictures",
+   "movie_count": 11
+  },
+  {
+   "studio": "New Line Cinema",
+   "movie_count": 10
+  },
+  {
+   "studio": "Warner Bros. Pictures",
+   "movie_count": 8
+  },
+  {
+   "studio": "A24",
+   "movie_count": 6
+  },
+  {
+   "studio": "Metro-Goldwyn-Mayer",
+   "movie_count": 4
+  },
+  {
+   "studio": "Amblin Entertainment",
+   "movie_count": 3
+  },
+  {
+   "studio": "Castle Rock Entertainment",
+   "movie_count": 3
+  },
+  {
+   "studio": "Columbia Pictures",
+   "movie_count": 3
+  },
+  {
+   "studio": "Domain Entertainment",
+   "movie_count": 3
+  },
+  {
+   "studio": "Madhouse",
+   "movie_count": 3
+  },
+  {
+   "studio": "Saturn Films",
+   "movie_count": 3
+  },
+  {
+   "studio": "StudioCanal",
+   "movie_count": 3
+  },
+  {
+   "studio": "The Saul Zaentz Company",
+   "movie_count": 3
+  },
+  {
+   "studio": "United Artists",
+   "movie_count": 3
+  },
+  {
+   "studio": "WingNut Films",
+   "movie_count": 3
+  },
+  {
+   "studio": "Working Title Films (GB)",
+   "movie_count": 3
+  }
+ ],
+ "genres_all": [
+  {
+   "genre": "Comedy",
+   "movie_count": 54
+  },
+  {
+   "genre": "Action",
+   "movie_count": 47
+  },
+  {
+   "genre": "Horror",
+   "movie_count": 47
+  },
+  {
+   "genre": "Drama",
+   "movie_count": 45
+  },
+  {
+   "genre": "Thriller",
+   "movie_count": 40
+  },
+  {
+   "genre": "Adventure",
+   "movie_count": 37
+  },
+  {
+   "genre": "Science Fiction",
+   "movie_count": 36
+  },
+  {
+   "genre": "Fantasy",
+   "movie_count": 33
+  },
+  {
+   "genre": "Crime",
+   "movie_count": 20
+  },
+  {
+   "genre": "Romance",
+   "movie_count": 13
+  },
+  {
+   "genre": "Family",
+   "movie_count": 12
+  },
+  {
+   "genre": "Mystery",
+   "movie_count": 10
+  },
+  {
+   "genre": "Animation",
+   "movie_count": 9
+  },
+  {
+   "genre": "Music",
+   "movie_count": 5
+  },
+  {
+   "genre": "War",
+   "movie_count": 3
+  },
+  {
+   "genre": "History",
+   "movie_count": 2
+  },
+  {
+   "genre": "Western",
+   "movie_count": 2
+  },
+  {
+   "genre": "Documentary",
+   "movie_count": 1
+  }
+ ],
+ "genres_primary": [
+  {
+   "genre": "Comedy",
+   "movie_count": 25
+  },
+  {
+   "genre": "Drama",
+   "movie_count": 24
+  },
+  {
+   "genre": "Horror",
+   "movie_count": 20
+  },
+  {
+   "genre": "Action",
+   "movie_count": 17
+  },
+  {
+   "genre": "Adventure",
+   "movie_count": 14
+  },
+  {
+   "genre": "Science Fiction",
+   "movie_count": 14
+  },
+  {
+   "genre": "Thriller",
+   "movie_count": 14
+  },
+  {
+   "genre": "Crime",
+   "movie_count": 6
+  },
+  {
+   "genre": "Fantasy",
+   "movie_count": 5
+  },
+  {
+   "genre": "Animation",
+   "movie_count": 3
+  },
+  {
+   "genre": "Romance",
+   "movie_count": 3
+  },
+  {
+   "genre": "Music",
+   "movie_count": 2
+  },
+  {
+   "genre": "Western",
+   "movie_count": 2
+  },
+  {
+   "genre": "Documentary",
+   "movie_count": 1
+  },
+  {
+   "genre": "Family",
+   "movie_count": 1
+  },
+  {
+   "genre": "History",
+   "movie_count": 1
+  },
+  {
+   "genre": "Mystery",
+   "movie_count": 1
+  },
+  {
+   "genre": "War",
+   "movie_count": 1
+  }
+ ],
+ "themes": [
+  {
+   "theme": "Horror, the undead and monster classics",
+   "movie_count": 41
+  },
+  {
+   "theme": "Crude humor and satire",
+   "movie_count": 37
+  },
+  {
+   "theme": "Epic heroes",
+   "movie_count": 35
+  },
+  {
+   "theme": "Terrifying, haunted, and supernatural horror",
+   "movie_count": 29
+  },
+  {
+   "theme": "Intense violence and sexual transgression",
+   "movie_count": 27
+  },
+  {
+   "theme": "Superheroes in action-packed battles with villains",
+   "movie_count": 24
+  },
+  {
+   "theme": "Creepy, chilling, and terrifying horror",
+   "movie_count": 23
+  },
+  {
+   "theme": "Gory, gruesome, and slasher horror",
+   "movie_count": 23
+  },
+  {
+   "theme": "Funny jokes and crude humor",
+   "movie_count": 21
+  },
+  {
+   "theme": "Humanity and the world around us",
+   "movie_count": 21
+  },
+  {
+   "theme": "Gothic and eerie haunting horror",
+   "movie_count": 20
+  },
+  {
+   "theme": "Twisted dark psychological thriller",
+   "movie_count": 20
+  },
+  {
+   "theme": "Action comedy and silly heroics",
+   "movie_count": 19
+  },
+  {
+   "theme": "Fantasy adventure, heroism, and swordplay",
+   "movie_count": 19
+  },
+  {
+   "theme": "Gags, jokes, and slapstick humor",
+   "movie_count": 19
+  },
+  {
+   "theme": "Moving relationship stories",
+   "movie_count": 19
+  },
+  {
+   "theme": "Emotional and captivating fantasy storytelling",
+   "movie_count": 18
+  },
+  {
+   "theme": "Surreal and thought-provoking visions of life and death",
+   "movie_count": 16
+  },
+  {
+   "theme": "Amusing jokes and witty satire",
+   "movie_count": 15
+  },
+  {
+   "theme": "Heartfelt and sentimental family stories",
+   "movie_count": 15
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+member_a;member_b;common_films;mean_abs_diff
+pratini;zafrina;28;0.43
+marmito;pratini;138;0.46
+dromemario;zafrina;28;0.48
+marmito;zafrina;25;0.5
+dromemario;marmito;142;0.54
+dromemario;pratini;144;0.61
+marmito;instalkiane;37;0.66
+dromemario;instalkiane;40;0.78
+pratini;instalkiane;38;0.83

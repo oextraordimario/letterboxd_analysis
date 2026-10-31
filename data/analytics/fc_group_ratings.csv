@@ -1,0 +1,155 @@
+film_slug;position;title;release_year;avg_rating;dromemario;marmito;pratini;instalkiane;zafrina;group_avg;group_voters;group_std;diff_vs_lbxd
+the-wizard;1;The Wizard;1989;2.96;2.0;3.0;3.5;2.5;;2.75;4;0.56;-0.21
+the-northman;2;The Northman;2022;3.77;3.0;3.0;3.5;3.0;;3.12;4;0.22;-0.65
+rad;3;Rad;1986;3.24;3.0;3.0;3.5;;;3.17;3;0.24;-0.07
+get-out-2017;4;Get Out;2017;4.13;4.0;4.0;2.5;4.0;;3.62;4;0.65;-0.51
+rrr;5;RRR;2022;4.21;4.0;5.0;4.5;;;4.5;3;0.41;0.29
+speed-racer;6;Speed Racer;2008;3.62;3.0;3.5;3.0;;;3.17;3;0.24;-0.45
+they-live;7;They Live;1988;3.75;3.0;3.5;3.0;;;3.17;3;0.24;-0.58
+cobra-1986;8;Cobra;1986;3.02;2.0;2.0;2.0;1.0;;1.75;4;0.43;-1.27
+everything-everywhere-all-at-once;9;Everything Everywhere All at Once;2022;4.23;5.0;4.0;5.0;3.0;;4.25;4;0.83;0.02
+the-mummy-1999;10;The Mummy;1999;3.61;3.0;3.5;;;;3.25;2;0.25;-0.36
+the-unbearable-weight-of-massive-talent;11;The Unbearable Weight of Massive Talent;2022;3.44;4.0;4.5;4.0;;;4.17;3;0.24;0.73
+unforgiven;12;Unforgiven;1992;4.21;3.0;2.5;3.0;1.0;;2.38;4;0.82;-1.83
+twelve-monkeys;13;Twelve Monkeys;1995;3.89;4.0;4.0;4.0;;;4.0;3;0.0;0.11
+free-guy;14;Free Guy;2021;3.02;2.0;;3.0;3.5;;2.83;3;0.62;-0.19
+tremors;15;Tremors;1990;3.53;4.0;3.5;3.5;2.5;;3.38;4;0.54;-0.15
+cats-2019;16;Cats;2019;1.24;1.0;0.5;4.0;1.0;;1.62;4;1.39;0.38
+childs-play;17;Child's Play;1988;3.33;2.0;3.0;2.0;3.0;;2.5;4;0.5;-0.83
+the-craft;18;The Craft;1996;3.58;3.0;2.0;1.5;2.0;;2.12;4;0.54;-1.46
+evil-dead-ii;19;Evil Dead II;1987;3.98;4.0;4.0;3.5;3.0;;3.62;4;0.41;-0.36
+the-mitchells-vs-the-machines;20;The Mitchells vs. the Machines;2021;3.81;3.0;4.0;3.0;4.5;;3.62;4;0.65;-0.19
+point-break;21;Point Break;1991;3.78;3.0;2.5;2.5;1.5;;2.38;4;0.54;-1.4
+flash-gordon-1980;22;Flash Gordon;1980;3.24;3.0;3.0;4.0;;;3.33;3;0.47;0.09
+killer-klowns-from-outer-space;23;Killer Klowns from Outer Space;1988;3.4;3.0;3.5;3.5;;;3.33;3;0.24;-0.07
+the-36th-chamber-of-shaolin;24;The 36th Chamber of Shaolin;1978;4.06;4.0;4.0;3.0;;;3.67;3;0.47;-0.39
+the-warriors;25;The Warriors;1979;3.85;3.0;1.5;1.5;;;2.0;3;0.71;-1.85
+the-banshees-of-inisherin;26;The Banshees of Inisherin;2022;4.12;3.0;3.0;3.0;4.0;;3.25;4;0.43;-0.87
+masters-of-the-universe;27;Masters of the Universe;1987;2.5;2.0;2.0;2.0;;;2.0;3;0.0;-0.5
+invasion-of-the-body-snatchers-1978;28;Invasion of the Body Snatchers;1978;3.94;4.0;4.0;4.0;;;4.0;3;0.0;0.06
+rollerball;29;Rollerball;1975;3.27;3.0;2.5;2.5;;;2.67;3;0.24;-0.6
+bloodmoon;30;Bloodmoon;1997;3.41;3.0;3.5;3.5;;;3.33;3;0.24;-0.08
+army-of-darkness;31;Army of Darkness;1992;3.7;4.0;4.0;4.5;;;4.17;3;0.24;0.47
+requiem-for-a-dream;32;Requiem for a Dream;2000;4.11;5.0;3.5;4.0;;;4.17;3;0.62;0.06
+the-meg;33;The Meg;2018;2.49;2.0;2.5;3.0;2.5;;2.5;4;0.35;0.01
+high-noon;34;High Noon;1952;3.99;5.0;4.0;3.5;;;4.17;3;0.62;0.18
+bubba-ho-tep;35;Bubba Ho-tep;2002;3.28;2.0;2.0;1.0;;;1.67;3;0.47;-1.61
+fargo;36;Fargo;1996;4.13;5.0;4.0;3.5;;;4.17;3;0.62;0.04
+shin-godzilla;37;Shin Godzilla;2016;3.89;3.0;3.0;3.0;;;3.0;3;0.0;-0.89
+gaslight-1944;38;Gaslight;1944;4.05;4.0;;4.0;3.5;;3.83;3;0.24;-0.22
+ip-man;39;Ip Man;2008;3.98;3.0;4.0;3.0;;;3.33;3;0.47;-0.65
+a-nightmare-on-elm-street;40;A Nightmare on Elm Street;1984;3.71;3.0;3.5;3.0;;4.0;3.38;4;0.41;-0.33
+paddington;41;Paddington;2014;3.8;4.0;4.0;3.5;4.0;;3.88;4;0.22;0.08
+paddington-2;42;Paddington 2;2017;4.1;5.0;4.5;4.0;4.5;;4.5;4;0.35;0.4
+hairspray;43;Hairspray;1988;3.69;3.0;2.5;2.0;;;2.5;3;0.41;-1.19
+28-days-later;44;28 Days Later;2002;3.73;4.0;3.0;3.0;;;3.33;3;0.47;-0.4
+pig-2021;45;Pig;2021;3.73;3.0;4.0;2.5;;;3.17;3;0.62;-0.56
+an-american-werewolf-in-london;46;An American Werewolf in London;1981;3.83;3.0;2.5;2.0;;;2.5;3;0.41;-1.33
+past-lives;47;Past Lives;2023;4.16;5.0;3.0;2.5;;;3.5;3;1.08;-0.66
+napoleon-dynamite;48;Napoleon Dynamite;2004;3.73;4.0;4.0;1.0;;;3.0;3;1.41;-0.73
+dune-2021;49;Dune;2021;3.89;5.0;3.5;3.5;;;4.0;3;0.71;0.11
+dune-part-two;50;Dune: Part Two;2024;4.37;5.0;5.0;4.5;;;4.83;3;0.24;0.46
+miami-connection;51;Miami Connection;1987;3.19;3.0;5.0;4.0;;;4.0;3;0.82;0.81
+renfield;52;Renfield;2023;2.86;2.0;3.0;3.0;;;2.67;3;0.47;-0.19
+the-man-from-nowhere;53;The Man from Nowhere;2010;3.89;3.0;2.5;2.5;;;2.67;3;0.24;-1.22
+isle-of-dogs-2018;54;Isle of Dogs;2018;4.09;3.0;3.5;3.0;;;3.17;3;0.24;-0.92
+the-raid-2011;55;The Raid;2011;4.04;4.0;4.0;4.0;;;4.0;3;0.0;-0.04
+the-usual-suspects;56;The Usual Suspects;1995;4.08;4.0;3.0;3.0;;;3.33;3;0.47;-0.75
+pitch-black;57;Pitch Black;2000;3.32;3.0;3.0;3.0;;;3.0;3;0.0;-0.32
+hard-ticket-to-hawaii;58;Hard Ticket to Hawaii;1987;3.08;3.0;3.5;3.5;;;3.33;3;0.24;0.25
+x-2022;59;X;2022;3.4;4.0;4.0;3.0;;;3.67;3;0.47;0.27
+pearl-2022;60;Pearl;2022;3.7;4.0;4.0;1.5;4.0;4.0;3.5;5;1.0;-0.2
+maxxxine;61;MaXXXine;2024;3.09;4.0;4.0;;5.0;;4.33;3;0.47;1.24
+the-fugitive-1993;62;The Fugitive;1993;3.92;4.0;4.0;3.5;;;3.83;3;0.24;-0.09
+monkey-man;63;Monkey Man;2024;3.72;4.0;;3.5;;;3.75;2;0.25;0.03
+blade;64;Blade;1998;3.52;4.0;4.0;4.0;;;4.0;3;0.0;0.48
+repo-man;65;Repo Man;1984;3.73;4.0;4.0;4.0;;;4.0;3;0.0;0.27
+re-animator;66;Re-Animator;1985;3.76;3.0;3.0;3.0;;;3.0;3;0.0;-0.76
+dude-bro-party-massacre-iii;67;Dude Bro Party Massacre III;2015;3.37;4.0;3.5;3.0;3.0;;3.38;4;0.41;0.01
+the-fly-1986;68;The Fly;1986;4.0;4.0;3.5;2.5;;;3.33;3;0.62;-0.67
+humanist-vampire-seeking-consenting-suicidal-person;69;Humanist Vampire Seeking Consenting Suicidal Person;2023;3.9;4.0;3.5;3.5;4.0;4.0;3.8;5;0.24;-0.1
+nosferatu;70;Nosferatu;1922;3.82;4.0;4.0;4.0;2.5;;3.62;4;0.65;-0.2
+fallen-angels;71;Fallen Angels;1995;4.16;4.0;4.0;4.0;;;4.0;3;0.0;-0.16
+dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb;72;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;1964;4.3;3.0;4.5;4.0;4.0;;3.88;4;0.54;-0.42
+meshes-of-the-afternoon;73;Meshes of the Afternoon;1943;4.23;4.0;3.0;4.0;4.0;;3.75;4;0.43;-0.48
+the-wizard-of-oz-1939;74;The Wizard of Oz;1939;3.91;5.0;3.0;3.0;4.5;;3.88;4;0.89;-0.03
+dawn-of-the-dead;75;Dawn of the Dead;1978;3.95;4.0;2.5;2.5;;;3.0;3;0.71;-0.95
+the-company-of-strangers;76;The Company of Strangers;1990;4.28;5.0;4.0;3.5;3.0;;3.88;4;0.74;-0.4
+tokyo-godfathers;77;Tokyo Godfathers;2003;4.26;3.0;4.0;4.0;;;3.67;3;0.47;-0.59
+kiss-kiss-bang-bang-2005;78;Kiss Kiss Bang Bang;2005;3.73;3.0;2.5;2.5;;;2.67;3;0.24;-1.06
+the-substance;79;The Substance;2024;3.72;4.0;4.0;2.5;;4.5;3.75;4;0.75;0.03
+shaft;80;Shaft;1971;3.47;3.0;3.0;3.0;;;3.0;3;0.0;-0.47
+nosferatu-2024;81;Nosferatu;2024;3.65;3.0;4.0;4.0;4.0;;3.75;4;0.43;0.1
+anora;82;Anora;2024;3.76;4.0;4.0;4.0;;;4.0;3;0.0;0.24
+eight-legged-freaks;83;Eight Legged Freaks;2002;2.62;3.0;3.0;3.0;;;3.0;3;0.0;0.38
+companion-2025;84;Companion;2025;3.38;4.0;4.0;4.0;5.0;;4.25;4;0.43;0.87
+dream-scenario;85;Dream Scenario;2023;3.41;3.0;3.0;2.5;2.5;;2.75;4;0.25;-0.66
+the-goonies;86;The Goonies;1985;3.83;2.0;;2.0;1.0;;1.67;3;0.47;-2.16
+at-midnight-ill-take-your-soul;87;At Midnight I'll Take Your Soul;1964;3.58;3.0;3.5;3.5;;;3.33;3;0.24;-0.25
+the-seventh-seal;88;The Seventh Seal;1957;4.31;4.0;3.0;3.5;;;3.5;3;0.41;-0.81
+ginger-snaps;89;Ginger Snaps;2000;3.66;4.0;3.5;3.5;3.0;;3.5;4;0.35;-0.16
+death-race-2000;90;Death Race 2000;1975;3.27;3.0;3.5;3.0;;3.0;3.12;4;0.22;-0.15
+do-or-die;91;Do or Die;1991;2.73;3.0;2.5;2.5;;;2.67;3;0.24;-0.06
+raising-arizona;92;Raising Arizona;1987;3.87;3.0;3.0;3.0;;;3.0;3;0.0;-0.87
+perfect-blue;93;Perfect Blue;1997;4.37;5.0;5.0;4.5;;;4.83;3;0.24;0.46
+a-hard-day;94;A Hard Day;2014;3.66;2.0;2.0;2.0;;;2.0;3;0.0;-1.66
+the-last-days-of-disco;95;The Last Days of Disco;1998;3.76;3.0;;3.5;;;3.25;2;0.25;-0.51
+frankenstein-1931;96;Frankenstein;1931;3.76;5.0;3.5;3.5;;;4.0;3;0.71;0.24
+o-pai-o-look-at-this;97;Ó Paí, Ó: Look at This;2007;3.83;4.0;3.5;;;;3.75;2;0.25;-0.08
+wolfwalkers;98;Wolfwalkers;2020;4.25;3.0;3.5;3.5;3.5;;3.38;4;0.22;-0.87
+the-heroic-trio;99;The Heroic Trio;1993;3.61;3.0;3.5;3.5;;;3.33;3;0.24;-0.28
+paddington-in-peru;100;Paddington in Peru;2024;3.4;4.0;4.0;3.5;4.5;4.0;4.0;5;0.32;0.6
+shadow-2018;101;Shadow;2018;3.64;3.0;3.0;3.0;;3.0;3.0;4;0.0;-0.64
+superman-2025;102;Superman;2025;3.82;2.0;3.5;2.5;;;2.67;3;0.62;-1.15
+to-wong-foo-thanks-for-everything-julie-newmar;103;To Wong Foo, Thanks for Everything! Julie Newmar;1995;4.17;4.0;3.5;3.5;;;3.67;3;0.24;-0.5
+total-recall;104;Total Recall;1990;3.82;4.0;4.0;4.0;;;4.0;3;0.0;0.18
+run-lola-run;105;Run Lola Run;1998;3.86;3.0;3.0;3.0;;3.0;3.0;4;0.0;-0.86
+pans-labyrinth;106;Pan's Labyrinth;2006;4.15;4.0;3.5;4.0;;4.0;3.88;4;0.22;-0.27
+bill-teds-excellent-adventure;107;Bill & Ted's Excellent Adventure;1989;3.67;3.0;4.0;3.5;;;3.5;3;0.41;-0.17
+bride-of-frankenstein;108;Bride of Frankenstein;1935;3.95;3.0;3.0;3.0;;;3.0;3;0.0;-0.95
+phantom-of-the-paradise;109;Phantom of the Paradise;1974;4.15;4.0;3.0;3.5;;;3.5;3;0.41;-0.65
+swiss-army-man;110;Swiss Army Man;2016;3.67;3.0;4.0;3.5;;;3.5;3;0.41;-0.17
+faster-pussycat-kill-kill;111;Faster, Pussycat! Kill! Kill!;1965;3.65;2.0;;1.5;;2.5;2.0;3;0.41;-1.65
+tarantula;112;Tarantula;1955;3.13;2.0;2.0;2.0;;;2.0;3;0.0;-1.13
+troll-2;113;Troll 2;1990;2.34;1.0;1.5;2.0;;;1.5;3;0.41;-0.84
+the-secret-agent-2025;114;The Secret Agent;2025;3.8;3.0;4.0;4.5;;4.0;3.88;4;0.54;0.08
+yojimbo;115;Yojimbo;1961;4.3;4.0;3.0;4.0;;;3.67;3;0.47;-0.63
+the-last-dragon;116;The Last Dragon;1985;3.45;4.0;4.0;4.0;;;4.0;3;0.0;0.55
+the-holdovers;117;The Holdovers;2023;4.26;4.0;3.5;3.5;4.0;3.0;3.6;5;0.37;-0.66
+batman-1966;118;Batman;1966;3.31;3.0;3.0;0.5;;;2.17;3;1.18;-1.14
+cube;119;Cube;1997;3.28;2.0;2.0;2.0;;;2.0;3;0.0;-1.28
+millennium-actress;120;Millennium Actress;2001;4.24;4.0;3.5;2.5;;;3.33;3;0.62;-0.91
+jesus-christ-vampire-hunter;121;Jesus Christ Vampire Hunter;2001;3.35;3.0;3.5;3.5;;;3.33;3;0.24;-0.02
+the-lord-of-the-rings-the-fellowship-of-the-ring;122;The Lord of the Rings: The Fellowship of the Ring;2001;4.39;5.0;2.5;5.0;5.0;5.0;4.5;5;1.0;0.11
+the-lord-of-the-rings-the-two-towers;123;The Lord of the Rings: The Two Towers;2002;4.44;5.0;3.5;5.0;4.5;5.0;4.6;5;0.58;0.16
+the-lord-of-the-rings-the-return-of-the-king;124;The Lord of the Rings: The Return of the King;2003;4.56;5.0;4.0;4.5;5.0;5.0;4.7;5;0.4;0.14
+death-becomes-her;125;Death Becomes Her;1992;3.78;3.0;3.0;2.5;;3.5;3.0;4;0.35;-0.78
+the-running-man;126;The Running Man;1987;3.15;3.0;;2.5;;2.0;2.5;3;0.41;-0.65
+stand-by-me;127;Stand by Me;1986;4.2;4.0;4.0;3.0;;;3.67;3;0.47;-0.53
+thelma-louise;128;Thelma & Louise;1991;4.23;4.0;4.5;;5.0;;4.5;3;0.41;0.27
+punch-drunk-love;129;Punch-Drunk Love;2002;3.96;3.0;2.0;1.0;;;2.0;3;0.82;-1.96
+son-of-the-white-mare;130;Son of the White Mare;1981;4.23;3.0;2.5;3.0;;;2.83;3;0.24;-1.4
+good-boy-2025;131;Good Boy;2025;2.98;;3.0;3.0;;;3.0;2;0.0;0.02
+cinderella-baiana;132;Cinderella Baiana;1998;2.6;2.0;3.0;;;;2.5;2;0.5;-0.1
+a-few-good-men;133;A Few Good Men;1992;4.07;;3.0;3.0;;;3.0;2;0.0;-1.07
+godzilla;134;Godzilla;1954;4.07;4.0;3.5;;;;3.75;2;0.25;-0.32
+robot-dreams;135;Robot Dreams;2023;4.09;3.0;;;;;3.0;1;;-1.09
+master-a-building-in-copacabana;136;Master, a Building in Copacabana;2002;4.31;5.0;4.0;4.5;;;4.5;3;0.41;0.19
+mortal-kombat-ii;137;Mortal Kombat II;2026;2.82;3.0;3.5;3.5;;3.5;3.38;4;0.22;0.56
+in-the-mood-for-love;138;In the Mood for Love;2000;4.37;5.0;;;;;5.0;1;;0.63
+the-4th-man;139;The 4th Man;1983;3.82;3.0;2.5;3.0;;3.0;2.88;4;0.22;-0.94
+cinema-paradiso;140;Cinema Paradiso;1988;4.52;5.0;4.0;3.5;;3.5;4.0;4;0.61;-0.52
+black-dog-2024;141;Black Dog;2024;3.88;3.0;3.0;3.0;;;3.0;3;0.0;-0.88
+slc-punk;142;SLC Punk;1998;3.84;4.0;4.0;4.0;;;4.0;3;0.0;0.16
+the-crow;143;The Crow;1994;3.84;4.0;2.5;3.0;;;3.17;3;0.62;-0.67
+12-angry-men;144;12 Angry Men;1957;4.63;5.0;4.0;5.0;;;4.67;3;0.47;0.04
+the-mask-1994;145;The Mask;1994;3.44;3.0;3.5;3.0;;3.0;3.12;4;0.22;-0.32
+the-odyssey-2026;146;The Odyssey;2026;4.34;4.0;3.5;3.5;;3.5;3.62;4;0.22;-0.72
+palm-springs-2020;147;Palm Springs;2020;3.76;3.0;3.0;3.0;;;3.0;3;0.0;-0.76
+misery;148;Misery;1990;4.0;4.0;4.0;3.5;;3.5;3.75;4;0.25;-0.25
+legend;149;Legend;1985;3.17;2.0;2.5;3.0;;3.0;2.62;4;0.41;-0.55
+coyote-vs-acme;150;Coyote vs. Acme;2026;3.81;2.0;3.5;3.0;;4.0;3.12;4;0.74;-0.69
+dracula-1958;151;Dracula;1958;3.59;3.0;3.0;2.5;;2.5;2.75;4;0.25;-0.84
+the-fall;152;The Fall;2006;4.29;4.0;5.0;4.5;;4.5;4.5;4;0.35;0.21
+leprechaun;153;Leprechaun;1993;2.39;2.0;;1.5;;1.0;1.5;3;0.41;-0.89
+hellraiser;154;Hellraiser;1987;3.53;4.0;3.5;3.0;;;3.5;3;0.41;-0.03
