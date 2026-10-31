@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T17:35:25+00:00",
+ "generated_at": "2026-10-31T17:46:13+00:00",
  "list_url": "https://letterboxd.com/dromemario/list/fff-familia-fa-de-filmes/",
  "min_voters": 3,
  "last_presented": {
@@ -200,6 +200,12 @@
    "group_voters": 4,
    "group_std": 0.56,
    "diff_vs_lbxd": -0.21,
+   "genres": [
+    "Adventure",
+    "Family",
+    "Drama",
+    "Comedy"
+   ],
    "liked_by": [
     "pratini"
    ],
@@ -228,6 +234,11 @@
    "group_voters": 4,
    "group_std": 0.22,
    "diff_vs_lbxd": -0.65,
+   "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -254,6 +265,11 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -0.07,
+   "genres": [
+    "Drama",
+    "Romance",
+    "Family"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -280,6 +296,11 @@
    "group_voters": 4,
    "group_std": 0.65,
    "diff_vs_lbxd": -0.51,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -306,6 +327,11 @@
    "group_voters": 3,
    "group_std": 0.41,
    "diff_vs_lbxd": 0.29,
+   "genres": [
+    "History",
+    "Action",
+    "Drama"
+   ],
    "liked_by": [
     "pratini"
    ],
@@ -334,6 +360,12 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -0.45,
+   "genres": [
+    "Action",
+    "Family",
+    "Adventure",
+    "Comedy"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -360,6 +392,11 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -0.58,
+   "genres": [
+    "Thriller",
+    "Action",
+    "Science Fiction"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -386,6 +423,11 @@
    "group_voters": 4,
    "group_std": 0.43,
    "diff_vs_lbxd": -1.27,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -412,6 +454,12 @@
    "group_voters": 4,
    "group_std": 0.83,
    "diff_vs_lbxd": 0.02,
+   "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Comedy",
+    "Action"
+   ],
    "liked_by": [
     "dromemario",
     "pratini"
@@ -441,6 +489,11 @@
    "group_voters": 2,
    "group_std": 0.25,
    "diff_vs_lbxd": -0.36,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -467,6 +520,11 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": 0.73,
+   "genres": [
+    "Crime",
+    "Action",
+    "Comedy"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -493,6 +551,9 @@
    "group_voters": 4,
    "group_std": 0.82,
    "diff_vs_lbxd": -1.83,
+   "genres": [
+    "Western"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -519,6 +580,11 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": 0.11,
+   "genres": [
+    "Thriller",
+    "Mystery",
+    "Science Fiction"
+   ],
    "liked_by": [
     "pratini"
    ],
@@ -547,6 +613,11 @@
    "group_voters": 3,
    "group_std": 0.62,
    "diff_vs_lbxd": -0.19,
+   "genres": [
+    "Comedy",
+    "Adventure",
+    "Science Fiction"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -573,6 +644,11 @@
    "group_voters": 4,
    "group_std": 0.54,
    "diff_vs_lbxd": -0.15,
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Comedy"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -599,6 +675,11 @@
    "group_voters": 4,
    "group_std": 1.39,
    "diff_vs_lbxd": 0.38,
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ],
    "liked_by": [
     "pratini"
    ],
@@ -627,6 +708,9 @@
    "group_voters": 4,
    "group_std": 0.5,
    "diff_vs_lbxd": -0.83,
+   "genres": [
+    "Horror"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -653,6 +737,11 @@
    "group_voters": 4,
    "group_std": 0.54,
    "diff_vs_lbxd": -1.46,
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Drama"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -679,6 +768,11 @@
    "group_voters": 4,
    "group_std": 0.41,
    "diff_vs_lbxd": -0.36,
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -705,6 +799,12 @@
    "group_voters": 4,
    "group_std": 0.65,
    "diff_vs_lbxd": -0.19,
+   "genres": [
+    "Animation",
+    "Science Fiction",
+    "Comedy",
+    "Adventure"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -731,6 +831,11 @@
    "group_voters": 4,
    "group_std": 0.54,
    "diff_vs_lbxd": -1.4,
+   "genres": [
+    "Thriller",
+    "Action",
+    "Crime"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -757,6 +862,12 @@
    "group_voters": 3,
    "group_std": 0.47,
    "diff_vs_lbxd": 0.09,
+   "genres": [
+    "Family",
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
    "liked_by": [
     "pratini"
    ],
@@ -785,6 +896,11 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -0.07,
+   "genres": [
+    "Science Fiction",
+    "Comedy",
+    "Horror"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -813,6 +929,10 @@
    "group_voters": 3,
    "group_std": 0.47,
    "diff_vs_lbxd": -0.39,
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -841,6 +961,10 @@
    "group_voters": 3,
    "group_std": 0.71,
    "diff_vs_lbxd": -1.85,
+   "genres": [
+    "Thriller",
+    "Action"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -869,6 +993,10 @@
    "group_voters": 4,
    "group_std": 0.43,
    "diff_vs_lbxd": -0.87,
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -895,6 +1023,13 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": -0.5,
+   "genres": [
+    "Thriller",
+    "Adventure",
+    "Action",
+    "Science Fiction",
+    "Fantasy"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -921,6 +1056,10 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": 0.06,
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -947,6 +1086,9 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -0.6,
+   "genres": [
+    "Science Fiction"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -973,6 +1115,10 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -0.08,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
    "liked_by": [
     "pratini"
    ],
@@ -1001,6 +1147,11 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": 0.47,
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+   ],
    "liked_by": [
     "dromemario",
     "pratini"
@@ -1030,6 +1181,9 @@
    "group_voters": 3,
    "group_std": 0.62,
    "diff_vs_lbxd": 0.06,
+   "genres": [
+    "Drama"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1056,6 +1210,11 @@
    "group_voters": 4,
    "group_std": 0.35,
    "diff_vs_lbxd": 0.01,
+   "genres": [
+    "Science Fiction",
+    "Horror",
+    "Action"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1082,6 +1241,9 @@
    "group_voters": 3,
    "group_std": 0.62,
    "diff_vs_lbxd": 0.18,
+   "genres": [
+    "Western"
+   ],
    "liked_by": [
     "pratini"
    ],
@@ -1110,6 +1272,13 @@
    "group_voters": 3,
    "group_std": 0.47,
    "diff_vs_lbxd": -1.61,
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Fantasy",
+    "Thriller",
+    "Mystery"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1136,6 +1305,12 @@
    "group_voters": 3,
    "group_std": 0.62,
    "diff_vs_lbxd": 0.04,
+   "genres": [
+    "Crime",
+    "Comedy",
+    "Drama",
+    "Thriller"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1162,6 +1337,11 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": -0.89,
+   "genres": [
+    "Action",
+    "Horror",
+    "Science Fiction"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1188,6 +1368,12 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -0.22,
+   "genres": [
+    "Drama",
+    "Crime",
+    "Mystery",
+    "Thriller"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1214,6 +1400,11 @@
    "group_voters": 3,
    "group_std": 0.47,
    "diff_vs_lbxd": -0.65,
+   "genres": [
+    "Drama",
+    "Action",
+    "History"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -1242,6 +1433,9 @@
    "group_voters": 4,
    "group_std": 0.41,
    "diff_vs_lbxd": -0.33,
+   "genres": [
+    "Horror"
+   ],
    "liked_by": [
     "dromemario",
     "zafrina"
@@ -1271,6 +1465,11 @@
    "group_voters": 4,
    "group_std": 0.22,
    "diff_vs_lbxd": 0.08,
+   "genres": [
+    "Comedy",
+    "Family",
+    "Adventure"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1297,6 +1496,11 @@
    "group_voters": 4,
    "group_std": 0.35,
    "diff_vs_lbxd": 0.4,
+   "genres": [
+    "Comedy",
+    "Family",
+    "Adventure"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -1325,6 +1529,9 @@
    "group_voters": 3,
    "group_std": 0.41,
    "diff_vs_lbxd": -1.19,
+   "genres": [
+    "Comedy"
+   ],
    "liked_by": [
     "pratini"
    ],
@@ -1353,6 +1560,11 @@
    "group_voters": 3,
    "group_std": 0.47,
    "diff_vs_lbxd": -0.4,
+   "genres": [
+    "Science Fiction",
+    "Horror",
+    "Thriller"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1379,6 +1591,11 @@
    "group_voters": 3,
    "group_std": 0.62,
    "diff_vs_lbxd": -0.56,
+   "genres": [
+    "Mystery",
+    "Thriller",
+    "Drama"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1405,6 +1622,10 @@
    "group_voters": 3,
    "group_std": 0.41,
    "diff_vs_lbxd": -1.33,
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1431,6 +1652,10 @@
    "group_voters": 3,
    "group_std": 1.08,
    "diff_vs_lbxd": -0.66,
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -1459,6 +1684,9 @@
    "group_voters": 3,
    "group_std": 1.41,
    "diff_vs_lbxd": -0.73,
+   "genres": [
+    "Comedy"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -1487,6 +1715,10 @@
    "group_voters": 3,
    "group_std": 0.71,
    "diff_vs_lbxd": 0.11,
+   "genres": [
+    "Science Fiction",
+    "Adventure"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -1515,6 +1747,10 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": 0.46,
+   "genres": [
+    "Adventure",
+    "Science Fiction"
+   ],
    "liked_by": [
     "dromemario",
     "pratini"
@@ -1544,6 +1780,11 @@
    "group_voters": 3,
    "group_std": 0.82,
    "diff_vs_lbxd": 0.81,
+   "genres": [
+    "Action",
+    "Music",
+    "Crime"
+   ],
    "liked_by": [
     "dromemario",
     "pratini"
@@ -1573,6 +1814,11 @@
    "group_voters": 3,
    "group_std": 0.47,
    "diff_vs_lbxd": -0.19,
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1599,6 +1845,11 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -1.22,
+   "genres": [
+    "Thriller",
+    "Action",
+    "Crime"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1625,6 +1876,11 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -0.92,
+   "genres": [
+    "Comedy",
+    "Animation",
+    "Adventure"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1651,6 +1907,11 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": -0.04,
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -1679,6 +1940,11 @@
    "group_voters": 3,
    "group_std": 0.47,
    "diff_vs_lbxd": -0.75,
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Crime"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1705,6 +1971,11 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": -0.32,
+   "genres": [
+    "Science Fiction",
+    "Thriller",
+    "Action"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1731,6 +2002,10 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": 0.25,
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
    "liked_by": [
     "dromemario",
     "pratini"
@@ -1760,6 +2035,9 @@
    "group_voters": 3,
    "group_std": 0.47,
    "diff_vs_lbxd": 0.27,
+   "genres": [
+    "Horror"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1786,6 +2064,10 @@
    "group_voters": 5,
    "group_std": 1.0,
    "diff_vs_lbxd": -0.2,
+   "genres": [
+    "Drama",
+    "Horror"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -1814,6 +2096,9 @@
    "group_voters": 3,
    "group_std": 0.47,
    "diff_vs_lbxd": 1.24,
+   "genres": [
+    "Horror"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -1842,6 +2127,11 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -0.09,
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Action"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -1870,6 +2160,11 @@
    "group_voters": 2,
    "group_std": 0.25,
    "diff_vs_lbxd": 0.03,
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1896,6 +2191,10 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": 0.48,
+   "genres": [
+    "Action",
+    "Horror"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -1924,6 +2223,10 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": 0.27,
+   "genres": [
+    "Comedy",
+    "Science Fiction"
+   ],
    "liked_by": [
     "dromemario",
     "pratini"
@@ -1953,6 +2256,11 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": -0.76,
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Science Fiction"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1979,6 +2287,10 @@
    "group_voters": 4,
    "group_std": 0.41,
    "diff_vs_lbxd": 0.01,
+   "genres": [
+    "Comedy",
+    "Horror"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -2007,6 +2319,10 @@
    "group_voters": 3,
    "group_std": 0.62,
    "diff_vs_lbxd": -0.67,
+   "genres": [
+    "Science Fiction",
+    "Horror"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -2035,6 +2351,11 @@
    "group_voters": 5,
    "group_std": 0.24,
    "diff_vs_lbxd": -0.1,
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+   ],
    "liked_by": [
     "dromemario",
     "instalkiane",
@@ -2065,6 +2386,10 @@
    "group_voters": 4,
    "group_std": 0.65,
    "diff_vs_lbxd": -0.2,
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2091,6 +2416,11 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": -0.16,
+   "genres": [
+    "Crime",
+    "Romance",
+    "Action"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -2119,6 +2449,10 @@
    "group_voters": 4,
    "group_std": 0.54,
    "diff_vs_lbxd": -0.42,
+   "genres": [
+    "Comedy",
+    "War"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2145,6 +2479,10 @@
    "group_voters": 4,
    "group_std": 0.43,
    "diff_vs_lbxd": -0.48,
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2171,6 +2509,11 @@
    "group_voters": 4,
    "group_std": 0.89,
    "diff_vs_lbxd": -0.03,
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Family"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -2199,6 +2542,10 @@
    "group_voters": 3,
    "group_std": 0.71,
    "diff_vs_lbxd": -0.95,
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2225,6 +2572,10 @@
    "group_voters": 4,
    "group_std": 0.74,
    "diff_vs_lbxd": -0.4,
+   "genres": [
+    "Drama",
+    "Adventure"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2251,6 +2602,11 @@
    "group_voters": 3,
    "group_std": 0.47,
    "diff_vs_lbxd": -0.59,
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Animation"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2277,6 +2633,12 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -1.06,
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller",
+    "Comedy"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -2305,6 +2667,10 @@
    "group_voters": 4,
    "group_std": 0.75,
    "diff_vs_lbxd": 0.03,
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
    "liked_by": [
     "dromemario",
     "zafrina"
@@ -2334,6 +2700,12 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": -0.47,
+   "genres": [
+    "Thriller",
+    "Crime",
+    "Drama",
+    "Action"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2360,6 +2732,10 @@
    "group_voters": 4,
    "group_std": 0.43,
    "diff_vs_lbxd": 0.1,
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2386,6 +2762,11 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": 0.24,
+   "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2412,6 +2793,12 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": 0.38,
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Comedy",
+    "Action"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -2440,6 +2827,11 @@
    "group_voters": 4,
    "group_std": 0.43,
    "diff_vs_lbxd": 0.87,
+   "genres": [
+    "Thriller",
+    "Science Fiction",
+    "Horror"
+   ],
    "liked_by": [
     "instalkiane"
    ],
@@ -2468,6 +2860,10 @@
    "group_voters": 4,
    "group_std": 0.25,
    "diff_vs_lbxd": -0.66,
+   "genres": [
+    "Comedy",
+    "Fantasy"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2494,6 +2890,11 @@
    "group_voters": 3,
    "group_std": 0.47,
    "diff_vs_lbxd": -2.16,
+   "genres": [
+    "Adventure",
+    "Family",
+    "Comedy"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2520,6 +2921,11 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -0.25,
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Fantasy"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2546,6 +2952,10 @@
    "group_voters": 3,
    "group_std": 0.41,
    "diff_vs_lbxd": -0.81,
+   "genres": [
+    "Fantasy",
+    "Drama"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2572,6 +2982,10 @@
    "group_voters": 4,
    "group_std": 0.35,
    "diff_vs_lbxd": -0.16,
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
    "liked_by": [
     "instalkiane"
    ],
@@ -2600,6 +3014,11 @@
    "group_voters": 4,
    "group_std": 0.22,
    "diff_vs_lbxd": -0.15,
+   "genres": [
+    "Comedy",
+    "Action",
+    "Science Fiction"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -2628,6 +3047,10 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -0.06,
+   "genres": [
+    "Thriller",
+    "Action"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2654,6 +3077,10 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": -0.87,
+   "genres": [
+    "Crime",
+    "Comedy"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2680,6 +3107,11 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": 0.46,
+   "genres": [
+    "Thriller",
+    "Animation",
+    "Horror"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -2708,6 +3140,12 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": -1.66,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Mystery",
+    "Crime"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2734,6 +3172,11 @@
    "group_voters": 2,
    "group_std": 0.25,
    "diff_vs_lbxd": -0.51,
+   "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -2762,6 +3205,11 @@
    "group_voters": 3,
    "group_std": 0.71,
    "diff_vs_lbxd": 0.24,
+   "genres": [
+    "Science Fiction",
+    "Drama",
+    "Horror"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2788,6 +3236,10 @@
    "group_voters": 2,
    "group_std": 0.25,
    "diff_vs_lbxd": -0.08,
+   "genres": [
+    "Music",
+    "Comedy"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -2816,6 +3268,12 @@
    "group_voters": 4,
    "group_std": 0.22,
    "diff_vs_lbxd": -0.87,
+   "genres": [
+    "Animation",
+    "Family",
+    "Fantasy",
+    "Adventure"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2842,6 +3300,13 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -0.28,
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Thriller",
+    "Science Fiction",
+    "Adventure"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -2870,6 +3335,11 @@
    "group_voters": 5,
    "group_std": 0.32,
    "diff_vs_lbxd": 0.6,
+   "genres": [
+    "Comedy",
+    "Family",
+    "Adventure"
+   ],
    "liked_by": [
     "instalkiane",
     "zafrina"
@@ -2899,6 +3369,10 @@
    "group_voters": 4,
    "group_std": 0.0,
    "diff_vs_lbxd": -0.64,
+   "genres": [
+    "Action",
+    "War"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2925,6 +3399,11 @@
    "group_voters": 3,
    "group_std": 0.62,
    "diff_vs_lbxd": -1.15,
+   "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2951,6 +3430,10 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -0.5,
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -2979,6 +3462,11 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": 0.18,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -3007,6 +3495,11 @@
    "group_voters": 4,
    "group_std": 0.0,
    "diff_vs_lbxd": -0.86,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Drama"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3033,6 +3526,11 @@
    "group_voters": 4,
    "group_std": 0.22,
    "diff_vs_lbxd": -0.27,
+   "genres": [
+    "War",
+    "Drama",
+    "Fantasy"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -3061,6 +3559,11 @@
    "group_voters": 3,
    "group_std": 0.41,
    "diff_vs_lbxd": -0.17,
+   "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Comedy"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -3089,6 +3592,10 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": -0.95,
+   "genres": [
+    "Science Fiction",
+    "Horror"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3115,6 +3622,11 @@
    "group_voters": 3,
    "group_std": 0.41,
    "diff_vs_lbxd": -0.65,
+   "genres": [
+    "Drama",
+    "Horror",
+    "Music"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -3143,6 +3655,13 @@
    "group_voters": 3,
    "group_std": 0.41,
    "diff_vs_lbxd": -0.17,
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Comedy",
+    "Adventure",
+    "Romance"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3169,6 +3688,12 @@
    "group_voters": 3,
    "group_std": 0.41,
    "diff_vs_lbxd": -1.65,
+   "genres": [
+    "Comedy",
+    "Thriller",
+    "Crime",
+    "Action"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3195,6 +3720,10 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": -1.13,
+   "genres": [
+    "Science Fiction",
+    "Horror"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3221,6 +3750,10 @@
    "group_voters": 3,
    "group_std": 0.41,
    "diff_vs_lbxd": -0.84,
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -3249,6 +3782,11 @@
    "group_voters": 4,
    "group_std": 0.54,
    "diff_vs_lbxd": 0.08,
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -3277,6 +3815,10 @@
    "group_voters": 3,
    "group_std": 0.47,
    "diff_vs_lbxd": -0.63,
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3303,6 +3845,11 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": 0.55,
+   "genres": [
+    "Drama",
+    "Comedy",
+    "Action"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -3331,6 +3878,10 @@
    "group_voters": 5,
    "group_std": 0.37,
    "diff_vs_lbxd": -0.66,
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
    "liked_by": [
     "instalkiane",
     "zafrina"
@@ -3360,6 +3911,11 @@
    "group_voters": 3,
    "group_std": 1.18,
    "diff_vs_lbxd": -1.14,
+   "genres": [
+    "Comedy",
+    "Action",
+    "Crime"
+   ],
    "liked_by": [
     "dromemario",
     "pratini"
@@ -3389,6 +3945,12 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": -1.28,
+   "genres": [
+    "Science Fiction",
+    "Horror",
+    "Thriller",
+    "Mystery"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3415,6 +3977,11 @@
    "group_voters": 3,
    "group_std": 0.62,
    "diff_vs_lbxd": -0.91,
+   "genres": [
+    "Drama",
+    "Romance",
+    "Animation"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3441,6 +4008,11 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -0.02,
+   "genres": [
+    "Horror",
+    "Action",
+    "Comedy"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -3469,6 +4041,11 @@
    "group_voters": 5,
    "group_std": 1.0,
    "diff_vs_lbxd": 0.11,
+   "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+   ],
    "liked_by": [
     "dromemario",
     "zafrina"
@@ -3498,6 +4075,11 @@
    "group_voters": 5,
    "group_std": 0.58,
    "diff_vs_lbxd": 0.16,
+   "genres": [
+    "Action",
+    "Fantasy",
+    "Adventure"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -3526,6 +4108,11 @@
    "group_voters": 5,
    "group_std": 0.4,
    "diff_vs_lbxd": 0.14,
+   "genres": [
+    "Action",
+    "Fantasy",
+    "Adventure"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -3554,6 +4141,11 @@
    "group_voters": 4,
    "group_std": 0.35,
    "diff_vs_lbxd": -0.78,
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -3582,6 +4174,11 @@
    "group_voters": 3,
    "group_std": 0.41,
    "diff_vs_lbxd": -0.65,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3608,6 +4205,10 @@
    "group_voters": 3,
    "group_std": 0.47,
    "diff_vs_lbxd": -0.53,
+   "genres": [
+    "Adventure",
+    "Drama"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3634,6 +4235,12 @@
    "group_voters": 3,
    "group_std": 0.41,
    "diff_vs_lbxd": 0.27,
+   "genres": [
+    "Drama",
+    "Adventure",
+    "Crime",
+    "Thriller"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3660,6 +4267,11 @@
    "group_voters": 3,
    "group_std": 0.82,
    "diff_vs_lbxd": -1.96,
+   "genres": [
+    "Drama",
+    "Romance",
+    "Comedy"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3686,6 +4298,11 @@
    "group_voters": 3,
    "group_std": 0.24,
    "diff_vs_lbxd": -1.4,
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Fantasy"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3712,6 +4329,9 @@
    "group_voters": 2,
    "group_std": 0.0,
    "diff_vs_lbxd": 0.02,
+   "genres": [
+    "Horror"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3738,6 +4358,13 @@
    "group_voters": 2,
    "group_std": 0.5,
    "diff_vs_lbxd": -0.1,
+   "genres": [
+    "Music",
+    "Drama",
+    "Romance",
+    "Family",
+    "Comedy"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -3766,6 +4393,9 @@
    "group_voters": 2,
    "group_std": 0.0,
    "diff_vs_lbxd": -1.07,
+   "genres": [
+    "Drama"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3792,6 +4422,11 @@
    "group_voters": 2,
    "group_std": 0.25,
    "diff_vs_lbxd": -0.32,
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Science Fiction"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3818,6 +4453,12 @@
    "group_voters": 1,
    "group_std": null,
    "diff_vs_lbxd": -1.09,
+   "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Animation",
+    "Drama"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3844,6 +4485,9 @@
    "group_voters": 3,
    "group_std": 0.41,
    "diff_vs_lbxd": 0.19,
+   "genres": [
+    "Documentary"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -3872,6 +4516,11 @@
    "group_voters": 4,
    "group_std": 0.22,
    "diff_vs_lbxd": 0.56,
+   "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -3900,6 +4549,10 @@
    "group_voters": 1,
    "group_std": null,
    "diff_vs_lbxd": 0.63,
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3926,6 +4579,10 @@
    "group_voters": 4,
    "group_std": 0.22,
    "diff_vs_lbxd": -0.94,
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -3954,6 +4611,10 @@
    "group_voters": 4,
    "group_std": 0.61,
    "diff_vs_lbxd": -0.52,
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -3982,6 +4643,9 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": -0.88,
+   "genres": [
+    "Drama"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -4008,6 +4672,11 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": 0.16,
+   "genres": [
+    "Drama",
+    "Music",
+    "Comedy"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -4036,6 +4705,11 @@
    "group_voters": 3,
    "group_std": 0.62,
    "diff_vs_lbxd": -0.67,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Fantasy"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -4064,6 +4738,9 @@
    "group_voters": 3,
    "group_std": 0.47,
    "diff_vs_lbxd": 0.04,
+   "genres": [
+    "Drama"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -4090,6 +4767,12 @@
    "group_voters": 4,
    "group_std": 0.22,
    "diff_vs_lbxd": -0.32,
+   "genres": [
+    "Fantasy",
+    "Romance",
+    "Crime",
+    "Comedy"
+   ],
    "liked_by": [
     "dromemario",
     "zafrina"
@@ -4119,6 +4802,11 @@
    "group_voters": 4,
    "group_std": 0.22,
    "diff_vs_lbxd": -0.72,
+   "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -4147,6 +4835,11 @@
    "group_voters": 3,
    "group_std": 0.0,
    "diff_vs_lbxd": -0.76,
+   "genres": [
+    "Romance",
+    "Science Fiction",
+    "Comedy"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -4175,6 +4868,11 @@
    "group_voters": 4,
    "group_std": 0.25,
    "diff_vs_lbxd": -0.25,
+   "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -4203,6 +4901,10 @@
    "group_voters": 4,
    "group_std": 0.41,
    "diff_vs_lbxd": -0.55,
+   "genres": [
+    "Adventure",
+    "Fantasy"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -4231,6 +4933,12 @@
    "group_voters": 4,
    "group_std": 0.74,
    "diff_vs_lbxd": -0.69,
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Family",
+    "Comedy"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -4259,6 +4967,9 @@
    "group_voters": 4,
    "group_std": 0.25,
    "diff_vs_lbxd": -0.84,
+   "genres": [
+    "Horror"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -4285,6 +4996,11 @@
    "group_voters": 4,
    "group_std": 0.35,
    "diff_vs_lbxd": 0.21,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -4313,6 +5029,10 @@
    "group_voters": 3,
    "group_std": 0.41,
    "diff_vs_lbxd": -0.89,
+   "genres": [
+    "Comedy",
+    "Horror"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -4341,6 +5061,10 @@
    "group_voters": 3,
    "group_std": 0.41,
    "diff_vs_lbxd": -0.03,
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
    "liked_by": [],
    "like_count": 0
   }

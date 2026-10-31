@@ -359,6 +359,11 @@ def build() -> None:
         write_csv(df, ANALYTICS_DIR / f"fc_{name}.csv")
 
     gr_idx = gr.set_index("film_slug")
+    # Gêneros de cada filme, na ordem do Letterboxd (o primeiro é o "principal").
+    film_genres = (
+        raw["genresthemes"].query("kind == 'genre'").drop_duplicates(["film_id", "value"])
+        .groupby("film_id")["value"].agg(list).to_dict()
+    )
     film_records = []
     for f in records(films):
         g = gr_idx.loc[f["film_slug"]]
@@ -380,6 +385,7 @@ def build() -> None:
                 "group_voters": int(g["group_voters"]),
                 "group_std": None if pd.isna(g["group_std"]) else float(g["group_std"]),
                 "diff_vs_lbxd": None if pd.isna(g["diff_vs_lbxd"]) else float(g["diff_vs_lbxd"]),
+                "genres": film_genres.get(f["letterboxd_id"], []),
                 "liked_by": liked_by.get(f["film_slug"], []),
                 "like_count": len(liked_by.get(f["film_slug"], [])),
             }
