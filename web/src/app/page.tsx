@@ -183,9 +183,6 @@ const LABELS = [
 export default function Home() {
   const m = r.metrics;
   const splits = r.divergence.splits.map((s) => bySlug[s]);
-  const brazil = r.countries.find((c) => c.country === "Brazil")?.movie_count ?? 0;
-  const fewestDecade = [...r.decades].sort((a, b) => a.movie_count - b.movie_count)[0];
-  const cage = r.people.actors.find((p) => p.name === "Nicolas Cage")?.movie_count ?? 0;
   const byAvg = [...r.members].sort((a, b) => (b.avg_rating ?? 0) - (a.avg_rating ?? 0));
   const generous = byAvg[0];
   const harsh = byAvg[byAvg.length - 1];
@@ -782,15 +779,17 @@ export default function Home() {
       <Slide id="futuro" title="Sugestões pra próxima temporada">
         <ul className="suggestions reveal">
           <li>
-            Só {fewestDecade.movie_count} filme{fewestDecade.movie_count > 1 ? "s" : ""} dos anos {fewestDecade.release_decade}: tá na hora de cavar mais
-            fundo no arquivo.
+            <b>Mais filmes brasileiros:</b> valorizar ainda mais a indústria nacional.
           </li>
           <li>
-            {brazil} filmes brasileiros em {m.movies_watched}. Dá pra valorizar mais a indústria nacional.
+            <b>Mais filmes estrangeiros:</b> sair do eixo anglófono.
           </li>
-          <li>Nicolas Cage segue no topo com {cage} filmes. Manter a liderança é responsabilidade de todos.</li>
-          <li>Mais filmes dirigidos por mulheres.</li>
-          <li>Todo mundo logar e dar nota no Letterboxd, senão a média do grupo fica com cara de média de três.</li>
+          <li>
+            <b>Mais um ou dois do Nic Cage:</b> garantir a liderança.
+          </li>
+          <li>
+            <b>Mais filmes dirigidos por mulheres</b> (na próxima vez vou olhar, eu juro).
+          </li>
         </ul>
       </Slide>
 
