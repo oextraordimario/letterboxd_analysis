@@ -2,4 +2,13 @@
 .env
 tmdb_auth.env
 auths.env
-src/playwright_profile/
+
+# Python
+__pycache__/
+*.pyc
+
+# Scraper HTML cache
+data/raw/_cache/
+
+# Legacy
+legacy/src/playwright_profile/
