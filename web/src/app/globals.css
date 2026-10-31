@@ -286,6 +286,7 @@ html.deck .slide.is-active .columns-bar, html.deck .slide.was-seen .columns-bar 
 .ticket-group .ticket-avg small, .ticket-group dt { color: #5a4220; }
 /* Perguntas que viram para revelar um ingresso. */
 .reveals { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: clamp(14px, 2vw, 28px); }
+html.deck .reveals { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); }
 .flip { display: grid; perspective: 1400px; min-width: 0; }
 .flip-front, .flip-back {
   grid-area: 1 / 1; backface-visibility: hidden; -webkit-backface-visibility: hidden;
