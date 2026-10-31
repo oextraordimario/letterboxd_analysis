@@ -24,3 +24,10 @@ MIN_VOTERS = 3
 
 # Pausa entre requisições ao Letterboxd (segundos). Páginas em cache não esperam.
 REQUEST_DELAY = 1.0
+
+# Funções de equipe destacadas no slide "Bastidores", na ordem de exibição
+# (quem mais aparece em cada uma; empates juntos, até 3). Usado em scrape_people e build_analytics.
+CREW_ROLES = [
+    "editor", "cinematography", "composer", "costume-design", "makeup", "hairstyling",
+    "production-design", "casting", "visual-effects", "stunts", "sound",
+]

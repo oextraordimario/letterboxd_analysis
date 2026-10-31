@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T17:32:01+00:00",
+ "generated_at": "2026-10-31T17:35:25+00:00",
  "list_url": "https://letterboxd.com/dromemario/list/fff-familia-fa-de-filmes/",
  "min_voters": 3,
  "last_presented": {
@@ -5563,6 +5563,7 @@
      "movie_count": 3,
      "link": "/editor/robert-leighton/",
      "url": "https://letterboxd.com/editor/robert-leighton/",
+     "image_url": null,
      "films": [
       "A Few Good Men",
       "Misery",
@@ -5574,6 +5575,7 @@
      "movie_count": 3,
      "link": "/editor/ti-west/",
      "url": "https://letterboxd.com/editor/ti-west/",
+     "image_url": "https://image.tmdb.org/t/p/w500/y65ZHU9m830lbdbggxC8eOT123S.jpg",
      "films": [
       "MaXXXine",
       "Pearl",
@@ -5590,6 +5592,7 @@
      "movie_count": 3,
      "link": "/cinematography/andrew-lesnie-1/",
      "url": "https://letterboxd.com/cinematography/andrew-lesnie-1/",
+     "image_url": "https://image.tmdb.org/t/p/w500/npaUIpk921FVUrtKmvk2RVDwpCM.jpg",
      "films": [
       "The Lord of the Rings: The Fellowship of the Ring",
       "The Lord of the Rings: The Return of the King",
@@ -5601,6 +5604,7 @@
      "movie_count": 3,
      "link": "/cinematography/eliot-rockett/",
      "url": "https://letterboxd.com/cinematography/eliot-rockett/",
+     "image_url": "https://image.tmdb.org/t/p/w500/r8EdIsTVv9lGT4ERjsZXmWYVD7q.jpg",
      "films": [
       "MaXXXine",
       "Pearl",
@@ -5612,6 +5616,7 @@
      "movie_count": 3,
      "link": "/cinematography/erik-wilson/",
      "url": "https://letterboxd.com/cinematography/erik-wilson/",
+     "image_url": null,
      "films": [
       "Paddington",
       "Paddington 2",
@@ -5628,6 +5633,7 @@
      "movie_count": 4,
      "link": "/composer/howard-shore/",
      "url": "https://letterboxd.com/composer/howard-shore/",
+     "image_url": "https://image.tmdb.org/t/p/w500/nJ606tXnL8vDVHi7qavrV292ljt.jpg",
      "films": [
       "The Fly",
       "The Lord of the Rings: The Fellowship of the Ring",
@@ -5645,6 +5651,7 @@
      "movie_count": 3,
      "link": "/costume-design/ngila-dickson/",
      "url": "https://letterboxd.com/costume-design/ngila-dickson/",
+     "image_url": "https://image.tmdb.org/t/p/w500/agoIBi3G9ezonrfiMyouSaPMwBi.jpg",
      "films": [
       "The Lord of the Rings: The Fellowship of the Ring",
       "The Lord of the Rings: The Return of the King",
@@ -5656,6 +5663,7 @@
      "movie_count": 3,
      "link": "/costume-design/richard-taylor-4/",
      "url": "https://letterboxd.com/costume-design/richard-taylor-4/",
+     "image_url": "https://image.tmdb.org/t/p/w500/bPPFdE7FRGuBiIAN5P3bzaUQN0Y.jpg",
      "films": [
       "The Lord of the Rings: The Fellowship of the Ring",
       "The Lord of the Rings: The Return of the King",
@@ -5672,6 +5680,7 @@
      "movie_count": 4,
      "link": "/makeup/chris-lyons-1/",
      "url": "https://letterboxd.com/makeup/chris-lyons-1/",
+     "image_url": null,
      "films": [
       "28 Days Later",
       "Paddington",
@@ -5684,6 +5693,7 @@
      "movie_count": 4,
      "link": "/makeup/jeremy-woodhead/",
      "url": "https://letterboxd.com/makeup/jeremy-woodhead/",
+     "image_url": "https://image.tmdb.org/t/p/w500/dMNDNton1TtMf6pRorGBABhzI0b.jpg",
      "films": [
       "Speed Racer",
       "The Lord of the Rings: The Fellowship of the Ring",
@@ -5696,6 +5706,7 @@
      "movie_count": 4,
      "link": "/makeup/sarah-rubano/",
      "url": "https://letterboxd.com/makeup/sarah-rubano/",
+     "image_url": null,
      "films": [
       "MaXXXine",
       "Pearl",
@@ -5713,6 +5724,7 @@
      "movie_count": 4,
      "link": "/hairstyling/jeremy-woodhead/",
      "url": "https://letterboxd.com/hairstyling/jeremy-woodhead/",
+     "image_url": "https://image.tmdb.org/t/p/w500/dMNDNton1TtMf6pRorGBABhzI0b.jpg",
      "films": [
       "Speed Racer",
       "The Lord of the Rings: The Fellowship of the Ring",
@@ -5730,6 +5742,7 @@
      "movie_count": 4,
      "link": "/production-design/grant-major/",
      "url": "https://letterboxd.com/production-design/grant-major/",
+     "image_url": null,
      "films": [
       "The Lord of the Rings: The Fellowship of the Ring",
       "The Lord of the Rings: The Return of the King",
@@ -5742,6 +5755,7 @@
      "movie_count": 4,
      "link": "/production-design/jason-kisvarday/",
      "url": "https://letterboxd.com/production-design/jason-kisvarday/",
+     "image_url": "https://image.tmdb.org/t/p/w500/a6j01Ie0lJIgwtydJCRqVaXNVaN.jpg",
      "films": [
       "Everything Everywhere All at Once",
       "MaXXXine",
@@ -5759,6 +5773,7 @@
      "movie_count": 4,
      "link": "/casting/john-hubbard-2/",
      "url": "https://letterboxd.com/casting/john-hubbard-2/",
+     "image_url": "https://image.tmdb.org/t/p/w500/frymbiZm34J86snrQvYVLYeAkZ1.jpg",
      "films": [
       "The Lord of the Rings: The Fellowship of the Ring",
       "The Lord of the Rings: The Return of the King",
@@ -5771,52 +5786,12 @@
      "movie_count": 4,
      "link": "/casting/liz-mullane/",
      "url": "https://letterboxd.com/casting/liz-mullane/",
+     "image_url": "https://image.tmdb.org/t/p/w500/hwcIHjn8gwDMty6dw2rxGLJhOVq.jpg",
      "films": [
       "The Lord of the Rings: The Fellowship of the Ring",
       "The Lord of the Rings: The Return of the King",
       "The Lord of the Rings: The Two Towers",
       "The Meg"
-     ]
-    }
-   ]
-  },
-  {
-   "role": "executive-producer",
-   "people": [
-    {
-     "name": "Bob Weinstein",
-     "movie_count": 4,
-     "link": "/executive-producer/bob-weinstein/",
-     "url": "https://letterboxd.com/executive-producer/bob-weinstein/",
-     "films": [
-      "Paddington",
-      "The Lord of the Rings: The Fellowship of the Ring",
-      "The Lord of the Rings: The Return of the King",
-      "The Lord of the Rings: The Two Towers"
-     ]
-    },
-    {
-     "name": "Harvey Weinstein",
-     "movie_count": 4,
-     "link": "/executive-producer/harvey-weinstein/",
-     "url": "https://letterboxd.com/executive-producer/harvey-weinstein/",
-     "films": [
-      "Paddington",
-      "The Lord of the Rings: The Fellowship of the Ring",
-      "The Lord of the Rings: The Return of the King",
-      "The Lord of the Rings: The Two Towers"
-     ]
-    },
-    {
-     "name": "Robert Shaye",
-     "movie_count": 4,
-     "link": "/executive-producer/robert-shaye/",
-     "url": "https://letterboxd.com/executive-producer/robert-shaye/",
-     "films": [
-      "Hairspray",
-      "The Lord of the Rings: The Fellowship of the Ring",
-      "The Lord of the Rings: The Return of the King",
-      "The Lord of the Rings: The Two Towers"
      ]
     }
    ]
@@ -5829,6 +5804,7 @@
      "movie_count": 3,
      "link": "/visual-effects/brice-r-parker/",
      "url": "https://letterboxd.com/visual-effects/brice-r-parker/",
+     "image_url": null,
      "films": [
       "Dune",
       "Dune: Part Two",
@@ -5840,6 +5816,7 @@
      "movie_count": 3,
      "link": "/visual-effects/charlie-mcclellan/",
      "url": "https://letterboxd.com/visual-effects/charlie-mcclellan/",
+     "image_url": null,
      "films": [
       "The Lord of the Rings: The Fellowship of the Ring",
       "The Lord of the Rings: The Return of the King",
@@ -5851,6 +5828,7 @@
      "movie_count": 3,
      "link": "/visual-effects/dean-lyon/",
      "url": "https://letterboxd.com/visual-effects/dean-lyon/",
+     "image_url": null,
      "films": [
       "The Lord of the Rings: The Fellowship of the Ring",
       "The Lord of the Rings: The Return of the King",
@@ -5867,6 +5845,7 @@
      "movie_count": 6,
      "link": "/stunts/augie-davis/",
      "url": "https://letterboxd.com/stunts/augie-davis/",
+     "image_url": "https://image.tmdb.org/t/p/w500/bjmw6yKloGX0mtpiaKbJnxYQWz1.jpg",
      "films": [
       "Pearl",
       "The Lord of the Rings: The Fellowship of the Ring",
@@ -5881,6 +5860,7 @@
      "movie_count": 6,
      "link": "/stunts/jeff-imada/",
      "url": "https://letterboxd.com/stunts/jeff-imada/",
+     "image_url": "https://image.tmdb.org/t/p/w500/sUNSaNQreSHYaJvKr0SfiBqMPDV.jpg",
      "films": [
       "Bill & Ted's Excellent Adventure",
       "Blade",
@@ -5895,6 +5875,7 @@
      "movie_count": 6,
      "link": "/stunts/tony-brubaker/",
      "url": "https://letterboxd.com/stunts/tony-brubaker/",
+     "image_url": "https://image.tmdb.org/t/p/w500/pi2U3iRoMNc4zHvzWdXG8hqMQUn.jpg",
      "films": [
       "Masters of the Universe",
       "Rollerball",
@@ -5914,6 +5895,7 @@
      "movie_count": 7,
      "link": "/sound/rick-kline/",
      "url": "https://letterboxd.com/sound/rick-kline/",
+     "image_url": null,
      "films": [
       "A Few Good Men",
       "Child's Play",
@@ -6804,6 +6786,7 @@
       "movie_count": 3,
       "link": "/editor/ti-west/",
       "url": "https://letterboxd.com/editor/ti-west/",
+      "image_url": "https://image.tmdb.org/t/p/w500/y65ZHU9m830lbdbggxC8eOT123S.jpg",
       "films": [
        "MaXXXine",
        "Pearl",
@@ -6820,6 +6803,7 @@
       "movie_count": 3,
       "link": "/cinematography/eliot-rockett/",
       "url": "https://letterboxd.com/cinematography/eliot-rockett/",
+      "image_url": "https://image.tmdb.org/t/p/w500/r8EdIsTVv9lGT4ERjsZXmWYVD7q.jpg",
       "films": [
        "MaXXXine",
        "Pearl",
@@ -6836,6 +6820,7 @@
       "movie_count": 3,
       "link": "/composer/mark-isham/",
       "url": "https://letterboxd.com/composer/mark-isham/",
+      "image_url": null,
       "films": [
        "Blade",
        "Point Break",
@@ -6847,6 +6832,7 @@
       "movie_count": 3,
       "link": "/composer/tyler-bates/",
       "url": "https://letterboxd.com/composer/tyler-bates/",
+      "image_url": null,
       "films": [
        "MaXXXine",
        "Pearl",
@@ -6863,6 +6849,7 @@
       "movie_count": 2,
       "link": "/costume-design/aggie-guerard-rodgers/",
       "url": "https://letterboxd.com/costume-design/aggie-guerard-rodgers/",
+      "image_url": null,
       "films": [
        "Invasion of the Body Snatchers",
        "The Fugitive"
@@ -6873,6 +6860,7 @@
       "movie_count": 2,
       "link": "/costume-design/jacqueline-west/",
       "url": "https://letterboxd.com/costume-design/jacqueline-west/",
+      "image_url": null,
       "films": [
        "Dune",
        "Dune: Part Two"
@@ -6883,6 +6871,7 @@
       "movie_count": 2,
       "link": "/costume-design/julie-weiss-1/",
       "url": "https://letterboxd.com/costume-design/julie-weiss-1/",
+      "image_url": null,
       "films": [
        "Masters of the Universe",
        "Twelve Monkeys"
@@ -6898,6 +6887,7 @@
       "movie_count": 4,
       "link": "/makeup/chris-lyons-1/",
       "url": "https://letterboxd.com/makeup/chris-lyons-1/",
+      "image_url": null,
       "films": [
        "28 Days Later",
        "Paddington",
@@ -6915,6 +6905,7 @@
       "movie_count": 3,
       "link": "/hairstyling/robert-pickens-1/",
       "url": "https://letterboxd.com/hairstyling/robert-pickens-1/",
+      "image_url": null,
       "films": [
        "MaXXXine",
        "The Unbearable Weight of Massive Talent",
@@ -6931,6 +6922,7 @@
       "movie_count": 2,
       "link": "/production-design/gary-williamson/",
       "url": "https://letterboxd.com/production-design/gary-williamson/",
+      "image_url": null,
       "films": [
        "Paddington",
        "Paddington 2"
@@ -6941,6 +6933,7 @@
       "movie_count": 2,
       "link": "/production-design/jason-kisvarday/",
       "url": "https://letterboxd.com/production-design/jason-kisvarday/",
+      "image_url": "https://image.tmdb.org/t/p/w500/a6j01Ie0lJIgwtydJCRqVaXNVaN.jpg",
       "films": [
        "Everything Everywhere All at Once",
        "MaXXXine"
@@ -6951,6 +6944,7 @@
       "movie_count": 2,
       "link": "/production-design/mark-tildesley/",
       "url": "https://letterboxd.com/production-design/mark-tildesley/",
+      "image_url": null,
       "films": [
        "28 Days Later",
        "The Banshees of Inisherin"
@@ -6966,6 +6960,7 @@
       "movie_count": 3,
       "link": "/casting/francine-maisler/",
       "url": "https://letterboxd.com/casting/francine-maisler/",
+      "image_url": null,
       "films": [
        "Dune",
        "Dune: Part Two",
@@ -6977,6 +6972,7 @@
       "movie_count": 3,
       "link": "/casting/jessica-kelly-1/",
       "url": "https://letterboxd.com/casting/jessica-kelly-1/",
+      "image_url": null,
       "films": [
        "MaXXXine",
        "The Unbearable Weight of Massive Talent",
@@ -6988,48 +6984,11 @@
       "movie_count": 3,
       "link": "/casting/kathy-driscoll/",
       "url": "https://letterboxd.com/casting/kathy-driscoll/",
+      "image_url": null,
       "films": [
        "Dune",
        "Dune: Part Two",
        "The Usual Suspects"
-      ]
-     }
-    ]
-   },
-   {
-    "role": "executive-producer",
-    "people": [
-     {
-      "name": "Ashley Levinson",
-      "movie_count": 3,
-      "link": "/executive-producer/ashley-levinson/",
-      "url": "https://letterboxd.com/executive-producer/ashley-levinson/",
-      "films": [
-       "MaXXXine",
-       "Pearl",
-       "X"
-      ]
-     },
-     {
-      "name": "Kid Cudi",
-      "movie_count": 3,
-      "link": "/executive-producer/kid-cudi-1/",
-      "url": "https://letterboxd.com/executive-producer/kid-cudi-1/",
-      "films": [
-       "MaXXXine",
-       "Pearl",
-       "X"
-      ]
-     },
-     {
-      "name": "Peter Phok",
-      "movie_count": 3,
-      "link": "/executive-producer/peter-phok/",
-      "url": "https://letterboxd.com/executive-producer/peter-phok/",
-      "films": [
-       "MaXXXine",
-       "Pearl",
-       "X"
       ]
      }
     ]
@@ -7042,6 +7001,7 @@
       "movie_count": 3,
       "link": "/visual-effects/frank-rueter/",
       "url": "https://letterboxd.com/visual-effects/frank-rueter/",
+      "image_url": null,
       "films": [
        "MaXXXine",
        "Pearl",
@@ -7058,6 +7018,7 @@
       "movie_count": 5,
       "link": "/stunts/john-casino/",
       "url": "https://letterboxd.com/stunts/john-casino/",
+      "image_url": null,
       "films": [
        "Bubba Ho-tep",
        "Evil Dead II",
@@ -7076,6 +7037,7 @@
       "movie_count": 4,
       "link": "/sound/greg-p-russell/",
       "url": "https://letterboxd.com/sound/greg-p-russell/",
+      "image_url": null,
       "films": [
        "Hairspray",
        "Point Break",
@@ -7088,6 +7050,7 @@
       "movie_count": 4,
       "link": "/sound/rick-kline/",
       "url": "https://letterboxd.com/sound/rick-kline/",
+      "image_url": null,
       "films": [
        "Child's Play",
        "Cobra",

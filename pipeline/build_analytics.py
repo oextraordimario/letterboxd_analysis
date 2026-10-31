@@ -12,7 +12,7 @@ from datetime import date, datetime, timezone
 import numpy as np
 import pandas as pd
 
-from pipeline.config import ANALYTICS_DIR, BASE_URL, LAST_PRESENTED_SLUG, LIST_PATH, MIN_VOTERS, RAW_DIR
+from pipeline.config import ANALYTICS_DIR, BASE_URL, LAST_PRESENTED_SLUG, LIST_PATH, MIN_VOTERS, RAW_DIR, CREW_ROLES
 from pipeline.io import read_csv, write_csv
 
 THEME_KINDS = ["theme", "mini-theme"]
@@ -90,12 +90,6 @@ def movies_per_decade(films: pd.DataFrame) -> pd.DataFrame:
         {"release_decade": list(all_decades), "movie_count": [int(counts.get(d, 0)) for d in all_decades]}
     )
 
-
-# Funções de equipe destacadas no slide de "créditos finais", na ordem de exibição.
-CREW_ROLES = [
-    "editor", "cinematography", "composer", "costume-design", "makeup", "hairstyling",
-    "production-design", "casting", "executive-producer", "visual-effects", "stunts", "sound",
-]
 
 
 def popular_people(people: pd.DataFrame, min_films: int) -> tuple[pd.DataFrame, pd.DataFrame]:
@@ -273,7 +267,7 @@ def aggregate(films: pd.DataFrame, raw: dict[str, pd.DataFrame], members: pd.Dat
         crew_sections.append({
             "role": role,
             "people": [
-                {**p, "url": BASE_URL + p["link"], "films": movies.loc[movies["link"] == p["link"], "film_title"].tolist()}
+                {**p, "url": BASE_URL + p["link"], "image_url": people_img.get(p["link"]) or None, "films": movies.loc[movies["link"] == p["link"], "film_title"].tolist()}
                 for p in records(top)
             ],
         })

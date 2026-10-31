@@ -1,7 +1,7 @@
 """Raspa a foto (TMDB, via página do Letterboxd) das pessoas mais frequentes da lista.
 
-Pega atores com 3+ filmes e diretores/roteiristas com 2+ filmes (mesmos cortes das
-análises). Rode scrape_list antes.
+Pega atores com 3+ filmes, diretores/roteiristas com 2+ filmes e os destaques de equipe
+de CREW_ROLES (mesmos cortes das análises). Rode scrape_list antes.
 
 Saída: data/raw/fc_people.csv (link, nome, papel, url da foto)
 
@@ -13,7 +13,7 @@ import argparse
 import pandas as pd
 
 from pipeline import http
-from pipeline.config import RAW_DIR
+from pipeline.config import CREW_ROLES, RAW_DIR
 from pipeline.io import read_csv, write_csv
 
 MIN_FILMS = {"actor": 3, "director": 2, "writer": 2}
@@ -30,7 +30,22 @@ def frequent_people() -> pd.DataFrame:
         .reset_index(name="movie_count")
     )
     counts = counts[counts["movie_count"] >= counts["role"].map(MIN_FILMS)]
-    return counts.drop_duplicates("link")
+    return pd.concat([counts, crew_highlights(crew)]).drop_duplicates("link")
+
+
+def crew_highlights(crew: pd.DataFrame) -> pd.DataFrame:
+    """Quem mais aparece em cada função de CREW_ROLES (2+ filmes; empates, até 3)."""
+    tops = []
+    for role in CREW_ROLES:
+        counts = (
+            crew[crew["role"] == role].drop_duplicates(["link", "film_id"])
+            .groupby(["link", "name"]).size().reset_index(name="movie_count")
+            .query("movie_count >= 2")
+            .sort_values(["movie_count", "name"], ascending=[False, True])
+        )
+        if not counts.empty:
+            tops.append(counts[counts["movie_count"] == counts["movie_count"].max()].head(3).assign(role=role))
+    return pd.concat(tops) if tops else pd.DataFrame()
 
 
 def main() -> None:
