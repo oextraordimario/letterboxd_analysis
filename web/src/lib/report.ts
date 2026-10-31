@@ -38,6 +38,8 @@ export type Film = {
   group_voters: number;
   group_std: number | null;
   diff_vs_lbxd: number | null;
+  liked_by: string[];
+  like_count: number;
 };
 
 export type Member = {
@@ -53,6 +55,7 @@ export type Member = {
   least_favorite_film: string | null;
   least_favorite_rating: number | null;
   avatar_url: string;
+  films_liked: number;
 };
 
 export type Person = {

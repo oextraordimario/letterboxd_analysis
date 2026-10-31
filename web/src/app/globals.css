@@ -306,6 +306,7 @@ html.deck .slide.is-active .columns-bar, html.deck .slide.was-seen .columns-bar 
 .award-poster { display: block; height: clamp(110px, 20vh, 190px); aspect-ratio: 2 / 3; margin: 4px 0; border-radius: 3px; overflow: hidden; box-shadow: 0 0 0 2px #fbf3df, 0 0 0 4px #b8913a, 0 8px 18px #0004; }
 .award-poster img { width: 100%; height: 100%; object-fit: cover; }
 .award h3 { overflow-wrap: anywhere; }
+.award h3.award-title-sm { font-size: clamp(18px, 1.8vw, 24px); }
 .award-avatars { list-style: none; margin: 4px 0; padding: 0; display: flex; justify-content: center; }
 .award-avatars li + li { margin-left: -14px; }
 .award-avatars .avatar { width: 50px; box-shadow: 0 0 0 2px #fbf3df; }

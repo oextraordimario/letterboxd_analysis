@@ -139,6 +139,9 @@ export default function Home() {
   const byStd = [...r.members].sort((a, b) => memberStd[a.username] - memberStd[b.username]);
   const steady = byStd[0];
   const swingy = byStd[byStd.length - 1];
+  const byUser = Object.fromEntries(r.members.map((mm) => [mm.username, mm]));
+  const softie = [...r.members].sort((a, b) => b.films_liked - a.films_liked)[0];
+  const mostLiked = [...r.films].sort((a, b) => b.like_count - a.like_count || b.lbxd_rating_count - a.lbxd_rating_count)[0];
   const forgotten = r.films.filter((f) => f.group_voters < r.min_voters).sort((a, b) => b.group_voters - a.group_voters);
   // Consenso: nota média alta (ou baixa) com pouco desvio. Empate: mais notas, depois mais popular no site.
   const eligible = r.films.filter((f) => f.group_voters >= r.min_voters);
@@ -278,29 +281,37 @@ export default function Home() {
       <Slide id="notas-pt2" title="Nossas notas: premiações pt2">
         <div className="reveals reveal">
           {[
-            { q: "Óscar consistente", sub: "notas mais parecidas entre si", mm: steady, std: true },
-            { q: "Óscar 8 ou 80", sub: "notas mais espalhadas", mm: swingy, std: true },
-          ].map(({ q, sub, mm, std }) => (
+            { q: "Óscar consistente", sub: "notas mais parecidas entre si", mm: steady, value: `±${fmt(memberStd[steady.username], 2)}`, note: "desvio padrão das notas" },
+            { q: "Óscar 8 ou 80", sub: "notas mais espalhadas", mm: swingy, value: `±${fmt(memberStd[swingy.username], 2)}`, note: "desvio padrão das notas" },
+            { q: "Óscar coração mole", sub: "quem mais curtiu", mm: softie, value: `${softie.films_liked}♥`, note: `de ${softie.films_seen} filmes vistos` },
+          ].map(({ q, sub, mm, value, note }) => (
             <Reveal key={q} question={q} sub={sub}>
               <article className="award">
                 <Statuette />
                 <p className="award-intro">E o Óscar vai para</p>
                 <span className="award-photo"><Avatar url={mm.avatar_url} name={mm.display_name} /></span>
                 <h3>{mm.display_name}</h3>
-                {std ? (
-                  <p className="award-avg">
-                    ±{fmt(memberStd[mm.username], 2)}
-                    <small>desvio padrão das notas</small>
-                  </p>
-                ) : (
-                  <p className="award-avg">
-                    {fmt(mm.avg_rating ?? 0, 2)}
-                    <small>{signed(mm.avg_diff_vs_group ?? 0)} vs. grupo</small>
-                  </p>
-                )}
+                <p className="award-avg">
+                  {value}
+                  <small>{note}</small>
+                </p>
               </article>
             </Reveal>
           ))}
+          <Reveal question="Óscar queridinho" sub="filme mais curtido">
+            <article className="award">
+              <Statuette />
+              <p className="award-intro">E o Óscar vai para</p>
+              <a className="award-poster" href={mostLiked.url} target="_blank" rel="noreferrer">
+                {mostLiked.poster_url && <img src={mostLiked.poster_url} alt="" />}
+              </a>
+              <h3 className="award-title-sm">{mostLiked.title}</h3>
+              <p className="award-avg">
+                {mostLiked.like_count}♥
+                <small>{mostLiked.liked_by.map((u) => byUser[u]?.display_name ?? u).join(", ")}</small>
+              </p>
+            </article>
+          </Reveal>
         </div>
       </Slide>
 
