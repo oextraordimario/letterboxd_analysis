@@ -91,6 +91,13 @@ def movies_per_decade(films: pd.DataFrame) -> pd.DataFrame:
     )
 
 
+# Funções de equipe destacadas no slide de "créditos finais", na ordem de exibição.
+CREW_ROLES = [
+    "editor", "cinematography", "composer", "costume-design", "makeup", "hairstyling",
+    "production-design", "casting", "executive-producer", "visual-effects", "stunts", "sound",
+]
+
+
 def popular_people(people: pd.DataFrame, min_films: int) -> tuple[pd.DataFrame, pd.DataFrame]:
     """Pessoas com min_films+ filmes e a lista de filmes de cada uma."""
     people = people.drop_duplicates(["link", "film_id"])
@@ -255,6 +262,22 @@ def aggregate(films: pd.DataFrame, raw: dict[str, pd.DataFrame], members: pd.Dat
             for p in records(counts)
         ]
 
+    # Destaques de equipe "menos glamurosa": quem mais apareceu em cada função (empates juntos, até 3).
+    crew_sections = []
+    for role in CREW_ROLES:
+        counts, movies = popular_people(crew[crew["role"] == role], 2)
+        if counts.empty:
+            continue
+        top = counts[counts["movie_count"] == counts["movie_count"].max()].head(3)
+        analytics[f"popular_crew_{role.replace('-', '_')}"] = counts
+        crew_sections.append({
+            "role": role,
+            "people": [
+                {**p, "url": BASE_URL + p["link"], "films": movies.loc[movies["link"] == p["link"], "film_title"].tolist()}
+                for p in records(top)
+            ],
+        })
+
     details = by_film(raw["details"])
     analytics["movies_per_country"] = count_by(details, "country")
     analytics["movies_per_language"] = count_by(details, "language")
@@ -289,6 +312,7 @@ def aggregate(films: pd.DataFrame, raw: dict[str, pd.DataFrame], members: pd.Dat
         "lbxd_avg_overall_eligible": round(float(eligible["avg_rating"].mean()), 2),
         "decades": records(analytics["movies_per_release_decade"]),
         "people": person_sections,
+        "crew": crew_sections,
         "countries": records(analytics["movies_per_country"]),
         "languages": records(analytics["movies_per_language"]),
         "studios": records(analytics["movies_per_studio"]),
@@ -392,6 +416,7 @@ def build() -> None:
         "decades": sections["decades"],
         "years_watched": records(analytics["movies_per_year_watched"]),
         "people": sections["people"],
+        "crew": sections["crew"],
         "countries": sections["countries"],
         "languages": sections["languages"],
         "studios": sections["studios"],

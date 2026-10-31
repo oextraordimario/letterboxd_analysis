@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T17:09:49+00:00",
+ "generated_at": "2026-10-31T17:32:01+00:00",
  "list_url": "https://letterboxd.com/dromemario/list/fff-familia-fa-de-filmes/",
  "min_voters": 3,
  "last_presented": {
@@ -5554,6 +5554,379 @@
    }
   ]
  },
+ "crew": [
+  {
+   "role": "editor",
+   "people": [
+    {
+     "name": "Robert Leighton",
+     "movie_count": 3,
+     "link": "/editor/robert-leighton/",
+     "url": "https://letterboxd.com/editor/robert-leighton/",
+     "films": [
+      "A Few Good Men",
+      "Misery",
+      "Stand by Me"
+     ]
+    },
+    {
+     "name": "Ti West",
+     "movie_count": 3,
+     "link": "/editor/ti-west/",
+     "url": "https://letterboxd.com/editor/ti-west/",
+     "films": [
+      "MaXXXine",
+      "Pearl",
+      "X"
+     ]
+    }
+   ]
+  },
+  {
+   "role": "cinematography",
+   "people": [
+    {
+     "name": "Andrew Lesnie",
+     "movie_count": 3,
+     "link": "/cinematography/andrew-lesnie-1/",
+     "url": "https://letterboxd.com/cinematography/andrew-lesnie-1/",
+     "films": [
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Two Towers"
+     ]
+    },
+    {
+     "name": "Eliot Rockett",
+     "movie_count": 3,
+     "link": "/cinematography/eliot-rockett/",
+     "url": "https://letterboxd.com/cinematography/eliot-rockett/",
+     "films": [
+      "MaXXXine",
+      "Pearl",
+      "X"
+     ]
+    },
+    {
+     "name": "Erik Wilson",
+     "movie_count": 3,
+     "link": "/cinematography/erik-wilson/",
+     "url": "https://letterboxd.com/cinematography/erik-wilson/",
+     "films": [
+      "Paddington",
+      "Paddington 2",
+      "Paddington in Peru"
+     ]
+    }
+   ]
+  },
+  {
+   "role": "composer",
+   "people": [
+    {
+     "name": "Howard Shore",
+     "movie_count": 4,
+     "link": "/composer/howard-shore/",
+     "url": "https://letterboxd.com/composer/howard-shore/",
+     "films": [
+      "The Fly",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Two Towers"
+     ]
+    }
+   ]
+  },
+  {
+   "role": "costume-design",
+   "people": [
+    {
+     "name": "Ngila Dickson",
+     "movie_count": 3,
+     "link": "/costume-design/ngila-dickson/",
+     "url": "https://letterboxd.com/costume-design/ngila-dickson/",
+     "films": [
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Two Towers"
+     ]
+    },
+    {
+     "name": "Richard Taylor",
+     "movie_count": 3,
+     "link": "/costume-design/richard-taylor-4/",
+     "url": "https://letterboxd.com/costume-design/richard-taylor-4/",
+     "films": [
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Two Towers"
+     ]
+    }
+   ]
+  },
+  {
+   "role": "makeup",
+   "people": [
+    {
+     "name": "Chris Lyons",
+     "movie_count": 4,
+     "link": "/makeup/chris-lyons-1/",
+     "url": "https://letterboxd.com/makeup/chris-lyons-1/",
+     "films": [
+      "28 Days Later",
+      "Paddington",
+      "Paddington 2",
+      "The Northman"
+     ]
+    },
+    {
+     "name": "Jeremy Woodhead",
+     "movie_count": 4,
+     "link": "/makeup/jeremy-woodhead/",
+     "url": "https://letterboxd.com/makeup/jeremy-woodhead/",
+     "films": [
+      "Speed Racer",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Two Towers"
+     ]
+    },
+    {
+     "name": "Sarah Rubano",
+     "movie_count": 4,
+     "link": "/makeup/sarah-rubano/",
+     "url": "https://letterboxd.com/makeup/sarah-rubano/",
+     "films": [
+      "MaXXXine",
+      "Pearl",
+      "The Holdovers",
+      "X"
+     ]
+    }
+   ]
+  },
+  {
+   "role": "hairstyling",
+   "people": [
+    {
+     "name": "Jeremy Woodhead",
+     "movie_count": 4,
+     "link": "/hairstyling/jeremy-woodhead/",
+     "url": "https://letterboxd.com/hairstyling/jeremy-woodhead/",
+     "films": [
+      "Speed Racer",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Two Towers"
+     ]
+    }
+   ]
+  },
+  {
+   "role": "production-design",
+   "people": [
+    {
+     "name": "Grant Major",
+     "movie_count": 4,
+     "link": "/production-design/grant-major/",
+     "url": "https://letterboxd.com/production-design/grant-major/",
+     "films": [
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Two Towers",
+      "The Meg"
+     ]
+    },
+    {
+     "name": "Jason Kisvarday",
+     "movie_count": 4,
+     "link": "/production-design/jason-kisvarday/",
+     "url": "https://letterboxd.com/production-design/jason-kisvarday/",
+     "films": [
+      "Everything Everywhere All at Once",
+      "MaXXXine",
+      "Palm Springs",
+      "Swiss Army Man"
+     ]
+    }
+   ]
+  },
+  {
+   "role": "casting",
+   "people": [
+    {
+     "name": "John Hubbard",
+     "movie_count": 4,
+     "link": "/casting/john-hubbard-2/",
+     "url": "https://letterboxd.com/casting/john-hubbard-2/",
+     "films": [
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Two Towers",
+      "The Mummy"
+     ]
+    },
+    {
+     "name": "Liz Mullane",
+     "movie_count": 4,
+     "link": "/casting/liz-mullane/",
+     "url": "https://letterboxd.com/casting/liz-mullane/",
+     "films": [
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Two Towers",
+      "The Meg"
+     ]
+    }
+   ]
+  },
+  {
+   "role": "executive-producer",
+   "people": [
+    {
+     "name": "Bob Weinstein",
+     "movie_count": 4,
+     "link": "/executive-producer/bob-weinstein/",
+     "url": "https://letterboxd.com/executive-producer/bob-weinstein/",
+     "films": [
+      "Paddington",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Two Towers"
+     ]
+    },
+    {
+     "name": "Harvey Weinstein",
+     "movie_count": 4,
+     "link": "/executive-producer/harvey-weinstein/",
+     "url": "https://letterboxd.com/executive-producer/harvey-weinstein/",
+     "films": [
+      "Paddington",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Two Towers"
+     ]
+    },
+    {
+     "name": "Robert Shaye",
+     "movie_count": 4,
+     "link": "/executive-producer/robert-shaye/",
+     "url": "https://letterboxd.com/executive-producer/robert-shaye/",
+     "films": [
+      "Hairspray",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Two Towers"
+     ]
+    }
+   ]
+  },
+  {
+   "role": "visual-effects",
+   "people": [
+    {
+     "name": "Brice R. Parker",
+     "movie_count": 3,
+     "link": "/visual-effects/brice-r-parker/",
+     "url": "https://letterboxd.com/visual-effects/brice-r-parker/",
+     "films": [
+      "Dune",
+      "Dune: Part Two",
+      "Mortal Kombat II"
+     ]
+    },
+    {
+     "name": "Charlie McClellan",
+     "movie_count": 3,
+     "link": "/visual-effects/charlie-mcclellan/",
+     "url": "https://letterboxd.com/visual-effects/charlie-mcclellan/",
+     "films": [
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Two Towers"
+     ]
+    },
+    {
+     "name": "Dean Lyon",
+     "movie_count": 3,
+     "link": "/visual-effects/dean-lyon/",
+     "url": "https://letterboxd.com/visual-effects/dean-lyon/",
+     "films": [
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Two Towers"
+     ]
+    }
+   ]
+  },
+  {
+   "role": "stunts",
+   "people": [
+    {
+     "name": "Augie Davis",
+     "movie_count": 6,
+     "link": "/stunts/augie-davis/",
+     "url": "https://letterboxd.com/stunts/augie-davis/",
+     "films": [
+      "Pearl",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Two Towers",
+      "The Meg",
+      "X"
+     ]
+    },
+    {
+     "name": "Jeff Imada",
+     "movie_count": 6,
+     "link": "/stunts/jeff-imada/",
+     "url": "https://letterboxd.com/stunts/jeff-imada/",
+     "films": [
+      "Bill & Ted's Excellent Adventure",
+      "Blade",
+      "Point Break",
+      "The Crow",
+      "They Live",
+      "Tremors"
+     ]
+    },
+    {
+     "name": "Tony Brubaker",
+     "movie_count": 6,
+     "link": "/stunts/tony-brubaker/",
+     "url": "https://letterboxd.com/stunts/tony-brubaker/",
+     "films": [
+      "Masters of the Universe",
+      "Rollerball",
+      "The Mask",
+      "The Running Man",
+      "They Live",
+      "Total Recall"
+     ]
+    }
+   ]
+  },
+  {
+   "role": "sound",
+   "people": [
+    {
+     "name": "Rick Kline",
+     "movie_count": 7,
+     "link": "/sound/rick-kline/",
+     "url": "https://letterboxd.com/sound/rick-kline/",
+     "films": [
+      "A Few Good Men",
+      "Child's Play",
+      "Cobra",
+      "Misery",
+      "Speed Racer",
+      "The Mummy",
+      "The Running Man"
+     ]
+    }
+   ]
+  }
+ ],
  "countries": [
   {
    "country": "USA",
@@ -6422,6 +6795,309 @@
     }
    ]
   },
+  "crew": [
+   {
+    "role": "editor",
+    "people": [
+     {
+      "name": "Ti West",
+      "movie_count": 3,
+      "link": "/editor/ti-west/",
+      "url": "https://letterboxd.com/editor/ti-west/",
+      "films": [
+       "MaXXXine",
+       "Pearl",
+       "X"
+      ]
+     }
+    ]
+   },
+   {
+    "role": "cinematography",
+    "people": [
+     {
+      "name": "Eliot Rockett",
+      "movie_count": 3,
+      "link": "/cinematography/eliot-rockett/",
+      "url": "https://letterboxd.com/cinematography/eliot-rockett/",
+      "films": [
+       "MaXXXine",
+       "Pearl",
+       "X"
+      ]
+     }
+    ]
+   },
+   {
+    "role": "composer",
+    "people": [
+     {
+      "name": "Mark Isham",
+      "movie_count": 3,
+      "link": "/composer/mark-isham/",
+      "url": "https://letterboxd.com/composer/mark-isham/",
+      "films": [
+       "Blade",
+       "Point Break",
+       "The Unbearable Weight of Massive Talent"
+      ]
+     },
+     {
+      "name": "Tyler Bates",
+      "movie_count": 3,
+      "link": "/composer/tyler-bates/",
+      "url": "https://letterboxd.com/composer/tyler-bates/",
+      "films": [
+       "MaXXXine",
+       "Pearl",
+       "X"
+      ]
+     }
+    ]
+   },
+   {
+    "role": "costume-design",
+    "people": [
+     {
+      "name": "Aggie Guerard Rodgers",
+      "movie_count": 2,
+      "link": "/costume-design/aggie-guerard-rodgers/",
+      "url": "https://letterboxd.com/costume-design/aggie-guerard-rodgers/",
+      "films": [
+       "Invasion of the Body Snatchers",
+       "The Fugitive"
+      ]
+     },
+     {
+      "name": "Jacqueline West",
+      "movie_count": 2,
+      "link": "/costume-design/jacqueline-west/",
+      "url": "https://letterboxd.com/costume-design/jacqueline-west/",
+      "films": [
+       "Dune",
+       "Dune: Part Two"
+      ]
+     },
+     {
+      "name": "Julie Weiss",
+      "movie_count": 2,
+      "link": "/costume-design/julie-weiss-1/",
+      "url": "https://letterboxd.com/costume-design/julie-weiss-1/",
+      "films": [
+       "Masters of the Universe",
+       "Twelve Monkeys"
+      ]
+     }
+    ]
+   },
+   {
+    "role": "makeup",
+    "people": [
+     {
+      "name": "Chris Lyons",
+      "movie_count": 4,
+      "link": "/makeup/chris-lyons-1/",
+      "url": "https://letterboxd.com/makeup/chris-lyons-1/",
+      "films": [
+       "28 Days Later",
+       "Paddington",
+       "Paddington 2",
+       "The Northman"
+      ]
+     }
+    ]
+   },
+   {
+    "role": "hairstyling",
+    "people": [
+     {
+      "name": "Robert Pickens",
+      "movie_count": 3,
+      "link": "/hairstyling/robert-pickens-1/",
+      "url": "https://letterboxd.com/hairstyling/robert-pickens-1/",
+      "films": [
+       "MaXXXine",
+       "The Unbearable Weight of Massive Talent",
+       "X"
+      ]
+     }
+    ]
+   },
+   {
+    "role": "production-design",
+    "people": [
+     {
+      "name": "Gary Williamson",
+      "movie_count": 2,
+      "link": "/production-design/gary-williamson/",
+      "url": "https://letterboxd.com/production-design/gary-williamson/",
+      "films": [
+       "Paddington",
+       "Paddington 2"
+      ]
+     },
+     {
+      "name": "Jason Kisvarday",
+      "movie_count": 2,
+      "link": "/production-design/jason-kisvarday/",
+      "url": "https://letterboxd.com/production-design/jason-kisvarday/",
+      "films": [
+       "Everything Everywhere All at Once",
+       "MaXXXine"
+      ]
+     },
+     {
+      "name": "Mark Tildesley",
+      "movie_count": 2,
+      "link": "/production-design/mark-tildesley/",
+      "url": "https://letterboxd.com/production-design/mark-tildesley/",
+      "films": [
+       "28 Days Later",
+       "The Banshees of Inisherin"
+      ]
+     }
+    ]
+   },
+   {
+    "role": "casting",
+    "people": [
+     {
+      "name": "Francine Maisler",
+      "movie_count": 3,
+      "link": "/casting/francine-maisler/",
+      "url": "https://letterboxd.com/casting/francine-maisler/",
+      "films": [
+       "Dune",
+       "Dune: Part Two",
+       "The Usual Suspects"
+      ]
+     },
+     {
+      "name": "Jessica Kelly",
+      "movie_count": 3,
+      "link": "/casting/jessica-kelly-1/",
+      "url": "https://letterboxd.com/casting/jessica-kelly-1/",
+      "films": [
+       "MaXXXine",
+       "The Unbearable Weight of Massive Talent",
+       "X"
+      ]
+     },
+     {
+      "name": "Kathy Driscoll-Mohler",
+      "movie_count": 3,
+      "link": "/casting/kathy-driscoll/",
+      "url": "https://letterboxd.com/casting/kathy-driscoll/",
+      "films": [
+       "Dune",
+       "Dune: Part Two",
+       "The Usual Suspects"
+      ]
+     }
+    ]
+   },
+   {
+    "role": "executive-producer",
+    "people": [
+     {
+      "name": "Ashley Levinson",
+      "movie_count": 3,
+      "link": "/executive-producer/ashley-levinson/",
+      "url": "https://letterboxd.com/executive-producer/ashley-levinson/",
+      "films": [
+       "MaXXXine",
+       "Pearl",
+       "X"
+      ]
+     },
+     {
+      "name": "Kid Cudi",
+      "movie_count": 3,
+      "link": "/executive-producer/kid-cudi-1/",
+      "url": "https://letterboxd.com/executive-producer/kid-cudi-1/",
+      "films": [
+       "MaXXXine",
+       "Pearl",
+       "X"
+      ]
+     },
+     {
+      "name": "Peter Phok",
+      "movie_count": 3,
+      "link": "/executive-producer/peter-phok/",
+      "url": "https://letterboxd.com/executive-producer/peter-phok/",
+      "films": [
+       "MaXXXine",
+       "Pearl",
+       "X"
+      ]
+     }
+    ]
+   },
+   {
+    "role": "visual-effects",
+    "people": [
+     {
+      "name": "Frank Rueter",
+      "movie_count": 3,
+      "link": "/visual-effects/frank-rueter/",
+      "url": "https://letterboxd.com/visual-effects/frank-rueter/",
+      "films": [
+       "MaXXXine",
+       "Pearl",
+       "X"
+      ]
+     }
+    ]
+   },
+   {
+    "role": "stunts",
+    "people": [
+     {
+      "name": "John Casino",
+      "movie_count": 5,
+      "link": "/stunts/john-casino/",
+      "url": "https://letterboxd.com/stunts/john-casino/",
+      "films": [
+       "Bubba Ho-tep",
+       "Evil Dead II",
+       "The Usual Suspects",
+       "They Live",
+       "Tremors"
+      ]
+     }
+    ]
+   },
+   {
+    "role": "sound",
+    "people": [
+     {
+      "name": "Greg P. Russell",
+      "movie_count": 4,
+      "link": "/sound/greg-p-russell/",
+      "url": "https://letterboxd.com/sound/greg-p-russell/",
+      "films": [
+       "Hairspray",
+       "Point Break",
+       "The Usual Suspects",
+       "Tremors"
+      ]
+     },
+     {
+      "name": "Rick Kline",
+      "movie_count": 4,
+      "link": "/sound/rick-kline/",
+      "url": "https://letterboxd.com/sound/rick-kline/",
+      "films": [
+       "Child's Play",
+       "Cobra",
+       "Speed Racer",
+       "The Mummy"
+      ]
+     }
+    ]
+   }
+  ],
   "countries": [
    {
     "country": "USA",
