@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T15:41:14+00:00",
+ "generated_at": "2026-10-31T17:04:06+00:00",
  "list_url": "https://letterboxd.com/dromemario/list/fff-familia-fa-de-filmes/",
  "min_voters": 3,
  "last_presented": {
@@ -56,7 +56,8 @@
    "favorite_rating": 5.0,
    "least_favorite_film": "Cats",
    "least_favorite_rating": 1.0,
-   "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/5/8/5/7/8/shard/avtr-0-220-0-220-crop.jpg?v=df9c48ce63"
+   "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/5/8/5/7/8/shard/avtr-0-220-0-220-crop.jpg?v=df9c48ce63",
+   "films_liked": 47
   },
   {
    "username": "marmito",
@@ -70,7 +71,8 @@
    "favorite_rating": 5.0,
    "least_favorite_film": "Cats",
    "least_favorite_rating": 0.5,
-   "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/7/0/9/9/6/9/2/shard/avtr-0-220-0-220-crop.jpg?v=755bf317c4"
+   "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/7/0/9/9/6/9/2/shard/avtr-0-220-0-220-crop.jpg?v=755bf317c4",
+   "films_liked": 0
   },
   {
    "username": "pratini",
@@ -84,7 +86,8 @@
    "favorite_rating": 5.0,
    "least_favorite_film": "Batman",
    "least_favorite_rating": 0.5,
-   "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/7/0/9/9/7/5/9/shard/avtr-0-220-0-220-crop.jpg?v=caeaebcc61"
+   "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/7/0/9/9/7/5/9/shard/avtr-0-220-0-220-crop.jpg?v=caeaebcc61",
+   "films_liked": 15
   },
   {
    "username": "instalkiane",
@@ -98,7 +101,8 @@
    "favorite_rating": 5.0,
    "least_favorite_film": "Cats",
    "least_favorite_rating": 1.0,
-   "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/7/0/9/9/8/0/4/shard/avtr-0-220-0-220-crop.jpg?v=7d418ceb7a"
+   "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/7/0/9/9/8/0/4/shard/avtr-0-220-0-220-crop.jpg?v=7d418ceb7a",
+   "films_liked": 5
   },
   {
    "username": "zafrina",
@@ -112,7 +116,8 @@
    "favorite_rating": 5.0,
    "least_favorite_film": "Leprechaun",
    "least_favorite_rating": 1.0,
-   "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/2/1/3/3/5/6/6/9/shard/avtr-0-220-0-220-crop.jpg?v=b6c86ae4ea"
+   "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/2/1/3/3/5/6/6/9/shard/avtr-0-220-0-220-crop.jpg?v=b6c86ae4ea",
+   "films_liked": 22
   }
  ],
  "affinity": [
@@ -194,7 +199,11 @@
    "group_avg": 2.75,
    "group_voters": 4,
    "group_std": 0.56,
-   "diff_vs_lbxd": -0.21
+   "diff_vs_lbxd": -0.21,
+   "liked_by": [
+    "pratini"
+   ],
+   "like_count": 1
   },
   {
    "position": 2,
@@ -218,7 +227,9 @@
    "group_avg": 3.12,
    "group_voters": 4,
    "group_std": 0.22,
-   "diff_vs_lbxd": -0.65
+   "diff_vs_lbxd": -0.65,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 3,
@@ -242,7 +253,9 @@
    "group_avg": 3.17,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -0.07
+   "diff_vs_lbxd": -0.07,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 4,
@@ -266,7 +279,9 @@
    "group_avg": 3.62,
    "group_voters": 4,
    "group_std": 0.65,
-   "diff_vs_lbxd": -0.51
+   "diff_vs_lbxd": -0.51,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 5,
@@ -290,7 +305,11 @@
    "group_avg": 4.5,
    "group_voters": 3,
    "group_std": 0.41,
-   "diff_vs_lbxd": 0.29
+   "diff_vs_lbxd": 0.29,
+   "liked_by": [
+    "pratini"
+   ],
+   "like_count": 1
   },
   {
    "position": 6,
@@ -314,7 +333,9 @@
    "group_avg": 3.17,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -0.45
+   "diff_vs_lbxd": -0.45,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 7,
@@ -338,7 +359,9 @@
    "group_avg": 3.17,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -0.58
+   "diff_vs_lbxd": -0.58,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 8,
@@ -362,7 +385,9 @@
    "group_avg": 1.75,
    "group_voters": 4,
    "group_std": 0.43,
-   "diff_vs_lbxd": -1.27
+   "diff_vs_lbxd": -1.27,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 9,
@@ -386,7 +411,12 @@
    "group_avg": 4.25,
    "group_voters": 4,
    "group_std": 0.83,
-   "diff_vs_lbxd": 0.02
+   "diff_vs_lbxd": 0.02,
+   "liked_by": [
+    "dromemario",
+    "pratini"
+   ],
+   "like_count": 2
   },
   {
    "position": 10,
@@ -410,7 +440,9 @@
    "group_avg": 3.25,
    "group_voters": 2,
    "group_std": 0.25,
-   "diff_vs_lbxd": -0.36
+   "diff_vs_lbxd": -0.36,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 11,
@@ -434,7 +466,9 @@
    "group_avg": 4.17,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": 0.73
+   "diff_vs_lbxd": 0.73,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 12,
@@ -458,7 +492,9 @@
    "group_avg": 2.38,
    "group_voters": 4,
    "group_std": 0.82,
-   "diff_vs_lbxd": -1.83
+   "diff_vs_lbxd": -1.83,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 13,
@@ -482,7 +518,11 @@
    "group_avg": 4.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": 0.11
+   "diff_vs_lbxd": 0.11,
+   "liked_by": [
+    "pratini"
+   ],
+   "like_count": 1
   },
   {
    "position": 14,
@@ -506,7 +546,9 @@
    "group_avg": 2.83,
    "group_voters": 3,
    "group_std": 0.62,
-   "diff_vs_lbxd": -0.19
+   "diff_vs_lbxd": -0.19,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 15,
@@ -530,7 +572,9 @@
    "group_avg": 3.38,
    "group_voters": 4,
    "group_std": 0.54,
-   "diff_vs_lbxd": -0.15
+   "diff_vs_lbxd": -0.15,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 16,
@@ -554,7 +598,11 @@
    "group_avg": 1.62,
    "group_voters": 4,
    "group_std": 1.39,
-   "diff_vs_lbxd": 0.38
+   "diff_vs_lbxd": 0.38,
+   "liked_by": [
+    "pratini"
+   ],
+   "like_count": 1
   },
   {
    "position": 17,
@@ -578,7 +626,9 @@
    "group_avg": 2.5,
    "group_voters": 4,
    "group_std": 0.5,
-   "diff_vs_lbxd": -0.83
+   "diff_vs_lbxd": -0.83,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 18,
@@ -602,7 +652,9 @@
    "group_avg": 2.12,
    "group_voters": 4,
    "group_std": 0.54,
-   "diff_vs_lbxd": -1.46
+   "diff_vs_lbxd": -1.46,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 19,
@@ -626,7 +678,9 @@
    "group_avg": 3.62,
    "group_voters": 4,
    "group_std": 0.41,
-   "diff_vs_lbxd": -0.36
+   "diff_vs_lbxd": -0.36,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 20,
@@ -650,7 +704,9 @@
    "group_avg": 3.62,
    "group_voters": 4,
    "group_std": 0.65,
-   "diff_vs_lbxd": -0.19
+   "diff_vs_lbxd": -0.19,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 21,
@@ -674,7 +730,9 @@
    "group_avg": 2.38,
    "group_voters": 4,
    "group_std": 0.54,
-   "diff_vs_lbxd": -1.4
+   "diff_vs_lbxd": -1.4,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 22,
@@ -698,7 +756,11 @@
    "group_avg": 3.33,
    "group_voters": 3,
    "group_std": 0.47,
-   "diff_vs_lbxd": 0.09
+   "diff_vs_lbxd": 0.09,
+   "liked_by": [
+    "pratini"
+   ],
+   "like_count": 1
   },
   {
    "position": 23,
@@ -722,7 +784,11 @@
    "group_avg": 3.33,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -0.07
+   "diff_vs_lbxd": -0.07,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 24,
@@ -746,7 +812,11 @@
    "group_avg": 3.67,
    "group_voters": 3,
    "group_std": 0.47,
-   "diff_vs_lbxd": -0.39
+   "diff_vs_lbxd": -0.39,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 25,
@@ -770,7 +840,11 @@
    "group_avg": 2.0,
    "group_voters": 3,
    "group_std": 0.71,
-   "diff_vs_lbxd": -1.85
+   "diff_vs_lbxd": -1.85,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 26,
@@ -794,7 +868,9 @@
    "group_avg": 3.25,
    "group_voters": 4,
    "group_std": 0.43,
-   "diff_vs_lbxd": -0.87
+   "diff_vs_lbxd": -0.87,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 27,
@@ -818,7 +894,9 @@
    "group_avg": 2.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": -0.5
+   "diff_vs_lbxd": -0.5,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 28,
@@ -842,7 +920,9 @@
    "group_avg": 4.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": 0.06
+   "diff_vs_lbxd": 0.06,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 29,
@@ -866,7 +946,9 @@
    "group_avg": 2.67,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -0.6
+   "diff_vs_lbxd": -0.6,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 30,
@@ -890,7 +972,11 @@
    "group_avg": 3.33,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -0.08
+   "diff_vs_lbxd": -0.08,
+   "liked_by": [
+    "pratini"
+   ],
+   "like_count": 1
   },
   {
    "position": 31,
@@ -914,7 +1000,12 @@
    "group_avg": 4.17,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": 0.47
+   "diff_vs_lbxd": 0.47,
+   "liked_by": [
+    "dromemario",
+    "pratini"
+   ],
+   "like_count": 2
   },
   {
    "position": 32,
@@ -938,7 +1029,9 @@
    "group_avg": 4.17,
    "group_voters": 3,
    "group_std": 0.62,
-   "diff_vs_lbxd": 0.06
+   "diff_vs_lbxd": 0.06,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 33,
@@ -962,7 +1055,9 @@
    "group_avg": 2.5,
    "group_voters": 4,
    "group_std": 0.35,
-   "diff_vs_lbxd": 0.01
+   "diff_vs_lbxd": 0.01,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 34,
@@ -986,7 +1081,11 @@
    "group_avg": 4.17,
    "group_voters": 3,
    "group_std": 0.62,
-   "diff_vs_lbxd": 0.18
+   "diff_vs_lbxd": 0.18,
+   "liked_by": [
+    "pratini"
+   ],
+   "like_count": 1
   },
   {
    "position": 35,
@@ -1010,7 +1109,9 @@
    "group_avg": 1.67,
    "group_voters": 3,
    "group_std": 0.47,
-   "diff_vs_lbxd": -1.61
+   "diff_vs_lbxd": -1.61,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 36,
@@ -1034,7 +1135,9 @@
    "group_avg": 4.17,
    "group_voters": 3,
    "group_std": 0.62,
-   "diff_vs_lbxd": 0.04
+   "diff_vs_lbxd": 0.04,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 37,
@@ -1058,7 +1161,9 @@
    "group_avg": 3.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": -0.89
+   "diff_vs_lbxd": -0.89,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 38,
@@ -1082,7 +1187,9 @@
    "group_avg": 3.83,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -0.22
+   "diff_vs_lbxd": -0.22,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 39,
@@ -1106,7 +1213,11 @@
    "group_avg": 3.33,
    "group_voters": 3,
    "group_std": 0.47,
-   "diff_vs_lbxd": -0.65
+   "diff_vs_lbxd": -0.65,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 40,
@@ -1130,7 +1241,12 @@
    "group_avg": 3.38,
    "group_voters": 4,
    "group_std": 0.41,
-   "diff_vs_lbxd": -0.33
+   "diff_vs_lbxd": -0.33,
+   "liked_by": [
+    "dromemario",
+    "zafrina"
+   ],
+   "like_count": 2
   },
   {
    "position": 41,
@@ -1154,7 +1270,9 @@
    "group_avg": 3.88,
    "group_voters": 4,
    "group_std": 0.22,
-   "diff_vs_lbxd": 0.08
+   "diff_vs_lbxd": 0.08,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 42,
@@ -1178,7 +1296,11 @@
    "group_avg": 4.5,
    "group_voters": 4,
    "group_std": 0.35,
-   "diff_vs_lbxd": 0.4
+   "diff_vs_lbxd": 0.4,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 43,
@@ -1202,7 +1324,11 @@
    "group_avg": 2.5,
    "group_voters": 3,
    "group_std": 0.41,
-   "diff_vs_lbxd": -1.19
+   "diff_vs_lbxd": -1.19,
+   "liked_by": [
+    "pratini"
+   ],
+   "like_count": 1
   },
   {
    "position": 44,
@@ -1226,7 +1352,9 @@
    "group_avg": 3.33,
    "group_voters": 3,
    "group_std": 0.47,
-   "diff_vs_lbxd": -0.4
+   "diff_vs_lbxd": -0.4,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 45,
@@ -1250,7 +1378,9 @@
    "group_avg": 3.17,
    "group_voters": 3,
    "group_std": 0.62,
-   "diff_vs_lbxd": -0.56
+   "diff_vs_lbxd": -0.56,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 46,
@@ -1274,7 +1404,9 @@
    "group_avg": 2.5,
    "group_voters": 3,
    "group_std": 0.41,
-   "diff_vs_lbxd": -1.33
+   "diff_vs_lbxd": -1.33,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 47,
@@ -1298,7 +1430,11 @@
    "group_avg": 3.5,
    "group_voters": 3,
    "group_std": 1.08,
-   "diff_vs_lbxd": -0.66
+   "diff_vs_lbxd": -0.66,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 48,
@@ -1322,7 +1458,11 @@
    "group_avg": 3.0,
    "group_voters": 3,
    "group_std": 1.41,
-   "diff_vs_lbxd": -0.73
+   "diff_vs_lbxd": -0.73,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 49,
@@ -1346,7 +1486,11 @@
    "group_avg": 4.0,
    "group_voters": 3,
    "group_std": 0.71,
-   "diff_vs_lbxd": 0.11
+   "diff_vs_lbxd": 0.11,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 50,
@@ -1370,7 +1514,12 @@
    "group_avg": 4.83,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": 0.46
+   "diff_vs_lbxd": 0.46,
+   "liked_by": [
+    "dromemario",
+    "pratini"
+   ],
+   "like_count": 2
   },
   {
    "position": 51,
@@ -1394,7 +1543,12 @@
    "group_avg": 4.0,
    "group_voters": 3,
    "group_std": 0.82,
-   "diff_vs_lbxd": 0.81
+   "diff_vs_lbxd": 0.81,
+   "liked_by": [
+    "dromemario",
+    "pratini"
+   ],
+   "like_count": 2
   },
   {
    "position": 52,
@@ -1418,7 +1572,9 @@
    "group_avg": 2.67,
    "group_voters": 3,
    "group_std": 0.47,
-   "diff_vs_lbxd": -0.19
+   "diff_vs_lbxd": -0.19,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 53,
@@ -1442,7 +1598,9 @@
    "group_avg": 2.67,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -1.22
+   "diff_vs_lbxd": -1.22,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 54,
@@ -1466,7 +1624,9 @@
    "group_avg": 3.17,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -0.92
+   "diff_vs_lbxd": -0.92,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 55,
@@ -1490,7 +1650,11 @@
    "group_avg": 4.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": -0.04
+   "diff_vs_lbxd": -0.04,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 56,
@@ -1514,7 +1678,9 @@
    "group_avg": 3.33,
    "group_voters": 3,
    "group_std": 0.47,
-   "diff_vs_lbxd": -0.75
+   "diff_vs_lbxd": -0.75,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 57,
@@ -1538,7 +1704,9 @@
    "group_avg": 3.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": -0.32
+   "diff_vs_lbxd": -0.32,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 58,
@@ -1562,7 +1730,12 @@
    "group_avg": 3.33,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": 0.25
+   "diff_vs_lbxd": 0.25,
+   "liked_by": [
+    "dromemario",
+    "pratini"
+   ],
+   "like_count": 2
   },
   {
    "position": 59,
@@ -1586,7 +1759,9 @@
    "group_avg": 3.67,
    "group_voters": 3,
    "group_std": 0.47,
-   "diff_vs_lbxd": 0.27
+   "diff_vs_lbxd": 0.27,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 60,
@@ -1610,7 +1785,11 @@
    "group_avg": 3.5,
    "group_voters": 5,
    "group_std": 1.0,
-   "diff_vs_lbxd": -0.2
+   "diff_vs_lbxd": -0.2,
+   "liked_by": [
+    "zafrina"
+   ],
+   "like_count": 1
   },
   {
    "position": 61,
@@ -1634,7 +1813,11 @@
    "group_avg": 4.33,
    "group_voters": 3,
    "group_std": 0.47,
-   "diff_vs_lbxd": 1.24
+   "diff_vs_lbxd": 1.24,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 62,
@@ -1658,7 +1841,11 @@
    "group_avg": 3.83,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -0.09
+   "diff_vs_lbxd": -0.09,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 63,
@@ -1682,7 +1869,9 @@
    "group_avg": 3.75,
    "group_voters": 2,
    "group_std": 0.25,
-   "diff_vs_lbxd": 0.03
+   "diff_vs_lbxd": 0.03,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 64,
@@ -1706,7 +1895,11 @@
    "group_avg": 4.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": 0.48
+   "diff_vs_lbxd": 0.48,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 65,
@@ -1730,7 +1923,12 @@
    "group_avg": 4.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": 0.27
+   "diff_vs_lbxd": 0.27,
+   "liked_by": [
+    "dromemario",
+    "pratini"
+   ],
+   "like_count": 2
   },
   {
    "position": 66,
@@ -1754,7 +1952,9 @@
    "group_avg": 3.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": -0.76
+   "diff_vs_lbxd": -0.76,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 67,
@@ -1778,7 +1978,11 @@
    "group_avg": 3.38,
    "group_voters": 4,
    "group_std": 0.41,
-   "diff_vs_lbxd": 0.01
+   "diff_vs_lbxd": 0.01,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 68,
@@ -1802,7 +2006,11 @@
    "group_avg": 3.33,
    "group_voters": 3,
    "group_std": 0.62,
-   "diff_vs_lbxd": -0.67
+   "diff_vs_lbxd": -0.67,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 69,
@@ -1826,7 +2034,13 @@
    "group_avg": 3.8,
    "group_voters": 5,
    "group_std": 0.24,
-   "diff_vs_lbxd": -0.1
+   "diff_vs_lbxd": -0.1,
+   "liked_by": [
+    "dromemario",
+    "instalkiane",
+    "zafrina"
+   ],
+   "like_count": 3
   },
   {
    "position": 70,
@@ -1850,7 +2064,9 @@
    "group_avg": 3.62,
    "group_voters": 4,
    "group_std": 0.65,
-   "diff_vs_lbxd": -0.2
+   "diff_vs_lbxd": -0.2,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 71,
@@ -1874,7 +2090,11 @@
    "group_avg": 4.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": -0.16
+   "diff_vs_lbxd": -0.16,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 72,
@@ -1898,7 +2118,9 @@
    "group_avg": 3.88,
    "group_voters": 4,
    "group_std": 0.54,
-   "diff_vs_lbxd": -0.42
+   "diff_vs_lbxd": -0.42,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 73,
@@ -1922,7 +2144,9 @@
    "group_avg": 3.75,
    "group_voters": 4,
    "group_std": 0.43,
-   "diff_vs_lbxd": -0.48
+   "diff_vs_lbxd": -0.48,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 74,
@@ -1946,7 +2170,11 @@
    "group_avg": 3.88,
    "group_voters": 4,
    "group_std": 0.89,
-   "diff_vs_lbxd": -0.03
+   "diff_vs_lbxd": -0.03,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 75,
@@ -1970,7 +2198,9 @@
    "group_avg": 3.0,
    "group_voters": 3,
    "group_std": 0.71,
-   "diff_vs_lbxd": -0.95
+   "diff_vs_lbxd": -0.95,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 76,
@@ -1994,7 +2224,9 @@
    "group_avg": 3.88,
    "group_voters": 4,
    "group_std": 0.74,
-   "diff_vs_lbxd": -0.4
+   "diff_vs_lbxd": -0.4,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 77,
@@ -2018,7 +2250,9 @@
    "group_avg": 3.67,
    "group_voters": 3,
    "group_std": 0.47,
-   "diff_vs_lbxd": -0.59
+   "diff_vs_lbxd": -0.59,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 78,
@@ -2042,7 +2276,11 @@
    "group_avg": 2.67,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -1.06
+   "diff_vs_lbxd": -1.06,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 79,
@@ -2066,7 +2304,12 @@
    "group_avg": 3.75,
    "group_voters": 4,
    "group_std": 0.75,
-   "diff_vs_lbxd": 0.03
+   "diff_vs_lbxd": 0.03,
+   "liked_by": [
+    "dromemario",
+    "zafrina"
+   ],
+   "like_count": 2
   },
   {
    "position": 80,
@@ -2090,7 +2333,9 @@
    "group_avg": 3.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": -0.47
+   "diff_vs_lbxd": -0.47,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 81,
@@ -2114,7 +2359,9 @@
    "group_avg": 3.75,
    "group_voters": 4,
    "group_std": 0.43,
-   "diff_vs_lbxd": 0.1
+   "diff_vs_lbxd": 0.1,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 82,
@@ -2138,7 +2385,9 @@
    "group_avg": 4.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": 0.24
+   "diff_vs_lbxd": 0.24,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 83,
@@ -2162,7 +2411,11 @@
    "group_avg": 3.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": 0.38
+   "diff_vs_lbxd": 0.38,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 84,
@@ -2186,7 +2439,11 @@
    "group_avg": 4.25,
    "group_voters": 4,
    "group_std": 0.43,
-   "diff_vs_lbxd": 0.87
+   "diff_vs_lbxd": 0.87,
+   "liked_by": [
+    "instalkiane"
+   ],
+   "like_count": 1
   },
   {
    "position": 85,
@@ -2210,7 +2467,9 @@
    "group_avg": 2.75,
    "group_voters": 4,
    "group_std": 0.25,
-   "diff_vs_lbxd": -0.66
+   "diff_vs_lbxd": -0.66,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 86,
@@ -2234,7 +2493,9 @@
    "group_avg": 1.67,
    "group_voters": 3,
    "group_std": 0.47,
-   "diff_vs_lbxd": -2.16
+   "diff_vs_lbxd": -2.16,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 87,
@@ -2258,7 +2519,9 @@
    "group_avg": 3.33,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -0.25
+   "diff_vs_lbxd": -0.25,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 88,
@@ -2282,7 +2545,9 @@
    "group_avg": 3.5,
    "group_voters": 3,
    "group_std": 0.41,
-   "diff_vs_lbxd": -0.81
+   "diff_vs_lbxd": -0.81,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 89,
@@ -2306,7 +2571,11 @@
    "group_avg": 3.5,
    "group_voters": 4,
    "group_std": 0.35,
-   "diff_vs_lbxd": -0.16
+   "diff_vs_lbxd": -0.16,
+   "liked_by": [
+    "instalkiane"
+   ],
+   "like_count": 1
   },
   {
    "position": 90,
@@ -2330,7 +2599,11 @@
    "group_avg": 3.12,
    "group_voters": 4,
    "group_std": 0.22,
-   "diff_vs_lbxd": -0.15
+   "diff_vs_lbxd": -0.15,
+   "liked_by": [
+    "zafrina"
+   ],
+   "like_count": 1
   },
   {
    "position": 91,
@@ -2354,7 +2627,9 @@
    "group_avg": 2.67,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -0.06
+   "diff_vs_lbxd": -0.06,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 92,
@@ -2378,7 +2653,9 @@
    "group_avg": 3.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": -0.87
+   "diff_vs_lbxd": -0.87,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 93,
@@ -2402,7 +2679,11 @@
    "group_avg": 4.83,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": 0.46
+   "diff_vs_lbxd": 0.46,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 94,
@@ -2426,7 +2707,9 @@
    "group_avg": 2.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": -1.66
+   "diff_vs_lbxd": -1.66,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 95,
@@ -2450,7 +2733,11 @@
    "group_avg": 3.25,
    "group_voters": 2,
    "group_std": 0.25,
-   "diff_vs_lbxd": -0.51
+   "diff_vs_lbxd": -0.51,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 96,
@@ -2474,7 +2761,9 @@
    "group_avg": 4.0,
    "group_voters": 3,
    "group_std": 0.71,
-   "diff_vs_lbxd": 0.24
+   "diff_vs_lbxd": 0.24,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 97,
@@ -2498,7 +2787,11 @@
    "group_avg": 3.75,
    "group_voters": 2,
    "group_std": 0.25,
-   "diff_vs_lbxd": -0.08
+   "diff_vs_lbxd": -0.08,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 98,
@@ -2522,7 +2815,9 @@
    "group_avg": 3.38,
    "group_voters": 4,
    "group_std": 0.22,
-   "diff_vs_lbxd": -0.87
+   "diff_vs_lbxd": -0.87,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 99,
@@ -2546,7 +2841,11 @@
    "group_avg": 3.33,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -0.28
+   "diff_vs_lbxd": -0.28,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 100,
@@ -2570,7 +2869,12 @@
    "group_avg": 4.0,
    "group_voters": 5,
    "group_std": 0.32,
-   "diff_vs_lbxd": 0.6
+   "diff_vs_lbxd": 0.6,
+   "liked_by": [
+    "instalkiane",
+    "zafrina"
+   ],
+   "like_count": 2
   },
   {
    "position": 101,
@@ -2594,7 +2898,9 @@
    "group_avg": 3.0,
    "group_voters": 4,
    "group_std": 0.0,
-   "diff_vs_lbxd": -0.64
+   "diff_vs_lbxd": -0.64,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 102,
@@ -2618,7 +2924,9 @@
    "group_avg": 2.67,
    "group_voters": 3,
    "group_std": 0.62,
-   "diff_vs_lbxd": -1.15
+   "diff_vs_lbxd": -1.15,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 103,
@@ -2642,7 +2950,11 @@
    "group_avg": 3.67,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -0.5
+   "diff_vs_lbxd": -0.5,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 104,
@@ -2666,7 +2978,11 @@
    "group_avg": 4.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": 0.18
+   "diff_vs_lbxd": 0.18,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 105,
@@ -2690,7 +3006,9 @@
    "group_avg": 3.0,
    "group_voters": 4,
    "group_std": 0.0,
-   "diff_vs_lbxd": -0.86
+   "diff_vs_lbxd": -0.86,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 106,
@@ -2714,7 +3032,11 @@
    "group_avg": 3.88,
    "group_voters": 4,
    "group_std": 0.22,
-   "diff_vs_lbxd": -0.27
+   "diff_vs_lbxd": -0.27,
+   "liked_by": [
+    "zafrina"
+   ],
+   "like_count": 1
   },
   {
    "position": 107,
@@ -2738,7 +3060,11 @@
    "group_avg": 3.5,
    "group_voters": 3,
    "group_std": 0.41,
-   "diff_vs_lbxd": -0.17
+   "diff_vs_lbxd": -0.17,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 108,
@@ -2762,7 +3088,9 @@
    "group_avg": 3.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": -0.95
+   "diff_vs_lbxd": -0.95,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 109,
@@ -2786,7 +3114,11 @@
    "group_avg": 3.5,
    "group_voters": 3,
    "group_std": 0.41,
-   "diff_vs_lbxd": -0.65
+   "diff_vs_lbxd": -0.65,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 110,
@@ -2810,7 +3142,9 @@
    "group_avg": 3.5,
    "group_voters": 3,
    "group_std": 0.41,
-   "diff_vs_lbxd": -0.17
+   "diff_vs_lbxd": -0.17,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 111,
@@ -2834,7 +3168,9 @@
    "group_avg": 2.0,
    "group_voters": 3,
    "group_std": 0.41,
-   "diff_vs_lbxd": -1.65
+   "diff_vs_lbxd": -1.65,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 112,
@@ -2858,7 +3194,9 @@
    "group_avg": 2.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": -1.13
+   "diff_vs_lbxd": -1.13,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 113,
@@ -2882,7 +3220,11 @@
    "group_avg": 1.5,
    "group_voters": 3,
    "group_std": 0.41,
-   "diff_vs_lbxd": -0.84
+   "diff_vs_lbxd": -0.84,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 114,
@@ -2906,7 +3248,11 @@
    "group_avg": 3.88,
    "group_voters": 4,
    "group_std": 0.54,
-   "diff_vs_lbxd": 0.08
+   "diff_vs_lbxd": 0.08,
+   "liked_by": [
+    "zafrina"
+   ],
+   "like_count": 1
   },
   {
    "position": 115,
@@ -2930,7 +3276,9 @@
    "group_avg": 3.67,
    "group_voters": 3,
    "group_std": 0.47,
-   "diff_vs_lbxd": -0.63
+   "diff_vs_lbxd": -0.63,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 116,
@@ -2954,7 +3302,11 @@
    "group_avg": 4.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": 0.55
+   "diff_vs_lbxd": 0.55,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 117,
@@ -2978,7 +3330,12 @@
    "group_avg": 3.6,
    "group_voters": 5,
    "group_std": 0.37,
-   "diff_vs_lbxd": -0.66
+   "diff_vs_lbxd": -0.66,
+   "liked_by": [
+    "instalkiane",
+    "zafrina"
+   ],
+   "like_count": 2
   },
   {
    "position": 118,
@@ -3002,7 +3359,12 @@
    "group_avg": 2.17,
    "group_voters": 3,
    "group_std": 1.18,
-   "diff_vs_lbxd": -1.14
+   "diff_vs_lbxd": -1.14,
+   "liked_by": [
+    "dromemario",
+    "pratini"
+   ],
+   "like_count": 2
   },
   {
    "position": 119,
@@ -3026,7 +3388,9 @@
    "group_avg": 2.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": -1.28
+   "diff_vs_lbxd": -1.28,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 120,
@@ -3050,7 +3414,9 @@
    "group_avg": 3.33,
    "group_voters": 3,
    "group_std": 0.62,
-   "diff_vs_lbxd": -0.91
+   "diff_vs_lbxd": -0.91,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 121,
@@ -3074,7 +3440,11 @@
    "group_avg": 3.33,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -0.02
+   "diff_vs_lbxd": -0.02,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 122,
@@ -3098,7 +3468,12 @@
    "group_avg": 4.5,
    "group_voters": 5,
    "group_std": 1.0,
-   "diff_vs_lbxd": 0.11
+   "diff_vs_lbxd": 0.11,
+   "liked_by": [
+    "dromemario",
+    "zafrina"
+   ],
+   "like_count": 2
   },
   {
    "position": 123,
@@ -3122,7 +3497,11 @@
    "group_avg": 4.6,
    "group_voters": 5,
    "group_std": 0.58,
-   "diff_vs_lbxd": 0.16
+   "diff_vs_lbxd": 0.16,
+   "liked_by": [
+    "zafrina"
+   ],
+   "like_count": 1
   },
   {
    "position": 124,
@@ -3146,7 +3525,11 @@
    "group_avg": 4.7,
    "group_voters": 5,
    "group_std": 0.4,
-   "diff_vs_lbxd": 0.14
+   "diff_vs_lbxd": 0.14,
+   "liked_by": [
+    "zafrina"
+   ],
+   "like_count": 1
   },
   {
    "position": 125,
@@ -3170,7 +3553,11 @@
    "group_avg": 3.0,
    "group_voters": 4,
    "group_std": 0.35,
-   "diff_vs_lbxd": -0.78
+   "diff_vs_lbxd": -0.78,
+   "liked_by": [
+    "zafrina"
+   ],
+   "like_count": 1
   },
   {
    "position": 126,
@@ -3194,7 +3581,9 @@
    "group_avg": 2.5,
    "group_voters": 3,
    "group_std": 0.41,
-   "diff_vs_lbxd": -0.65
+   "diff_vs_lbxd": -0.65,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 127,
@@ -3218,7 +3607,9 @@
    "group_avg": 3.67,
    "group_voters": 3,
    "group_std": 0.47,
-   "diff_vs_lbxd": -0.53
+   "diff_vs_lbxd": -0.53,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 128,
@@ -3242,7 +3633,9 @@
    "group_avg": 4.5,
    "group_voters": 3,
    "group_std": 0.41,
-   "diff_vs_lbxd": 0.27
+   "diff_vs_lbxd": 0.27,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 129,
@@ -3266,7 +3659,9 @@
    "group_avg": 2.0,
    "group_voters": 3,
    "group_std": 0.82,
-   "diff_vs_lbxd": -1.96
+   "diff_vs_lbxd": -1.96,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 130,
@@ -3290,7 +3685,9 @@
    "group_avg": 2.83,
    "group_voters": 3,
    "group_std": 0.24,
-   "diff_vs_lbxd": -1.4
+   "diff_vs_lbxd": -1.4,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 131,
@@ -3314,7 +3711,9 @@
    "group_avg": 3.0,
    "group_voters": 2,
    "group_std": 0.0,
-   "diff_vs_lbxd": 0.02
+   "diff_vs_lbxd": 0.02,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 132,
@@ -3338,7 +3737,11 @@
    "group_avg": 2.5,
    "group_voters": 2,
    "group_std": 0.5,
-   "diff_vs_lbxd": -0.1
+   "diff_vs_lbxd": -0.1,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 133,
@@ -3362,7 +3765,9 @@
    "group_avg": 3.0,
    "group_voters": 2,
    "group_std": 0.0,
-   "diff_vs_lbxd": -1.07
+   "diff_vs_lbxd": -1.07,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 134,
@@ -3386,7 +3791,9 @@
    "group_avg": 3.75,
    "group_voters": 2,
    "group_std": 0.25,
-   "diff_vs_lbxd": -0.32
+   "diff_vs_lbxd": -0.32,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 135,
@@ -3410,7 +3817,9 @@
    "group_avg": 3.0,
    "group_voters": 1,
    "group_std": null,
-   "diff_vs_lbxd": -1.09
+   "diff_vs_lbxd": -1.09,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 136,
@@ -3434,7 +3843,11 @@
    "group_avg": 4.5,
    "group_voters": 3,
    "group_std": 0.41,
-   "diff_vs_lbxd": 0.19
+   "diff_vs_lbxd": 0.19,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 137,
@@ -3458,7 +3871,11 @@
    "group_avg": 3.38,
    "group_voters": 4,
    "group_std": 0.22,
-   "diff_vs_lbxd": 0.56
+   "diff_vs_lbxd": 0.56,
+   "liked_by": [
+    "zafrina"
+   ],
+   "like_count": 1
   },
   {
    "position": 138,
@@ -3482,7 +3899,9 @@
    "group_avg": 5.0,
    "group_voters": 1,
    "group_std": null,
-   "diff_vs_lbxd": 0.63
+   "diff_vs_lbxd": 0.63,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 139,
@@ -3506,7 +3925,11 @@
    "group_avg": 2.88,
    "group_voters": 4,
    "group_std": 0.22,
-   "diff_vs_lbxd": -0.94
+   "diff_vs_lbxd": -0.94,
+   "liked_by": [
+    "zafrina"
+   ],
+   "like_count": 1
   },
   {
    "position": 140,
@@ -3530,7 +3953,11 @@
    "group_avg": 4.0,
    "group_voters": 4,
    "group_std": 0.61,
-   "diff_vs_lbxd": -0.52
+   "diff_vs_lbxd": -0.52,
+   "liked_by": [
+    "zafrina"
+   ],
+   "like_count": 1
   },
   {
    "position": 141,
@@ -3554,7 +3981,9 @@
    "group_avg": 3.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": -0.88
+   "diff_vs_lbxd": -0.88,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 142,
@@ -3578,7 +4007,11 @@
    "group_avg": 4.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": 0.16
+   "diff_vs_lbxd": 0.16,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 143,
@@ -3602,7 +4035,11 @@
    "group_avg": 3.17,
    "group_voters": 3,
    "group_std": 0.62,
-   "diff_vs_lbxd": -0.67
+   "diff_vs_lbxd": -0.67,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 144,
@@ -3626,7 +4063,9 @@
    "group_avg": 4.67,
    "group_voters": 3,
    "group_std": 0.47,
-   "diff_vs_lbxd": 0.04
+   "diff_vs_lbxd": 0.04,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 145,
@@ -3650,7 +4089,12 @@
    "group_avg": 3.12,
    "group_voters": 4,
    "group_std": 0.22,
-   "diff_vs_lbxd": -0.32
+   "diff_vs_lbxd": -0.32,
+   "liked_by": [
+    "dromemario",
+    "zafrina"
+   ],
+   "like_count": 2
   },
   {
    "position": 146,
@@ -3674,7 +4118,11 @@
    "group_avg": 3.62,
    "group_voters": 4,
    "group_std": 0.22,
-   "diff_vs_lbxd": -0.72
+   "diff_vs_lbxd": -0.72,
+   "liked_by": [
+    "zafrina"
+   ],
+   "like_count": 1
   },
   {
    "position": 147,
@@ -3698,7 +4146,11 @@
    "group_avg": 3.0,
    "group_voters": 3,
    "group_std": 0.0,
-   "diff_vs_lbxd": -0.76
+   "diff_vs_lbxd": -0.76,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 148,
@@ -3722,7 +4174,11 @@
    "group_avg": 3.75,
    "group_voters": 4,
    "group_std": 0.25,
-   "diff_vs_lbxd": -0.25
+   "diff_vs_lbxd": -0.25,
+   "liked_by": [
+    "zafrina"
+   ],
+   "like_count": 1
   },
   {
    "position": 149,
@@ -3746,7 +4202,11 @@
    "group_avg": 2.62,
    "group_voters": 4,
    "group_std": 0.41,
-   "diff_vs_lbxd": -0.55
+   "diff_vs_lbxd": -0.55,
+   "liked_by": [
+    "zafrina"
+   ],
+   "like_count": 1
   },
   {
    "position": 150,
@@ -3770,7 +4230,11 @@
    "group_avg": 3.12,
    "group_voters": 4,
    "group_std": 0.74,
-   "diff_vs_lbxd": -0.69
+   "diff_vs_lbxd": -0.69,
+   "liked_by": [
+    "zafrina"
+   ],
+   "like_count": 1
   },
   {
    "position": 151,
@@ -3794,7 +4258,9 @@
    "group_avg": 2.75,
    "group_voters": 4,
    "group_std": 0.25,
-   "diff_vs_lbxd": -0.84
+   "diff_vs_lbxd": -0.84,
+   "liked_by": [],
+   "like_count": 0
   },
   {
    "position": 152,
@@ -3818,7 +4284,11 @@
    "group_avg": 4.5,
    "group_voters": 4,
    "group_std": 0.35,
-   "diff_vs_lbxd": 0.21
+   "diff_vs_lbxd": 0.21,
+   "liked_by": [
+    "zafrina"
+   ],
+   "like_count": 1
   },
   {
    "position": 153,
@@ -3842,7 +4312,11 @@
    "group_avg": 1.5,
    "group_voters": 3,
    "group_std": 0.41,
-   "diff_vs_lbxd": -0.89
+   "diff_vs_lbxd": -0.89,
+   "liked_by": [
+    "dromemario"
+   ],
+   "like_count": 1
   },
   {
    "position": 154,
@@ -3866,7 +4340,9 @@
    "group_avg": 3.5,
    "group_voters": 3,
    "group_std": 0.41,
-   "diff_vs_lbxd": -0.03
+   "diff_vs_lbxd": -0.03,
+   "liked_by": [],
+   "like_count": 0
   }
  ],
  "divergence": {

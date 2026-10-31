@@ -5,7 +5,8 @@ Membros = dono da lista + quem curtiu a lista + EXTRA_MEMBERS - EXCLUDED_MEMBERS
 
 Saídas em data/raw/ (só filmes da lista; rode scrape_list antes):
 - fc_members.csv        username, nome de exibição, origem (owner/like/extra) e avatar
-- fc_member_films.csv   filmes da lista que cada membro marcou como visto, com a nota (0,5–5)
+- fc_member_films.csv   filmes da lista que cada membro marcou como visto, com a nota (0,5–5, vazia se
+                        não avaliou) e se curtiu (liked 1/0)
 - fc_owner_diary.csv    entradas do diário do dono da lista (data, nota, se foi revisão)
 
 Uso: python -m pipeline.scrape_members [--refresh]
@@ -65,6 +66,7 @@ def scrape_member_films(username: str, list_slugs: set[str]) -> list[dict]:
                     "username": username,
                     "film_slug": slug,
                     "rating": int(rated.group(1)) / 2 if rated else None,
+                    "liked": int(li.select_one("span.like.icon-liked") is not None),
                 }
             )
     return rows
@@ -110,9 +112,10 @@ def main() -> None:
     for m in members:
         rows = scrape_member_films(m["username"], list_slugs)
         rated = sum(r["rating"] is not None for r in rows)
-        print(f"  {m['username']}: {len(rows)} filmes da lista vistos, {rated} com nota")
+        liked = sum(r["liked"] for r in rows)
+        print(f"  {m['username']}: {len(rows)} filmes da lista vistos, {rated} com nota, {liked} curtidos")
         films += rows
-    write_csv(pd.DataFrame(films, columns=["username", "film_slug", "rating"]), RAW_DIR / "fc_member_films.csv")
+    write_csv(pd.DataFrame(films, columns=["username", "film_slug", "rating", "liked"]), RAW_DIR / "fc_member_films.csv")
 
     diary = scrape_diary(LIST_OWNER, list_slugs)
     print(f"Diário de {LIST_OWNER}: {len(diary)} entradas de filmes da lista")

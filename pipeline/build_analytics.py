@@ -267,6 +267,17 @@ def build() -> None:
     )
     analytics["member_affinity"] = affinity(gr, member_names)
 
+    # Curtidas (coração) dos membros nos filmes da lista.
+    likes = seen[(seen["liked"] == 1) & seen["username"].isin(member_names)]
+    liked_by = likes.groupby("film_slug")["username"].agg(list)
+    analytics["member_stats"]["films_liked"] = (
+        analytics["member_stats"]["username"].map(likes["username"].value_counts()).fillna(0).astype(int)
+    )
+    film_likes = films[["position", "film_slug", "title"]].copy()
+    film_likes["like_count"] = film_likes["film_slug"].map(liked_by.str.len()).fillna(0).astype(int)
+    film_likes["liked_by"] = film_likes["film_slug"].map(liked_by.str.join(",")).fillna("")
+    analytics["film_likes"] = film_likes
+
     eligible = gr[gr["group_voters"] >= MIN_VOTERS]
     analytics["divergence_liked_more"] = eligible.sort_values("diff_vs_lbxd", ascending=False).head(10)
     analytics["divergence_liked_less"] = eligible.sort_values("diff_vs_lbxd").head(10)
@@ -306,6 +317,8 @@ def build() -> None:
                 "group_voters": int(g["group_voters"]),
                 "group_std": None if pd.isna(g["group_std"]) else float(g["group_std"]),
                 "diff_vs_lbxd": None if pd.isna(g["diff_vs_lbxd"]) else float(g["diff_vs_lbxd"]),
+                "liked_by": liked_by.get(f["film_slug"], []),
+                "like_count": len(liked_by.get(f["film_slug"], [])),
             }
         )
 

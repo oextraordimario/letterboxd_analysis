@@ -1,0 +1,155 @@
+position;film_slug;title;like_count;liked_by
+1;the-wizard;The Wizard;1;pratini
+2;the-northman;The Northman;0;
+3;rad;Rad;0;
+4;get-out-2017;Get Out;0;
+5;rrr;RRR;1;pratini
+6;speed-racer;Speed Racer;0;
+7;they-live;They Live;0;
+8;cobra-1986;Cobra;0;
+9;everything-everywhere-all-at-once;Everything Everywhere All at Once;2;dromemario,pratini
+10;the-mummy-1999;The Mummy;0;
+11;the-unbearable-weight-of-massive-talent;The Unbearable Weight of Massive Talent;0;
+12;unforgiven;Unforgiven;0;
+13;twelve-monkeys;Twelve Monkeys;1;pratini
+14;free-guy;Free Guy;0;
+15;tremors;Tremors;0;
+16;cats-2019;Cats;1;pratini
+17;childs-play;Child's Play;0;
+18;the-craft;The Craft;0;
+19;evil-dead-ii;Evil Dead II;0;
+20;the-mitchells-vs-the-machines;The Mitchells vs. the Machines;0;
+21;point-break;Point Break;0;
+22;flash-gordon-1980;Flash Gordon;1;pratini
+23;killer-klowns-from-outer-space;Killer Klowns from Outer Space;1;dromemario
+24;the-36th-chamber-of-shaolin;The 36th Chamber of Shaolin;1;dromemario
+25;the-warriors;The Warriors;1;dromemario
+26;the-banshees-of-inisherin;The Banshees of Inisherin;0;
+27;masters-of-the-universe;Masters of the Universe;0;
+28;invasion-of-the-body-snatchers-1978;Invasion of the Body Snatchers;0;
+29;rollerball;Rollerball;0;
+30;bloodmoon;Bloodmoon;1;pratini
+31;army-of-darkness;Army of Darkness;2;dromemario,pratini
+32;requiem-for-a-dream;Requiem for a Dream;0;
+33;the-meg;The Meg;0;
+34;high-noon;High Noon;1;pratini
+35;bubba-ho-tep;Bubba Ho-tep;0;
+36;fargo;Fargo;0;
+37;shin-godzilla;Shin Godzilla;0;
+38;gaslight-1944;Gaslight;0;
+39;ip-man;Ip Man;1;dromemario
+40;a-nightmare-on-elm-street;A Nightmare on Elm Street;2;dromemario,zafrina
+41;paddington;Paddington;0;
+42;paddington-2;Paddington 2;1;dromemario
+43;hairspray;Hairspray;1;pratini
+44;28-days-later;28 Days Later;0;
+45;pig-2021;Pig;0;
+46;an-american-werewolf-in-london;An American Werewolf in London;0;
+47;past-lives;Past Lives;1;dromemario
+48;napoleon-dynamite;Napoleon Dynamite;1;dromemario
+49;dune-2021;Dune;1;dromemario
+50;dune-part-two;Dune: Part Two;2;dromemario,pratini
+51;miami-connection;Miami Connection;2;dromemario,pratini
+52;renfield;Renfield;0;
+53;the-man-from-nowhere;The Man from Nowhere;0;
+54;isle-of-dogs-2018;Isle of Dogs;0;
+55;the-raid-2011;The Raid;1;dromemario
+56;the-usual-suspects;The Usual Suspects;0;
+57;pitch-black;Pitch Black;0;
+58;hard-ticket-to-hawaii;Hard Ticket to Hawaii;2;dromemario,pratini
+59;x-2022;X;0;
+60;pearl-2022;Pearl;1;zafrina
+61;maxxxine;MaXXXine;1;dromemario
+62;the-fugitive-1993;The Fugitive;1;dromemario
+63;monkey-man;Monkey Man;0;
+64;blade;Blade;1;dromemario
+65;repo-man;Repo Man;2;dromemario,pratini
+66;re-animator;Re-Animator;0;
+67;dude-bro-party-massacre-iii;Dude Bro Party Massacre III;1;dromemario
+68;the-fly-1986;The Fly;1;dromemario
+69;humanist-vampire-seeking-consenting-suicidal-person;Humanist Vampire Seeking Consenting Suicidal Person;3;dromemario,instalkiane,zafrina
+70;nosferatu;Nosferatu;0;
+71;fallen-angels;Fallen Angels;1;dromemario
+72;dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;0;
+73;meshes-of-the-afternoon;Meshes of the Afternoon;0;
+74;the-wizard-of-oz-1939;The Wizard of Oz;1;dromemario
+75;dawn-of-the-dead;Dawn of the Dead;0;
+76;the-company-of-strangers;The Company of Strangers;0;
+77;tokyo-godfathers;Tokyo Godfathers;0;
+78;kiss-kiss-bang-bang-2005;Kiss Kiss Bang Bang;1;dromemario
+79;the-substance;The Substance;2;dromemario,zafrina
+80;shaft;Shaft;0;
+81;nosferatu-2024;Nosferatu;0;
+82;anora;Anora;0;
+83;eight-legged-freaks;Eight Legged Freaks;1;dromemario
+84;companion-2025;Companion;1;instalkiane
+85;dream-scenario;Dream Scenario;0;
+86;the-goonies;The Goonies;0;
+87;at-midnight-ill-take-your-soul;At Midnight I'll Take Your Soul;0;
+88;the-seventh-seal;The Seventh Seal;0;
+89;ginger-snaps;Ginger Snaps;1;instalkiane
+90;death-race-2000;Death Race 2000;1;zafrina
+91;do-or-die;Do or Die;0;
+92;raising-arizona;Raising Arizona;0;
+93;perfect-blue;Perfect Blue;1;dromemario
+94;a-hard-day;A Hard Day;0;
+95;the-last-days-of-disco;The Last Days of Disco;1;dromemario
+96;frankenstein-1931;Frankenstein;0;
+97;o-pai-o-look-at-this;Ó Paí, Ó: Look at This;1;dromemario
+98;wolfwalkers;Wolfwalkers;0;
+99;the-heroic-trio;The Heroic Trio;1;dromemario
+100;paddington-in-peru;Paddington in Peru;2;instalkiane,zafrina
+101;shadow-2018;Shadow;0;
+102;superman-2025;Superman;0;
+103;to-wong-foo-thanks-for-everything-julie-newmar;To Wong Foo, Thanks for Everything! Julie Newmar;1;dromemario
+104;total-recall;Total Recall;1;dromemario
+105;run-lola-run;Run Lola Run;0;
+106;pans-labyrinth;Pan's Labyrinth;1;zafrina
+107;bill-teds-excellent-adventure;Bill & Ted's Excellent Adventure;1;dromemario
+108;bride-of-frankenstein;Bride of Frankenstein;0;
+109;phantom-of-the-paradise;Phantom of the Paradise;1;dromemario
+110;swiss-army-man;Swiss Army Man;0;
+111;faster-pussycat-kill-kill;Faster, Pussycat! Kill! Kill!;0;
+112;tarantula;Tarantula;0;
+113;troll-2;Troll 2;1;dromemario
+114;the-secret-agent-2025;The Secret Agent;1;zafrina
+115;yojimbo;Yojimbo;0;
+116;the-last-dragon;The Last Dragon;1;dromemario
+117;the-holdovers;The Holdovers;2;instalkiane,zafrina
+118;batman-1966;Batman;2;dromemario,pratini
+119;cube;Cube;0;
+120;millennium-actress;Millennium Actress;0;
+121;jesus-christ-vampire-hunter;Jesus Christ Vampire Hunter;1;dromemario
+122;the-lord-of-the-rings-the-fellowship-of-the-ring;The Lord of the Rings: The Fellowship of the Ring;2;dromemario,zafrina
+123;the-lord-of-the-rings-the-two-towers;The Lord of the Rings: The Two Towers;1;zafrina
+124;the-lord-of-the-rings-the-return-of-the-king;The Lord of the Rings: The Return of the King;1;zafrina
+125;death-becomes-her;Death Becomes Her;1;zafrina
+126;the-running-man;The Running Man;0;
+127;stand-by-me;Stand by Me;0;
+128;thelma-louise;Thelma & Louise;0;
+129;punch-drunk-love;Punch-Drunk Love;0;
+130;son-of-the-white-mare;Son of the White Mare;0;
+131;good-boy-2025;Good Boy;0;
+132;cinderella-baiana;Cinderella Baiana;1;dromemario
+133;a-few-good-men;A Few Good Men;0;
+134;godzilla;Godzilla;0;
+135;robot-dreams;Robot Dreams;0;
+136;master-a-building-in-copacabana;Master, a Building in Copacabana;1;dromemario
+137;mortal-kombat-ii;Mortal Kombat II;1;zafrina
+138;in-the-mood-for-love;In the Mood for Love;0;
+139;the-4th-man;The 4th Man;1;zafrina
+140;cinema-paradiso;Cinema Paradiso;1;zafrina
+141;black-dog-2024;Black Dog;0;
+142;slc-punk;SLC Punk;1;dromemario
+143;the-crow;The Crow;1;dromemario
+144;12-angry-men;12 Angry Men;0;
+145;the-mask-1994;The Mask;2;dromemario,zafrina
+146;the-odyssey-2026;The Odyssey;1;zafrina
+147;palm-springs-2020;Palm Springs;1;dromemario
+148;misery;Misery;1;zafrina
+149;legend;Legend;1;zafrina
+150;coyote-vs-acme;Coyote vs. Acme;1;zafrina
+151;dracula-1958;Dracula;0;
+152;the-fall;The Fall;1;zafrina
+153;leprechaun;Leprechaun;1;dromemario
+154;hellraiser;Hellraiser;0;
