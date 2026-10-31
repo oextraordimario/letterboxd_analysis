@@ -1,7 +1,7 @@
 import { BarList } from "@/components/BarList";
 import { Dumbbell } from "@/components/Dumbbell";
 import { FilmTable } from "@/components/FilmTable";
-import { countryPt, date, fmt, genrePt, languagePt, signed, stars } from "@/lib/format";
+import { countryPt, date, fmt, genrePt, languagePt, monthYear, signed, stars } from "@/lib/format";
 import { loadReport, type Person } from "@/lib/report";
 
 const r = loadReport();
@@ -83,6 +83,7 @@ export default function Home() {
           <h1>
             <span>Família</span> <span>Fã de</span> <span>Filmes</span>
           </h1>
+          <p className="marquee-bottom">Retrospectiva · {monthYear(r.generated_at.slice(0, 10))}</p>
         </div>
         <div className="hero-numbers">
           <Stat value={fmt(m.movies_watched)} label="filmes" />
