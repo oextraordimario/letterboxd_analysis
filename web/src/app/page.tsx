@@ -1,4 +1,5 @@
 import { BarList } from "@/components/BarList";
+import { Columns } from "@/components/Columns";
 import { Deck } from "@/components/Deck";
 import { Dumbbell } from "@/components/Dumbbell";
 import { FilmTable } from "@/components/FilmTable";
@@ -107,7 +108,7 @@ const LABELS = [
   "#OpiniãoImpopular",
   "Impopular: os dados",
   "Números",
-  "Décadas e anos",
+  "Décadas",
   "Atores e atrizes",
   "Direção",
   "Roteiro",
@@ -505,10 +506,9 @@ export default function Home() {
         </div>
       </Slide>
 
-      <Slide id="decadas" title="De quando são, quando vimos">
-        <div className="two-col reveal">
-          <BarList caption="Filmes por década de lançamento" items={r.decades.map((d) => ({ label: `${d.release_decade}s`, value: d.movie_count }))} />
-          <BarList caption="Filmes por ano de sessão" items={r.years_watched.map((y) => ({ label: String(y.year), value: y.movie_count }))} />
+      <Slide id="decadas" title="De quando são" lede="Filmes por década de lançamento.">
+        <div className="reveal">
+          <Columns items={[...r.decades].sort((a, b) => a.release_decade - b.release_decade).map((d) => ({ label: `${d.release_decade}s`, value: d.movie_count }))} />
         </div>
       </Slide>
 

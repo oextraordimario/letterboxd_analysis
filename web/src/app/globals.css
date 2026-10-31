@@ -215,6 +215,21 @@ body { overflow-x: clip; }
 .lukewarm a:hover img { filter: none; transform: scale(1.05); }
 .lukewarm span { display: grid; place-items: center; height: 100%; padding: 4px; font-size: 11px; text-align: center; }
 
+/* ---------- Colunas (décadas) ---------- */
+
+.columns { margin: 0; }
+.columns ol { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(var(--n), minmax(0, 1fr)); gap: clamp(3px, 1.4vw, 18px); align-items: end; height: clamp(240px, 48vh, 520px); border-bottom: 1px solid var(--rule); }
+.columns li { display: grid; grid-template-rows: 1fr auto; height: 100%; outline: none; }
+.columns-plot { position: relative; display: flex; align-items: flex-end; }
+.columns-bar { position: relative; width: 100%; min-height: 2px; background: var(--group); border-radius: 4px 4px 0 0; transition: background 0.2s; }
+.columns li:hover .columns-bar, .columns li:focus-visible .columns-bar { background: var(--accent); }
+.columns-value { position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); padding-bottom: 6px; font-family: var(--font-display); font-weight: 800; font-size: clamp(16px, 2.4vh, 26px); color: var(--ink); }
+@media (max-width: 600px) { .columns-value { font-size: 12px; } .columns-label { writing-mode: vertical-rl; transform: rotate(180deg); justify-self: center; } }
+.columns-label { padding-top: 8px; text-align: center; font-family: var(--font-mono); font-size: clamp(11px, 1.6vh, 14px); color: var(--muted); }
+.slide .columns-bar { transform-origin: bottom; }
+html.deck .slide .columns-bar { transform: scaleY(0); transition: transform 0.9s cubic-bezier(.2,.7,.2,1) 0.2s, background 0.2s; }
+html.deck .slide.is-active .columns-bar, html.deck .slide.was-seen .columns-bar { transform: none; }
+
 /* ---------- Ingressos (membros) ---------- */
 
 .tickets { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 18px; }
