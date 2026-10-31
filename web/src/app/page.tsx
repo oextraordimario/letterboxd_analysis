@@ -256,6 +256,30 @@ export default function Home() {
     .map((label) => r.genres_all.find((g) => genrePt(g.genre) === label)?.genre)
     .filter((g): g is string => !!g);
   const newGenreFilms = r.films.filter((f) => f.genres.some((g) => newGenres.includes(g)));
+  // "Território novo": décadas que estavam vazias, gêneros novos do bottom 5 e o país que faltava.
+  const decadeOf = (f: Film) => Math.floor(f.year / 10) * 10;
+  const emptyDecades = r.decades
+    .map((d) => d.release_decade)
+    .filter((d) => !r.previous.decades.some((p) => p.release_decade === d && p.movie_count > 0));
+  const newCountries = ["Brazil"].filter((c) => !r.previous.countries.some((p) => p.country === c));
+  const byYear = (a: Film, b: Film) => a.year - b.year;
+  const newTerritory = [
+    {
+      title: `Anos ${emptyDecades.map((d) => String(d).slice(2)).join(" e ")}`,
+      films: r.films.filter((f) => emptyDecades.includes(decadeOf(f))).sort(byYear),
+      tag: (f: Film) => String(f.year),
+    },
+    {
+      title: newGenres.map((g) => genrePt(g)).join(" e "),
+      films: newGenreFilms.slice().sort(byYear),
+      tag: (f: Film) => f.genres.filter((g) => newGenres.includes(g)).map(genrePt).join(" · "),
+    },
+    {
+      title: "Cinema brasileiro",
+      films: r.films.filter((f) => f.countries.some((c) => newCountries.includes(c))).sort(byYear),
+      tag: (f: Film) => String(f.year),
+    },
+  ].filter((g) => g.films.length);
   const forgotten = r.films.filter((f) => f.group_voters < r.min_voters).sort((a, b) => b.group_voters - a.group_voters);
   // Consenso: nota média alta (ou baixa) com pouco desvio. Empate: mais notas, depois mais popular no site.
   const eligible = r.films.filter((f) => f.group_voters >= r.min_voters);
@@ -726,22 +750,26 @@ export default function Home() {
         </div>
       </Slide>
 
-      <Slide id="generos-novos" title="Território novo" lede={`Os filmes que trouxeram ${newGenres.map((g) => genrePt(g).toLowerCase()).join(" e ")} pra lista.`}>
-        <ol className="newgenre reveal">
-          {newGenreFilms.map((f) => (
-            <li key={f.slug}>
-              <a href={f.url} target="_blank" rel="noreferrer" title={`${f.title} (${f.year})`}>
-                {f.poster_url ? <img src={f.poster_url} alt="" loading="lazy" /> : <span>{f.title}</span>}
-              </a>
-              <span className="newgenre-title">{f.title}</span>
-              <span className="newgenre-tags">
-                {f.genres.filter((g) => newGenres.includes(g)).map((g) => (
-                  <em key={g}>{genrePt(g)}</em>
+      <Slide id="generos-novos" title="Território novo" lede={`O que entrou na lista pela primeira vez desde ${r.previous.label}.`}>
+        <div className="newterr reveal">
+          {newTerritory.map((group) => (
+            <section key={group.title} className="newterr-group" style={{ "--n": group.films.length } as React.CSSProperties}>
+              <h3>
+                {group.title} <small>{group.films.length}</small>
+              </h3>
+              <ol>
+                {group.films.map((f) => (
+                  <li key={f.slug}>
+                    <a href={f.url} target="_blank" rel="noreferrer" title={`${f.title} (${f.year})`}>
+                      {f.poster_url ? <img src={f.poster_url} alt={f.title} loading="lazy" /> : <span>{f.title}</span>}
+                    </a>
+                    <em>{group.tag(f)}</em>
+                  </li>
                 ))}
-              </span>
-            </li>
+              </ol>
+            </section>
           ))}
-        </ol>
+        </div>
       </Slide>
 
       <Slide id="temas" title="Os temas que mais voltam" lede="Os 20 temas mais frequentes, com os nomes do Letterboxd.">

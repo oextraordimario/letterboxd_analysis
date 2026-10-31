@@ -39,6 +39,7 @@ export type Film = {
   group_std: number | null;
   diff_vs_lbxd: number | null;
   genres: string[];
+  countries: string[];
   liked_by: string[];
   like_count: number;
 };
