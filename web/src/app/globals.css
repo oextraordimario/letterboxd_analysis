@@ -279,6 +279,28 @@ a:hover .darling-poster img { transform: scale(1.05); }
 .darling-likes .likers .avatar { width: 30px; }
 @media (max-width: 899px) { .darlings { grid-template-columns: 1fr; } .darling-top { --h: 360px; } }
 
+/* ---------- Intervalo e metas ---------- */
+
+.slide-break .slide-inner { align-items: center; text-align: center; }
+.break-kicker {
+  margin: 0; font-family: var(--font-display); font-weight: 900; text-transform: uppercase; line-height: 0.85;
+  font-size: clamp(56px, min(17vw, 30vh), 300px); letter-spacing: 0.02em; color: var(--bulb);
+  text-shadow: 0 0 18px #f6cf6a88, 0 0 60px #f2c14e44;
+}
+.break-title { margin: clamp(16px, 3vh, 32px) 0 0; font-style: italic; font-size: clamp(22px, 3.2vh, 34px); color: var(--ink-2); }
+
+.goals { list-style: none; margin: 0; padding: 0; display: grid; gap: clamp(8px, 1.6vh, 16px); max-width: 980px; }
+.goal { display: grid; grid-template-columns: 44px 1fr auto; align-items: center; gap: 16px; padding: clamp(8px, 1.4vh, 14px) 0; border-bottom: 1px solid #2a241f; }
+.goal-mark { display: grid; place-items: center; width: 36px; height: 36px; border-radius: 50%; font-family: var(--font-display); font-weight: 900; font-size: 20px; }
+.goal-done .goal-mark { background: var(--accent); color: #1a130c; }
+.goal-miss .goal-mark { border: 2px solid var(--down); color: var(--down); }
+.goal-unknown .goal-mark { border: 2px dashed var(--muted); color: var(--muted); }
+.goal-text { font-size: clamp(17px, 2.3vh, 22px); }
+.goal-unknown .goal-text { color: var(--ink-2); }
+.goal-evidence { font-family: var(--font-mono); font-size: 13px; color: var(--muted); text-align: right; white-space: nowrap; }
+.goal-done .goal-evidence { color: var(--up); }
+@media (max-width: 700px) { .goal { grid-template-columns: 36px 1fr; } .goal-evidence { grid-column: 2; text-align: left; white-space: normal; } }
+
 /* ---------- Ingressos (membros) ---------- */
 
 .tickets { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 18px; }

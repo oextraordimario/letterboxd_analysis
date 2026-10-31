@@ -119,6 +119,8 @@ const LABELS = [
   "Nem fede nem cheira",
   "#OpiniãoImpopular",
   "Impopular: os dados",
+  "Intervalo",
+  "Metas",
   "Números",
   "Décadas",
   "Atores e atrizes",
@@ -155,6 +157,35 @@ export default function Home() {
   const softie = [...r.members].sort((a, b) => b.films_liked - a.films_liked)[0];
   const mostLiked = [...r.films].sort((a, b) => b.like_count - a.like_count || b.lbxd_rating_count - a.lbxd_rating_count)[0];
   const runnersUp = r.films.filter((f) => f !== mostLiked && f.like_count === 2);
+  // Metas/sugestões da última apresentação (legacy/streamlit_app.py) e o que aconteceu desde então.
+  const prevCount = <T extends { movie_count: number }>(list: T[], pick: (x: T) => boolean) => list.find(pick)?.movie_count ?? 0;
+  const presentedTitles = new Set(r.films.filter((f) => f.presented).map((f) => f.title));
+  const cagePerson = r.people.actors.find((p) => p.name === "Nicolas Cage");
+  const cageThen = cagePerson ? cagePerson.films.filter((t) => presentedTitles.has(t)).length : 0;
+  const cageNow = cagePerson?.movie_count ?? 0;
+  const decadeThen = (d: number) => prevCount(r.previous.decades, (x) => x.release_decade === d);
+  const decadeNow = (d: number) => prevCount(r.decades, (x) => x.release_decade === d);
+  const brThen = prevCount(r.previous.countries, (c) => c.country === "Brazil");
+  const brNow = prevCount(r.countries, (c) => c.country === "Brazil");
+  const musicThen = prevCount(r.previous.genres_all, (g) => g.genre === "Music");
+  const musicNow = prevCount(r.genres_all, (g) => g.genre === "Music");
+  const goals: { text: string; status: "done" | "miss" | "unknown"; evidence: string }[] = [
+    {
+      text: "Um filme da década de 30 e um da década de 60, já que são as únicas faltando.",
+      status: decadeNow(1930) > decadeThen(1930) && decadeNow(1960) > decadeThen(1960) ? "done" : "miss",
+      evidence: `anos 30: ${decadeThen(1930)} → ${decadeNow(1930)} · anos 60: ${decadeThen(1960)} → ${decadeNow(1960)}`,
+    },
+    {
+      text: "Dois filmes do Nicolas Cage, para que ele tome seu lugar de direito.",
+      status: cageNow - cageThen >= 2 ? "done" : "miss",
+      evidence: `${cageThen} → ${cageNow} filmes`,
+    },
+    { text: "Pelo menos um filme brasileiro pra não dar vexame.", status: brNow > brThen ? "done" : "miss", evidence: `${brThen} → ${brNow}` },
+    { text: "Pra valorizar a indústria nacional, mais filmes brasileiros.", status: brNow - brThen > 1 ? "done" : "miss", evidence: `+${brNow - brThen} filmes` },
+    { text: "Pra incentivar a igualdade, mais filmes dirigidos por mulheres.", status: "unknown", evidence: "sem esse dado na raspagem" },
+    { text: "Mais filmes musicais!", status: musicNow > musicThen ? "done" : "miss", evidence: `${musicThen} → ${musicNow}` },
+    { text: "Jhones logar mais filmes!!!", status: "unknown", evidence: "Jhones, cadê você?" },
+  ];
   const forgotten = r.films.filter((f) => f.group_voters < r.min_voters).sort((a, b) => b.group_voters - a.group_voters);
   // Consenso: nota média alta (ou baixa) com pouco desvio. Empate: mais notas, depois mais popular no site.
   const eligible = r.films.filter((f) => f.group_voters >= r.min_voters);
@@ -527,6 +558,25 @@ export default function Home() {
             <Dumbbell films={r.divergence.liked_less.slice(0, 5).map((s) => bySlug[s])} members={r.members} />
           </div>
         </div>
+      </Slide>
+
+      <Slide id="intervalo" className="slide-break">
+        <p className="break-kicker reveal">Intervalo</p>
+        <p className="break-title reveal">Pega a pipoca: agora é com os números.</p>
+      </Slide>
+
+      <Slide id="metas" title={`Lembra das metas de ${r.previous.label}?`}>
+        <ol className="goals reveal">
+          {goals.map((g) => (
+            <li key={g.text} className={`goal goal-${g.status}`}>
+              <span className="goal-mark" aria-label={g.status === "done" ? "cumprida" : g.status === "miss" ? "não cumprida" : "sem como medir"}>
+                {g.status === "done" ? "✓" : g.status === "miss" ? "✗" : "?"}
+              </span>
+              <span className="goal-text">{g.text}</span>
+              <span className="goal-evidence">{g.evidence}</span>
+            </li>
+          ))}
+        </ol>
       </Slide>
 
       <Slide id="numeros" title="Os números da sessão">
