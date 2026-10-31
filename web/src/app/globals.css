@@ -249,12 +249,10 @@ body { overflow-x: clip; }
 }
 .envelope-seal svg { height: 38px; fill: #5c3f0e; }
 .flip-front .flip-question { color: #f6e7c4; }
-.flip-front .flip-hint { color: #f2c14e; }
+.flip-question small { display: block; margin-top: 6px; font-family: var(--font-body); font-style: italic; font-weight: 400; text-transform: none; font-size: 17px; color: #e6c98f; }
 .flip-front:hover { box-shadow: 0 22px 48px #000a, inset 0 0 0 6px #5c121255, inset 0 0 0 7px #f2c14e; }
 .flip-front:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
 .flip-question { font-family: var(--font-display); font-weight: 800; text-transform: uppercase; font-size: clamp(24px, 2.4vw, 32px); line-height: 1.02; }
-.flip-hint { font-family: var(--font-mono); font-size: 12px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); }
-.flip-front:hover .flip-hint { text-decoration: underline; text-underline-offset: 4px; }
 /* Cartão de dentro do envelope. */
 .award {
   display: flex; flex-direction: column; align-items: center; text-align: center; gap: 8px; min-height: 300px;

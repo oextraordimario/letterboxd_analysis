@@ -197,7 +197,7 @@ export default function Home() {
 
       <Slide id="notas" title="Nossas notas: premiações">
         <div className="reveals reveal">
-          <Reveal question="Como a gente se compara com o resto do Letterboxd?">
+          <Reveal question="Comparação Letterboxd">
             <article className="award award-group">
               <Statuette />
               <p className="award-intro">E o Óscar vai para</p>
@@ -209,15 +209,15 @@ export default function Home() {
               <h3>FFF</h3>
               <p className="award-avg">
                 {fmt(r.group_avg_overall, 2)}
-                <small>nota média do grupo · {signed(r.group_avg_overall - r.lbxd_avg_overall_eligible)} vs. Letterboxd</small>
+                <small>{signed(r.group_avg_overall - r.lbxd_avg_overall_eligible)} vs. Letterboxd</small>
               </p>
             </article>
           </Reveal>
           {[
-            { q: "Óscar generosidade (notas mais altas)", mm: generous },
-            { q: "Óscar cinéfilo (notas mais baixas)", mm: harsh },
-          ].map(({ q, mm }) => (
-            <Reveal key={q} question={q}>
+            { q: "Óscar generosidade", sub: "notas mais altas", mm: generous },
+            { q: "Óscar ranzinza", sub: "notas mais baixas", mm: harsh },
+          ].map(({ q, sub, mm }) => (
+            <Reveal key={q} question={q} sub={sub}>
               <article className="award">
                 <Statuette />
                 <p className="award-intro">E o Óscar vai para</p>
@@ -225,7 +225,7 @@ export default function Home() {
                 <h3>{mm.display_name}</h3>
                 <p className="award-avg">
                   {fmt(mm.avg_rating ?? 0, 2)}
-                  <small>nota média · {signed(mm.avg_diff_vs_group ?? 0)} vs. resto do grupo</small>
+                  <small>{signed(mm.avg_diff_vs_group ?? 0)} vs. grupo</small>
                 </p>
               </article>
             </Reveal>
