@@ -30,7 +30,7 @@ export function FilmTable({ films, members }: { films: Film[]; members: Member[]
   }, [films, sort, onlyNew, query]);
 
   const header = (key: Key, label: string, className = "") => (
-    <th className={className} aria-sort={sort.key === key ? (sort.dir === 1 ? "ascending" : "descending") : "none"}>
+    <th key={key} className={className} aria-sort={sort.key === key ? (sort.dir === 1 ? "ascending" : "descending") : "none"}>
       <button
         type="button"
         onClick={() => setSort((s) => ({ key, dir: s.key === key ? ((-s.dir) as 1 | -1) : key === "title" ? 1 : -1 }))}
