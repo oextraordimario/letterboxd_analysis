@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T17:46:13+00:00",
+ "generated_at": "2026-10-31T17:51:39+00:00",
  "list_url": "https://letterboxd.com/dromemario/list/fff-familia-fa-de-filmes/",
  "min_voters": 3,
  "last_presented": {
@@ -206,6 +206,9 @@
     "Drama",
     "Comedy"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "pratini"
    ],
@@ -239,6 +242,9 @@
     "Action",
     "Fantasy"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -269,6 +275,9 @@
     "Drama",
     "Romance",
     "Family"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -301,6 +310,9 @@
     "Mystery",
     "Thriller"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -331,6 +343,9 @@
     "History",
     "Action",
     "Drama"
+   ],
+   "countries": [
+    "India"
    ],
    "liked_by": [
     "pratini"
@@ -366,6 +381,9 @@
     "Adventure",
     "Comedy"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -396,6 +414,9 @@
     "Thriller",
     "Action",
     "Science Fiction"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -428,6 +449,9 @@
     "Thriller",
     "Crime"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -459,6 +483,9 @@
     "Adventure",
     "Comedy",
     "Action"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario",
@@ -494,6 +521,9 @@
     "Adventure",
     "Fantasy"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -525,6 +555,9 @@
     "Action",
     "Comedy"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -553,6 +586,9 @@
    "diff_vs_lbxd": -1.83,
    "genres": [
     "Western"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -584,6 +620,9 @@
     "Thriller",
     "Mystery",
     "Science Fiction"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "pratini"
@@ -618,6 +657,9 @@
     "Adventure",
     "Science Fiction"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -648,6 +690,9 @@
     "Horror",
     "Science Fiction",
     "Comedy"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -680,6 +725,11 @@
     "Drama",
     "Fantasy"
    ],
+   "countries": [
+    "China",
+    "UK",
+    "USA"
+   ],
    "liked_by": [
     "pratini"
    ],
@@ -710,6 +760,9 @@
    "diff_vs_lbxd": -0.83,
    "genres": [
     "Horror"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -742,6 +795,9 @@
     "Fantasy",
     "Drama"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -772,6 +828,9 @@
     "Comedy",
     "Fantasy",
     "Horror"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -805,6 +864,10 @@
     "Comedy",
     "Adventure"
    ],
+   "countries": [
+    "Hong Kong",
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -835,6 +898,9 @@
     "Thriller",
     "Action",
     "Crime"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -867,6 +933,12 @@
     "Action",
     "Adventure",
     "Science Fiction"
+   ],
+   "countries": [
+    "Italy",
+    "Netherlands",
+    "UK",
+    "USA"
    ],
    "liked_by": [
     "pratini"
@@ -901,6 +973,9 @@
     "Comedy",
     "Horror"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -932,6 +1007,9 @@
    "genres": [
     "Adventure",
     "Action"
+   ],
+   "countries": [
+    "Hong Kong"
    ],
    "liked_by": [
     "dromemario"
@@ -965,6 +1043,9 @@
     "Thriller",
     "Action"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -996,6 +1077,11 @@
    "genres": [
     "Comedy",
     "Drama"
+   ],
+   "countries": [
+    "UK",
+    "USA",
+    "Ireland"
    ],
    "liked_by": [],
    "like_count": 0
@@ -1030,6 +1116,9 @@
     "Science Fiction",
     "Fantasy"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1060,6 +1149,9 @@
     "Horror",
     "Science Fiction"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1088,6 +1180,11 @@
    "diff_vs_lbxd": -0.6,
    "genres": [
     "Science Fiction"
+   ],
+   "countries": [
+    "USA",
+    "Canada",
+    "UK"
    ],
    "liked_by": [],
    "like_count": 0
@@ -1118,6 +1215,10 @@
    "genres": [
     "Action",
     "Thriller"
+   ],
+   "countries": [
+    "USA",
+    "Hong Kong"
    ],
    "liked_by": [
     "pratini"
@@ -1152,6 +1253,9 @@
     "Fantasy",
     "Horror"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "dromemario",
     "pratini"
@@ -1184,6 +1288,9 @@
    "genres": [
     "Drama"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1215,6 +1322,10 @@
     "Horror",
     "Action"
    ],
+   "countries": [
+    "China",
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1243,6 +1354,9 @@
    "diff_vs_lbxd": 0.18,
    "genres": [
     "Western"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "pratini"
@@ -1279,6 +1393,9 @@
     "Thriller",
     "Mystery"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1311,6 +1428,10 @@
     "Drama",
     "Thriller"
    ],
+   "countries": [
+    "UK",
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1341,6 +1462,9 @@
     "Action",
     "Horror",
     "Science Fiction"
+   ],
+   "countries": [
+    "Japan"
    ],
    "liked_by": [],
    "like_count": 0
@@ -1374,6 +1498,9 @@
     "Mystery",
     "Thriller"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1405,6 +1532,10 @@
     "Action",
     "History"
    ],
+   "countries": [
+    "China",
+    "Hong Kong"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -1435,6 +1566,9 @@
    "diff_vs_lbxd": -0.33,
    "genres": [
     "Horror"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario",
@@ -1470,6 +1604,10 @@
     "Family",
     "Adventure"
    ],
+   "countries": [
+    "France",
+    "UK"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1501,6 +1639,10 @@
     "Family",
     "Adventure"
    ],
+   "countries": [
+    "France",
+    "UK"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -1531,6 +1673,9 @@
    "diff_vs_lbxd": -1.19,
    "genres": [
     "Comedy"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "pratini"
@@ -1565,6 +1710,9 @@
     "Horror",
     "Thriller"
    ],
+   "countries": [
+    "UK"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1596,6 +1744,10 @@
     "Thriller",
     "Drama"
    ],
+   "countries": [
+    "UK",
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1625,6 +1777,10 @@
    "genres": [
     "Horror",
     "Comedy"
+   ],
+   "countries": [
+    "UK",
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -1656,6 +1812,10 @@
     "Drama",
     "Romance"
    ],
+   "countries": [
+    "USA",
+    "South Korea"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -1686,6 +1846,9 @@
    "diff_vs_lbxd": -0.73,
    "genres": [
     "Comedy"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario"
@@ -1719,6 +1882,9 @@
     "Science Fiction",
     "Adventure"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -1750,6 +1916,9 @@
    "genres": [
     "Adventure",
     "Science Fiction"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario",
@@ -1785,6 +1954,10 @@
     "Music",
     "Crime"
    ],
+   "countries": [
+    "USA",
+    "Hong Kong"
+   ],
    "liked_by": [
     "dromemario",
     "pratini"
@@ -1819,6 +1992,9 @@
     "Fantasy",
     "Horror"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1849,6 +2025,9 @@
     "Thriller",
     "Action",
     "Crime"
+   ],
+   "countries": [
+    "South Korea"
    ],
    "liked_by": [],
    "like_count": 0
@@ -1881,6 +2060,10 @@
     "Animation",
     "Adventure"
    ],
+   "countries": [
+    "USA",
+    "Germany"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1911,6 +2094,11 @@
     "Action",
     "Crime",
     "Thriller"
+   ],
+   "countries": [
+    "Indonesia",
+    "France",
+    "USA"
    ],
    "liked_by": [
     "dromemario"
@@ -1945,6 +2133,9 @@
     "Drama",
     "Crime"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -1976,6 +2167,9 @@
     "Thriller",
     "Action"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2005,6 +2199,9 @@
    "genres": [
     "Adventure",
     "Action"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario",
@@ -2038,6 +2235,9 @@
    "genres": [
     "Horror"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2067,6 +2267,9 @@
    "genres": [
     "Drama",
     "Horror"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "zafrina"
@@ -2098,6 +2301,9 @@
    "diff_vs_lbxd": 1.24,
    "genres": [
     "Horror"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario"
@@ -2132,6 +2338,9 @@
     "Thriller",
     "Action"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -2165,6 +2374,11 @@
     "Crime",
     "Thriller"
    ],
+   "countries": [
+    "Canada",
+    "Singapore",
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2194,6 +2408,9 @@
    "genres": [
     "Action",
     "Horror"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario"
@@ -2226,6 +2443,9 @@
    "genres": [
     "Comedy",
     "Science Fiction"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario",
@@ -2261,6 +2481,9 @@
     "Horror",
     "Science Fiction"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2290,6 +2513,9 @@
    "genres": [
     "Comedy",
     "Horror"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario"
@@ -2323,6 +2549,9 @@
     "Science Fiction",
     "Horror"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -2355,6 +2584,9 @@
     "Comedy",
     "Fantasy",
     "Horror"
+   ],
+   "countries": [
+    "Canada"
    ],
    "liked_by": [
     "dromemario",
@@ -2390,6 +2622,9 @@
     "Horror",
     "Fantasy"
    ],
+   "countries": [
+    "Germany"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2420,6 +2655,9 @@
     "Crime",
     "Romance",
     "Action"
+   ],
+   "countries": [
+    "Hong Kong"
    ],
    "liked_by": [
     "dromemario"
@@ -2453,6 +2691,10 @@
     "Comedy",
     "War"
    ],
+   "countries": [
+    "UK",
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2482,6 +2724,9 @@
    "genres": [
     "Horror",
     "Mystery"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -2513,6 +2758,9 @@
     "Adventure",
     "Fantasy",
     "Family"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario"
@@ -2546,6 +2794,9 @@
     "Horror",
     "Science Fiction"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2575,6 +2826,9 @@
    "genres": [
     "Drama",
     "Adventure"
+   ],
+   "countries": [
+    "Canada"
    ],
    "liked_by": [],
    "like_count": 0
@@ -2606,6 +2860,9 @@
     "Drama",
     "Comedy",
     "Animation"
+   ],
+   "countries": [
+    "Japan"
    ],
    "liked_by": [],
    "like_count": 0
@@ -2639,6 +2896,9 @@
     "Thriller",
     "Comedy"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -2670,6 +2930,11 @@
    "genres": [
     "Horror",
     "Science Fiction"
+   ],
+   "countries": [
+    "France",
+    "UK",
+    "USA"
    ],
    "liked_by": [
     "dromemario",
@@ -2706,6 +2971,9 @@
     "Drama",
     "Action"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2735,6 +3003,9 @@
    "genres": [
     "Fantasy",
     "Horror"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -2767,6 +3038,9 @@
     "Romance",
     "Comedy"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2798,6 +3072,10 @@
     "Thriller",
     "Comedy",
     "Action"
+   ],
+   "countries": [
+    "Australia",
+    "USA"
    ],
    "liked_by": [
     "dromemario"
@@ -2832,6 +3110,9 @@
     "Science Fiction",
     "Horror"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "instalkiane"
    ],
@@ -2864,6 +3145,9 @@
     "Comedy",
     "Fantasy"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2894,6 +3178,9 @@
     "Adventure",
     "Family",
     "Comedy"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -2926,6 +3213,9 @@
     "Thriller",
     "Fantasy"
    ],
+   "countries": [
+    "Brazil"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2956,6 +3246,9 @@
     "Fantasy",
     "Drama"
    ],
+   "countries": [
+    "Sweden"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -2985,6 +3278,9 @@
    "genres": [
     "Horror",
     "Fantasy"
+   ],
+   "countries": [
+    "Canada"
    ],
    "liked_by": [
     "instalkiane"
@@ -3019,6 +3315,9 @@
     "Action",
     "Science Fiction"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -3051,6 +3350,9 @@
     "Thriller",
     "Action"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3080,6 +3382,9 @@
    "genres": [
     "Crime",
     "Comedy"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -3111,6 +3416,9 @@
     "Thriller",
     "Animation",
     "Horror"
+   ],
+   "countries": [
+    "Japan"
    ],
    "liked_by": [
     "dromemario"
@@ -3146,6 +3454,9 @@
     "Mystery",
     "Crime"
    ],
+   "countries": [
+    "South Korea"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3176,6 +3487,9 @@
     "Romance",
     "Comedy",
     "Drama"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario"
@@ -3210,6 +3524,9 @@
     "Drama",
     "Horror"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3239,6 +3556,9 @@
    "genres": [
     "Music",
     "Comedy"
+   ],
+   "countries": [
+    "Brazil"
    ],
    "liked_by": [
     "dromemario"
@@ -3274,6 +3594,13 @@
     "Fantasy",
     "Adventure"
    ],
+   "countries": [
+    "France",
+    "Ireland",
+    "Luxembourg",
+    "USA",
+    "China"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3306,6 +3633,9 @@
     "Thriller",
     "Science Fiction",
     "Adventure"
+   ],
+   "countries": [
+    "Hong Kong"
    ],
    "liked_by": [
     "dromemario"
@@ -3340,6 +3670,10 @@
     "Family",
     "Adventure"
    ],
+   "countries": [
+    "UK",
+    "France"
+   ],
    "liked_by": [
     "instalkiane",
     "zafrina"
@@ -3373,6 +3707,10 @@
     "Action",
     "War"
    ],
+   "countries": [
+    "China",
+    "Hong Kong"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3404,6 +3742,9 @@
     "Adventure",
     "Action"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3433,6 +3774,9 @@
    "genres": [
     "Drama",
     "Comedy"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario"
@@ -3467,6 +3811,9 @@
     "Adventure",
     "Science Fiction"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -3500,6 +3847,9 @@
     "Thriller",
     "Drama"
    ],
+   "countries": [
+    "Germany"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3530,6 +3880,11 @@
     "War",
     "Drama",
     "Fantasy"
+   ],
+   "countries": [
+    "Mexico",
+    "Spain",
+    "USA"
    ],
    "liked_by": [
     "zafrina"
@@ -3564,6 +3919,9 @@
     "Adventure",
     "Comedy"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -3596,6 +3954,9 @@
     "Science Fiction",
     "Horror"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3626,6 +3987,9 @@
     "Drama",
     "Horror",
     "Music"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario"
@@ -3662,6 +4026,9 @@
     "Adventure",
     "Romance"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3694,6 +4061,9 @@
     "Crime",
     "Action"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3724,6 +4094,9 @@
     "Science Fiction",
     "Horror"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3753,6 +4126,9 @@
    "genres": [
     "Fantasy",
     "Horror"
+   ],
+   "countries": [
+    "Italy"
    ],
    "liked_by": [
     "dromemario"
@@ -3787,6 +4163,13 @@
     "Thriller",
     "Drama"
    ],
+   "countries": [
+    "Brazil",
+    "France",
+    "Germany",
+    "Netherlands",
+    "Argentina"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -3819,6 +4202,9 @@
     "Thriller",
     "Drama"
    ],
+   "countries": [
+    "Japan"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3849,6 +4235,9 @@
     "Drama",
     "Comedy",
     "Action"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario"
@@ -3881,6 +4270,9 @@
    "genres": [
     "Drama",
     "Comedy"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "instalkiane",
@@ -3915,6 +4307,9 @@
     "Comedy",
     "Action",
     "Crime"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario",
@@ -3951,6 +4346,9 @@
     "Thriller",
     "Mystery"
    ],
+   "countries": [
+    "Canada"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -3982,6 +4380,9 @@
     "Romance",
     "Animation"
    ],
+   "countries": [
+    "Japan"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -4012,6 +4413,9 @@
     "Horror",
     "Action",
     "Comedy"
+   ],
+   "countries": [
+    "Canada"
    ],
    "liked_by": [
     "dromemario"
@@ -4045,6 +4449,10 @@
     "Adventure",
     "Action",
     "Fantasy"
+   ],
+   "countries": [
+    "New Zealand",
+    "USA"
    ],
    "liked_by": [
     "dromemario",
@@ -4080,6 +4488,10 @@
     "Fantasy",
     "Adventure"
    ],
+   "countries": [
+    "New Zealand",
+    "USA"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -4112,6 +4524,10 @@
     "Action",
     "Fantasy",
     "Adventure"
+   ],
+   "countries": [
+    "New Zealand",
+    "USA"
    ],
    "liked_by": [
     "zafrina"
@@ -4146,6 +4562,9 @@
     "Fantasy",
     "Horror"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -4179,6 +4598,9 @@
     "Thriller",
     "Science Fiction"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -4208,6 +4630,9 @@
    "genres": [
     "Adventure",
     "Drama"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -4241,6 +4666,10 @@
     "Crime",
     "Thriller"
    ],
+   "countries": [
+    "UK",
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -4271,6 +4700,9 @@
     "Drama",
     "Romance",
     "Comedy"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -4303,6 +4735,9 @@
     "Animation",
     "Fantasy"
    ],
+   "countries": [
+    "Hungary"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -4331,6 +4766,9 @@
    "diff_vs_lbxd": 0.02,
    "genres": [
     "Horror"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -4365,6 +4803,9 @@
     "Family",
     "Comedy"
    ],
+   "countries": [
+    "Brazil"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -4396,6 +4837,9 @@
    "genres": [
     "Drama"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -4426,6 +4870,9 @@
     "Horror",
     "Thriller",
     "Science Fiction"
+   ],
+   "countries": [
+    "Japan"
    ],
    "liked_by": [],
    "like_count": 0
@@ -4459,6 +4906,10 @@
     "Animation",
     "Drama"
    ],
+   "countries": [
+    "France",
+    "Spain"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -4487,6 +4938,9 @@
    "diff_vs_lbxd": 0.19,
    "genres": [
     "Documentary"
+   ],
+   "countries": [
+    "Brazil"
    ],
    "liked_by": [
     "dromemario"
@@ -4521,6 +4975,9 @@
     "Fantasy",
     "Action"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -4553,6 +5010,10 @@
     "Romance",
     "Drama"
    ],
+   "countries": [
+    "Hong Kong",
+    "France"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -4582,6 +5043,9 @@
    "genres": [
     "Thriller",
     "Mystery"
+   ],
+   "countries": [
+    "Netherlands"
    ],
    "liked_by": [
     "zafrina"
@@ -4615,6 +5079,10 @@
     "Drama",
     "Romance"
    ],
+   "countries": [
+    "Italy",
+    "France"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -4646,6 +5114,9 @@
    "genres": [
     "Drama"
    ],
+   "countries": [
+    "China"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -4676,6 +5147,9 @@
     "Drama",
     "Music",
     "Comedy"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario"
@@ -4710,6 +5184,9 @@
     "Thriller",
     "Fantasy"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -4740,6 +5217,9 @@
    "diff_vs_lbxd": 0.04,
    "genres": [
     "Drama"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
@@ -4772,6 +5252,9 @@
     "Romance",
     "Crime",
     "Comedy"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario",
@@ -4807,6 +5290,10 @@
     "Action",
     "Fantasy"
    ],
+   "countries": [
+    "UK",
+    "USA"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -4839,6 +5326,9 @@
     "Romance",
     "Science Fiction",
     "Comedy"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "dromemario"
@@ -4873,6 +5363,9 @@
     "Horror",
     "Thriller"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -4904,6 +5397,10 @@
    "genres": [
     "Adventure",
     "Fantasy"
+   ],
+   "countries": [
+    "UK",
+    "USA"
    ],
    "liked_by": [
     "zafrina"
@@ -4939,6 +5436,9 @@
     "Family",
     "Comedy"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "zafrina"
    ],
@@ -4970,6 +5470,9 @@
    "genres": [
     "Horror"
    ],
+   "countries": [
+    "UK"
+   ],
    "liked_by": [],
    "like_count": 0
   },
@@ -5000,6 +5503,9 @@
     "Adventure",
     "Drama",
     "Fantasy"
+   ],
+   "countries": [
+    "USA"
    ],
    "liked_by": [
     "zafrina"
@@ -5033,6 +5539,9 @@
     "Comedy",
     "Horror"
    ],
+   "countries": [
+    "USA"
+   ],
    "liked_by": [
     "dromemario"
    ],
@@ -5064,6 +5573,10 @@
    "genres": [
     "Thriller",
     "Horror"
+   ],
+   "countries": [
+    "UK",
+    "USA"
    ],
    "liked_by": [],
    "like_count": 0
