@@ -1,6 +1,6 @@
 # Plano — reestruturação do film_club_analysis
 
-Registrado em 31/10/2026.
+Registrado em 31/10/2026. **Status:** etapas 1–4 e 6 concluídas em 31/10/2026; deploy (etapa 5) aguardando confirmação.
 
 ## Objetivo
 
@@ -52,7 +52,7 @@ web/               # relatório em Next (export estático)
    - divergência para a média do Letterboxd: filmes que gostamos mais e menos;
    - quem do grupo dá notas mais altas/baixas e filmes que mais racharam o grupo
      (desvio-padrão);
-   - recorte "desde a última apresentação" (filmes 71 em diante).
+   - recorte "desde a última apresentação" (filmes depois de *Fallen Angels*, hoje na posição 71).
 4. **Relatório em Next** em `web/` — página única, lê os JSONs de `data/analytics/`
    no build. Seções atuais + notas do grupo + divergência + novidades. Dev server via
    `preview_start` e `predev` que mata Next órfão.

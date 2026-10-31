@@ -1,45 +1,38 @@
 # Repository Guidelines
 
 ## Project Structure & Module Organization
-- Notebooks are archived under `refs/` (e.g., `refs/1 - data_extraction.ipynb`, `refs/2a - filmclubanalysis.ipynb`, `refs/2b - dromemarioanalysis.ipynb`).
-- Source data lives in `data/film_club_data/` (film club exports) and `data/personal_profile_data/` (profile exports). Treat these as read-only inputs.
-- Analytical outputs for the Streamlit report live in `data/film_club_data/analysis/`.
-- `auths.env` holds credentials/config values used by notebooks; keep secrets out of Git history.
+- `pipeline/`: pure-Python scraping and analytics (no notebooks). Settings (list URL, extra members, presentation cutoff, request delay) live in `pipeline/config.py`.
+- `data/raw/`: data exactly as scraped from Letterboxd (`fc_*.csv`, `;`-separated). Never edit by hand; HTML cache in `data/raw/_cache/` (ignored by git).
+- `data/analytics/`: derived tables (`fc_*.csv`) plus `report.json`, the only file the web report reads.
+- `web/`: Next.js report, exported as a static site (`web/out/`). Read `web/AGENTS.md` before touching it.
+- `legacy/`: frozen previous version (notebooks, Streamlit, Feb 2026 data). Do not change.
+- `auths.env` holds old API credentials (unused by the pipeline); keep secrets out of Git history.
 
 ## Build, Test, and Development Commands
-- There is no formal build system. Work is typically done in Jupyter.
-- Example: launch a notebook server from the repo root:
-  - `jupyter lab`
-- Generate analytical CSVs for the Streamlit report:
-  - `python src/filmclub_analysis_prep.py`
-- Cache Letterboxd person images (optional):
-  - `python src/filmclub_image_cache.py --use-playwright`
-- Install Playwright browsers (first-time setup):
-  - `python -m playwright install`
-  - Playwright profile is stored at `src/playwright_profile/` (ignored by git).
-- Run the Streamlit report locally:
-  - `streamlit run streamlit_app.py`
+- Install Python deps: `pip install -r requirements.txt`
+- Full update (scrape everything + analytics), from the repo root: `python -m pipeline` (add `--refresh` to ignore the HTML cache).
+- Individual steps: `python -m pipeline.scrape_list`, `python -m pipeline.scrape_members`, `python -m pipeline.scrape_people`, `python -m pipeline.build_analytics`.
+- Web report: `cd web && npm install && npm run build` (static output in `web/out/`); `npm run dev` for development.
+- Letterboxd's Cloudflare blocks the `requests` TLS fingerprint on some pages; the pipeline uses `curl_cffi` impersonating Chrome.
 - If you add scripts, document their usage here and keep them runnable from the repo root.
 
 ## Coding Style & Naming Conventions
-- Prefer clear, notebook-friendly Python with short, descriptive variable names and explicit column names.
-- Use 4-space indentation in Python cells.
-- Naming patterns in data files are snake_case and prefixed (e.g., `fc_*.csv`, `dromemario_*.csv`). Follow the same pattern for new exports.
+- Prefer clear Python with short, descriptive variable names and explicit column names; 4-space indentation.
+- Data files are snake_case and prefixed with `fc_`. Follow the same pattern for new exports.
 
 ## Testing Guidelines
 - No automated test framework is currently configured.
 - If you introduce tests, place them under `tests/` and document how to run them (e.g., `pytest`).
 
 ## Commit & Pull Request Guidelines
-- Recent commits use imperative/past-tense summaries (e.g., ?Optimized prompt.?, ?Added extraction loop and ran it.?). Keep messages short and specific.
+- Recent commits use imperative/past-tense summaries (e.g., "Optimized prompt.", "Added extraction loop and ran it."). Keep messages short and specific.
 - PRs should include:
-  - A brief summary of notebook changes.
+  - A brief summary of pipeline/report changes.
   - Links to relevant issues or data sources.
   - Screenshots or output snippets when analysis results change.
 
 ## Security & Configuration Tips
 - Do not commit API keys or tokens. Use `auths.env` locally and add new secrets to `.gitignore` if needed.
-- If sharing notebooks, strip outputs that expose sensitive data.
 
 ## User's Reminders
-- Last presentation to friends: Nov 2024, 70 movies, ending at Fallen Angels (commits `84b61c0`..`f441176`). Dr. Strangelove and Meshes of the Afternoon were watched right after it and are not part of the presented data. Kiss Kiss Bang Bang ended the Dec 2024 data update (78 movies), which was never presented. See `PLANO.md`.
+- Last presentation to friends: Nov 2024, 70 movies, ending at Fallen Angels (commits `84b61c0`..`f441176`). Dr. Strangelove and Meshes of the Afternoon were watched right after it and are not part of the presented data. Kiss Kiss Bang Bang ended the Dec 2024 data update (78 movies), which was never presented. The pipeline encodes this cutoff as `LAST_PRESENTED_SLUG` in `pipeline/config.py`; Requiem for a Dream sits at position 32 but was added to the list after that presentation. See `PLANO.md`.
