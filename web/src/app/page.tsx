@@ -120,7 +120,9 @@ export default function Home() {
   const byAvg = [...r.members].sort((a, b) => (b.avg_rating ?? 0) - (a.avg_rating ?? 0));
   const generous = byAvg[0];
   const harsh = byAvg[byAvg.length - 1];
-  const groupRated =r.films.filter((f) => f.group_voters >= r.min_voters).length;
+  const byUser = Object.fromEntries(r.members.map((mm) => [mm.username, mm]));
+  const duo = r.affinity[0]; // menor diferença média de nota
+  const groupRated = r.films.filter((f) => f.group_voters >= r.min_voters).length;
 
   return (
     <main>
@@ -197,7 +199,7 @@ export default function Home() {
 
       <Slide id="notas" title="Nossas notas: premiações">
         <div className="reveals reveal">
-          <Reveal question="Comparação Letterboxd">
+          <Reveal question="Comparação Letterboxd" sub="acima ou abaixo?">
             <article className="award award-group">
               <Statuette />
               <p className="award-intro">E o Óscar vai para</p>
@@ -230,6 +232,23 @@ export default function Home() {
               </article>
             </Reveal>
           ))}
+          <Reveal question="Óscar dupla dinâmica" sub="notas mais parecidas">
+            <article className="award">
+              <Statuette />
+              <p className="award-intro">E o Óscar vai para</p>
+              <span className="award-photo award-duo">
+                <Avatar url={byUser[duo.member_a].avatar_url} name={byUser[duo.member_a].display_name} />
+                <Avatar url={byUser[duo.member_b].avatar_url} name={byUser[duo.member_b].display_name} />
+              </span>
+              <h3>
+                {byUser[duo.member_a].display_name} <i>&</i> {byUser[duo.member_b].display_name}
+              </h3>
+              <p className="award-avg">
+                {fmt(duo.mean_abs_diff, 2)}★
+                <small>de diferença · {duo.common_films} filmes</small>
+              </p>
+            </article>
+          </Reveal>
         </div>
       </Slide>
 

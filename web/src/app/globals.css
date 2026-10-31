@@ -218,7 +218,7 @@ body { overflow-x: clip; }
 .ticket-group .ticket-avg { color: #1a130c; border-bottom-color: #1a130c55; }
 .ticket-group .ticket-avg small, .ticket-group dt { color: #5a4220; }
 /* Perguntas que viram para revelar um ingresso. */
-.reveals { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: clamp(16px, 2.5vw, 32px); max-width: 960px; }
+.reveals { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: clamp(14px, 2vw, 28px); }
 .flip { display: grid; perspective: 1400px; }
 .flip-front, .flip-back {
   grid-area: 1 / 1; backface-visibility: hidden; -webkit-backface-visibility: hidden;
@@ -264,6 +264,10 @@ body { overflow-x: clip; }
 .award h3 { margin: 0; font-family: var(--font-display); font-weight: 800; text-transform: uppercase; font-size: 30px; line-height: 1; letter-spacing: 0.03em; }
 .award-photo { margin: 6px 0 4px; }
 .award-photo .avatar { width: clamp(84px, 14vh, 120px); box-shadow: 0 0 0 2px #fbf3df, 0 0 0 4px #b8913a; }
+.award-duo { display: flex; }
+.award-duo .avatar + .avatar { margin-left: -18px; }
+.award-duo .avatar { width: clamp(70px, 11vh, 96px); }
+.award h3 i { font-family: var(--font-body); font-weight: 400; text-transform: none; color: #b8913a; }
 .award-avatars { list-style: none; margin: 4px 0; padding: 0; display: flex; justify-content: center; }
 .award-avatars li + li { margin-left: -14px; }
 .award-avatars .avatar { width: 50px; box-shadow: 0 0 0 2px #fbf3df; }
