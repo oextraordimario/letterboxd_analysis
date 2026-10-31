@@ -68,7 +68,7 @@ export type Person = {
 };
 
 /** Mesmos agregados, só com os filmes da última apresentação (notas/curtidas são as de hoje). */
-export type CrewRole = { role: string; people: { name: string; movie_count: number; link: string; url: string; films: string[] }[] };
+export type CrewRole = { role: string; people: { name: string; movie_count: number; link: string; url: string; image_url: string | null; films: string[] }[] };
 
 export type Previous = {
   label: string;

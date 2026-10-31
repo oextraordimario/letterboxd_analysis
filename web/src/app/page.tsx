@@ -114,7 +114,6 @@ const CREW_PT: Record<string, string> = {
   hairstyling: "Cabelo",
   "production-design": "Design de produção",
   casting: "Elenco (casting)",
-  "executive-producer": "Produção executiva",
   "visual-effects": "Efeitos visuais",
   stunts: "Dublês",
   sound: "Som",
@@ -629,6 +628,13 @@ export default function Home() {
           {r.crew.map((c) => (
             <div key={c.role} className="credit">
               <dt>{CREW_PT[c.role] ?? c.role}</dt>
+              <dd className="credit-photos">
+                {c.people.map((p) => (
+                  <span key={p.link} className="avatar" title={p.name}>
+                    {p.image_url ? <img src={p.image_url} alt="" loading="lazy" /> : <span>{p.name[0]}</span>}
+                  </span>
+                ))}
+              </dd>
               {c.people.map((p) => (
                 <dd key={p.link}>
                   <a href={p.url} target="_blank" rel="noreferrer" title={p.films.join(" · ")}>
