@@ -1,5 +1,6 @@
 import { BarList } from "@/components/BarList";
 import { Columns } from "@/components/Columns";
+import { CompareBars } from "@/components/CompareBars";
 import { Deck } from "@/components/Deck";
 import { Dumbbell } from "@/components/Dumbbell";
 import { FilmTable } from "@/components/FilmTable";
@@ -665,11 +666,29 @@ export default function Home() {
         </dl>
       </Slide>
 
-      <Slide id="mundo" title="Países, idiomas e estúdios">
-        <div className="three-col reveal">
-          <BarList caption="Países" items={r.countries.slice(0, 12).map((c) => ({ label: countryPt(c.country), value: c.movie_count }))} />
-          <BarList caption="Idiomas" items={r.languages.slice(0, 12).map((l) => ({ label: languagePt(l.language), value: l.movie_count }))} />
-          <BarList caption="Estúdios (3+ filmes)" items={r.studios.slice(0, 12).map((s) => ({ label: s.studio, value: s.movie_count }))} />
+      <Slide id="mundo" title="Países e idiomas">
+        <div className="reveal">
+          <CompareBars
+            previousLabel={r.previous.label}
+            lists={[
+              {
+                caption: "Países",
+                items: r.countries.slice(0, 10).map((c) => ({
+                  label: countryPt(c.country),
+                  value: c.movie_count,
+                  prev: r.previous.countries.find((x) => x.country === c.country)?.movie_count ?? 0,
+                })),
+              },
+              {
+                caption: "Idiomas",
+                items: r.languages.slice(0, 10).map((l) => ({
+                  label: languagePt(l.language),
+                  value: l.movie_count,
+                  prev: r.previous.languages.find((x) => x.language === l.language)?.movie_count ?? 0,
+                })),
+              },
+            ]}
+          />
         </div>
       </Slide>
 
