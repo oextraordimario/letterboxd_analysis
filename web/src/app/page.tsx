@@ -99,7 +99,8 @@ const LABELS = [
   "Os esquecidos",
   "#OpiniãoImpopular",
   "Impopular: os dados",
-  "Racharam o grupo",
+  "Racharam: premiações",
+  "Racharam: os dados",
   "Números",
   "Décadas e anos",
   "Atores e atrizes",
@@ -122,6 +123,10 @@ export default function Home() {
   const generous = byAvg[0];
   const harsh = byAvg[byAvg.length - 1];
   const forgotten = r.films.filter((f) => f.group_voters < r.min_voters).sort((a, b) => b.group_voters - a.group_voters);
+  // Maior convergência: menor desvio; empate vai para quem teve mais notas, depois o mais popular no site.
+  const consensus = r.films
+    .filter((f) => f.group_voters >= r.min_voters)
+    .sort((a, b) => (a.group_std ?? 9) - (b.group_std ?? 9) || b.group_voters - a.group_voters || b.lbxd_rating_count - a.lbxd_rating_count)[0];
   const groupDiff = r.group_avg_overall - r.lbxd_avg_overall_eligible;
   const groupRated = r.films.filter((f) => f.group_voters >= r.min_voters).length;
 
@@ -336,7 +341,38 @@ export default function Home() {
         </div>
       </Slide>
 
-      <Slide id="racharam" title="Os filmes que racharam o grupo" lede="Maior desvio-padrão entre as nossas notas. Em destaque, a nota mais alta e a mais baixa de cada filme.">
+      <Slide id="racharam" title="Racharam o grupo: premiações">
+        <div className="reveals reveal">
+          {[
+            { q: "Óscar discórdia", sub: "maior divergência entre nós", f: splits[0] },
+            { q: "Óscar consenso", sub: "maior convergência entre nós", f: consensus },
+          ].map(({ q, sub, f }) => {
+            const vals = Object.values(f.ratings).filter((v): v is number => v != null);
+            const lo = Math.min(...vals);
+            const hi = Math.max(...vals);
+            return (
+              <Reveal key={q} question={q} sub={sub}>
+                <article className="award">
+                  <Statuette />
+                  <p className="award-intro">E o Óscar vai para</p>
+                  <a className="award-poster" href={f.url} target="_blank" rel="noreferrer">
+                    {f.poster_url && <img src={f.poster_url} alt="" />}
+                  </a>
+                  <h3>{f.title}</h3>
+                  <p className="award-avg">
+                    {lo === hi ? stars(lo) : `${stars(lo)} a ${stars(hi)}`}
+                    <small>
+                      {vals.length} notas · desvio {fmt(f.group_std ?? 0, 2)}
+                    </small>
+                  </p>
+                </article>
+              </Reveal>
+            );
+          })}
+        </div>
+      </Slide>
+
+      <Slide id="racharam-dados" title="Racharam o grupo: os dados">
         <div className="filmtable-scroll reveal">
           <table className="splits">
             <thead>
