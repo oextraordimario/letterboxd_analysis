@@ -258,6 +258,27 @@ body { overflow-x: clip; }
 html.deck .slide .columns-bar { transform: scaleY(0); transition: transform 0.9s cubic-bezier(.2,.7,.2,1) 0.2s, background 0.2s; }
 html.deck .slide.is-active .columns-bar, html.deck .slide.was-seen .columns-bar { transform: none; }
 
+/* ---------- Os queridinhos ---------- */
+
+.darlings { display: grid; grid-template-columns: auto minmax(0, 1fr); max-width: 100%; gap: clamp(20px, 3vw, 44px); align-items: start; }
+.darling-top { --h: clamp(240px, 46vh, 500px); display: grid; gap: 12px; text-decoration: none; width: calc(var(--h) * 2 / 3); }
+.darling-top .darling-poster { height: var(--h); width: 100%; box-shadow: 0 0 0 2px var(--accent), 0 18px 40px #0009; }
+.darling-meta b { display: block; font-family: var(--font-display); font-weight: 800; text-transform: uppercase; font-size: clamp(20px, 2.6vh, 28px); line-height: 1.02; }
+.darling-likes { display: flex; align-items: center; gap: 10px; margin-top: 8px; font-family: var(--font-display); font-weight: 900; font-size: 32px; color: var(--down); }
+.darling-poster { display: block; aspect-ratio: 2 / 3; overflow: hidden; border-radius: 4px; background: var(--surface-2); box-shadow: 0 0 0 1px #0006; }
+.darling-poster img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s; }
+.darling-poster > span { display: grid; place-items: center; height: 100%; padding: 4px; font-size: 11px; text-align: center; }
+a:hover .darling-poster img { transform: scale(1.05); }
+.darling-rest { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(84px, 1fr)); gap: 14px 12px; }
+@media (min-width: 900px) { .darling-rest { grid-template-columns: repeat(7, minmax(0, 1fr)); max-width: calc((clamp(240px, 46vh, 500px) - 60px) / 2 / 1.5 * 7 + 72px); } }
+.darling-rest li { display: grid; gap: 6px; justify-items: start; }
+.darling-rest a { display: block; width: 100%; }
+.likers { display: inline-flex; }
+.likers > span + span { margin-left: -6px; }
+.likers .avatar { width: 22px; box-shadow: 0 0 0 2px var(--bg); }
+.darling-likes .likers .avatar { width: 30px; }
+@media (max-width: 899px) { .darlings { grid-template-columns: 1fr; } .darling-top { --h: 360px; } }
+
 /* ---------- Ingressos (membros) ---------- */
 
 .tickets { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 18px; }

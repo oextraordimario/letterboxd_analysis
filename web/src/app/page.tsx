@@ -78,6 +78,17 @@ function People({ people }: { people: Person[] }) {
 /** Nota como número + estrela ("4,5★"); a fonte display não tem o glifo ★ desenhado em sequência. */
 const starNum = (v: number, digits?: number) => `${fmt(v, digits ?? (Number.isInteger(v) ? 0 : 1))}★`;
 
+function Likers({ usernames }: { usernames: string[] }) {
+  return (
+    <span className="likers">
+      {usernames.map((u) => {
+        const mm = r.members.find((x) => x.username === u);
+        return mm ? <span key={u} title={mm.display_name}><Avatar url={mm.avatar_url} name={mm.display_name} /></span> : null;
+      })}
+    </span>
+  );
+}
+
 function Avatar({ url, name }: { url: string; name: string }) {
   return <span className="avatar">{url ? <img src={url} alt="" /> : <span>{name[0]}</span>}</span>;
 }
@@ -100,6 +111,7 @@ const LABELS = [
   "Temporada nova",
   "Premiações pt1",
   "Premiações pt2",
+  "Os queridinhos",
   "Notas: os dados",
   "Os esquecidos",
   "Clima tenso: premiações",
@@ -142,6 +154,7 @@ export default function Home() {
   const byUser = Object.fromEntries(r.members.map((mm) => [mm.username, mm]));
   const softie = [...r.members].sort((a, b) => b.films_liked - a.films_liked)[0];
   const mostLiked = [...r.films].sort((a, b) => b.like_count - a.like_count || b.lbxd_rating_count - a.lbxd_rating_count)[0];
+  const runnersUp = r.films.filter((f) => f !== mostLiked && f.like_count === 2);
   const forgotten = r.films.filter((f) => f.group_voters < r.min_voters).sort((a, b) => b.group_voters - a.group_voters);
   // Consenso: nota média alta (ou baixa) com pouco desvio. Empate: mais notas, depois mais popular no site.
   const eligible = r.films.filter((f) => f.group_voters >= r.min_voters);
@@ -298,20 +311,31 @@ export default function Home() {
               </article>
             </Reveal>
           ))}
-          <Reveal question="Óscar queridinho" sub="filme mais curtido">
-            <article className="award">
-              <Statuette />
-              <p className="award-intro">E o Óscar vai para</p>
-              <a className="award-poster" href={mostLiked.url} target="_blank" rel="noreferrer">
-                {mostLiked.poster_url && <img src={mostLiked.poster_url} alt="" />}
-              </a>
-              <h3 className="award-title-sm">{mostLiked.title}</h3>
-              <p className="award-avg">
+        </div>
+      </Slide>
+
+      <Slide id="queridinhos" title="Os queridinhos" lede="Os filmes que mais levaram coração.">
+        <div className="darlings reveal">
+          <a className="darling-top" href={mostLiked.url} target="_blank" rel="noreferrer">
+            <span className="darling-poster">{mostLiked.poster_url && <img src={mostLiked.poster_url} alt="" />}</span>
+            <span className="darling-meta">
+              <b>{mostLiked.title}</b>
+              <span className="darling-likes">
                 {mostLiked.like_count}♥
-                <small>{mostLiked.liked_by.map((u) => byUser[u]?.display_name ?? u).join(", ")}</small>
-              </p>
-            </article>
-          </Reveal>
+                <Likers usernames={mostLiked.liked_by} />
+              </span>
+            </span>
+          </a>
+          <ol className="darling-rest">
+            {runnersUp.map((f) => (
+              <li key={f.slug}>
+                <a href={f.url} target="_blank" rel="noreferrer" title={`${f.title} (${f.year})`}>
+                  <span className="darling-poster">{f.poster_url ? <img src={f.poster_url} alt={f.title} loading="lazy" /> : <span>{f.title}</span>}</span>
+                </a>
+                <Likers usernames={f.liked_by} />
+              </li>
+            ))}
+          </ol>
         </div>
       </Slide>
 
