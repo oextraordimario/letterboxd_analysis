@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "predev": "node scripts/liberar-porta.mjs",
+    "dev": "next dev -p 3047",
     "build": "next build",
-    "start": "next start"
+    "start": "next start -p 3047"
   },
   "dependencies": {
     "next": "16.4.3",
