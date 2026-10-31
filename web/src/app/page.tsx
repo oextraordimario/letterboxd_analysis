@@ -97,7 +97,8 @@ const LABELS = [
   "Abertura",
   "Resumo",
   "Temporada nova",
-  "Premiações",
+  "Premiações pt1",
+  "Premiações pt2",
   "Notas: os dados",
   "Os esquecidos",
   "#OpiniãoImpopular",
@@ -227,7 +228,7 @@ export default function Home() {
         </div>
       </Slide>
 
-      <Slide id="notas" title="Nossas notas: premiações">
+      <Slide id="notas" title="Nossas notas: premiações pt1">
         <div className="reveals reveal">
           <Reveal question="Comparação Letterboxd" sub="acima ou abaixo?" variant="group">
             <article className="award award-group">
@@ -249,6 +250,33 @@ export default function Home() {
           {[
             { q: "Óscar generosidade", sub: "notas mais altas", mm: generous, std: false },
             { q: "Óscar ranzinza", sub: "notas mais baixas", mm: harsh, std: false },
+          ].map(({ q, sub, mm, std }) => (
+            <Reveal key={q} question={q} sub={sub}>
+              <article className="award">
+                <Statuette />
+                <p className="award-intro">E o Óscar vai para</p>
+                <span className="award-photo"><Avatar url={mm.avatar_url} name={mm.display_name} /></span>
+                <h3>{mm.display_name}</h3>
+                {std ? (
+                  <p className="award-avg">
+                    ±{fmt(memberStd[mm.username], 2)}
+                    <small>desvio padrão das notas</small>
+                  </p>
+                ) : (
+                  <p className="award-avg">
+                    {fmt(mm.avg_rating ?? 0, 2)}
+                    <small>{signed(mm.avg_diff_vs_group ?? 0)} vs. grupo</small>
+                  </p>
+                )}
+              </article>
+            </Reveal>
+          ))}
+        </div>
+      </Slide>
+
+      <Slide id="notas-pt2" title="Nossas notas: premiações pt2">
+        <div className="reveals reveal">
+          {[
             { q: "Óscar consistente", sub: "notas mais parecidas entre si", mm: steady, std: true },
             { q: "Óscar 8 ou 80", sub: "notas mais espalhadas", mm: swingy, std: true },
           ].map(({ q, sub, mm, std }) => (
