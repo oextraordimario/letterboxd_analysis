@@ -1,7 +1,7 @@
 import { BarList } from "@/components/BarList";
 import { Dumbbell } from "@/components/Dumbbell";
 import { FilmTable } from "@/components/FilmTable";
-import { countryPt, date, fmt, genrePt, languagePt, monthYear, signed, stars } from "@/lib/format";
+import { countryPt, date, fmt, genrePt, languagePt, signed, stars } from "@/lib/format";
 import { loadReport, type Person } from "@/lib/report";
 
 const r = loadReport();
@@ -17,11 +17,10 @@ function topPeople(people: Person[], topN = 3, maxTotal = 6) {
   return tied.length <= maxTotal ? tied : people.slice(0, maxTotal);
 }
 
-function Section({ id, kicker, title, children, lede }: { id: string; kicker: string; title: string; lede?: React.ReactNode; children: React.ReactNode }) {
+function Section({ id, title, children, lede }: { id: string; title: string; lede?: React.ReactNode; children: React.ReactNode }) {
   return (
     <section id={id} className="section">
       <header className="section-head">
-        <p className="kicker">{kicker}</p>
         <h2>{title}</h2>
         {lede && <p className="lede">{lede}</p>}
       </header>
@@ -84,7 +83,6 @@ export default function Home() {
           <h1>
             <span>Família</span> <span>Fã de</span> <span>Filmes</span>
           </h1>
-          <p className="marquee-bottom">Retrospectiva · {monthYear(r.generated_at.slice(0, 10))}</p>
         </div>
         <div className="hero-numbers">
           <Stat value={fmt(m.movies_watched)} label="filmes" />
@@ -114,7 +112,6 @@ export default function Home() {
 
       <Section
         id="temporada"
-        kicker="Desde a última apresentação"
         title={`${since.movies_watched} filmes depois de ${r.last_presented.title}`}
         lede={
           <>
@@ -143,7 +140,6 @@ export default function Home() {
 
       <Section
         id="notas"
-        kicker="Novidade"
         title="Nossas notas"
         lede={
           <>
@@ -198,7 +194,6 @@ export default function Home() {
 
       <Section
         id="divergencias"
-        kicker="Nós vs. o mundo"
         title="Onde a gente discorda do Letterboxd"
         lede={`Diferença entre a média do grupo e a média do site, só nos filmes com ${r.min_voters} ou mais notas nossas. Passe o mouse para ver a nota de cada um.`}
       >
@@ -253,7 +248,7 @@ export default function Home() {
         </div>
       </Section>
 
-      <Section id="numeros" kicker="Dados gerais" title="Os números da sessão">
+      <Section id="numeros" title="Os números da sessão">
         <div className="stats-row">
           <Stat value={fmt(m.minutes_watched)} label="minutos assistidos" />
           <Stat value={fmt(m.avg_movie_length, 0)} label="min de duração média" />
@@ -271,13 +266,13 @@ export default function Home() {
         </div>
       </Section>
 
-      <Section id="gente" kicker="Elenco e equipe" title="Quem mais apareceu na nossa tela">
+      <Section id="gente" title="Quem mais apareceu na nossa tela">
         <People title="Atores e atrizes" people={r.people.actors} />
         <People title="Direção" people={r.people.directors} />
         <People title="Roteiro" people={r.people.writers} />
       </Section>
 
-      <Section id="mundo" kicker="Geografia" title="Países, idiomas e estúdios">
+      <Section id="mundo" title="Países, idiomas e estúdios">
         <div className="three-col">
           <BarList caption="Países" items={r.countries.slice(0, 12).map((c) => ({ label: countryPt(c.country), value: c.movie_count }))} />
           <BarList caption="Idiomas" items={r.languages.slice(0, 12).map((l) => ({ label: languagePt(l.language), value: l.movie_count }))} />
@@ -285,7 +280,7 @@ export default function Home() {
         </div>
       </Section>
 
-      <Section id="generos" kicker="Gêneros e temas" title="Do que a gente gosta">
+      <Section id="generos" title="Do que a gente gosta">
         <div className="two-col">
           <BarList caption="Gênero principal de cada filme" items={r.genres_primary.map((g) => ({ label: genrePt(g.genre), value: g.movie_count }))} />
           <BarList caption="Todos os gêneros marcados" items={r.genres_all.map((g) => ({ label: genrePt(g.genre), value: g.movie_count }))} />
@@ -293,7 +288,7 @@ export default function Home() {
         <BarList caption="Os 20 temas mais frequentes (nomes do Letterboxd)" items={r.themes.map((t) => ({ label: t.theme, value: t.movie_count }))} />
       </Section>
 
-      <Section id="futuro" kicker="Roadmap" title="Sugestões pra próxima temporada">
+      <Section id="futuro" title="Sugestões pra próxima temporada">
         <ul className="suggestions">
           <li>
             Só {fewestDecade.movie_count} filme{fewestDecade.movie_count > 1 ? "s" : ""} dos anos {fewestDecade.release_decade}: tá na hora de cavar mais fundo no arquivo.
@@ -305,7 +300,7 @@ export default function Home() {
         </ul>
       </Section>
 
-      <Section id="filmes" kicker="Arquivo" title="Todos os filmes" lede="A lista completa, na ordem em que vimos. Clique no cabeçalho para ordenar; os da temporada nova estão marcados.">
+      <Section id="filmes" title="Todos os filmes" lede="A lista completa, na ordem em que vimos. Clique no cabeçalho para ordenar; os da temporada nova estão marcados.">
         <FilmTable films={r.films} members={r.members} />
       </Section>
 
