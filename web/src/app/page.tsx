@@ -97,8 +97,8 @@ const LABELS = [
   "Premiações",
   "Notas: os dados",
   "Os esquecidos",
-  "Gostamos mais",
-  "Gostamos menos",
+  "#OpiniãoImpopular",
+  "Impopular: os dados",
   "Racharam o grupo",
   "Números",
   "Décadas e anos",
@@ -165,7 +165,7 @@ export default function Home() {
         <nav className="toc reveal" aria-label="Seções">
           <a href="#temporada">Temporada nova</a>
           <a href="#notas">Nossas notas</a>
-          <a href="#mais">Nós vs. o mundo</a>
+          <a href="#impopular">#OpiniãoImpopular</a>
           <a href="#numeros">Números</a>
           <a href="#atores">Quem mais apareceu</a>
           <a href="#mundo">Países e idiomas</a>
@@ -270,7 +270,7 @@ export default function Home() {
         </div>
       </Slide>
 
-      <Slide id="esquecidos" title="Os esquecidos" lede={`Menos de ${r.min_voters} notas nossas: ficaram de fora da média do grupo.`}>
+      <Slide id="esquecidos" title="Os esquecidos" lede={`Filmes com menos de ${r.min_voters} avaliações.`}>
         <ol className="forgotten reveal">
           {forgotten.map((f) => {
             const raters = r.members.filter((mm) => f.ratings[mm.username] != null);
@@ -294,19 +294,46 @@ export default function Home() {
         </ol>
       </Slide>
 
-      <Slide
-        id="mais"
-        title="Gostamos mais que o mundo"
-        lede={`Média do grupo vs. média do Letterboxd, nos filmes com ${r.min_voters} ou mais notas nossas. Passe o mouse para ver a nota de cada um.`}
-      >
-        <div className="reveal">
-          <Dumbbell films={r.divergence.liked_more.map((s) => bySlug[s])} members={r.members} />
+      <Slide id="impopular" title="#OpiniãoImpopular: premiações">
+        <div className="reveals reveal">
+          {[
+            { q: "Óscar amor incompreendido", sub: "gostamos mais que o mundo", f: bySlug[r.divergence.liked_more[0]] },
+            { q: "Óscar ódio incompreendido", sub: "gostamos menos que o mundo", f: bySlug[r.divergence.liked_less[0]] },
+          ].map(({ q, sub, f }) => (
+            <Reveal key={q} question={q} sub={sub}>
+              <article className="award">
+                <Statuette />
+                <p className="award-intro">E o Óscar vai para</p>
+                <a className="award-poster" href={f.url} target="_blank" rel="noreferrer">
+                  {f.poster_url && <img src={f.poster_url} alt="" />}
+                </a>
+                <h3>{f.title}</h3>
+                <p className="award-avg">
+                  {signed(f.diff_vs_lbxd ?? 0)}
+                  <small>
+                    {fmt(f.group_avg ?? 0, 2)} nossa · {fmt(f.lbxd_avg, 2)} Letterboxd
+                  </small>
+                </p>
+              </article>
+            </Reveal>
+          ))}
         </div>
       </Slide>
 
-      <Slide id="menos" title="Gostamos menos que o mundo" lede="Os filmes em que ficamos mais abaixo da média do site.">
-        <div className="reveal">
-          <Dumbbell films={r.divergence.liked_less.map((s) => bySlug[s])} members={r.members} />
+      <Slide
+        id="impopular-dados"
+        title="#OpiniãoImpopular: os dados"
+        lede={`Média do grupo vs. média do Letterboxd, nos filmes com ${r.min_voters} ou mais notas nossas. Passe o mouse para ver a nota de cada um.`}
+      >
+        <div className="two-col dumbbells reveal">
+          <div>
+            <p className="subhead up">Gostamos mais que o mundo</p>
+            <Dumbbell films={r.divergence.liked_more.map((s) => bySlug[s])} members={r.members} />
+          </div>
+          <div>
+            <p className="subhead down">Gostamos menos que o mundo</p>
+            <Dumbbell films={r.divergence.liked_less.map((s) => bySlug[s])} members={r.members} />
+          </div>
         </div>
       </Slide>
 
