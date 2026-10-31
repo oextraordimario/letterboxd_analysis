@@ -205,34 +205,37 @@ def records(df: pd.DataFrame) -> list[dict]:
     return json.loads(df.to_json(orient="records", force_ascii=False))
 
 
-def build() -> None:
-    raw = load_raw()
-    lst, gd = raw["list"], raw["generaldata"]
-    members = raw["members"]
-    member_names = list(members["username"])
+PREV_TABLES = [
+    "main_metrics", "movies_per_release_decade", "popular_actors", "popular_directors", "popular_writers",
+    "movies_per_country", "movies_per_language", "movies_per_studio",
+    "popular_complete_genres", "popular_primary_genres", "popular_themes", "member_stats",
+]
 
-    films = lst[["position", "film_slug"]].merge(
-        gd.rename(columns={"letterboxd_slug": "film_slug", "letterboxd_shorttitle": "title"}), on="film_slug"
-    )
-    films = films.sort_values("position").reset_index(drop=True)
-    films["watched_date"] = films["film_slug"].map(club_watch_dates(lst, raw["owner_diary"]))
-    cutoff = int(lst.loc[lst["film_slug"] == LAST_PRESENTED_SLUG, "position"].iloc[0])
-    films["presented"] = films["position"] <= cutoff
+
+def aggregate(films: pd.DataFrame, raw: dict[str, pd.DataFrame], members: pd.DataFrame, end: pd.Timestamp):
+    """Agregações do relatório sobre um subconjunto de filmes.
+
+    Devolve (tabelas analíticas, seções do report.json). As tabelas brutas são
+    filtradas pelos filmes recebidos; `end` é até quando se mede a idade do clube.
+    """
+    member_names = list(members["username"])
+    ids = set(films["letterboxd_id"])
+    slugs = set(films["film_slug"])
+    by_film = lambda df: df[df["film_id"].isin(ids)]  # noqa: E731
 
     analytics: dict[str, pd.DataFrame] = {}
     metrics = main_metrics(films)
-    # Idade do clube: da primeira sessão até hoje.
+    # Idade do clube: da primeira sessão até `end`.
     start = pd.Timestamp(films["watched_date"].min())
-    today = pd.Timestamp(date.today())
-    months = (today.year - start.year) * 12 + (today.month - start.month) - (today.day < start.day)
+    months = (end.year - start.year) * 12 + (end.month - start.month) - (end.day < start.day)
     metrics["club_start"] = start.date().isoformat()
     metrics["club_age_months"] = int(months)
-    metrics["films_per_month"] = round(len(films) / ((today - start).days / (365.25 / 12)), 2)
+    metrics["films_per_month"] = round(len(films) / ((end - start).days / (365.25 / 12)), 2)
     analytics["main_metrics"] = pd.DataFrame([metrics])
     analytics["movies_per_release_decade"] = movies_per_decade(films)
 
     people_img = raw["people"].fillna({"image_url": ""}).set_index("link")["image_url"].to_dict()
-    cast, crew = raw["cast"], raw["crew"]
+    cast, crew = by_film(raw["cast"]), by_film(raw["crew"])
     person_sections = {}
     for role, df, min_films in [
         ("actors", cast, 3),
@@ -252,13 +255,13 @@ def build() -> None:
             for p in records(counts)
         ]
 
-    details = raw["details"]
+    details = by_film(raw["details"])
     analytics["movies_per_country"] = count_by(details, "country")
     analytics["movies_per_language"] = count_by(details, "language")
     analytics["movies_per_studio"] = count_by(details, "studio", min_count=3)
-    analytics.update(genre_tables(raw["genresthemes"]))
+    analytics.update(genre_tables(by_film(raw["genresthemes"])))
 
-    seen = raw["member_films"]
+    seen = raw["member_films"][raw["member_films"]["film_slug"].isin(slugs)]
     ratings = seen.dropna(subset=["rating"])
     gr = group_ratings(films, ratings, member_names)
     analytics["group_ratings"] = gr
@@ -279,6 +282,48 @@ def build() -> None:
     analytics["film_likes"] = film_likes
 
     eligible = gr[gr["group_voters"] >= MIN_VOTERS]
+    sections = {
+        "metrics": metrics,
+        "members": records(analytics["member_stats"]),
+        "group_avg_overall": round(float(eligible["group_avg"].mean()), 2),
+        "lbxd_avg_overall_eligible": round(float(eligible["avg_rating"].mean()), 2),
+        "decades": records(analytics["movies_per_release_decade"]),
+        "people": person_sections,
+        "countries": records(analytics["movies_per_country"]),
+        "languages": records(analytics["movies_per_language"]),
+        "studios": records(analytics["movies_per_studio"]),
+        "genres_all": records(analytics["popular_complete_genres"]),
+        "genres_primary": records(analytics["popular_primary_genres"]),
+        "themes": records(analytics["popular_themes"].head(20)),
+    }
+    return analytics, sections, liked_by, eligible
+
+
+def build() -> None:
+    raw = load_raw()
+    lst, gd = raw["list"], raw["generaldata"]
+    members = raw["members"]
+    member_names = list(members["username"])
+
+    films = lst[["position", "film_slug"]].merge(
+        gd.rename(columns={"letterboxd_slug": "film_slug", "letterboxd_shorttitle": "title"}), on="film_slug"
+    )
+    films = films.sort_values("position").reset_index(drop=True)
+    films["watched_date"] = films["film_slug"].map(club_watch_dates(lst, raw["owner_diary"]))
+    cutoff = int(lst.loc[lst["film_slug"] == LAST_PRESENTED_SLUG, "position"].iloc[0])
+    films["presented"] = films["position"] <= cutoff
+
+    analytics, sections, liked_by, eligible = aggregate(films, raw, members, pd.Timestamp(date.today()))
+    gr = analytics["group_ratings"]
+
+    # "Então vs agora": as mesmas agregações só com os filmes da apresentação de nov/2024.
+    # A idade do clube vai até a data da sessão do último filme apresentado (LAST_PRESENTED_SLUG):
+    # é a última data que temos antes da apresentação (feita poucos dias depois).
+    presented = films[films["presented"]].reset_index(drop=True)
+    prev_end = pd.Timestamp(films.loc[films["film_slug"] == LAST_PRESENTED_SLUG, "watched_date"].iloc[0])
+    prev_analytics, prev_sections, _, _ = aggregate(presented, raw, members, prev_end)
+    analytics.update({f"prev_{k}": prev_analytics[k] for k in PREV_TABLES})
+
     analytics["divergence_liked_more"] = eligible.sort_values("diff_vs_lbxd", ascending=False).head(10)
     analytics["divergence_liked_less"] = eligible.sort_values("diff_vs_lbxd").head(10)
     analytics["group_splits"] = eligible.dropna(subset=["group_std"]).sort_values("group_std", ascending=False).head(10)
@@ -328,13 +373,13 @@ def build() -> None:
         "list_url": BASE_URL + LIST_PATH,
         "min_voters": MIN_VOTERS,
         "last_presented": {"position": cutoff, "title": films.loc[cutoff - 1, "title"]},
-        "metrics": metrics,
+        "metrics": sections["metrics"],
         "since_last_presentation": {
             **main_metrics(new),
             "first_date": new["watched_date"].min(),
             "last_date": new["watched_date"].max(),
         },
-        "members": records(analytics["member_stats"]),
+        "members": sections["members"],
         "affinity": records(analytics["member_affinity"]),
         "films": film_records,
         "divergence": {
@@ -342,17 +387,23 @@ def build() -> None:
             "liked_less": slugs(analytics["divergence_liked_less"]),
             "splits": slugs(analytics["group_splits"]),
         },
-        "group_avg_overall": round(float(eligible["group_avg"].mean()), 2),
-        "lbxd_avg_overall_eligible": round(float(eligible["avg_rating"].mean()), 2),
-        "decades": records(analytics["movies_per_release_decade"]),
+        "group_avg_overall": sections["group_avg_overall"],
+        "lbxd_avg_overall_eligible": sections["lbxd_avg_overall_eligible"],
+        "decades": sections["decades"],
         "years_watched": records(analytics["movies_per_year_watched"]),
-        "people": person_sections,
-        "countries": records(analytics["movies_per_country"]),
-        "languages": records(analytics["movies_per_language"]),
-        "studios": records(analytics["movies_per_studio"]),
-        "genres_all": records(analytics["popular_complete_genres"]),
-        "genres_primary": records(analytics["popular_primary_genres"]),
-        "themes": records(analytics["popular_themes"].head(20)),
+        "people": sections["people"],
+        "countries": sections["countries"],
+        "languages": sections["languages"],
+        "studios": sections["studios"],
+        "genres_all": sections["genres_all"],
+        "genres_primary": sections["genres_primary"],
+        "themes": sections["themes"],
+        "previous": {
+            "label": "nov/24",
+            "film_count": len(presented),
+            "note": "Notas e curtidas são as de hoje (não há histórico); só o recorte de filmes é o da apresentação.",
+            **prev_sections,
+        },
     }
     (ANALYTICS_DIR / "report.json").write_text(json.dumps(report, ensure_ascii=False, indent=1, allow_nan=False), encoding="utf-8")
     print(f"OK: {len(analytics)} tabelas em data/analytics/ + report.json")

@@ -4,6 +4,7 @@
 - `pipeline/`: pure-Python scraping and analytics (no notebooks). Settings (list URL, extra members, presentation cutoff, request delay) live in `pipeline/config.py`.
 - `data/raw/`: data exactly as scraped from Letterboxd (`fc_*.csv`, `;`-separated). Never edit by hand; HTML cache in `data/raw/_cache/` (ignored by git).
 - `data/analytics/`: derived tables (`fc_*.csv`) plus `report.json`, the only file the web report reads.
+- `report.json` → `previous`: the same aggregates (metrics, decades, people, countries, languages, studios, genres, themes, members, group averages) computed only over the films presented in Nov 2024 (`presented: true`), for then-vs-now comparisons; ratings/likes are today's values. Mirrored in `data/analytics/fc_prev_*.csv`.
 - `web/`: Next.js report, exported as a static site (`web/out/`). Read `web/AGENTS.md` before touching it.
 - `legacy/`: frozen previous version (notebooks, Streamlit, Feb 2026 data). Do not change.
 - `auths.env` holds old API credentials (unused by the pipeline); keep secrets out of Git history.

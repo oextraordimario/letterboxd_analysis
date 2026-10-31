@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T17:04:06+00:00",
+ "generated_at": "2026-10-31T17:09:49+00:00",
  "list_url": "https://letterboxd.com/dromemario/list/fff-familia-fa-de-filmes/",
  "min_voters": 3,
  "last_presented": {
@@ -6057,5 +6057,734 @@
    "theme": "Heartfelt and sentimental family stories",
    "movie_count": 15
   }
- ]
+ ],
+ "previous": {
+  "label": "nov/24",
+  "film_count": 71,
+  "note": "Notas e curtidas são as de hoje (não há histórico); só o recorte de filmes é o da apresentação.",
+  "metrics": {
+   "movies_watched": 71,
+   "minutes_watched": 7642,
+   "hours_watched": 127.37,
+   "days_watched": 5.31,
+   "avg_movie_length": 107.63,
+   "name_longest_movie": "RRR",
+   "duration_longest_movie": 187,
+   "name_shortest_movie": "Evil Dead II",
+   "duration_shortest_movie": 84,
+   "avg_lbxd_rating": 3.65,
+   "best_lbxd_rating": "Dune: Part Two",
+   "best_lbxd_rating_value": 4.37,
+   "worst_lbxd_rating": "Cats",
+   "worst_lbxd_rating_value": 1.24,
+   "club_start": "2022-04-05",
+   "club_age_months": 31,
+   "films_per_month": 2.27
+  },
+  "members": [
+   {
+    "username": "dromemario",
+    "display_name": "dromemario",
+    "films_seen": 71,
+    "films_rated": 71,
+    "avg_rating": 3.46,
+    "avg_diff_vs_lbxd": -0.19,
+    "avg_diff_vs_group": 0.18,
+    "favorite_film": "Dune: Part Two",
+    "favorite_rating": 5.0,
+    "least_favorite_film": "Cats",
+    "least_favorite_rating": 1.0,
+    "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/5/8/5/7/8/shard/avtr-0-220-0-220-crop.jpg?v=df9c48ce63",
+    "films_liked": 23
+   },
+   {
+    "username": "marmito",
+    "display_name": "Marmito",
+    "films_seen": 68,
+    "films_rated": 68,
+    "avg_rating": 3.4,
+    "avg_diff_vs_lbxd": -0.25,
+    "avg_diff_vs_group": 0.11,
+    "favorite_film": "Dune: Part Two",
+    "favorite_rating": 5.0,
+    "least_favorite_film": "Cats",
+    "least_favorite_rating": 0.5,
+    "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/7/0/9/9/6/9/2/shard/avtr-0-220-0-220-crop.jpg?v=755bf317c4",
+    "films_liked": 0
+   },
+   {
+    "username": "pratini",
+    "display_name": "Pratini",
+    "films_seen": 69,
+    "films_rated": 69,
+    "avg_rating": 3.16,
+    "avg_diff_vs_lbxd": -0.5,
+    "avg_diff_vs_group": -0.24,
+    "favorite_film": "Everything Everywhere All at Once",
+    "favorite_rating": 5.0,
+    "least_favorite_film": "Bubba Ho-tep",
+    "least_favorite_rating": 1.0,
+    "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/7/0/9/9/7/5/9/shard/avtr-0-220-0-220-crop.jpg?v=caeaebcc61",
+    "films_liked": 14
+   },
+   {
+    "username": "instalkiane",
+    "display_name": "instalkiane",
+    "films_seen": 24,
+    "films_rated": 24,
+    "avg_rating": 3.02,
+    "avg_diff_vs_lbxd": -0.52,
+    "avg_diff_vs_group": -0.22,
+    "favorite_film": "MaXXXine",
+    "favorite_rating": 5.0,
+    "least_favorite_film": "Cats",
+    "least_favorite_rating": 1.0,
+    "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/7/0/9/9/8/0/4/shard/avtr-0-220-0-220-crop.jpg?v=7d418ceb7a",
+    "films_liked": 1
+   },
+   {
+    "username": "zafrina",
+    "display_name": "Zafrina",
+    "films_seen": 3,
+    "films_rated": 3,
+    "avg_rating": 4.0,
+    "avg_diff_vs_lbxd": 0.23,
+    "avg_diff_vs_group": 0.57,
+    "favorite_film": "Humanist Vampire Seeking Consenting Suicidal Person",
+    "favorite_rating": 4.0,
+    "least_favorite_film": "Pearl",
+    "least_favorite_rating": 4.0,
+    "avatar_url": "https://a.ltrbxd.com/resized/avatar/upload/2/1/3/3/5/6/6/9/shard/avtr-0-220-0-220-crop.jpg?v=b6c86ae4ea",
+    "films_liked": 3
+   }
+  ],
+  "group_avg_overall": 3.33,
+  "lbxd_avg_overall_eligible": 3.65,
+  "decades": [
+   {
+    "release_decade": 1920,
+    "movie_count": 1
+   },
+   {
+    "release_decade": 1930,
+    "movie_count": 0
+   },
+   {
+    "release_decade": 1940,
+    "movie_count": 1
+   },
+   {
+    "release_decade": 1950,
+    "movie_count": 1
+   },
+   {
+    "release_decade": 1960,
+    "movie_count": 0
+   },
+   {
+    "release_decade": 1970,
+    "movie_count": 4
+   },
+   {
+    "release_decade": 1980,
+    "movie_count": 17
+   },
+   {
+    "release_decade": 1990,
+    "movie_count": 13
+   },
+   {
+    "release_decade": 2000,
+    "movie_count": 7
+   },
+   {
+    "release_decade": 2010,
+    "movie_count": 10
+   },
+   {
+    "release_decade": 2020,
+    "movie_count": 17
+   }
+  ],
+  "people": {
+   "actors": [
+    {
+     "name": "Bruce Campbell",
+     "movie_count": 4,
+     "link": "/actor/bruce-campbell/",
+     "url": "https://letterboxd.com/actor/bruce-campbell/",
+     "image_url": "https://image.tmdb.org/t/p/w500/p9335ljr7luOWsfwZSOlsIzFJKE.jpg",
+     "films": [
+      "Army of Darkness",
+      "Bubba Ho-tep",
+      "Evil Dead II",
+      "Fargo"
+     ]
+    },
+    {
+     "name": "Brendan Gleeson",
+     "movie_count": 3,
+     "link": "/actor/brendan-gleeson/",
+     "url": "https://letterboxd.com/actor/brendan-gleeson/",
+     "image_url": "https://image.tmdb.org/t/p/w500/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg",
+     "films": [
+      "28 Days Later",
+      "Paddington 2",
+      "The Banshees of Inisherin"
+     ]
+    },
+    {
+     "name": "Jeff Goldblum",
+     "movie_count": 3,
+     "link": "/actor/jeff-goldblum/",
+     "url": "https://letterboxd.com/actor/jeff-goldblum/",
+     "image_url": "https://image.tmdb.org/t/p/w500/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg",
+     "films": [
+      "Invasion of the Body Snatchers",
+      "Isle of Dogs",
+      "The Fly"
+     ]
+    },
+    {
+     "name": "Jeff Imada",
+     "movie_count": 3,
+     "link": "/actor/jeff-imada/",
+     "url": "https://letterboxd.com/actor/jeff-imada/",
+     "image_url": "https://image.tmdb.org/t/p/w500/sUNSaNQreSHYaJvKr0SfiBqMPDV.jpg",
+     "films": [
+      "Blade",
+      "Point Break",
+      "They Live"
+     ]
+    },
+    {
+     "name": "Keith David",
+     "movie_count": 3,
+     "link": "/actor/keith-david/",
+     "url": "https://letterboxd.com/actor/keith-david/",
+     "image_url": "https://image.tmdb.org/t/p/w500/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg",
+     "films": [
+      "Pitch Black",
+      "Requiem for a Dream",
+      "They Live"
+     ]
+    },
+    {
+     "name": "Mia Goth",
+     "movie_count": 3,
+     "link": "/actor/mia-goth/",
+     "url": "https://letterboxd.com/actor/mia-goth/",
+     "image_url": "https://image.tmdb.org/t/p/w500/rwko7XVaKFcJH1dtAIIsrgLMzHb.jpg",
+     "films": [
+      "MaXXXine",
+      "Pearl",
+      "X"
+     ]
+    },
+    {
+     "name": "Nicolas Cage",
+     "movie_count": 3,
+     "link": "/actor/nicolas-cage/",
+     "url": "https://letterboxd.com/actor/nicolas-cage/",
+     "image_url": "https://image.tmdb.org/t/p/w500/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
+     "films": [
+      "Pig",
+      "Renfield",
+      "The Unbearable Weight of Massive Talent"
+     ]
+    }
+   ],
+   "directors": [
+    {
+     "name": "Ti West",
+     "movie_count": 3,
+     "link": "/director/ti-west/",
+     "url": "https://letterboxd.com/director/ti-west/",
+     "image_url": "https://image.tmdb.org/t/p/w500/y65ZHU9m830lbdbggxC8eOT123S.jpg",
+     "films": [
+      "MaXXXine",
+      "Pearl",
+      "X"
+     ]
+    },
+    {
+     "name": "Denis Villeneuve",
+     "movie_count": 2,
+     "link": "/director/denis-villeneuve/",
+     "url": "https://letterboxd.com/director/denis-villeneuve/",
+     "image_url": "https://image.tmdb.org/t/p/w500/xzQYqb4nR8xT7Zdw5itbEL9K3fd.jpg",
+     "films": [
+      "Dune",
+      "Dune: Part Two"
+     ]
+    },
+    {
+     "name": "Paul King",
+     "movie_count": 2,
+     "link": "/director/paul-king/",
+     "url": "https://letterboxd.com/director/paul-king/",
+     "image_url": "https://image.tmdb.org/t/p/w500/vteMQaGDpNHkKcuwT8yVQNeAohV.jpg",
+     "films": [
+      "Paddington",
+      "Paddington 2"
+     ]
+    },
+    {
+     "name": "Sam Raimi",
+     "movie_count": 2,
+     "link": "/director/sam-raimi/",
+     "url": "https://letterboxd.com/director/sam-raimi/",
+     "image_url": "https://image.tmdb.org/t/p/w500/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+     "films": [
+      "Army of Darkness",
+      "Evil Dead II"
+     ]
+    }
+   ],
+   "writers": [
+    {
+     "name": "Ti West",
+     "movie_count": 3,
+     "link": "/writer/ti-west/",
+     "url": "https://letterboxd.com/writer/ti-west/",
+     "image_url": "https://image.tmdb.org/t/p/w500/y65ZHU9m830lbdbggxC8eOT123S.jpg",
+     "films": [
+      "MaXXXine",
+      "Pearl",
+      "X"
+     ]
+    },
+    {
+     "name": "David Twohy",
+     "movie_count": 2,
+     "link": "/writer/david-twohy/",
+     "url": "https://letterboxd.com/writer/david-twohy/",
+     "image_url": "https://image.tmdb.org/t/p/w500/gQm0cwAk4bsWgA7wF2PTFb8X37Z.jpg",
+     "films": [
+      "Pitch Black",
+      "The Fugitive"
+     ]
+    },
+    {
+     "name": "David Webb Peoples",
+     "movie_count": 2,
+     "link": "/writer/david-webb-peoples/",
+     "url": "https://letterboxd.com/writer/david-webb-peoples/",
+     "image_url": "https://image.tmdb.org/t/p/w500/rK1eEwQ60MN7CkPbzxSeQPE8mmi.jpg",
+     "films": [
+      "Twelve Monkeys",
+      "Unforgiven"
+     ]
+    },
+    {
+     "name": "Denis Villeneuve",
+     "movie_count": 2,
+     "link": "/writer/denis-villeneuve/",
+     "url": "https://letterboxd.com/writer/denis-villeneuve/",
+     "image_url": "https://image.tmdb.org/t/p/w500/xzQYqb4nR8xT7Zdw5itbEL9K3fd.jpg",
+     "films": [
+      "Dune",
+      "Dune: Part Two"
+     ]
+    },
+    {
+     "name": "Jon Spaihts",
+     "movie_count": 2,
+     "link": "/writer/jon-spaihts/",
+     "url": "https://letterboxd.com/writer/jon-spaihts/",
+     "image_url": "https://image.tmdb.org/t/p/w500/n5JF0cYCWe8AUqb4Sto042rnG4e.jpg",
+     "films": [
+      "Dune",
+      "Dune: Part Two"
+     ]
+    },
+    {
+     "name": "Paul King",
+     "movie_count": 2,
+     "link": "/writer/paul-king/",
+     "url": "https://letterboxd.com/writer/paul-king/",
+     "image_url": "https://image.tmdb.org/t/p/w500/vteMQaGDpNHkKcuwT8yVQNeAohV.jpg",
+     "films": [
+      "Paddington",
+      "Paddington 2"
+     ]
+    },
+    {
+     "name": "Sam Raimi",
+     "movie_count": 2,
+     "link": "/writer/sam-raimi/",
+     "url": "https://letterboxd.com/writer/sam-raimi/",
+     "image_url": "https://image.tmdb.org/t/p/w500/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+     "films": [
+      "Army of Darkness",
+      "Evil Dead II"
+     ]
+    }
+   ]
+  },
+  "countries": [
+   {
+    "country": "USA",
+    "movie_count": 60
+   },
+   {
+    "country": "UK",
+    "movie_count": 10
+   },
+   {
+    "country": "Hong Kong",
+    "movie_count": 6
+   },
+   {
+    "country": "Canada",
+    "movie_count": 3
+   },
+   {
+    "country": "China",
+    "movie_count": 3
+   },
+   {
+    "country": "France",
+    "movie_count": 3
+   },
+   {
+    "country": "Germany",
+    "movie_count": 2
+   },
+   {
+    "country": "South Korea",
+    "movie_count": 2
+   },
+   {
+    "country": "India",
+    "movie_count": 1
+   },
+   {
+    "country": "Indonesia",
+    "movie_count": 1
+   },
+   {
+    "country": "Ireland",
+    "movie_count": 1
+   },
+   {
+    "country": "Italy",
+    "movie_count": 1
+   },
+   {
+    "country": "Japan",
+    "movie_count": 1
+   },
+   {
+    "country": "Netherlands",
+    "movie_count": 1
+   },
+   {
+    "country": "Singapore",
+    "movie_count": 1
+   }
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "movie_count": 66
+   },
+   {
+    "language": "French",
+    "movie_count": 6
+   },
+   {
+    "language": "Japanese",
+    "movie_count": 6
+   },
+   {
+    "language": "Chinese",
+    "movie_count": 5
+   },
+   {
+    "language": "Spanish",
+    "movie_count": 5
+   },
+   {
+    "language": "Cantonese",
+    "movie_count": 3
+   },
+   {
+    "language": "German",
+    "movie_count": 3
+   },
+   {
+    "language": "Arabic",
+    "movie_count": 2
+   },
+   {
+    "language": "Hindi",
+    "movie_count": 2
+   },
+   {
+    "language": "Italian",
+    "movie_count": 2
+   },
+   {
+    "language": "Korean",
+    "movie_count": 2
+   },
+   {
+    "language": "Thai",
+    "movie_count": 2
+   },
+   {
+    "language": "Hungarian",
+    "movie_count": 1
+   },
+   {
+    "language": "Icelandic",
+    "movie_count": 1
+   },
+   {
+    "language": "Indonesian",
+    "movie_count": 1
+   },
+   {
+    "language": "No spoken language",
+    "movie_count": 1
+   },
+   {
+    "language": "Portuguese",
+    "movie_count": 1
+   },
+   {
+    "language": "Russian",
+    "movie_count": 1
+   },
+   {
+    "language": "Telugu",
+    "movie_count": 1
+   }
+  ],
+  "studios": [
+   {
+    "studio": "A24",
+    "movie_count": 5
+   },
+   {
+    "studio": "Universal Pictures",
+    "movie_count": 5
+   },
+   {
+    "studio": "Warner Bros. Pictures",
+    "movie_count": 5
+   },
+   {
+    "studio": "New Line Cinema",
+    "movie_count": 3
+   },
+   {
+    "studio": "United Artists",
+    "movie_count": 3
+   }
+  ],
+  "genres_all": [
+   {
+    "genre": "Action",
+    "movie_count": 26
+   },
+   {
+    "genre": "Comedy",
+    "movie_count": 25
+   },
+   {
+    "genre": "Horror",
+    "movie_count": 24
+   },
+   {
+    "genre": "Science Fiction",
+    "movie_count": 20
+   },
+   {
+    "genre": "Thriller",
+    "movie_count": 19
+   },
+   {
+    "genre": "Adventure",
+    "movie_count": 16
+   },
+   {
+    "genre": "Drama",
+    "movie_count": 15
+   },
+   {
+    "genre": "Crime",
+    "movie_count": 11
+   },
+   {
+    "genre": "Fantasy",
+    "movie_count": 11
+   },
+   {
+    "genre": "Family",
+    "movie_count": 6
+   },
+   {
+    "genre": "Mystery",
+    "movie_count": 5
+   },
+   {
+    "genre": "Romance",
+    "movie_count": 3
+   },
+   {
+    "genre": "Animation",
+    "movie_count": 2
+   },
+   {
+    "genre": "History",
+    "movie_count": 2
+   },
+   {
+    "genre": "Western",
+    "movie_count": 2
+   },
+   {
+    "genre": "Music",
+    "movie_count": 1
+   }
+  ],
+  "genres_primary": [
+   {
+    "genre": "Comedy",
+    "movie_count": 16
+   },
+   {
+    "genre": "Horror",
+    "movie_count": 10
+   },
+   {
+    "genre": "Action",
+    "movie_count": 9
+   },
+   {
+    "genre": "Science Fiction",
+    "movie_count": 8
+   },
+   {
+    "genre": "Drama",
+    "movie_count": 7
+   },
+   {
+    "genre": "Thriller",
+    "movie_count": 7
+   },
+   {
+    "genre": "Adventure",
+    "movie_count": 5
+   },
+   {
+    "genre": "Crime",
+    "movie_count": 3
+   },
+   {
+    "genre": "Western",
+    "movie_count": 2
+   },
+   {
+    "genre": "Animation",
+    "movie_count": 1
+   },
+   {
+    "genre": "Family",
+    "movie_count": 1
+   },
+   {
+    "genre": "History",
+    "movie_count": 1
+   },
+   {
+    "genre": "Mystery",
+    "movie_count": 1
+   }
+  ],
+  "themes": [
+   {
+    "theme": "Epic heroes",
+    "movie_count": 23
+   },
+   {
+    "theme": "Horror, the undead and monster classics",
+    "movie_count": 21
+   },
+   {
+    "theme": "Crude humor and satire",
+    "movie_count": 20
+   },
+   {
+    "theme": "Intense violence and sexual transgression",
+    "movie_count": 15
+   },
+   {
+    "theme": "Superheroes in action-packed battles with villains",
+    "movie_count": 15
+   },
+   {
+    "theme": "Gory, gruesome, and slasher horror",
+    "movie_count": 13
+   },
+   {
+    "theme": "Terrifying, haunted, and supernatural horror",
+    "movie_count": 13
+   },
+   {
+    "theme": "Twisted dark psychological thriller",
+    "movie_count": 12
+   },
+   {
+    "theme": "Creepy, chilling, and terrifying horror",
+    "movie_count": 11
+   },
+   {
+    "theme": "High speed and special ops",
+    "movie_count": 10
+   },
+   {
+    "theme": "Monsters, aliens, sci-fi and the apocalypse",
+    "movie_count": 10
+   },
+   {
+    "theme": "Action comedy and silly heroics",
+    "movie_count": 9
+   },
+   {
+    "theme": "Gags, jokes, and slapstick humor",
+    "movie_count": 9
+   },
+   {
+    "theme": "Violent action, guns, and crime",
+    "movie_count": 9
+   },
+   {
+    "theme": "Explosive and action-packed heroes vs. villains",
+    "movie_count": 8
+   },
+   {
+    "theme": "Fantasy adventure, heroism, and swordplay",
+    "movie_count": 8
+   },
+   {
+    "theme": "Gothic and eerie haunting horror",
+    "movie_count": 8
+   },
+   {
+    "theme": "Humanity and the world around us",
+    "movie_count": 8
+   },
+   {
+    "theme": "Intense combat and martial arts",
+    "movie_count": 8
+   },
+   {
+    "theme": "Sci-fi horror, creatures, and aliens",
+    "movie_count": 8
+   }
+  ]
+ }
 }
