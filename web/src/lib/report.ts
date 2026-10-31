@@ -16,6 +16,9 @@ export type Metrics = {
   best_lbxd_rating_value: number;
   worst_lbxd_rating: string;
   worst_lbxd_rating_value: number;
+  club_start: string;
+  club_age_months: number;
+  films_per_month: number;
 };
 
 export type Film = {
@@ -49,6 +52,7 @@ export type Member = {
   favorite_rating: number | null;
   least_favorite_film: string | null;
   least_favorite_rating: number | null;
+  avatar_url: string;
 };
 
 export type Person = {

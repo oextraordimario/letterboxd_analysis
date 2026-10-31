@@ -85,20 +85,31 @@ export default function Home() {
           </h1>
           <p className="marquee-bottom">Retrospectiva · {monthYear(r.generated_at.slice(0, 10))}</p>
         </div>
+      </header>
+
+      <section className="opening" aria-label="Resumo do clube">
         <div className="hero-numbers">
           <Stat value={fmt(m.movies_watched)} label="filmes" />
           <Stat value={fmt(m.hours_watched, 0)} label="horas de sessão" />
           <Stat value={fmt(m.days_watched, 1)} label="dias inteiros" note="sem pausa pro banheiro" />
+          <Stat value={fmt(m.club_age_months / 12, 1)} label="anos de clube" note={`desde ${monthYear(m.club_start)}`} />
+          <Stat value={fmt(m.films_per_month, 1)} label="filmes por mês" />
         </div>
-        <p className="hero-cast">
-          Estrelando {r.members.map((mm, i) => (
-            <span key={mm.username}>
-              {i > 0 && (i === r.members.length - 1 ? " e " : ", ")}
-              <b>{mm.display_name}</b>
-            </span>
-          ))}
-          .
-        </p>
+        <div className="cast">
+          <p className="cast-title">Estrelando</p>
+          <ul>
+            {r.members.map((mm) => (
+              <li key={mm.username}>
+                <a href={`https://letterboxd.com/${mm.username}/`} target="_blank" rel="noreferrer">
+                  <span className="avatar">
+                    {mm.avatar_url ? <img src={mm.avatar_url} alt="" loading="lazy" /> : <span>{mm.display_name[0]}</span>}
+                  </span>
+                  <b>{mm.display_name}</b>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
         <nav className="toc" aria-label="Seções">
           <a href="#temporada">Temporada nova</a>
           <a href="#notas">Nossas notas</a>
@@ -109,7 +120,7 @@ export default function Home() {
           <a href="#generos">Gêneros</a>
           <a href="#filmes">Todos os filmes</a>
         </nav>
-      </header>
+      </section>
 
       <Section
         id="temporada"
